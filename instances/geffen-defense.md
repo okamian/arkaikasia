@@ -1,76 +1,66 @@
 ---
 description: >-
-  Are You Ready to Defend the City from the Wizards? Geffen has opened its
-  bridge gates for a new challenge! Gather your friends and face the dangers of
-  this new incursion.
+  Bạn đã sẵn sàng để bảo vệ thành phố khỏi những phù thủy chưa? Geffen đã mở cổng cầu cho một thử thách mới! Tập hợp bạn bè của bạn và đối mặt với những nguy hiểm của cuộc xâm lược mới này.
 ---
 
-# 🏹 Geffen Defense
+# 🏹 Phòng Thủ Geffen
 
-## **What is Geffen Defense?**
+## **Phòng Thủ Geffen là gì?**
 
-It is an **instance** located in the city of **Geffen**, near the **southern Kafra**, with the objective of **defending a crystal at the center of the bridge** while hordes of monsters approach.
+Đây là một **instance** nằm ở thành phố **Geffen**, gần **Kafra phía nam**, với mục tiêu là **bảo vệ một viên pha lê ở trung tâm cầu** trong khi những đàn quái vật tiến đến.
 
-## Where to Find It on the Map
+## Nơi Tìm Thấy Trên Bản Đồ
 
-* The instance is located on the <mark style="color:red;">**Geffen**</mark> map.
-* You can check its location on the <mark style="color:red;">**MINIMAP**</mark>.
-* You will find **2&#x20;**<mark style="color:red;">**NPCs**</mark>: a **"Guard"** and an **"Oracle"**.
+* Instance nằm trên bản đồ <mark style="color:red;">**Geffen**</mark>.
+* Bạn có thể kiểm tra vị trí của nó trên <mark style="color:red;">**BẢN ĐỒ NHỎ**</mark>.
+* Bạn sẽ tìm thấy **2** <mark style="color:red;">**NPC**</mark>: một **"Lính Gác"** và một **"Nhà Tiên Tri"**.
 
 <figure><img src="../.gitbook/assets/gffe.png" alt=""><figcaption></figcaption></figure>
 
-## **How to Access the Location**
+## **Cách Truy Cập Địa Điểm*** Đi đến <mark style="color:red;">**Kafra**</mark> gần nhất trong thành phố của bạn, nhấp vào tùy chọn **"**<mark style="color:red;">**Teleport**</mark>**"** và chọn thành phố.
+* <mark style="color:red;">**Đi đến GEFFEN**</mark>**.**
 
-* Go to the nearest <mark style="color:red;">**Kafra**</mark> in your city, click on the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and select the city.
-* <mark style="color:red;">**Go to GEFFEN**</mark>**.**
+<figure><img src="../.gitbook/assets/weqr.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử dụng Kafra của Thành Phố để Di Chuyển đến GEFFEN</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/weqr.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using the City's Kafra to Travel to GEFFEN</strong></mark></p></figcaption></figure>
-
-## NPCs in the Geffen Defense Instance
+## NPCs trong Instance Phòng Thủ Geffen
 
 {% tabs %}
 {% tab title="Guard" %}
 ## <mark style="background-color:red;">Guard</mark>
 
-* Responsible for opening the instance.
-* You must be in a **party&#x20;**<mark style="color:red;">**(ALT+Z)**</mark>.
+* Chịu trách nhiệm mở instance.
+* Bạn phải ở trong một **party** <mark style="color:red;">**(ALT+Z)**</mark>.
 
-## **Difficulty Levels**
+## **Cấp Độ Khó Khăn**
 
-* To progress through levels, you must complete the previous ones.
-* Each level advancement requires each player to pay <mark style="background-color:green;">**2,000,000 Zeny.**</mark>
-* Difficulty levels vary: **Easy, Normal, Hard, Expert**.
-* After completing the instance, the entrance portal is closed, and no party members can re-enter. _(Bring a Sage to resurrect if you die after completion.)_
+* Để tiến qua các cấp độ, bạn phải hoàn thành các cấp độ trước đó.
+* Mỗi lần thăng cấp yêu cầu mỗi người chơi phải trả <mark style="background-color:green;">**2,000,000 Zeny.**</mark>
+* Các cấp độ khó khăn khác nhau: **Dễ, Bình Thường, Khó, Chuyên Gia**.* Sau khi hoàn thành instance, cổng vào sẽ bị đóng và không có thành viên nào trong party có thể quay lại. _(Mang theo một Sage để hồi sinh nếu bạn chết sau khi hoàn thành.)_
 
-<figure><img src="../.gitbook/assets/gffe22.png" alt=""><figcaption><p><mark style="color:red;"><strong>Responsible for opening the Geffen Defense instance.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gffe22.png" alt=""><figcaption><p><mark style="color:red;"><strong>Người chịu trách nhiệm mở instance Geffen Defense.</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Astral Oracle" %}
 ## <mark style="background-color:red;">**Astral Oracle**</mark>
 
-* Responsible for exchanging your <mark style="color:red;">**Darkness Fragments**</mark> obtained inside the **Geffen Defense** instance.
-* For every <mark style="background-color:red;">**100 Fragments**</mark>, you can exchange them with the NPCs and receive one of the listed items.
-* A **Zeny fee** must be paid to complete the exchange.
+* Chịu trách nhiệm trao đổi <mark style="color:red;">**Mảnh Tối**</mark> mà bạn thu thập được bên trong instance **Geffen Defense**.
+* Mỗi <mark style="background-color:red;">**100 Mảnh**</mark>, bạn có thể trao đổi với các NPC và nhận một trong những vật phẩm được liệt kê.
+* Một khoản **phí Zeny** phải được thanh toán để hoàn tất giao dịch.<figure><img src="../.gitbook/assets/gffe232.png" alt=""><figcaption><p><mark style="color:red;"><strong>Nhà Tiên Tri Thiên Văn: Chịu trách nhiệm trao đổi các mảnh ghép.</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/gffe232.png" alt=""><figcaption><p><mark style="color:red;"><strong>Astral Oracle: Responsible for exchanging fragments.</strong></mark></p></figcaption></figure>
-
-## **Items That Can Be Traded During the Exchange:**
-
-<table><thead><tr><th width="344">Item</th><th width="62">Qtd</th><th>Notes</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (162).png" alt="" data-size="original"> Wild Fury Potion</td><td>30</td><td>Increases ASPD.</td></tr><tr><td><img src="../.gitbook/assets/image (163).png" alt="" data-size="original"> Ziegfried Amulet</td><td>5</td><td>Revives upon death.</td></tr><tr><td><img src="../.gitbook/assets/image (164).png" alt="" data-size="original"> Yggdrasil Fruit</td><td>20</td><td>Restores full HP.</td></tr><tr><td><img src="../.gitbook/assets/image (165).png" alt="" data-size="original"> Anti-Gravitational Pass Box</td><td>1</td><td>10x Pass (Weight +2k).</td></tr><tr><td><img src="../.gitbook/assets/image (166).png" alt="" data-size="original"> Chewing Gum Box</td><td>1</td><td>10x Drop Boost Gum +50%.</td></tr><tr><td><img src="../.gitbook/assets/image (167).png" alt="" data-size="original"> Old Gem Album</td><td>1</td><td>May receive a random gem.</td></tr><tr><td><img src="../.gitbook/assets/image (168).png" alt="" data-size="original"> Mysterious Pet Egg</td><td>1</td><td>May receive a random pet.</td></tr><tr><td><img src="../.gitbook/assets/image (169).png" alt="" data-size="original"> Monster Assistant Box Lv.1</td><td>1</td><td>May receive low-level assistants.</td></tr><tr><td><img src="../.gitbook/assets/image (170).png" alt="" data-size="original"> Monster Assistant Box Lv.2</td><td>1</td><td>May receive mid-level assistants.</td></tr><tr><td><img src="../.gitbook/assets/image (171).png" alt="" data-size="original"> Monster Assistant Box Lv.3</td><td>1</td><td>May receive MVP-level assistants.</td></tr><tr><td><img src="../.gitbook/assets/image (172).png" alt="" data-size="original"> Basic Equipment Box</td><td>1</td><td>Receive a common equipment.</td></tr><tr><td><img src="../.gitbook/assets/image (173).png" alt="" data-size="original"> Advanced Equipment Box</td><td>1</td><td>Receive a rare equipment.</td></tr><tr><td><img src="../.gitbook/assets/image (174).png" alt="" data-size="original"> Superior Equipment Box</td><td>1</td><td>Receive a very rare equipment.</td></tr><tr><td><img src="../.gitbook/assets/image (175).png" alt="" data-size="original"> Precious Stones Box Lv.1</td><td>1</td><td>Receive a random ore.</td></tr><tr><td><img src="../.gitbook/assets/image (176).png" alt="" data-size="original"> Precious Stones Box Lv.2</td><td>1</td><td>Receive multiple random ores.</td></tr></tbody></table>
-{% endtab %}
+## **Các vật phẩm có thể được trao đổi trong quá trình trao đổi:**<table><thead><tr><th width="344">Mục</th><th width="62">Số lượng</th><th>Ghi chú</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (162).png" alt="" data-size="original"> Thuốc Cuồng Nộ Hoang Dã</td><td>30</td><td>Tăng tốc độ tấn công ASPD.</td></tr><tr><td><img src="../.gitbook/assets/image (163).png" alt="" data-size="original"> Bùa Ziegfried</td><td>5</td><td>Hồi sinh khi chết.</td></tr><tr><td><img src="../.gitbook/assets/image (164).png" alt="" data-size="original"> Trái Cây Yggdrasil</td><td>20</td><td>Khôi phục toàn bộ HP.</td></tr><tr><td><img src="../.gitbook/assets/image (165).png" alt="" data-size="original"> Hộp Thông Hành Chống Lực</td><td>1</td><td>10x Thông Hành (Trọng lượng +2k).</td></tr><tr><td><img src="../.gitbook/assets/image (166).png" alt="" data-size="original"> Hộp Kẹo Cao Su</td><td>1</td><td>10x Kẹo Tăng Tỉ Lệ Rơi +50%.</td></tr><tr><td><img src="../.gitbook/assets/image (167).png" alt="" data-size="original"> Album Ngọc Cổ</td><td>1</td><td>Có thể nhận được một viên ngọc ngẫu nhiên.</td></tr><tr><td><img src="../.gitbook/assets/image (168).png" alt="" data-size="original"> Trứng Thú Cưng Bí Ẩn</td><td>1</td><td>Có thể nhận được một thú cưng ngẫu nhiên.</td></tr><tr><td><img src="../.gitbook/assets/image (169).png" alt="" data-size="original"> Hộp Trợ Thủ Quái Vật Lv.1</td><td>1</td><td>Có thể nhận được trợ thủ cấp thấp.</td></tr><tr><td><img src="../.gitbook/assets/image (170).png" alt="" data-size="original"> Hộp Trợ Thủ Quái Vật Lv.2</td><td>1</td><td>Có thể nhận được trợ thủ cấp trung.</td></tr><tr><td><img src="../.gitbook/assets/image (171).png" alt="" data-size="original"> Hộp Trợ Thủ Quái Vật Lv.3</td><td>1</td><td>Có thể nhận được trợ thủ cấp MVP.</td></tr><tr><td><img src="../.gitbook/assets/image (172).png" alt="" data-size="original"> Hộp Trang Bị Cơ Bản</td><td>1</td><td>Nhận một trang bị thông thường.</td></tr><tr><td><img src="../.gitbook/assets/image (173).png" alt="" data-size="original"> Hộp Trang Bị Nâng Cao</td><td>1</td><td>Nhận một trang bị hiếm.</td></tr><tr><td><img src="../.gitbook/assets/image (174).png" alt="" data-size="original"> Hộp Trang Bị Cao Cấp</td><td>1</td><td>Nhận một trang bị rất hiếm.</td></tr><tr><td><img src="../.gitbook/assets/image (175).png" alt="" data-size="original"> Hộp Đá Quý Lv.1</td><td>1</td><td>Nhận một quặng ngẫu nhiên.</td></tr><tr><td><img src="../.gitbook/assets/image (176).png" alt="" data-size="original"> Hộp Đá Quý Lv.2</td><td>1</td><td>Nhận nhiều quặng ngẫu nhiên.</td></tr></tbody></table>{% endtab %}
 {% endtabs %}
 
-## **What Will I Find Inside?**
+## **Bên Trong Sẽ Có Gì?**
 
-* <mark style="background-color:green;">**A crystal that needs to be defended**</mark>**.**
-* <mark style="background-color:red;">**Pillars that must be destroyed**</mark> when monsters appear to prevent additional waves.
-* **Defeat the waves of monsters** heading toward the crystal.
+* <mark style="background-color:green;">**Một viên tinh thể cần được bảo vệ**</mark>**.**
+* <mark style="background-color:red;">**Các cột cần phải bị phá hủy**</mark> khi quái vật xuất hiện để ngăn chặn các đợt tấn công thêm.
+* **Đánh bại các đợt quái vật** tiến về phía viên tinh thể.
 
-<figure><img src="../.gitbook/assets/v144.png" alt=""><figcaption><p><mark style="color:red;"><strong>What You Will Find Inside the Instance</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/v144.png" alt=""><figcaption><p><mark style="color:red;"><strong>Những gì bạn sẽ tìm thấy bên trong Instance</strong></mark></p></figcaption></figure>
 
-## Rewards
+## Phần Thưởng
 
-* After completing the instance, you will receive **"**<mark style="color:red;">**Darkness Fragment**</mark>**"**, which can be exchanged with the NPC **"**<mark style="color:red;">**Astral Oracle**</mark>**"**.
-* <mark style="background-color:green;">**The higher the difficulty level, the better the rewards**</mark>**.**
+* Sau khi hoàn thành instance, bạn sẽ nhận được **"**<mark style="color:red;">**Mảnh Tối Tăm**</mark>**"**, có thể được đổi với NPC **"**<mark style="color:red;">**Nhà Tiên Tri Thiên Văn**</mark>**"**.
+* <mark style="background-color:green;">**Cấp độ khó càng cao, phần thưởng càng tốt**</mark>**.**
 
 <figure><img src="../.gitbook/assets/gffe23232.png" alt=""><figcaption></figcaption></figure>

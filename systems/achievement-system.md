@@ -1,15 +1,15 @@
 ---
 description: >-
-  In Arkaik: Tales of Sarina, every achievement is celebrated with a grand
-  title!
+  Trong Arkaik: Tales of Sarina, mọi thành tựu đều được chào mừng bằng một
+  danh hiệu hoành tráng!
 ---
 
-# 🥇 Achievement System
+# 🥇 Hệ Thống Thành Tựu
 
-## **Achievement Title**
+## **Danh Hiệu Thành Tựu**
 
-* At any time, open your achievements screen <mark style="color:red;">**(ALT + T)**</mark> and activate one of your titles!
-* These are **"**<mark style="color:red;">**visual titles**</mark>**"** given to characters upon meeting certain requirements.
-* Titles appear next to your character's name.
+* Bất kỳ lúc nào, hãy mở màn hình thành tựu của bạn <mark style="color:red;">**(ALT + T)**</mark> và kích hoạt một trong những danh hiệu của bạn!
+* Đây là **"**<mark style="color:red;">**danh hiệu hình ảnh**</mark>**"** được trao cho nhân vật khi đạt được một số yêu cầu nhất định.
+* Danh hiệu sẽ xuất hiện bên cạnh tên nhân vật của bạn.
 
 <figure><img src="../.gitbook/assets/cca.gif" alt=""><figcaption></figcaption></figure>

@@ -1,3 +1,3 @@
-# 📩 How to Open a Ticket
+# 📩 Cách Mở Ticket
 
-<mark style="color:red;">**Waiting for information from Asia.**</mark>
+<mark style="color:red;">**Đang chờ thông tin từ châu Á.**</mark>

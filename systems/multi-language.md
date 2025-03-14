@@ -1,44 +1,42 @@
 ---
 description: >-
-  Tired of the same old servers where everything is mixed in English,
-  Portuguese, and other languages?   Here, you can have everything **fully
-  translated** into multiple languages!
+  Bạn đã chán ngấy với những máy chủ cũ kỹ, nơi mọi thứ đều bị trộn lẫn giữa tiếng Anh,
+  tiếng Bồ Đào Nha và các ngôn ngữ khác?  Tại đây, bạn có thể có mọi thứ **được dịch hoàn toàn**
+  sang nhiều ngôn ngữ!
 ---
 
-# 🌎 Multi-Language
+# 🌎 Đa Ngôn Ngữ
 
-## **About the Multi-Language System**
+## **Về Hệ Thống Đa Ngôn Ngữ**
 
-* In **Arkaik: Tales of Sarina**, the **multi-language system** was introduced to solve an existing issue.
-* It allows players to **choose their preferred language** for gameplay.
-* Changing the language **completely alters** your in-game experience.
-* Great for playing with friends who speak or are accustomed to **different languages**.
+* Trong **Arkaik: Tales of Sarina**, **hệ thống đa ngôn ngữ** được giới thiệu để giải quyết một vấn đề hiện có.
+* Nó cho phép người chơi **chọn ngôn ngữ ưa thích** của họ cho trải nghiệm chơi game.
+* Thay đổi ngôn ngữ **hoàn toàn thay đổi** trải nghiệm của bạn trong game.
+* Tuyệt vời cho việc chơi cùng bạn bè nói hoặc quen với **các ngôn ngữ khác nhau**.
 
 ***
 
-## **How to Use**
+## **Cách Sử Dụng**
 
-* <mark style="color:red;">**Open**</mark> <mark style="color:red;"></mark><mark style="color:red;">your</mark> <mark style="color:red;"></mark><mark style="color:red;">**Arkaik Launcher**</mark>.
-* Go to <mark style="color:red;">**Settings**</mark>.
-* Navigate to **"Sound & Language"** and **choose your preferred language**.
+* <mark style="color:red;">**Mở**</mark> <mark style="color:red;"></mark><mark style="color:red;">**Trình Khởi Động Arkaik**</mark>.
+* Đi đến <mark style="color:red;">**Cài Đặt**</mark>.
+* Điều hướng đến **"Âm Thanh & Ngôn Ngữ"** và **chọn ngôn ngữ ưa thích** của bạn.<figure><img src="../.gitbook/assets/098.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử Dụng Hệ Thống Đa Ngôn Ngữ Trong Trình Khởi Động</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/098.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using the Multi-Language System in the Launcher</strong></mark></p></figcaption></figure>
+## **Giao Diện Trong Game Như Thế Nào**
 
-## **How It Looks In-Game**
-
-* Changing the language **modifies&#x20;**<mark style="color:red;">**ALL INFORMATION**</mark> in the game.
-* **NPCs, Monsters, Items, Skills, Quests—everything is translated.**
+* Thay đổi ngôn ngữ **sẽ thay đổi**<mark style="color:red;">**TẤT CẢ THÔNG TIN**</mark> trong game.
+* **NPCs, Quái vật, Đồ vật, Kỹ năng, Nhiệm vụ—mọi thứ đều được dịch.**
 
 {% tabs %}
-{% tab title="English" %}
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "ENGLISH"</strong></mark></p></figcaption></figure>
+{% tab title="Tiếng Anh" %}
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p><mark style="color:red;"><strong>Toàn Bộ Giao Diện Game của Arkaik bằng "TIẾNG ANH"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Thailand" %}
-<mark style="color:red;">**(NEW GIF THAILAND)**</mark>
+{% tab title="Thái Lan" %}
+<mark style="color:red;">**(GIF MỚI THÁI LAN)**</mark>
 {% endtab %}
 
-{% tab title="Vietnam" %}
-<mark style="color:red;">**(NEW GIF VIETNAM)**</mark>
+{% tab title="Việt Nam" %}
+<mark style="color:red;">**(GIF MỚI VIỆT NAM)**</mark>
 {% endtab %}
 {% endtabs %}

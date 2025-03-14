@@ -1,71 +1,64 @@
 ---
 description: >-
-  Tired of the current skill system? How about changing your gameplay with the
-  **Mastery System**?   A new meta, new builds, and more fun for you!
+  Bạn đã chán với hệ thống kỹ năng hiện tại? Hãy thay đổi lối chơi của bạn với **Hệ Thống Thành Thạo**! Một meta mới, những build mới, và nhiều niềm vui hơn cho bạn!
 ---
 
-# 🏆 Mastery System
+# 🏆 Hệ Thống Thành Thạo
 
-<figure><img src="../.gitbook/assets/11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>Mastery Academic NPC</strong> – Responsible for purchasing new points.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Học Viện Thành Thạo</strong> – Chịu trách nhiệm mua điểm mới.</mark></p></figcaption></figure>
 
-## **Mastery System**
+## **Hệ Thống Thành Thạo**
 
-* In **Arkaik: Tales of Sarina**, you can improve or modify skill behavior by evolving their **masteries**.
-* These masteries can be accessed through your **skill window&#x20;**<mark style="color:red;">**(ALT + S)**</mark>.
-* You can enable or disable masteries at any time via the skill window or by dragging them to the skill bar.
+* Trong **Arkaik: Tales of Sarina**, bạn có thể cải thiện hoặc thay đổi hành vi kỹ năng bằng cách phát triển các **thành thạo** của chúng.
+* Những thành thạo này có thể được truy cập qua **cửa sổ kỹ năng**<mark style="color:red;">**(ALT + S)**</mark>.
+* Bạn có thể bật hoặc tắt các thành thạo bất cứ lúc nào thông qua cửa sổ kỹ năng hoặc bằng cách kéo chúng vào thanh kỹ năng.
 
 ***
 
-## **Obtaining Mastery Points**
+## **Cách Nhận Điểm Thành Thạo**
 
-**Mastery Academic**
+**Học Viện Thành Thạo**
 
-* Purchase directly from the NPC **"**<mark style="color:red;">**Mastery Academic**</mark>**"**, available in all cities.
-* When interacting with the NPC, you can buy **Mastery Points**.
-* The more points you purchase, the more expensive they become.
-* You can **"Reset"** the tax counter for a certain amount of **Zeny**.
+* Mua trực tiếp từ NPC **"**<mark style="color:red;">**Học Viện Thành Thạo**</mark>**"**, có mặt ở tất cả các thành phố.* Khi tương tác với NPC, bạn có thể mua **Điểm Thành Thạo**.
+* Càng mua nhiều điểm, giá của chúng càng tăng.
+* Bạn có thể **"Đặt lại"** bộ đếm thuế với một số lượng **Zeny** nhất định.
 
-<figure><img src="../.gitbook/assets/11123333333333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Mastery Academic in Zero City</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11123333333333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Vị trí của Học Viện Thành Thạo tại Thành Phố Zero</strong></mark></p></figcaption></figure>
 
-## **Daily Mission Shop**
+## **Cửa Hàng Nhiệm Vụ Hàng Ngày**
 
-* By completing <mark style="color:red;">**daily missions**</mark> in cities, you earn points and can exchange them for **"**<mark style="color:red;">**Mastery Bags**</mark>**"**.
-* Next to the NPC, there will be a **stone mural**. Simply click on the **"**<mark style="color:red;">**Mural**</mark>**"** and choose a mission.
+* Bằng cách hoàn thành <mark style="color:red;">**nhiệm vụ hàng ngày**</mark> trong các thành phố, bạn sẽ kiếm được điểm và có thể đổi chúng lấy **"**<mark style="color:red;">**Túi Thành Thạo**</mark>**"**.
+* Bên cạnh NPC, sẽ có một **bức phù điêu**. Chỉ cần nhấp vào **"**<mark style="color:red;">**Phù Điêu**</mark>**"** và chọn một nhiệm vụ.
 
-<figure><img src="../.gitbook/assets/44444.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC das Trocas de missões diárias.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44444.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC cho việc đổi nhiệm vụ hàng ngày.</strong></mark></p></figcaption></figure>
 
-### MVPS
+### MVPS* Việc đánh bại **MVPs** cũng mang lại cơ hội rơi ra **"**<mark style="color:red;">**Balo Kỹ Năng**</mark>**"**.
 
-* Defeating **MVPs** also grants a chance to drop **"**<mark style="color:red;">**Mastery Bags**</mark>**"**.
+<figure><img src="../.gitbook/assets/aa23.png" alt=""><figcaption><p><mark style="color:red;"><strong>Mỗi MVP có cơ hội rơi ra "Balo Kỹ Năng".</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/aa23.png" alt=""><figcaption><p><mark style="color:red;"><strong>Each MVP has a chance to drop "Mastery Bags".</strong></mark></p></figcaption></figure>
+## **Chỉ Cần Chơi Game**
 
-## **Just by Playing**
+* <mark style="color:red;">**Mỗi hai giờ**</mark>, bạn **thụ động** nhận **1 điểm kỹ năng miễn phí**.
+* Bạn có thể thu thập điểm của mình bằng cách gõ <mark style="color:red;">**@mastery**</mark> trong trò chuyện.
+* <mark style="color:red;">**Thời gian không bị đặt lại nếu bạn đăng xuất**</mark>, vì nó là tích lũy.
 
-* <mark style="color:red;">**Every two hours**</mark>, you **passively** receive **1 mastery point for free**.
-* You can collect your points by typing <mark style="color:red;">**@mastery**</mark> in the chat.
-* <mark style="color:red;">**The timer does not reset if you log out**</mark>, as it is cumulative.
+<figure><img src="../.gitbook/assets/cca643.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử dụng lệnh @mastery để kiểm tra và nhận điểm của bạn.</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/cca643.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Utilizando o comando @maestria para verificar receber seu pontos.</strong></mark></p></figcaption></figure>
+## **Về Chi Phí Điểm*** **Lần đầu tiên** bạn nói chuyện với NPC bằng bất kỳ nhân vật nào, họ sẽ **cho bạn 7 điểm miễn phí** để giúp bạn hiểu cách hoạt động của hệ thống thành thạo.
+* Từ cuộc trò chuyện thứ hai trở đi, bạn có thể <mark style="color:red;">**mua điểm thành thạo**</mark>, nhưng **đối với mỗi điểm đã mua, chi phí Zeny sẽ tăng thêm 25 Zeny**.
 
-## **About Point Cost**
+### **Ví dụ:**
 
-* **The first time** you talk to the NPC with any character, they will **give you 7 free points** to help you understand how the mastery system works.
-* From the second conversation onwards, you can <mark style="color:red;">**buy mastery points**</mark>, but **for each point already purchased, the Zeny cost increases by 25 Zeny**.
+* Mua **3 điểm thành thạo** sẽ tốn **1,500 Zeny** _(250 + 500 + 750)_.
+*   Chi phí mua có thể được tính bằng công thức:
 
-### **Example:**
-
-* Buying **3 mastery points** would cost **1,500 Zeny** _(250 + 500 + 750)_.
-*   The purchase cost can be calculated using the formula:
-
-    **(MasteryAmount \* 250) \* (MasteryAmount / 1000 / 2) + (MasteryAmount / 8) \* 1000**
-*   **Example calculation:** Buying **100 mastery points** would be:
+    **(SốLượngThànhThạo \* 250) \* (SốLượngThànhThạo / 1000 / 2) + (SốLượngThànhThạo / 8) \* 1000**
+*   **Ví dụ tính toán:** Mua **100 điểm thành thạo** sẽ là:
 
     **(100 \* 250) \* (100 / 1000 / 2) + (100 / 8) \* 1000 =&#x20;**<mark style="color:green;">**1,262,500 Zeny**</mark>
 
-## **Using Mastery Points**
+## **Sử dụng Điểm Thành Thạo**
 
-* To use your **Mastery Points**, simply press <mark style="color:red;">**(ALT + S)**</mark> and go to the **"Mastery"** tab.
-* All your **Mastery Points** will be listed below, and you can **spend them freely**.
+* Để sử dụng **Điểm Thành Thạo** của bạn, chỉ cần nhấn <mark style="color:red;">**(ALT + S)**</mark> và vào tab **"Thành Thạo"**.* Tất cả **Điểm Thành Thạo** của bạn sẽ được liệt kê bên dưới, và bạn có thể **tiêu chúng một cách tự do**.
 
-<figure><img src="../.gitbook/assets/cca64355.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using Mastery Points in the Skill Tree.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/cca64355.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử dụng Điểm Thành Thạo trong Cây Kỹ Năng.</strong></mark></p></figcaption></figure>

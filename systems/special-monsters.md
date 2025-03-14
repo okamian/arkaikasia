@@ -1,132 +1,122 @@
 ---
 description: >-
-  Special monsters have a different respawn system compared to regular monsters.
-  Some spawn in specific maps at certain times of the day, while others must be
-  summoned by the player.
+  Các quái vật đặc biệt có hệ thống hồi sinh khác với quái vật thông thường. Một số xuất hiện ở các bản đồ cụ thể vào những thời điểm nhất định trong ngày, trong khi những quái vật khác phải được triệu hồi bởi người chơi.
 ---
 
-# 👾 Special Monsters
+# 👾 Quái Vật Đặc Biệt
 
 <figure><img src="../.gitbook/assets/Monstrosespecial.png" alt=""><figcaption></figcaption></figure>
 
-## **Differences Between Champion Monsters and Special Monsters**
+## **Sự Khác Biệt Giữa Quái Vật Champion và Quái Vật Đặc Biệt**
 
-* <mark style="color:red;">**10 times more experience**</mark> <mark style="color:red;"></mark><mark style="color:red;">and</mark> <mark style="color:red;"></mark><mark style="color:red;">**3 times higher drop rate**</mark>, special monsters also <mark style="background-color:red;">**drop unique items**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">used in</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**crafting powerful equipment**</mark> _(e.g., Prontera Dungeon)_.
-
-***
-
-## **Rare Treasures**
-
-* In addition to **Unique Monsters**, adventurers in **Arkaik** can obtain **rare treasures** across different parts of the game.
-* <mark style="color:red;">**Drops are tripled**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**except for cards and gems**</mark><mark style="color:red;">.</mark>
-* Additionally, <mark style="color:red;">**certain exclusive items are provided for the equipment crafting system**</mark>, adding an extra layer of complexity to the game.
+* <mark style="color:red;">**10 lần kinh nghiệm**</mark> <mark style="color:red;"></mark><mark style="color:red;">và</mark> <mark style="color:red;"></mark><mark style="color:red;">**tỷ lệ rơi đồ cao gấp 3 lần**</mark>, quái vật đặc biệt cũng <mark style="background-color:red;">**rơi các vật phẩm độc nhất**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">được sử dụng trong</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**chế tạo trang bị mạnh mẽ**</mark> _(ví dụ: Ngục Tối Prontera)_.
 
 ***
 
-## **Special Monsters and Unique Items**
+## **Kho Báu Hiếm*** Ngoài **Quái vật độc đáo**, những người phiêu lưu trong **Arkaik** có thể thu thập **kho báu hiếm** ở nhiều khu vực khác nhau trong trò chơi.
+* <mark style="color:red;">**Số lượng vật phẩm rơi ra được gấp ba lần**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**trừ thẻ và đá quý**</mark><mark style="color:red;">.</mark>
+* Thêm vào đó, <mark style="color:red;">**một số vật phẩm độc quyền nhất định được cung cấp cho hệ thống chế tạo trang bị**</mark>, tạo thêm một lớp phức tạp cho trò chơi.
 
-### **Special Alarm**
+***
+
+## **Quái Vật Đặc Biệt và Vật Phẩm Độc Đáo**
+
+### **Đồng Hồ Báo Đặc Biệt**
 
 {% tabs %}
-{% tab title="Monster" %}
-<figure><img src="../.gitbook/assets/200px-Alarm1.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Special Alarm</strong></mark></p></figcaption></figure>
+{% tab title="Quái Vật" %}
+<figure><img src="../.gitbook/assets/200px-Alarm1.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Đồng Hồ Báo Đặc Biệt</strong></mark></p></figcaption></figure>
 
-* **Larger than normal**.
-* Commands an **army of Mimics**.
-* **Drops "**<mark style="color:red;">**Memory Gem**</mark>**"** when defeated.
+* **Lớn hơn bình thường**.
+* Chỉ huy một **đội quân Mimic**.
+* **Rơi "**<mark style="color:red;">**Đá Ký Ức**</mark>**"** khi bị đánh bại.
 {% endtab %}
 
-{% tab title="Location" %}
-<figure><img src="../.gitbook/assets/200px-Tw1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Clock Tower - c_tower1</strong> in <strong>Aldebaran</strong>.</mark></p></figcaption></figure>
+{% tab title="Địa Điểm" %}
+<figure><img src="../.gitbook/assets/200px-Tw1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Tháp Đồng Hồ - c_tower1</strong> tại <strong>Aldebaran</strong>.</mark></p></figcaption></figure>
 
-* Located in the **Clock Tower - c\_tower1** in **Aldebaran**.
-* Appears daily from **21:00 to 21:30** in the <mark style="color:red;">**Clock Tower of Arkaik**</mark>.
-* **Alarms** can appear anywhere on the map and accumulate if not defeated.
+* Nằm trong **Tháp Đồng Hồ - c\_tower1** tại **Aldebaran**.
+* Xuất hiện hàng ngày từ **21:00 đến 21:30** tại <mark style="color:red;">**Tháp Đồng Hồ của Arkaik**</mark>.
+* **Cảnh báo** có thể xuất hiện ở bất kỳ đâu trên bản đồ và sẽ tích lũy nếu không bị đánh bại.
 {% endtab %}
 
-{% tab title="Acquired Items" %}
-<table><thead><tr><th width="155">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01GE.png" alt=""><strong>Memory Gem</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
+{% tab title="Vật phẩm nhận được" %}
+<table><thead><tr><th width="155">Vật phẩm</th><th>Thông tin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01GE.png" alt=""><strong>Ngọc Nhớ</strong></td><td>Vật phẩm dùng để chế tạo trang bị tại NPC CRAFTS trong [<a href="../instances/prontera-dungeon.md">Ngục Tối Prontera</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
-### **Special Baphomet Jr.**
+### **Baphomet Jr. Đặc Biệt**
 
 {% tabs %}
-{% tab title="Monster" %}
-<figure><img src="../.gitbook/assets/200px-BP.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Special Baphomet Jr.</strong></mark></p></figcaption></figure>
+{% tab title="Quái vật" %}<figure><img src="../.gitbook/assets/200px-BP.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Baphomet Jr. Đặc Biệt</strong></mark></p></figcaption></figure>
 
-* **Larger than normal**.
-* Commands an **army of Ridewords**.
-* **Drops "**<mark style="color:red;">**Black Wing**</mark>**"** when defeated.
+* **Lớn hơn bình thường**.
+* Chỉ huy một **đội quân Ridewords**.
+* **Rơi "**<mark style="color:red;">**Cánh Đen**</mark>**"** khi bị đánh bại.
 {% endtab %}
 
-{% tab title="Location" %}
-<figure><img src="../.gitbook/assets/200px-Gl1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Glast Heim Abbey - gl_church</strong>.</mark></p></figcaption></figure>
+{% tab title="Vị trí" %}
+<figure><img src="../.gitbook/assets/200px-Gl1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Tu Viện Glast Heim - gl_church</strong>.</mark></p></figcaption></figure>
 
-* Located in **Glast Heim Abbey - gl\_church**.
-* Spawns daily at **21:00** in the <mark style="color:red;">**church of Glast Heim**</mark>.
-* Event ends at **21:30**, but if not defeated, it remains on the map.
-* **Baphomet Jr.** can spawn in various locations on the map and accumulate if not eliminated.
+* Nằm ở **Tu Viện Glast Heim - gl\_church**.
+* Xuất hiện hàng ngày vào lúc **21:00** tại <mark style="color:red;">**nhà thờ Glast Heim**</mark>.
+* Sự kiện kết thúc vào lúc **21:30**, nhưng nếu không bị đánh bại, nó sẽ vẫn ở lại trên bản đồ.
+* **Baphomet Jr.** có thể xuất hiện ở nhiều vị trí khác nhau trên bản đồ và tích lũy nếu không bị tiêu diệt.
 {% endtab %}
 
-{% tab title="Acquired Items" %}
-<table><thead><tr><th width="149">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01bw.png" alt=""><strong>Black Wing</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
+{% tab title="Đồ vật nhận được" %}<table><thead><tr><th width="149">Món đồ</th><th>Thông tin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01bw.png" alt=""><strong>Cánh Đen</strong></td><td>Món đồ được sử dụng để chế tạo trang bị tại NPC CRAFTS trong [<a href="../instances/prontera-dungeon.md">Ngục Tối Prontera</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
-### **Special Lude**
+### **Lude Đặc Biệt**
 
 {% tabs %}
-{% tab title="Monstro" %}
-<figure><img src="../.gitbook/assets/200px-LD.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Special Lude</strong></mark></p></figcaption></figure>
+{% tab title="Quái vật" %}
+<figure><img src="../.gitbook/assets/200px-LD.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Lude Đặc Biệt</strong></mark></p></figcaption></figure>
 
-* **Larger than normal**.
-* Commands an **army of Dullahans**.
-* **Drops "**<mark style="color:red;">**Ancient Skull**</mark>**"** when defeated.
+* **Lớn hơn bình thường**.
+* Chỉ huy một **đội quân Dullahan**.
+* **Rơi "**<mark style="color:red;">**Đầu Xương Cổ Xưa**</mark>**"** khi bị đánh bại.
 {% endtab %}
 
-{% tab title="Location" %}
-<figure><img src="../.gitbook/assets/200px-Nif1.png" alt=""><figcaption><p><mark style="color:red;">Niflheim - Vale de Gyoll</mark></p></figcaption></figure>
+{% tab title="Địa điểm" %}
+<figure><img src="../.gitbook/assets/200px-Nif1.png" alt=""><figcaption><p><mark style="color:red;">Niflheim - Thung Lũng Gyoll</mark></p></figcaption></figure>
 
-* Located in **Niflheim**.
-* In **Vale de Gyoll**, explorers can find <mark style="color:red;">**three Restless Souls**</mark> at specific coordinates:
+* Nằm ở **Niflheim**.* Tại **Vale de Gyoll**, những nhà thám hiểm có thể tìm thấy <mark style="color:red;">**ba Linh Hồn Bất An**</mark> ở các tọa độ cụ thể:
   * **(68,328)**
   * **(120,116)**
   * **(344,268)**
-* **Releasing these souls is crucial**, as it triggers the appearance of <mark style="color:red;">**two Special Ludes**</mark> in the center of the map.
-* After freeing the **three souls**, **two Special Ludes** will spawn in the middle of the map.
+* **Giải phóng những linh hồn này là rất quan trọng**, vì nó kích hoạt sự xuất hiện của <mark style="color:red;">**hai Lude Đặc Biệt**</mark> ở trung tâm bản đồ.
+* Sau khi giải phóng **ba linh hồn**, **hai Lude Đặc Biệt** sẽ xuất hiện ở giữa bản đồ.
 {% endtab %}
 
-{% tab title="Acquired Items" %}
-<table><thead><tr><th width="158">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01C.png" alt=""><strong>Ancient Skull</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
+{% tab title="Các Món Đồ Nhận Được" %}
+<table><thead><tr><th width="158">Món Đồ</th><th>Thông Tin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01C.png" alt=""><strong>Hộp sọ Cổ Xưa</strong></td><td>Món đồ được sử dụng để chế tạo trang bị tại NPC CRAFTS trong [<a href="../instances/prontera-dungeon.md">Ngục Tối Prontera</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
-### **Special Deniro**
+### **Deniro Đặc Biệt**
 
 {% tabs %}
-{% tab title="Monster" %}
-<figure><img src="../.gitbook/assets/200px-DENI.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Special Deniro</strong></mark></p></figcaption></figure>
+{% tab title="Quái Vật" %}<figure><img src="../.gitbook/assets/200px-DENI.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Deniro Đặc Biệt</strong></mark></p></figcaption></figure>
 
-* **Larger than normal**.
-* Commands an **army of Andre**.
-* **Drops "**<mark style="color:red;">**Flaming Agate**</mark>**"** when defeated.
+* **Lớn hơn bình thường**.
+* Chỉ huy một **đội quân Andre**.
+* **Rơi "**<mark style="color:red;">**Agate Bùng Cháy**</mark>**"** khi bị đánh bại.
 {% endtab %}
 
-{% tab title="Location" %}
+{% tab title="Vị trí" %}
 
+<figure><img src="../.gitbook/assets/200px-Antmap.png" alt=""><figcaption><p><mark style="color:red;"><strong>Anthell (Đồi Kiến Địa Ngục)</strong>.</mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/200px-Antmap.png" alt=""><figcaption><p><mark style="color:red;"><strong>Anthell (Infernal Anthill)</strong>.</mark></p></figcaption></figure>
-
-* Found in <mark style="color:red;">**Anthell (Infernal Anthill)**</mark>.
-* Has **fixed spawn points** at coordinates **(93,251) and (49,181)**.
-* **Respawns every 30 minutes**.
-* Inside the **Infernal Anthill**, at **points "4" and "8" on the minimap**,\
-  there are **fixed egg spawns**.
-* **Destroying these eggs** will **release Special Deniros**.
+* Có mặt tại <mark style="color:red;">**Anthell (Đồi Kiến Địa Ngục)**</mark>.
+* Có **điểm xuất hiện cố định** tại tọa độ **(93,251) và (49,181)**.
+* **Tái xuất mỗi 30 phút**.
+* Bên trong **Đồi Kiến Địa Ngục**, tại **các điểm "4" và "8" trên bản đồ nhỏ**,\
+  có **điểm xuất hiện trứng cố định**.
+* **Phá hủy những quả trứng này** sẽ **giải phóng Deniro Đặc Biệt**.
 {% endtab %}
 
-{% tab title="Acquired Items" %}
-<table><thead><tr><th width="182">Item </th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-MG.png" alt=""><strong>Flaming Agate</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
+{% tab title="Vật phẩm Nhận Được" %}<table><thead><tr><th width="182">Món đồ</th><th>Thông tin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-MG.png" alt=""><strong>Đá Ngọc Lửa</strong></td><td>Món đồ được sử dụng để chế tạo trang bị tại NPC CRAFTS trong [<a href="../instances/prontera-dungeon.md">Ngục Tối Prontera</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

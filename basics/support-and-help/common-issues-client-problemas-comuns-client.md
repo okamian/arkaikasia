@@ -1,177 +1,167 @@
 ---
 description: >-
-  If you do not find a solution below, please contact our support team on
-  Discord or WhatsApp.
+  Nếu bạn không tìm thấy giải pháp nào bên dưới, vui lòng liên hệ với đội ngũ hỗ trợ của chúng tôi trên
+  Discord hoặc WhatsApp.
 ---
 
-# 🪛 Common Issues (Client)Problemas Comuns (Client)
+# 🪛 Vấn đề Thường Gặp (Khách Hàng)
 
-## Arkaik.exe opens, but when clicking "Play," nothing happens, and it closes
+## Arkaik.exe mở lên, nhưng khi nhấn "Chơi", không có gì xảy ra và nó đóng lại
 
-**Cause:**
+**Nguyên nhân:**
 
-* Your **antivirus** or **exploit protection** might be blocking the client's `.exe` file.
+* **Phần mềm diệt virus** hoặc **bảo vệ khai thác** của bạn có thể đang chặn tệp `.exe` của khách hàng.
 
-**Solution:**\
-Go to:\
-➡ **Windows Security** > **App & Browser Control** > **Exploit Protection Settings** > **Program Settings (Top Tab)** > **(+) Add a Program to Customize**
+**Giải pháp:**\
+Đi tới:\
+➡ **Bảo mật Windows** > **Kiểm soát Ứng dụng & Trình duyệt** > **Cài đặt Bảo vệ Khai thác** > **Cài đặt Chương trình (Tab trên cùng)** > **(+) Thêm một Chương trình để Tùy chỉnh**
 
-Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)\
+Gõ `Client.exe` và kích hoạt tất cả các quy trình. (Kiểm tra tất cả các ô chọn; một số có thể được kích hoạt theo mặc định - cũng tắt chúng nếu cần.)\
 
 
 <figure><img src="../../.gitbook/assets/image (149).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (150).png" alt="" width="410"><figcaption></figcaption></figure>
 
-## **Arkaik.exe does not open, is not in the task manager, and no error appears**
+## **Arkaik.exe không mở, không có trong trình quản lý tác vụ và không có lỗi nào xuất hiện**
 
-**Cause:**
+**Nguyên nhân:*** **Phần mềm diệt virus** hoặc **bảo vệ khai thác** của bạn có thể đang chặn tệp `exe` của **Arkaik**.
 
-* Your **antivirus** or **exploit protection** might be blocking the `exe` file of **Arkaik**.
+**Giải pháp:**\
+➡ **Bảo mật Windows** > **Kiểm soát Ứng dụng & Trình duyệt** > **Cài đặt Bảo vệ Khai thác** > **Cài đặt Chương trình (Tab trên cùng)** > **(+) Thêm một Chương trình để Tùy chỉnh**
 
-**Solution:**\
-➡ **Windows Security** > **App & Browser Control** > **Exploit Protection Settings** > **Program Settings (Top Tab)** > **(+) Add a Program to Customize**
+Gõ **Arkaik.exe** và kích hoạt tất cả các quy trình. (Đánh dấu tất cả các ô lựa chọn; một số có thể đã được kích hoạt mặc định - hãy tắt chúng nếu cần thiết.)
 
-Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
+📌 **Hình ảnh:** Quy trình giống như trên!
 
-📌 **Image:** Same procedure as above!
+## **Lỗi: Không thể tìm thấy Tệp với ký tự đặc biệt "????"**
 
-## **Error: Cannot find File with special characters "????"**
+**Vấn đề:**
 
-**Problem:**
-
-* When running `Client.exe`, after selecting a character, the game displays special characters as `???`, causing it to **crash**.
+* Khi chạy `Client.exe`, sau khi chọn một nhân vật, trò chơi hiển thị các ký tự đặc biệt dưới dạng `???`, gây ra **sập**.
 
 <figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
-**Cause:**
+**Nguyên nhân:**
 
-* The language pack **fails to convert UTF-8 encoding** for **Korean (Western Europe 1252)** characters.
+* Gói ngôn ngữ **không chuyển đổi được mã hóa UTF-8** cho các ký tự **Hàn Quốc (Châu Âu phương Tây 1252)**.
 
-**Solution:**\
-➡ **Control Panel** > **Change date, time, or number formats** > **Administrative (Top Tab)** > **Change system locale**
+**Giải pháp:**\
+➡ **Bảng điều khiển** > **Thay đổi định dạng ngày, giờ hoặc số** > **Quản trị (Tab trên cùng)** > **Thay đổi ngôn ngữ hệ thống**
 
-🔹 **Uncheck** the **UNICODE UTF-8** box if it is enabled, restart, and test the game.
+🔹 **Bỏ chọn** ô **UNICODE UTF-8** nếu nó đang được bật, khởi động lại và kiểm tra trò chơi.
 
 <figure><img src="../../.gitbook/assets/image (152).png" alt="" width="329"><figcaption></figcaption></figure>
 
-## **Error in Client.exe: "Cannot init d3d OR grf file has problem" or White Screen**
+## **Lỗi trong Client.exe: "Không thể khởi tạo d3d HOẶC tệp grf có vấn đề" hoặc Màn hình trắng**
 
 <figure><img src="../../.gitbook/assets/Cannot_init_d3d_or_grf_file_has_problem.png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/800px-Telabranca.png" alt="" width="375"><figcaption><p>Tela Branca</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/800px-Telabranca.png" alt="" width="375"><figcaption><p>Màn hình trắng</p></figcaption></figure>
 
-**Problem:**
+**Vấn đề:**
 
-* When clicking on **Client.exe**, nothing happens, a white screen appears, and the game closes immediately, even after selecting the **graphics card** in **RO/OpenSetup.exe**.
+* Khi nhấp vào **Client.exe**, không có gì xảy ra, màn hình trắng xuất hiện và trò chơi đóng ngay lập tức, ngay cả sau khi chọn **card đồ họa** trong **RO/OpenSetup.exe**.
 
-**Problem 2:**
-
-* When clicking **Play** through **Arkaik.exe** or **Client.exe**, the error message **"Cannot init d3d OR grf file has problem"** appears (this is the most common case).
+**Vấn đề 2:*** Khi nhấp vào **Chơi** qua **Arkaik.exe** hoặc **Client.exe**, thông báo lỗi **"Không thể khởi tạo d3d HOẶC tệp grf có vấn đề"** xuất hiện (đây là trường hợp phổ biến nhất).
 
 ***
 
-#### **Solution for Problem 2:**
+#### **Giải pháp cho Vấn đề 2:**
 
-1. Open **RO/OpenSetup.exe**
-2. Select your **graphics card**
-3. Click **Apply**
+1. Mở **RO/OpenSetup.exe**
+2. Chọn **card đồ họa** của bạn
+3. Nhấp vào **Áp dụng**
 
-➡ If the issue persists, try **Solution 1** below.
+➡ Nếu vấn đề vẫn tiếp diễn, hãy thử **Giải pháp 1** bên dưới.
 
-#### **Possible Cause:**
+#### **Nguyên nhân có thể:**
 
-* Your **graphics card driver** may be outdated or not being recognized by **Ragnarok**.
-* Some **RTX 3050 laptops** from **Asus Gaming** have this issue.
+* **Driver card đồ họa** của bạn có thể đã lỗi thời hoặc không được **Ragnarok** nhận diện.
+* Một số **laptop RTX 3050** từ **Asus Gaming** gặp phải vấn đề này.
 
 ***
 
-#### **How to Test This Issue:**
+#### **Cách kiểm tra vấn đề này:**
 
-1. **Right-click** on **Client.exe**
-2. Select **"Troubleshoot Compatibility"**
-3. Click **"Test the Program"**
+1. **Nhấp chuột phải** vào **Client.exe**
+2. Chọn **"Khắc phục sự cố tương thích"**
+3. Nhấp vào **"Kiểm tra chương trình"**
 
-If the game **runs but has errors** (_like missing textures or incorrect visuals_), proceed to the **next solution**.
+Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc hình ảnh không chính xác_), hãy tiếp tục với **giải pháp tiếp theo**.
 
 <figure><img src="../../.gitbook/assets/image (153).png" alt="" width="387"><figcaption></figcaption></figure>
 
 \
-**Additional Solution: "Cannot init d3d OR grf file has problem"**
+**Giải pháp bổ sung: "Không thể khởi tạo d3d HOẶC tệp grf có vấn đề"**
 
-**Solution:**
+**Giải pháp:**1. Mở **Trình quản lý thiết bị**
+2. Đi đến **Bộ điều hợp hiển thị**
+3. **Vô hiệu hóa** **card đồ họa RTX** của bạn (hoặc GPU chuyên dụng của bạn)
+4. Mở lại **Client.exe**
 
-1. Open **Device Manager**
-2. Go to **Display Adapters**
-3. **Disable** your **RTX graphics card** (or your dedicated GPU)
-4. Open **Client.exe** again
+**Giải thích:**
 
-**Explanation:**
-
-* If the game **opens and works**, it means the **Vodoo** renderer is being used.
-* Your graphics card might be **too modern** and **does not support older DirectX versions**.
+* Nếu trò chơi **mở và hoạt động**, điều đó có nghĩa là **trình kết xuất Vodoo** đang được sử dụng.
+* Card đồ họa của bạn có thể **quá hiện đại** và **không hỗ trợ các phiên bản DirectX cũ hơn**.
 
 [<mark style="color:purple;">Link do Video Tutorial</mark>](https://www.youtube.com/watch?v=2dStctdLMeE)
 
 <figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
-## **Error Loading Arkaik.exe Modules Before the Login Screen (Date & Time)**
+## **Lỗi Tải Các Mô-đun Arkaik.exe Trước Màn Hình Đăng Nhập (Ngày & Giờ)**
 
-**Problem:**
+**Vấn đề:**
 
-* When opening **Arkaik.exe**, during the module loading process, a **red error** appears stating:\
-  &#xNAN;**"Server failed to authenticate the request"**.
+* Khi mở **Arkaik.exe**, trong quá trình tải mô-đun, một **lỗi đỏ** xuất hiện với thông báo:\
+  &#xNAN;**"Máy chủ không thể xác thực yêu cầu"**.
 
 <figure><img src="../../.gitbook/assets/image (155).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Cause:**
+**Nguyên nhân:**
 
-* This issue is common on **Windows 11** because it relies on an online server to synchronize the system time.
+* Vấn đề này thường xảy ra trên **Windows 11** vì nó phụ thuộc vào một máy chủ trực tuyến để đồng bộ hóa thời gian hệ thống.
 
-**Solution:**
+**Giải pháp:**
 
-1. **Go to:**
-   * **Control Panel** > **Date & Time** > **Sync Now**
+1. **Đi đến:**   * **Bảng điều khiển** > **Ngày & Giờ** > **Đồng bộ ngay**
 
 <figure><img src="../../.gitbook/assets/image (156).png" alt="" width="332"><figcaption></figcaption></figure>
 
-1. Open the **classic Date & Time settings** in Windows.
-2. **Manually adjust** the date and time.
-3. Make sure the time matches the current minutes from **Brasilia (Google Time Server)**.
-4. Also, enable:
-   * **"Change Time Zone"**
-   * **"Internet Time"** synchronization with the correct server.
+1. Mở **cài đặt Ngày & Giờ cổ điển** trong Windows.
+2. **Điều chỉnh thủ công** ngày và giờ.
+3. Đảm bảo giờ hiện tại khớp với phút hiện tại từ **Brasilia (Máy chủ thời gian Google)**.
+4. Ngoài ra, hãy bật:
+   * **"Thay đổi Múi giờ"**
+   * Đồng bộ hóa **"Thời gian Internet"** với máy chủ chính xác.
 
-**If the Problem Persists:**
+**Nếu Vấn Đề Vẫn Tiếp Diễn:**
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption><p><mark style="color:red;"><strong>Click on Internet Time</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption><p><mark style="color:red;"><strong>Nhấp vào Thời gian Internet</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p><mark style="color:red;"><strong>Change Time Zone</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p><mark style="color:red;"><strong>Thay đổi Múi giờ</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>## **Lỗi: Không thể lấy URL cập nhật (khi mở arkaik.exe)**
 
-## **Error: Failed to get updates URL (when opening arkaik.exe)**
+**Vấn đề:** Khi chạy **arkaik.exe**, xuất hiện lỗi cập nhật: **"Không thể lấy URL cập nhật"**, có nghĩa là máy chủ cập nhật đã từ chối kết nối.
 
-**Problem:** When running **arkaik.exe**, an update error appears: **"Failed to get updates URL"**, meaning the update server rejected the connection.
-
-**Solution:** Download **https://1.1.1.1**. If the issue persists, **Cloudflare** can optimize the best route for your internet.
+**Giải pháp:** Tải xuống **https://1.1.1.1**. Nếu vấn đề vẫn tiếp diễn, **Cloudflare** có thể tối ưu hóa tuyến đường tốt nhất cho internet của bạn.
 
 <figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
-## **Colored Squares Screen When Running Client.exe**
+## **Màn hình ô vuông màu khi chạy Client.exe**
 
 <figure><img src="../../.gitbook/assets/800px-Tela_com_quadrados_coloridos_arkaik_online.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Problem:**
+**Vấn đề:**
 
-* This configuration was designed for **older graphics cards**. Newer **RTX GPUs** and **chipsets** may experience this issue.
+* Cấu hình này được thiết kế cho **các card đồ họa cũ**. Các **GPU RTX** và **chipset** mới hơn có thể gặp phải vấn đề này.
 
-**Solution:**
+**Giải pháp:**
 
-1. Go to the folder where you installed the game:
+1. Đi đến thư mục nơi bạn đã cài đặt trò chơi:
    * **ArkaikOnline/RO/OpenSetup.exe**
-   * Or open **arkaik.exe** > **Settings** > **External ROSETUP**
-2. Look for a checkbox labeled **"Enable hardware accelerator"**, **disable it**, save, and restart the game.
-3. If the issue persists, return to the same location and:
-   * **Add a graphics card**
-   * **Set a resolution lower than 1366x768**
+   * Hoặc mở **arkaik.exe** > **Cài đặt** > **ROSETUP bên ngoài**2. Tìm một ô kiểm có nhãn **"Bật tăng tốc phần cứng"**, **tắt nó đi**, lưu lại và khởi động lại trò chơi.
+3. Nếu vấn đề vẫn tiếp diễn, quay lại cùng một vị trí và:
+   * **Thêm một card đồ họa**
+   * **Đặt độ phân giải thấp hơn 1366x768**

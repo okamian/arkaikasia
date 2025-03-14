@@ -1,24 +1,22 @@
 ---
-description: How about making your chat more fun with **stickers**?
+description: Làm thế nào để làm cho cuộc trò chuyện của bạn thú vị hơn với **nhãn dán**?
 ---
 
-# 🎨 STICKERs
+# 🎨 NHÃN DÁN
 
-* **Stickers** can be obtained from the <mark style="color:red;">**Cube Points Shop**</mark>.
-* Every month, the **three stickers** available in the shop change. However, if you’re impatient and like to test your luck, you can purchase a <mark style="color:red;">**Random Sticker Sphere**</mark> <mark style="color:red;"></mark><mark style="color:red;">for</mark> <mark style="color:red;"></mark><mark style="color:red;">**2500 CP**</mark>.
+* **Nhãn dán** có thể được nhận từ <mark style="color:red;">**Cửa Hàng Điểm Cube**</mark>.
+* Mỗi tháng, **ba nhãn dán** có sẵn trong cửa hàng sẽ thay đổi. Tuy nhiên, nếu bạn không kiên nhẫn và thích thử vận may, bạn có thể mua một <mark style="color:red;">**Hình Cầu Nhãn Dán Ngẫu Nhiên**</mark> <mark style="color:red;"></mark><mark style="color:red;">với giá</mark> <mark style="color:red;"></mark><mark style="color:red;">**2500 CP**</mark>.
 
-<figure><img src="../.gitbook/assets/2341.png" alt=""><figcaption><p><mark style="color:red;"><strong>Stickers in the Cube Shop</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2341.png" alt=""><figcaption><p><mark style="color:red;"><strong>Nhãn dán trong Cửa Hàng Cube</strong></mark></p></figcaption></figure>
 
-## **How to Use Stickers?**
+## **Cách Sử Dụng Nhãn Dán?**
 
-* After purchasing the **"Random Sticker Sphere"**, simply open it to receive a **random sticker**.
+* Sau khi mua **"Hình Cầu Nhãn Dán Ngẫu Nhiên"**, chỉ cần mở nó ra để nhận một **nhãn dán ngẫu nhiên**.<figure><img src="../.gitbook/assets/3142.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử dụng Khối Dán Ngẫu Nhiên để nhận một biểu tượng ngẫu nhiên.</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/3142.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using the Random Sticker Sphere to receive a random icon.</strong></mark></p></figcaption></figure>
+## **Cách Sử Dụng Nhãn Dán?**
 
-## **How to Use Stickers?**
+* Để sử dụng một **nhãn dán**, chỉ cần nhấn phím **"**<mark style="color:red;">**ENTER**</mark>**"** trên bàn phím của bạn như thường lệ, và một **nút nhãn dán** sẽ xuất hiện bên cạnh khung chat.
+* Nhấp vào nút sẽ hiển thị **danh sách nhãn dán** mà bạn sở hữu.
+* Chọn **nhãn dán** mà bạn muốn, và nó sẽ xuất hiện trong **khung chat và trên đầu nhân vật của bạn**.
 
-* To use a **sticker**, simply press the **"**<mark style="color:red;">**ENTER**</mark>**"** key on your keyboard as usual, and a **sticker button** will appear next to the chat.
-* Clicking on the button will display the **list of stickers** you own.
-* Select your desired **sticker**, and it will appear in the **chat and above your character's head**.
-
-<figure><img src="../.gitbook/assets/31425.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Stcicker in use.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/31425.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Nhãn dán đang được sử dụng.</strong></mark></p></figcaption></figure>

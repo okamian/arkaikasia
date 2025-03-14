@@ -1,25 +1,24 @@
 ---
-description: Rules to Avoid Issues in the Game.
+description: Quy tắc để tránh vấn đề trong trò chơi.
 ---
 
-# 📜 In-Game Rules
+# 📜 Quy Tắc Trong Game
 
-## **About MOB TRAIN**
+## **Về MOB TRAIN**
 
-**Boss Dispute Rules**
+**Quy Tắc Tranh Chấp Boss**
 
-1. <mark style="color:red;">**Mob train is not allowed**</mark>, meaning you cannot approach another party while leading mobs, nor can you bring mobs following you into another boss party, regardless of the situation.
-2. **Anything else that is not mob train is allowed** (Using skills in general) (Both in your party or an ENEMY party).
-3. **If a boss spawns in PVP mode, killing other party members is allowed** (**MOB TRAINING IS NOT ALLOWED**).
+1. <mark style="color:red;">**Mob train là không được phép**</mark>, có nghĩa là bạn không thể tiếp cận một nhóm khác trong khi dẫn dắt mob, cũng như không thể mang mob theo mình vào một nhóm boss khác, bất kể tình huống nào.
+2. **Tất cả những gì không phải là mob train đều được phép** (Sử dụng kỹ năng nói chung) (Cả trong nhóm của bạn hoặc nhóm KẺ THÙ).
+3. **Nếu một boss xuất hiện ở chế độ PVP, việc giết các thành viên trong nhóm khác là được phép** (**MOB TRAINING LÀ KHÔNG ĐƯỢC PHÉP**).
 
-## <mark style="color:red;">**PENALTIES**</mark>
+## <mark style="color:red;">**HÌNH PHẠT**</mark>
 
-* Table of penalties applied in-game.
+* Bảng hình phạt áp dụng trong game.
 
 ## MOB TRAIN
 
-| Type of Infraction	 | Occurrence	 | Penalty                                       |
-| ------------------- | ----------- | --------------------------------------------- |
-| **Mob Train**       | **First**   | <mark style="color:red;">**1 DAYS**</mark>    |
-| **Mob Train**       | **Second**  | <mark style="color:red;">**3 DAYS**</mark>    |
-| **Mob Train**       | **Third**   | <mark style="color:red;">**PERMANENT**</mark> |
+| Loại Vi Phạm       | Tần Suất    | Hình Phạt                                   |
+| ------------------ | ----------- | -------------------------------------------- |
+| **Mob Train**      | **Đầu Tiên**| <mark style="color:red;">**1 NGÀY**</mark> || **Đoàn Mob**       | **Thứ Hai**  | <mark style="color:red;">**3 NGÀY**</mark>    |
+| **Đoàn Mob**       | **Thứ Ba**   | <mark style="color:red;">**VĨNH VIỄN**</mark> |

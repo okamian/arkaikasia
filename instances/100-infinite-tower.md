@@ -1,60 +1,53 @@
 ---
 description: >-
-  Are You Ready to Face the Ultimate Challenge? The Endless Tower in Arkaik is
-  truly endless! It seems that a new mystery has been discovered within the
-  tower, making its ascent infinite.
+  Bạn đã sẵn sàng để đối mặt với thử thách tối thượng chưa? Tháp Vô Tận ở Arkaik thực sự là vô tận! Dường như một bí ẩn mới đã được phát hiện bên trong tháp, khiến cho việc leo lên của nó trở nên vô hạn.
 ---
 
-# ♾️ 100% Infinite Tower
+# ♾️ 100% Tháp Vô Tận
 
-## **Endless Tower?**
+## **Tháp Vô Tận?**
 
-* Unlike the tower we already know, this one is truly **infinite**. You and your friends can keep climbing as far as you can manage. Of course, **the higher you go, the harder it gets**.
+* Khác với tháp mà chúng ta đã biết, tháp này thực sự là **vô tận**. Bạn và bạn bè có thể tiếp tục leo lên xa nhất có thể. Tất nhiên, **càng lên cao, độ khó càng tăng**.
 
-<figure><img src="../.gitbook/assets/t11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>Guardian of the Endless Tower</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/t11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>Người Bảo Vệ Tháp Vô Tận</strong></mark></p></figcaption></figure>
 
-## **How to Get There**
+## **Cách Đến Đó**
 
-* Go to the **nearest Kafra** in your city, click on the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and select the city.
-* <mark style="color:red;">**Go to Alberta**</mark>**.**
+* Đi đến **Kafra gần nhất** trong thành phố của bạn, nhấp vào tùy chọn **"**<mark style="color:red;">**Dịch Chuyển**</mark>**"** và chọn thành phố.
+* <mark style="color:red;">**Đi đến Alberta**</mark>**.**<figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Cách Để Đến Đích: Alberta</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>How to Reach Your Destination: Alberta</strong></mark></p></figcaption></figure>
+## **Vị Trí NPC**
 
-## **NPC Location**
+* Khi đến **Alberta**, hãy đi về **phía tây** để tìm <mark style="color:red;">**Thuyền Trưởng**</mark>.
 
-* Upon arriving in **Alberta**, head **west** to find the <mark style="color:red;">**Captain**</mark>.
+<figure><img src="../.gitbook/assets/41233.png" alt=""><figcaption><p><mark style="color:red;"><strong>Tìm Thuyền Trưởng dẫn đến Tháp Vô Tận.</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/41233.png" alt=""><figcaption><p><mark style="color:red;"><strong>Encontrando o Capitão que leva até a Torre.</strong></mark></p></figcaption></figure>
+## **Vào Tháp Vô Tận**
 
-## **Entering the Endless Tower**
+* Để vào **Tháp Vô Tận**, hãy nói chuyện với **Thuyền Trưởng** và chọn tùy chọn **"**<mark style="color:red;">**Đi ngay bây giờ**</mark>**"**.
+* Khi đã đến hòn đảo, chọn **"**<mark style="color:red;">**Tạo Ngục Tù**</mark>**"**.
+* Sau khi tạo xong, nhấp vào **"**<mark style="color:red;">**Vào Ngục Tù**</mark>**"**.
+* Đảm bảo bạn đang trong một **nhóm** <mark style="color:red;">**(ALT+Z)**</mark> trước khi vào instance.<figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Đi đến Tháp Vô Tận</strong></mark></p></figcaption></figure>
 
-* To access the **Endless Tower**, talk to the **Captain** and select the option **"**<mark style="color:red;">**Let's go now**</mark>**"**.
-* Once on the island, select **"**<mark style="color:red;">**Generate Dungeon**</mark>**"**.
-* After creating it, click on **"**<mark style="color:red;">**Enter Dungeon**</mark>**"**.
-* Make sure you are in a **party&#x20;**<mark style="color:red;">**(ALT+Z)**</mark> before entering the instance.
+## **Cơ Chế Của Tháp**
 
-<figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Going to the Endless Tower</strong></mark></p></figcaption></figure>
+**2. Cấu Trúc Tháp**
 
-## **Tower Mechanics**
-
-**2. Tower Structure**
-
-* The tower consists of <mark style="color:red;">**100 floors**</mark>, each more challenging than the previous one.
-* <mark style="color:red;">**After completing all 100 floors, it will RESET**</mark> back to **level 1** automatically. However, all **monsters will become stronger, with increased HP and higher LOOT rates**.
-* **Regular floors:**
-  * You will face waves of common monsters.
-* **Checkpoint floors (every 5-10 floors):**
-  * **MVPs** or mini-bosses will spawn as the main challenge.
-  * **Examples:** Eddga, Stormy Knight, Dracula, Valkyrie Randgris, among others.
+* Tháp bao gồm <mark style="color:red;">**100 tầng**</mark>, mỗi tầng đều khó khăn hơn tầng trước.
+* <mark style="color:red;">**Sau khi hoàn thành tất cả 100 tầng, nó sẽ TỰ ĐỘNG ĐẶT LẠI**</mark> về **tầng 1**. Tuy nhiên, tất cả **quái vật sẽ mạnh hơn, với HP tăng và tỷ lệ LOOT cao hơn**.
+* **Tầng thường:**
+  * Bạn sẽ đối mặt với các đợt quái vật thông thường.
+* **Tầng kiểm tra (mỗi 5-10 tầng):**
+  * **MVPs** hoặc mini-boss sẽ xuất hiện như là thử thách chính.
+  * **Ví dụ:** Eddga, Stormy Knight, Dracula, Valkyrie Randgris, và nhiều hơn nữa.
 
 ***
 
-**3. Basic Rules**
+**3. Quy Tắc Cơ Bản**
 
-* **Time limit:** The instance lasts **4 hours** from the moment it is created.
-* **Shared progress:** If someone dies, they can return to the tower **as long as the party leader remains inside**.
-* **Group challenges:** Only **one party** can enter the instance at a time.
-* **Monster respawn:** Monsters spawn **in waves or batches**, depending on the floor.
-* **Rewards:** You receive **rewards for defeating MVPs**.
+* **Thời gian giới hạn:** Instance kéo dài **4 giờ** từ thời điểm nó được tạo ra.* **Tiến trình chia sẻ:** Nếu ai đó chết, họ có thể quay lại tháp **miễn là người lãnh đạo nhóm vẫn ở bên trong**.
+* **Thử thách nhóm:** Chỉ **một nhóm** có thể vào instance tại một thời điểm.
+* **Tái sinh quái vật:** Quái vật xuất hiện **theo đợt hoặc theo nhóm**, tùy thuộc vào tầng.
+* **Phần thưởng:** Bạn nhận được **phần thưởng cho việc đánh bại MVP**.
 
-<figure><img src="../.gitbook/assets/12341.png" alt=""><figcaption><p><mark style="color:red;"><strong>First Floor of the Infinite Tower</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12341.png" alt=""><figcaption><p><mark style="color:red;"><strong>Tầng đầu tiên của Tháp Vô Hạn</strong></mark></p></figcaption></figure>

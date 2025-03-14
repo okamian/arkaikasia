@@ -1,3 +1,3 @@
-# ⚠️ RMT RULES
+# ⚠️ QUY TẮC RMT
 
-<mark style="color:red;">**Waiting for information from Asia.**</mark>
+<mark style="color:red;">**Đang chờ thông tin từ Châu Á.**</mark>

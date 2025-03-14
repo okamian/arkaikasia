@@ -1,19 +1,19 @@
 ---
-description: The best way to store your hard-earned Zeny is right here!
+description: Cách tốt nhất để lưu trữ Zeny bạn kiếm được là ngay tại đây!
 ---
 
-# 🏦 Banker
+# 🏦 Ngân hàng
 
-## **What is the Banker?**
+## **Ngân hàng là gì?**
 
-* The **Banker** is an **NPC located in the city of&#x20;**<mark style="color:red;">**Prontera**</mark>.
-* Its function is to **store your Zeny safely**.
+* **Ngân hàng** là một **NPC nằm ở thành phố** <mark style="color:red;">**Prontera**</mark>.
+* Chức năng của nó là **lưu trữ Zeny của bạn một cách an toàn**.
 
-<figure><img src="../.gitbook/assets/123111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Banker Location in Prontera</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/123111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Vị trí Ngân hàng ở Prontera</strong></mark></p></figcaption></figure>
 
-## **How Does It Work?**
+## **Nó hoạt động như thế nào?**
 
-* The <mark style="background-color:red;">**Banker can store your Zeny**</mark>, allowing you to **use it across different characters**.
-* Each time you **"**<mark style="color:red;">**Withdraw**</mark>**"** Zeny, you <mark style="color:red;">**must pay a small fee**</mark>.
+* <mark style="background-color:red;">**Ngân hàng có thể lưu trữ Zeny của bạn**</mark>, cho phép bạn **sử dụng nó trên các nhân vật khác nhau**.
+* Mỗi lần bạn **"**<mark style="color:red;">**Rút**</mark>**"** Zeny, bạn <mark style="color:red;">**phải trả một khoản phí nhỏ**</mark>.
 
-<figure><img src="../.gitbook/assets/4412.png" alt=""><figcaption><p><mark style="color:red;"><strong>Banker Information Upon Interaction</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4412.png" alt=""><figcaption><p><mark style="color:red;"><strong>Thông tin Ngân hàng khi tương tác</strong></mark></p></figcaption></figure>

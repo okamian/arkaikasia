@@ -1,7 +1,7 @@
 ---
-description: Under construction.
+description: Đang trong quá trình xây dựng.
 ---
 
-# 🔝 Vote Points
+# 🔝 Điểm Bình Chọn
 
-<mark style="color:red;">**Waiting for information from Asia.**</mark>
+<mark style="color:red;">**Đang chờ thông tin từ châu Á.**</mark>

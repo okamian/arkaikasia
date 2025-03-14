@@ -1,2 +1,1 @@
-# Waiting EVENT (ASIAN)
-
+# SỰ KIỆN ĐANG CHỜ (CHÂU Á)

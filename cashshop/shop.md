@@ -1,15 +1,13 @@
 ---
 description: >-
-  The CubePoints store helps you in your progression; we do not sell ROPS, only
-  visual items and consumables. Enjoy exclusive benefits.
+  Cửa hàng CubePoints giúp bạn trong quá trình phát triển; chúng tôi không bán ROPS, chỉ
+  bán các vật phẩm trang trí và tiêu hao. Hãy tận hưởng những lợi ích độc quyền.
 ---
 
-# 🛍️ Shop
+# 🛍️ Cửa hàng
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
-**How to Buy CubePoints?**\
+**Cách Mua CubePoints?**\
 
-
-
-Buying CubePoints is very easy. You need to purchase them with real money or a credit card through our website. For every **XX** amount defined (ASIA), you will receive **XX** CubePoints. So, if you want to buy an item that costs **10,000 CP**, you will need to invest **XX** in your character.
+Việc mua CubePoints rất dễ dàng. Bạn cần mua chúng bằng tiền thật hoặc thẻ tín dụng thông qua trang web của chúng tôi. Đối với mỗi **XX** số tiền đã định (ASIA), bạn sẽ nhận được **XX** CubePoints. Vì vậy, nếu bạn muốn mua một vật phẩm có giá **10,000 CP**, bạn sẽ cần đầu tư **XX** vào nhân vật của mình.

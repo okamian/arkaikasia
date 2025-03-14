@@ -1,11 +1,9 @@
 ---
 description: >-
-  Arkaik: Tales of Sarina is a private Ragnarok Online server, offering a unique
-  experience. This guide outlines the process of downloading, installing, and
-  configuring the game.
+  Arkaik: Tales of Sarina là một máy chủ Ragnarok Online riêng, cung cấp trải nghiệm độc đáo. Hướng dẫn này phác thảo quy trình tải xuống, cài đặt và cấu hình trò chơi.
 ---
 
-# 🚧 How to Install Arkaik Online
+# 🚧 Cách Cài Đặt Arkaik Online
 
 <figure><img src="../../.gitbook/assets/Sarina-1250x300.png" alt=""><figcaption></figcaption></figure>
 
@@ -19,133 +17,122 @@ description: >-
 * ### [**Starting the Game**](how-to-install-arkaik-online.md#starting-the-game-1)
 * ### [**Common Problem Solutions**](how-to-install-arkaik-online.md#common-problem-solutions-1)
 
-### **System Requirements**
+### **Yêu Cầu Hệ Thống**
 
-| Component	          | Minimum Requirements                   |
+| Thành Phần         | Yêu Cầu Tối Thiểu                      |
 | ------------------- | -------------------------------------- |
-| Operating System    | Windows 10 or higher                   |
-| Processor           | Dual Core 2.0 GHz                      |
-| RAM Memory          | 4 GB (8 GB recommended)                |
-| Disk Space          | 8 GB free (at least 10 GB recommended) |
-| Graphics Card       | 256 MB with DirectX 9.0c               |
-| Internet Connection | 1 Mbps or higher                       |
+| Hệ Điều Hành       | Windows 10 hoặc cao hơn                |
+| Bộ Xử Lý           | Dual Core 2.0 GHz                      |
+| RAM                 | 4 GB (khuyến nghị 8 GB)                |
+| Dung Lượng Đĩa     | 8 GB trống (ít nhất 10 GB khuyến nghị) |
+| Card Đồ Họa        | 256 MB với DirectX 9.0c               || Kết Nối Internet | 1 Mbps hoặc cao hơn                       |
 
-### **Account Registration**
+### **Đăng Ký Tài Khoản**
 
-To play, you need an account. Follow the steps below:
+Để chơi, bạn cần một tài khoản. Làm theo các bước dưới đây:
 
-1. Access the official website of **Arkaik Tales of Sarina**. <mark style="color:red;">**(ASIAN)**</mark>
-2. Click on **"Register"**.
-3. Fill in the required fields (username, email, password).
-4. Confirm your email by clicking on the verification link sent.
+1. Truy cập trang web chính thức của **Arkaik Tales of Sarina**. <mark style="color:red;">**(ASIAN)**</mark>
+2. Nhấp vào **"Đăng Ký"**.
+3. Điền vào các trường bắt buộc (tên người dùng, email, mật khẩu).
+4. Xác nhận email của bạn bằng cách nhấp vào liên kết xác minh đã được gửi.
 
-### **Client Download**
+### **Tải Về Client**
 
-1. Go to the **Download** section on the official website.
-2. Click **"Download"** to get the client (usually in **.zip** or **.rar** format).
+1. Đi đến phần **Tải Về** trên trang web chính thức.
+2. Nhấp **"Tải Về"** để lấy client (thường ở định dạng **.zip** hoặc **.rar**).
 
-### **Client Extraction**
+### **Giải Nén Client**
 
-1. Navigate to the folder where the client was downloaded.
-2. You can also extract it directly by **right-clicking** on the file and selecting **"Extract All"**, as shown in the image below.
-3. Wait for the extraction to complete.
+1. Điều hướng đến thư mục nơi client đã được tải về.
+2. Bạn cũng có thể giải nén trực tiếp bằng cách **nhấp chuột phải** vào tệp và chọn **"Giải Nén Tất Cả"**, như hình dưới đây.
+3. Chờ cho quá trình giải nén hoàn tất.
 
 <figure><img src="../../.gitbook/assets/Extra1.png" alt=""><figcaption></figcaption></figure>
 
-### **Game Installation**
+### **Cài Đặt Game**1. Sau khi giải nén, tìm tệp **"Arkaik.exe"** hoặc **"Setup.exe"** trong thư mục.
+2. Nhấp đúp để bắt đầu cài đặt.
+3. Làm theo hướng dẫn trên màn hình để chọn thư mục cài đặt.
+4. Chờ đợi quá trình cài đặt hoàn tất.
 
-1. After extraction, locate the **"Arkaik.exe"** or **"Setup.exe"** file in the folder.
-2. Double-click to start the installation.
-3. Follow the on-screen instructions to choose the installation directory.
-4. Wait for the installation to complete.
+### **Cập nhật Client**
 
-### **Client Update**
+1. Chạy **Launcher.exe**.
+2. Hệ thống sẽ tự động kiểm tra các bản cập nhật.
+3. Chờ trong khi các bản cập nhật được áp dụng.
 
-1. Run **Launcher.exe**.
-2. The system will automatically check for updates.
-3. Wait while updates are applied.
+### **Cấu hình Đồ họa và Âm thanh**
 
-### **Graphics and Sound Configuration**
+1. Trong **launcher**, nhấp vào **"Cài đặt"**.
+2. Điều chỉnh độ phân giải và cài đặt đồ họa.
+3. Lưu và đóng cửa sổ.
 
-1. In the **launcher**, click on **"Settings"**.
-2. Adjust the resolution and graphics settings.
-3. Save and close the window.
+### **Bắt đầu trò chơi**
 
-### **Starting the Game**
+1. Mở **Arkaik.exe**.
+2. Nhập **thông tin đăng nhập** của bạn (tên người dùng và mật khẩu).
+3. Chọn **Máy chủ Beta**.
+4. Trong **launcher**, nhấp vào **Chơi**.
 
-1. Open **Arkaik.exe**.
-2. Enter your **login credentials** (username and password).
-3. Select the **Beta Server**.
-4. In the **launcher**, click **Play**.
+### **Giải pháp cho các vấn đề phổ biến**
 
-### **Common Problem Solutions**
+**Trò chơi không mở**
 
-**Game Does Not Open**
+* Kiểm tra xem **DirectX 9.0c** đã được cài đặt chưa.
+* Thêm ngoại lệ cho trò chơi trong **tường lửa/antivirus** của bạn.
 
-* Check if **DirectX 9.0c** is installed.
-* Add exceptions for the game in your **firewall/antivirus**.
+**Lỗi "Tệp bị hỏng"**
 
-**"Corrupted File" Error**
+* Tải lại client và giải nén lại.* Nếu vấn đề vẫn tiếp diễn, hãy kiểm tra **Vấn đề Chung**.
 
-* Re-download the client and extract it again.
-* If the issue persists, check **General Issues**.
+**Hiệu Suất Kém (Lag)**
 
-**Poor Performance (Lag)**
+* Giảm cài đặt đồ họa trong tùy chọn.
+* Đóng các chương trình chạy ngầm.
 
-* Lower graphical settings in the options.
-* Close background programs.
+**Vấn Đề Kết Nối**
 
-**Connection Issues**
+* Kiểm tra **tình trạng ổn định internet** của bạn.
+* Xác minh xem máy chủ có đang bảo trì trên **Discord Chính Thức** không. <mark style="color:red;">**(ASIAN)**</mark>
 
-* Check your **internet stability**.
-* Verify if the server is under maintenance on the **Official Discord**. <mark style="color:red;">**(ASIAN)**</mark>
+### **Cài Đặt .NET 8**
 
-### **.NET 8 Installation**
+Nhiều người chơi **Arkaik: Tales of Sarina** báo cáo rằng, trong quá trình cập nhật, một thông báo xuất hiện yêu cầu cài đặt **.NET 8** (phiên bản **x86** hoặc **x64**). Mặc dù đây là một quá trình đơn giản, một số người chơi có thể cảm thấy bối rối hoặc nghĩ rằng đó là một lỗi.
 
-Many **Arkaik: Tales of Sarina** players report that, during the update process, a message appears requesting the installation of **.NET 8** (either **x86** or **x64** version). While this is a simple process, some players may be confused or think it's an error.
+**.NET 8 là gì?**
 
-**What is .NET 8?**
+.NET 8 là một tập hợp các **thư viện và công cụ** cần thiết để chạy một số ứng dụng Windows, bao gồm cả trò chơi. Nếu hệ thống của bạn không có phiên bản đúng của .NET 8 được cài đặt, **trò chơi hoặc launcher có thể không hoạt động đúng cách**.
 
-.NET 8 is a collection of **libraries and tools** required to run certain Windows applications, including games. If your system does not have the correct version of .NET 8 installed, the **game or launcher may not work properly**.
+**Tại Sao Điều Này Xảy Ra?**Trong một số bản cập nhật, trò chơi có thể yêu cầu **chức năng cụ thể** từ **.NET 8**. Nếu hệ thống của bạn không có phiên bản cần thiết được cài đặt, trình khởi động sẽ tự động yêu cầu cài đặt framework.
 
-**Why Does This Happen?**
+**Bạn Nên Làm Gì Khi Thông Điệp Này Xuất Hiện?**
 
-During some updates, the game may require **specific functionalities** from **.NET 8**. If your system does not have the necessary version installed, the launcher will automatically request the framework installation.
-
-**What Should You Do When This Message Appears?**
-
-(Next steps would likely include downloading and installing .NET 8—if needed, let me know!)
-
-
+(Các bước tiếp theo có thể bao gồm việc tải xuống và cài đặt .NET 8—nếu cần, hãy cho tôi biết!)
 
 <figure><img src="../../.gitbook/assets/Net8.png" alt=""><figcaption></figcaption></figure>
 
-If you receive the message (or encounter the error listed below), follow these steps to install **.NET 8**:
+Nếu bạn nhận được thông điệp (hoặc gặp lỗi được liệt kê bên dưới), hãy làm theo các bước sau để cài đặt **.NET 8**:
 
-1. Click the link provided in the message or visit the official Microsoft website to download **DIRECT LINK** or **.NET8 LINK**.
-2. Download and install it **directly on your computer** (**IMPORTANT**).
-3. Run the **Arkaik: Tales of Sarina** launcher again and check if the issue is resolved.
+1. Nhấp vào liên kết được cung cấp trong thông điệp hoặc truy cập trang web chính thức của Microsoft để tải xuống **LIÊN KẾT TRỰC TIẾP** hoặc **LIÊN KẾT .NET8**.
+2. Tải xuống và cài đặt nó **trực tiếp trên máy tính của bạn** (**QUAN TRỌNG**).
+3. Chạy lại trình khởi động **Arkaik: Tales of Sarina** và kiểm tra xem vấn đề đã được giải quyết chưa.
 
 ***
 
-#### **Common Problem Solutions**
+#### **Giải Quyết Vấn Đề Thường Gặp**
 
-If installing **.NET Framework** does not resolve the problem or you still see the message:
+Nếu việc cài đặt **.NET Framework** không giải quyết được vấn đề hoặc bạn vẫn thấy thông điệp:1. Đảm bảo bạn đã cài đặt **.NET 8**.
+2. Thử cập nhật **Windows** để đảm bảo tất cả các phụ thuộc cần thiết đã được cài đặt.
+3. Kiểm tra xem **phần mềm diệt virus hoặc tường lửa** của bạn có đang chặn việc cài đặt hoặc thực thi trò chơi sau khi cập nhật hay không.
 
-1. Make sure you have installed **.NET 8**.
-2. Try updating **Windows** to ensure all necessary dependencies are installed.
-3. Check if your **antivirus or firewall** is blocking the game's installation or execution after the update.
-
-| Common Error	                         | Suggested Solution                                      |
+| Lỗi Thường Gặp	                     | Giải Pháp Đề Xuất                                      |
 | ------------------------------------- | ------------------------------------------------------- |
-| .NET 8 installer does not open        | Check administrative permissions and restart your PC.   |
-| .NET 8 installation fails             | Update Windows and try installing again.                |
-| Error message after installing .NET 8 | Check if the launcher is not blocked by your antivirus. |
+| Trình cài đặt .NET 8 không mở        | Kiểm tra quyền quản trị và khởi động lại máy tính của bạn.   |
+| Cài đặt .NET 8 thất bại               | Cập nhật Windows và thử cài đặt lại.                    |
+| Thông báo lỗi sau khi cài đặt .NET 8 | Kiểm tra xem trình khởi động có bị chặn bởi phần mềm diệt virus của bạn không. |
 
-### Useful In-Game Commands
+### Lệnh Hữu Ích Trong Trò Chơi
 
-| Command | Function                            |
+| Lệnh    | Chức Năng                            |
 | ------- | ----------------------------------- |
-| /effect | Toggles visual effects on/off.      |
-| /where  | Displays the character's location.  |
-| /noctrl | Enables/disables continuous attack. |
+| /effect | Bật/tắt hiệu ứng hình ảnh.         |
+| /where  | Hiển thị vị trí của nhân vật.      || /noctrl | Bật/tắt tấn công liên tục. |

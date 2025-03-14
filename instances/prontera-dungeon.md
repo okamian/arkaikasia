@@ -1,159 +1,145 @@
 ---
 description: >-
-  The newly renovated Prontera now hides a dark secret after its downfall.
-  Unravel this mystery by joining this incursion.
+  Prontera mới được cải tạo giờ đây ẩn chứa một bí mật đen tối sau sự sụp đổ của nó.
+  Giải mã bí ẩn này bằng cách tham gia vào cuộc xâm nhập này.
 ---
 
-# ⚔️ Prontera Dungeon
+# ⚔️ Ngục Tối Prontera
 
-## **What is the Prontera Dungeon?**
+## **Ngục Tối Prontera là gì?**
 
-* The **Prontera Dungeon** is one of the **completely innovative** and unique **instances** in **Arkaik**, featuring its own mechanics and exclusive items.
+* **Ngục Tối Prontera** là một trong những **instance hoàn toàn đổi mới** và độc đáo trong **Arkaik**, với các cơ chế và vật phẩm độc quyền riêng.
 
-### <mark style="color:red;">(WAITING VIDEO ASIAN)</mark>
+### <mark style="color:red;">(ĐANG CHỜ VIDEO CHÂU Á)</mark>
 
-## Where to Find It on the Map
+## Nơi Tìm Thấy Trên Bản Đồ
 
-* The instance is located in the <mark style="color:red;">**Prontera**</mark> map.
-* You can check its location on the <mark style="color:red;">**MINIMAP**</mark>.
-* You will find a portal with some guards—just enter.
+* Instance nằm trên bản đồ <mark style="color:red;">**Prontera**</mark>.
+* Bạn có thể kiểm tra vị trí của nó trên <mark style="color:red;">**BẢN ĐỒ NHỎ**</mark>.
+* Bạn sẽ tìm thấy một cổng với một số lính canh—chỉ cần bước vào.
 
-<figure><img src="../.gitbook/assets/213.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location on the "Mini Map" of Prontera</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/213.png" alt=""><figcaption><p><mark style="color:red;"><strong>Vị trí trên "Bản Đồ Nhỏ" của Prontera</strong></mark></p></figcaption></figure>
 
-## **How to Access the Location**
-
-* Go to the nearest <mark style="color:red;">**Kafra**</mark> in your city, click on the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and select the city.
-* <mark style="color:red;">**Go to Prontera**</mark>**.**
+## **Cách Truy Cập Vị Trí*** Đi đến <mark style="color:red;">**Kafra**</mark> gần nhất trong thành phố của bạn, nhấp vào tùy chọn **"**<mark style="color:red;">**Teleport**</mark>**"** và chọn thành phố.
+* <mark style="color:red;">**Đi đến Prontera**</mark>**.**
 
 <figure><img src="../.gitbook/assets/bb1.gif" alt=""><figcaption></figcaption></figure>
 
-* After that, head <mark style="color:red;">**north of Prontera**</mark> until you find the <mark style="color:red;">**guards and a portal**</mark>.
-* Then, simply enter the <mark style="color:red;">**portal**</mark>.
+* Sau đó, đi <mark style="color:red;">**phía bắc của Prontera**</mark> cho đến khi bạn tìm thấy <mark style="color:red;">**các lính gác và một cổng**</mark>.
+* Sau đó, chỉ cần bước vào <mark style="color:red;">**cổng**</mark>.
 
 <figure><img src="../.gitbook/assets/bb2.gif" alt=""><figcaption></figcaption></figure>
 
-## **Which NPCs Exist Inside?**
+## **Có những NPC nào bên trong?**
 
 {% tabs %}
-{% tab title="Recruiter" %}
-<mark style="color:red;">**RECRUITER**</mark>
+{% tab title="Người Tuyển Dụng" %}
+<mark style="color:red;">**NGƯỜI TUYỂN DỤNG**</mark>
 
-* To create your instance, you need to <mark style="color:red;">**form a party (ALT+Z)**</mark><mark style="color:red;">.</mark>
-* To cancel the interaction, you can choose the option **"**<mark style="color:red;">**No way...**</mark>**"**.
-* To leave the room, simply select **"**<mark style="color:red;">**Get out of here**</mark>**"**.
+* Để tạo instance của bạn, bạn cần <mark style="color:red;">**tạo một nhóm (ALT+Z)**</mark><mark style="color:red;">.</mark>
+* Để hủy tương tác, bạn có thể chọn tùy chọn **"**<mark style="color:red;">**Không đời nào...**</mark>**"**.* Để rời khỏi phòng, chỉ cần chọn **"**<mark style="color:red;">**Ra khỏi đây**</mark>**"**.
 
-<figure><img src="../.gitbook/assets/0009544.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaction with the RECRUITER NPC</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/0009544.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Giao tiếp với NPC TUYỂN DỤNG</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Crafts" %}
-<mark style="background-color:red;">**CRAFTS**</mark>
+{% tab title="Thủ công" %}
+<mark style="background-color:red;">**THỦ CÔNG**</mark>
 
-* The <mark style="color:red;">**Crafts NPC**</mark> offers some items that can be <mark style="color:red;">**crafted**</mark>.
-* Upon completing the instance, you will receive some <mark style="color:red;">**Fire Essence**</mark>.
-* These are **one of the required items** to create your **enhanced weapon**.
-* **Other items cannot be obtained within the instance**.
-* Some items can be acquired by defeating <mark style="color:red;">**\[SPECIAL MONSTERS**</mark>**]**.
-
-<figure><img src="../.gitbook/assets/00095445.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaction with the "CRAFTS" NPC</strong></mark></p></figcaption></figure>
+* NPC <mark style="color:red;">**Thủ công**</mark> cung cấp một số vật phẩm có thể được <mark style="color:red;">**chế tạo**</mark>.
+* Sau khi hoàn thành instance, bạn sẽ nhận được một số <mark style="color:red;">**Tinh chất Lửa**</mark>.
+* Đây là **một trong những vật phẩm cần thiết** để tạo ra **vũ khí nâng cấp** của bạn.
+* **Các vật phẩm khác không thể thu thập trong instance**.
+* Một số vật phẩm có thể được thu thập bằng cách đánh bại <mark style="color:red;">**\[QUÁI VẬT ĐẶC BIỆT**</mark>**]**.<figure><img src="../.gitbook/assets/00095445.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Giao tiếp với NPC "CRAFTS"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 0" %}
-## **Crafted Weapons**
+## **Vũ khí chế tạo**<table><thead><tr><th width="252">Hình ảnh</th><th width="118">Nghề</th><th>Vật phẩm chế tạo</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/5d97a115-f682-4664-aa05-622b7501f4ea.jpeg" alt=""></td><td>Bard &#x26; Dancer</td><td><p>1x Đàn Guitar </p><p>40x Tinh chất Lửa</p><p>25x Cánh Đen </p><p>450x Vỏ Rùa</p></td></tr><tr><td><img src="../.gitbook/assets/8eb893d4-6ad6-40ef-8e66-e18eebd1e6e3.jpeg" alt=""></td><td>Knight</td><td><p><br>1x Zweihander </p><p>40x Tinh chất Lửa </p><p>25x Ngọc Ký Ức </p><p>600x Trái Tim Bùng Cháy</p></td></tr><tr><td><img src="../.gitbook/assets/6e77a396-6d26-4d00-82e0-f047820a6f3f.jpeg" alt=""></td><td>Tất cả</td><td><p>1x Áo Choàng Thiêng Liêng </p><p>40x Tinh chất Lửa </p><p>25x Ngọc Ký Ức </p><p>1x Thẻ Pasana</p></td></tr><tr><td><img src="../.gitbook/assets/06c5915d-2d80-480d-8448-fc633c80e838.jpeg" alt=""></td><td>Priest</td><td><p>1x Gậy</p><p>40x Tinh chất Lửa</p><p>5x Đầu Lâu Cổ Xưa</p><p>1x Thẻ Heater<br></p></td></tr><tr><td><img src="../.gitbook/assets/5cd34065-cce4-4ea7-b21e-5db352445a76.jpeg" alt=""></td><td>Rogue</td><td><p>1x Sucsamad</p><p>40x Tinh chất Lửa</p><p>25x Cánh Đen</p><p>500x Đinh Vàng Bùng Cháy</p></td></tr><tr><td><img src="../.gitbook/assets/33b7ed78-fd33-4936-9480-26eb26988548.jpeg" alt=""></td><td>Crusader</td><td><p>1x Lưỡi Giáo Khổng Lồ</p><p>40x Tinh chất Lửa</p><p>5x Đầu Lâu Cổ Xưa</p><p>600x Da Rồng</p></td></tr><tr><td><img src="../.gitbook/assets/414acd88-39ca-4045-a2f9-3d7fb89c7d5b.jpeg" alt=""></td><td>Wizard</td><td><p>1x Gậy</p><p>40x Tinh chất Lửa</p><p>25x Ngọc Ký Ức</p><p>1x Thẻ Chín Đuôi</p></td></tr><tr><td><img src="../.gitbook/assets/10447079-eb81-4e36-8a1d-3cd926697bae.jpeg" alt=""></td><td>Monk</td><td><p>1x Nắm Đấm Magma</p><p>40x Tinh chất Lửa</p><p>5x Đầu Lâu Cổ Xưa</p><p>250x Claw Bọ Cạp</p></td></tr><tr><td><img src="../.gitbook/assets/958eae11-21b2-4411-a955-9b4d76ee7e85.jpeg" alt=""></td><td>Sage</td><td><p>120x Trang Giấy Hư Hỏng</p><p>40x Tinh chất Lửa</p><p>10x Ngọc Bích Bùng Cháy</p><p>120x Bộ Chuyển Đổi Nguyên Tố Lửa</p></td></tr><tr><td><img src="../.gitbook/assets/823dff66-2324-4823-a523-0667aa957b57.jpeg" alt=""></td><td>Tất cả</td><td><p>1x Khiên Nhỏ</p><p>40x Tinh chất Lửa</p><p>25x Cánh Đen</p><p>200x Thép</p></td></tr><tr><td><img src="../.gitbook/assets/f995b9c9-acdb-4260-8099-107b9a8afc34.jpeg" alt=""></td><td>Assassin</td><td><p>1x Katar của Ngọn Lửa Dữ Dội</p><p>40x Tinh chất Lửa</p><p>25x Ngọc Ký Ức</p><p>250x Lông Phát Sáng</p></td></tr><tr><td><img src="../.gitbook/assets/1469e0df-bcbc-4034-b89f-d3d0cfce3713.jpeg" alt=""></td><td>Blacksmith</td><td><p>1x Rìu Orc</p><p>40x Tinh chất Lửa</p><p>25x Cánh Đen</p><p>30x Trái Tim Lửa</p></td></tr><tr><td><img src="../.gitbook/assets/a88b7445-a942-4300-9d22-96ebb2480545.jpeg" alt=""></td><td>Hunter</td><td><p>1x Gakkung</p><p>40x Tinh chất Lửa</p><p>10x Ngọc Bích Bùng Cháy</p><p>400x Máu Đỏ</p></td></tr><tr><td><img src="../.gitbook/assets/9c0eb2b0-19f2-4878-aa12-25bb796eef43.jpeg" alt=""></td><td>Alchemist</td><td><p>1x Kiếm Mặt Trời</p><p>40x Tinh chất Lửa</p><p>10x Ngọc Bích Bùng Cháy</p><p>120x Đá Pumice</p></td></tr></tbody></table>{% endtab %}
 
-<table><thead><tr><th width="252">Image</th><th width="118">Job</th><th>Crafting Items</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/5d97a115-f682-4664-aa05-622b7501f4ea.jpeg" alt=""></td><td>Bard &#x26; Dancer</td><td><p>1x Guitar </p><p>40x Fire Essence</p><p>25x Black Wings </p><p>450x Turtle Shell</p></td></tr><tr><td><img src="../.gitbook/assets/8eb893d4-6ad6-40ef-8e66-e18eebd1e6e3.jpeg" alt=""></td><td>Knight</td><td><p><br>1x Zweihander </p><p>40x Fire Essence </p><p>25x Memory Jewel </p><p>600x Blazing Heart</p></td></tr><tr><td><img src="../.gitbook/assets/6e77a396-6d26-4d00-82e0-f047820a6f3f.jpeg" alt=""></td><td>All</td><td><p>1x Celestial Ceremonial Cloak </p><p>40x Fire Essence </p><p>25x Memory Jewel </p><p>1x Pasana Card</p></td></tr><tr><td><img src="../.gitbook/assets/06c5915d-2d80-480d-8448-fc633c80e838.jpeg" alt=""></td><td>Priest</td><td><p>1x Rod</p><p>40x Fire Essence</p><p>5x Ancient Skull</p><p>1x Heater Card<br></p></td></tr><tr><td><img src="../.gitbook/assets/5cd34065-cce4-4ea7-b21e-5db352445a76.jpeg" alt=""></td><td>Rogue</td><td><p>1x Sucsamad</p><p>40x Fire Essence</p><p>25x Black Wings</p><p>500x Flaming Horseshoe</p></td></tr><tr><td><img src="../.gitbook/assets/33b7ed78-fd33-4936-9480-26eb26988548.jpeg" alt=""></td><td>Crusader</td><td><p>1x Colossal Lance Blade</p><p>40x Fire Essence</p><p>5x Ancient Skull</p><p>600x Dragon Skin</p></td></tr><tr><td><img src="../.gitbook/assets/414acd88-39ca-4045-a2f9-3d7fb89c7d5b.jpeg" alt=""></td><td>Wizard</td><td><p>1x Rod</p><p>40x Fire Essence</p><p>25x Memory Jewel</p><p>1x Nine Tails Card</p></td></tr><tr><td><img src="../.gitbook/assets/10447079-eb81-4e36-8a1d-3cd926697bae.jpeg" alt=""></td><td>Monk</td><td><p>1x Magma Fist</p><p>40x Fire Essence</p><p>5x Ancient Skull</p><p>250x Scorpion Claws</p></td></tr><tr><td><img src="../.gitbook/assets/958eae11-21b2-4411-a955-9b4d76ee7e85.jpeg" alt=""></td><td>Sage</td><td><p>120x Deteriorated Page</p><p>40x Fire Essence</p><p>10x Flaming Agate</p><p>120x Fire Element Converter</p></td></tr><tr><td><img src="../.gitbook/assets/823dff66-2324-4823-a523-0667aa957b57.jpeg" alt=""></td><td>Alll</td><td><p>1x Buckler</p><p>40x Fire Essence</p><p>25x Black Wings</p><p>200x Steel</p></td></tr><tr><td><img src="../.gitbook/assets/f995b9c9-acdb-4260-8099-107b9a8afc34.jpeg" alt=""></td><td>Assasin</td><td><p>1x Katar of the Fierce Flame</p><p>40x Fire Essence</p><p>25x Memory Jewel</p><p>250x Incandescent Fur</p></td></tr><tr><td><img src="../.gitbook/assets/1469e0df-bcbc-4034-b89f-d3d0cfce3713.jpeg" alt=""></td><td>Blacksmith</td><td><p>1x Orcish Axe</p><p>40x Fire Essence</p><p>25x Black Wings</p><p>30x Fire Heart</p></td></tr><tr><td><img src="../.gitbook/assets/a88b7445-a942-4300-9d22-96ebb2480545.jpeg" alt=""></td><td>Hunter</td><td><p>1x Gakkung</p><p>40x Fire Essence</p><p>10x Flaming Agate</p><p>400x Scarlet Blood</p></td></tr><tr><td><img src="../.gitbook/assets/9c0eb2b0-19f2-4878-aa12-25bb796eef43.jpeg" alt=""></td><td>Alchimist</td><td><p>1x Solar Sword</p><p>40x Fire Essence</p><p>10x Flaming Agate</p><p>120x Pumice Stone</p></td></tr></tbody></table>
-{% endtab %}
+{% tab title="TẦNG 1" %}
+## **Vũ Khí Chế Tạo** - TẦNG 1
 
-{% tab title="TIER 1" %}
-## **Crafted Weapons** - TIER 1
-
-<table><thead><tr><th width="252">Image</th><th width="118">Job</th><th>Crafting Items</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.32_6b93b511.jpg" alt=""></td><td>Bard &#x26; Dancer</td><td><p>+6 1x Berimbau</p><p>120x Fire Essence</p><p>100x Black Wings</p><p>10x Panda Hat</p><p>Horong Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.32_10550e60.jpg" alt=""></td><td>Knight</td><td><p>+6 1x Enhanced Claymore</p><p>120x Fire Essence</p><p>100x Memory Jewel</p><p>1x Haedonggum</p><p>20x Cornutus Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_3e923f1b.jpg" alt=""></td><td>All</td><td><p>+6 1x Flame Cloak</p><p>120x Fire Essence</p><p>100x Memory Jewel</p><p>1x Impact Saber</p><p>1x Pavana</p><p>10x Raggler Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_7d5c7eb3.jpg" alt=""></td><td>Priest</td><td><p>+6 1x Enhanced Rod</p><p>120x Fire Essence</p><p>100x Ancient Skull</p><p>10x Gold Ring</p><p>20x Mist Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_8bcb6769.jpg" alt=""></td><td>Rogue</td><td><p>+6 1x Enhanced Dagger</p><p>120x Fire Essence</p><p>100x Black Wings</p><p>1x Stellar Dust Blade</p><p>20x Fiery Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_87b69388.jpg" alt=""></td><td>Crusader</td><td><p>+6 1x Enhanced Lance</p><p>120x Fire Essence</p><p>100x Ancient Skull</p><p>1x Lance, 1x Scythe</p><p>20x Fire Lance Level 5</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_162a69af.jpg" alt=""></td><td>Wizard</td><td><p>+6 1x Enhanced Scepter</p><p>120x Fire Essence</p><p>100x Memory Jewel</p><p>1x Ghost Band</p><p>200x Fire Barrier Level 5</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_790bf026.jpg" alt=""></td><td>Monk</td><td><p>+6 1x Enhanced Magma Fist</p><p>120x Fire Essence</p><p>100x Ancient Skull</p><p>5x Dark Veil</p><p>400x Wolf Blood</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_2006d12b.jpg" alt=""></td><td>Sage</td><td><p>+6 1x Enhanced Bible</p><p>120x Fire Essence</p><p>200x Flaming Agate</p><p>1x Mystic Brutal Rune</p><p>250x Fire Spear Level 3</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_4334171d.jpg" alt=""></td><td>All</td><td><p>+6 1x Flame Shield</p><p>120x Fire Essence</p><p>100x Black Wings</p><p>10x Matchstick</p><p>70x Ancient Brutal Rune</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_38315029.jpg" alt=""></td><td>Assasin</td><td><p>+6 1x Enhanced Flame Katar</p><p>120x Fire Essence</p><p>100x Memory Jewel</p><p>1x Jamadhar</p><p>20x Novus Scarlet Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_d509446a.jpg" alt=""></td><td>Blacksmith</td><td><p>+6 1x Enhanced Igneous Steel</p><p>120x Fire Essence</p><p>100x Black Wings</p><p>1x Bloody Axe</p><p>1x Tear Gas</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_eaf82dd9.jpg" alt=""></td><td>Hunter</td><td><p>+6 1x Enhanced Incendiary Bow</p><p>120x Fire Essence</p><p>200x Flaming Agate</p><p>3x Angel Wings</p><p>500x Official Emblem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_f36f59bf.jpg" alt=""></td><td>Alchimist</td><td><p>+6 1x Enhanced Cleaver</p><p>120x Fire Essence</p><p>200x Flaming Agate</p><p>1x Bardiche</p><p>20x Grizzly Gem</p></td></tr></tbody></table>
-{% endtab %}
+<table><thead><tr><th width="252">Hình ảnh</th><th width="118">Nghề</th><th>Vật phẩm chế tạo</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.32_6b93b511.jpg" alt=""></td><td>Bard &#x26; Dancer</td><td><p>+6 1x Berimbau</p><p>120x Tinh chất Lửa</p><p>100x Đôi cánh Đen</p><p>10x Mũ Gấu Trúc</p><p>Đá Horong</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.32_10550e60.jpg" alt=""></td><td>Knight</td><td><p>+6 1x Kiếm Claymore Tăng cường</p><p>120x Tinh chất Lửa</p><p>100x Ngọc Ký Ức</p><p>1x Haedonggum</p><p>20x Đá Cornutus</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_3e923f1b.jpg" alt=""></td><td>Tất cả</td><td><p>+6 1x Áo choàng Lửa</p><p>120x Tinh chất Lửa</p><p>100x Ngọc Ký Ức</p><p>1x Kiếm Tác động</p><p>1x Pavana</p><p>10x Đá Raggler</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_7d5c7eb3.jpg" alt=""></td><td>Priest</td><td><p>+6 1x Gậy Tăng cường</p><p>120x Tinh chất Lửa</p><p>100x Đầu lâu Cổ xưa</p><p>10x Nhẫn Vàng</p><p>20x Đá Sương Mù</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_8bcb6769.jpg" alt=""></td><td>Rogue</td><td><p>+6 1x Dao găm Tăng cường</p><p>120x Tinh chất Lửa</p><p>100x Đôi cánh Đen</p><p>1x Lưỡi dao Bụi Sao</p><p>20x Đá Lửa</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_87b69388.jpg" alt=""></td><td>Crusader</td><td><p>+6 1x Giáo Tăng cường</p><p>120x Tinh chất Lửa</p><p>100x Đầu lâu Cổ xưa</p><p>1x Giáo, 1x Lưỡi hái</p><p>20x Giáo Lửa Cấp 5</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_162a69af.jpg" alt=""></td><td>Wizard</td><td><p>+6 1x Quyền trượng Tăng cường</p><p>120x Tinh chất Lửa</p><p>100x Ngọc Ký Ức</p><p>1x Băng ma</p><p>200x Rào cản Lửa Cấp 5</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_790bf026.jpg" alt=""></td><td>Monk</td><td><p>+6 1x Nắm đấm Magma Tăng cường</p><p>120x Tinh chất Lửa</p><p>100x Đầu lâu Cổ xưa</p><p>5x Màn đen</p><p>400x Máu Sói</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_2006d12b.jpg" alt=""></td><td>Sage</td><td><p>+6 1x Kinh thánh Tăng cường</p><p>120x Tinh chất Lửa</p><p>200x Ngọc Lửa</p><p>1x Rune Tàn bạo Huyền bí</p><p>250x Giáo Lửa Cấp 3</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_4334171d.jpg" alt=""></td><td>Tất cả</td><td><p>+6 1x Khiên Lửa</p><p>120x Tinh chất Lửa</p><p>100x Đôi cánh Đen</p><p>10x Que diêm</p><p>70x Rune Tàn bạo Cổ xưa</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_38315029.jpg" alt=""></td><td>Assasin</td><td><p>+6 1x Katar Lửa Tăng cường</p><p>120x Tinh chất Lửa</p><p>100x Ngọc Ký Ức</p><p>1x Jamadhar</p><p>20x Đá Novus Scarlet</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_d509446a.jpg" alt=""></td><td>Blacksmith</td><td><p>+6 1x Thép Igneous Tăng cường</p><p>120x Tinh chất Lửa</p><p>100x Đôi cánh Đen</p><p>1x Rìu Đẫm máu</p><p>1x Khí ga nước mắt</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_eaf82dd9.jpg" alt=""></td><td>Hunter</td><td><p>+6 1x Cung Tăng cường</p><p>120x Tinh chất Lửa</p><p>200x Ngọc Lửa</p><p>3x Đôi cánh Thiên thần</p><p>500x Biểu tượng Chính thức</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_f36f59bf.jpg" alt=""></td><td>Alchimist</td><td><p>+6 1x Dao Tăng cường</p><p>120x Tinh chất Lửa</p><p>200x Ngọc Lửa</p><p>1x Bardiche</p><p>20x Đá Grizzly</p></td></tr></tbody></table>{% endtab %}
 
 {% tab title="TIER 2" %}
-## Armas Fabricadas - TIER 2
+## Vũ Khí Chế Tạo - TIER 2
 
-#### <mark style="color:red;">**(Not Implemented Yet)**</mark>
+#### <mark style="color:red;">**(Chưa Được Triển Khai)**</mark>
 
-| Image       | Job           |
-| ----------- | ------------- |
-| Coming Soon | Bard & Dancer |
-| Coming Soon | Knight        |
-| Coming Soon | All           |
-| Coming Soon | Priest        |
-| Coming Soon | Rogue         |
-| Coming Soon | Crusader      |
-| Coming Soon | Wizard        |
-| Coming Soon | Monk          |
-| Coming Soon | Sage          |
-| Coming Soon | All           |
-| Coming Soon | Assasin       |
-| Coming Soon | Blacksmith    |
-| Coming Soon | Hunter        |
-| Coming Soon | Alchimist     |
+| Hình ảnh    | Nghề nghiệp    |
+| ----------- | -------------- |
+| Sắp Có      | Nhạc Công & Vũ Công |
+| Sắp Có      | Hiệp Sĩ       |
+| Sắp Có      | Tất Cả        |
+| Sắp Có      | Thầy Tu       |
+| Sắp Có      | Kẻ Lừa Đảo    |
+| Sắp Có      | Thập Tự Quân  |
+| Sắp Có      | Pháp Sư       |
+| Sắp Có      | Thiền Sư      |
+| Sắp Có      | Triết Gia      |
+| Sắp Có      | Tất Cả        |
+| Sắp Có      | Sát Thủ       |
+| Sắp Có      | Thợ Rèn       |
+| Sắp Có      | Thợ Săn       |
+| Sắp Có      | Giả Kim       |
 {% endtab %}
 {% endtabs %}
 
-## **What Will I Find Inside?**
+## **Tôi Sẽ Tìm Thấy Gì Bên Trong?**
 
 {% tabs %}
-{% tab title="Monsters" %}
-<mark style="background-color:red;">**MONSTERS**</mark>
+{% tab title="Quái Vật" %}
+<mark style="background-color:red;">**QUÁI VẬT**</mark>
 
-* Monsters found inside the instance.
-
-<table><thead><tr><th width="127">Sprite</th><th>Nome</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/0000.png" alt="" data-size="original"></td><td>Flame Monster</td></tr><tr><td><img src="../.gitbook/assets/23.png" alt="" data-size="original"></td><td>Flame Monster</td></tr><tr><td><img src="../.gitbook/assets/00333300.png" alt=""></td><td>Flame Monster</td></tr></tbody></table>
+* Quái vật xuất hiện bên trong instance.<table><thead><tr><th width="127">Hình ảnh</th><th>Tên</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/0000.png" alt="" data-size="original"></td><td>Quái vật Lửa</td></tr><tr><td><img src="../.gitbook/assets/23.png" alt="" data-size="original"></td><td>Quái vật Lửa</td></tr><tr><td><img src="../.gitbook/assets/00333300.png" alt=""></td><td>Quái vật Lửa</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Mecanicas" %}
-<mark style="color:red;">**Map Mechanics**</mark>
+{% tab title="Cơ chế" %}
+<mark style="color:red;">**Cơ chế Bản đồ**</mark>
 
-* **Barricades:** Some rooms will contain a large number of monsters and barricades blocking your path. Defeat all monsters to clear the area.
-* **Thorns:** Along your journey, there will be areas with thorns to hinder your movement.
+* **Rào chắn:** Một số phòng sẽ chứa một số lượng lớn quái vật và rào chắn cản đường bạn. Hãy đánh bại tất cả quái vật để dọn sạch khu vực.
+* **Gai:** Trong hành trình của bạn, sẽ có những khu vực có gai cản trở sự di chuyển của bạn.
 
-<mark style="background-color:red;">**Crystal Mechanic**</mark>
+<mark style="background-color:red;">**Cơ chế Kính**</mark>
 
-| Sprite                            | Description                                                                                  |
+| Hình ảnh                            | Mô tả                                                                                  |
 | --------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/00010.png) | There will be a **crystal** that you need to activate by pulling the lever to open the path. |
+| ![](../.gitbook/assets/00010.png) | Sẽ có một **viên pha lê** mà bạn cần kích hoạt bằng cách kéo cần gạt để mở đường. |
 
-<mark style="background-color:red;">**Soul Mechanic**</mark>
+<mark style="background-color:red;">**Cơ khí linh hồn**</mark>
 
-| Sprite                                    | Description                                                                                        |
+| Sprite                                    | Mô tả                                                                                        |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/4_ghost_stand.png) | Some souls are **lost on the map**. You must **guide them to the altar** to complete the instance. |
+| ![](../.gitbook/assets/4_ghost_stand.png) | Một số linh hồn đang **bị lạc trên bản đồ**. Bạn phải **hướng dẫn chúng đến bàn thờ** để hoàn thành nhiệm vụ. |
 {% endtab %}
 
 {% tab title="NPCs" %}
-Recruiter
+Nhà tuyển dụng
 
-* After the souls are released, he will open the barricades to <mark style="color:red;">**SATAN MORROC**</mark>.
-
-<figure><img src="../.gitbook/assets/21233333.png" alt=""><figcaption><p><mark style="color:red;"><strong>After completing all the challenges, you must talk to him to unlock the final challenge: defeating Satan Morroc.</strong></mark></p></figcaption></figure>
+* Sau khi các linh hồn được giải phóng, anh ta sẽ mở rào cản đến <mark style="color:red;">**SATAN MORROC**</mark>.<figure><img src="../.gitbook/assets/21233333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Sau khi hoàn thành tất cả các thử thách, bạn phải nói chuyện với anh ta để mở khóa thử thách cuối cùng: đánh bại Satan Morroc.</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="MVP" %}
 <mark style="background-color:red;">**MVPs**</mark>
 
-| Sprite                                      | Descrição                                            |
-| ------------------------------------------- | ---------------------------------------------------- |
-| ![](../.gitbook/assets/0002220.png)         | <p>Boss of the First Part of the Instance</p><p></p> |
-| ![](../.gitbook/assets/ep14_mors_event.png) | Boss of the Second Part of the Instance              |
+| Sprite                                      | Mô tả                                              |
+| ------------------------------------------- | -------------------------------------------------- |
+| ![](../.gitbook/assets/0002220.png)         | <p>Boss của Phần Một của Instance</p><p></p> |
+| ![](../.gitbook/assets/ep14_mors_event.png) | Boss của Phần Hai của Instance              |
 {% endtab %}
 {% endtabs %}
 
-## **Rewards**
+## **Phần thưởng**
 
 <figure><img src="../.gitbook/assets/2321o.png" alt=""><figcaption></figcaption></figure>
 
-* After defeating <mark style="color:red;">**Satan Morroc**</mark>, collect the last **Soul** and deliver it to the **altar** nearby.
-* You will then be **teleported** to the NPC **"Recruiter"**, who will send you out of the instance.
-* Upon leaving the instance, you will receive **"**<mark style="color:red;">**20 Fire Essence Fragments**</mark>**"**, which can be used to craft **equipment** at the NPC **"**<mark style="color:red;">**CRAFTS**</mark>**"**
+* Sau khi đánh bại <mark style="color:red;">**Satan Morroc**</mark>, hãy thu thập **Linh hồn** cuối cùng và giao nó cho **bàn thờ** gần đó.* Bạn sẽ được **dịch chuyển** đến NPC **"Nhà Tuyển Dụng"**, người sẽ đưa bạn ra khỏi instance.
+* Khi rời khỏi instance, bạn sẽ nhận được **"**<mark style="color:red;">**20 Mảnh Tinh Chất Lửa**</mark>**"**, có thể được sử dụng để chế tạo **thiết bị** tại NPC **"**<mark style="color:red;">**THỢ Rèn**</mark>**"**
 
-<figure><img src="../.gitbook/assets/4441111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Item Received After Completing the Instance</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4441111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Vật Phẩm Nhận Được Sau Khi Hoàn Thành Instance</strong></mark></p></figcaption></figure>
 
-* **Item Received After Completing the Instance**
+* **Vật Phẩm Nhận Được Sau Khi Hoàn Thành Instance**
 
-| Item                             | Nome           | Chance                                    |
+| Vật Phẩm                         | Tên            | Tỉ Lệ                                     |
 | -------------------------------- | -------------- | ----------------------------------------- |
-| ![](../.gitbook/assets/2433.png) | Diabolus Boots | <mark style="color:red;">**0.15%**</mark> |
-| ![](../.gitbook/assets/2345.png) | Fire Armor     | <mark style="color:red;">**0.6%**</mark>  |
+| ![](../.gitbook/assets/2433.png) | Giày Diabolus   | <mark style="color:red;">**0.15%**</mark> |
+| ![](../.gitbook/assets/2345.png) | Giáp Lửa        | <mark style="color:red;">**0.6%**</mark>  |

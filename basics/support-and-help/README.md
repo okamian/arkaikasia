@@ -1,11 +1,11 @@
 ---
 description: >-
-  Find a quick and effective solution to your problem by searching for it in the
-  corresponding category. If you can't find what you're looking for, contact our
-  team of professionals.
+  Tìm giải pháp nhanh chóng và hiệu quả cho vấn đề của bạn bằng cách tìm kiếm trong
+  danh mục tương ứng. Nếu bạn không tìm thấy những gì mình đang tìm kiếm, hãy liên hệ với
+  đội ngũ chuyên nghiệp của chúng tôi.
 ---
 
-# 🆘 Support and Help
+# 🆘 Hỗ trợ và Giúp đỡ
 
 {% content-ref url="common-issues-client-problemas-comuns-client.md" %}
 [common-issues-client-problemas-comuns-client.md](common-issues-client-problemas-comuns-client.md)

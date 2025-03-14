@@ -1,154 +1,114 @@
 ---
 description: >-
-  Arkaik: Tales of Sarina features an interface inspired by other games, thanks
-  to the technology provided by Hemera. So, if you're a veteran Ragnarok player,
-  you might feel a bit lost at first.
+  Arkaik: Tales of Sarina có một giao diện được lấy cảm hứng từ các trò chơi khác, nhờ vào công nghệ do Hemera cung cấp. Vì vậy, nếu bạn là một người chơi kỳ cựu của Ragnarok, bạn có thể cảm thấy hơi bối rối lúc đầu.
 ---
 
-# 🖱️ HUD & Interface
+# 🖱️ HUD & Giao Diện
 
 <figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-## **About the HUD**
+## **Về HUD**
 
-* Upon entering **Arkaik**, you will notice various pieces of information. We will list some of them to guide you.
+* Khi bước vào **Arkaik**, bạn sẽ nhận thấy nhiều thông tin khác nhau. Chúng tôi sẽ liệt kê một số trong số đó để hướng dẫn bạn.
 
-<figure><img src="../.gitbook/assets/1300px-Infosark2.png" alt=""><figcaption><p><mark style="color:red;"><strong>General Overview of the HUD</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1300px-Infosark2.png" alt=""><figcaption><p><mark style="color:red;"><strong>Tổng Quan Chung về HUD</strong></mark></p></figcaption></figure><table><thead><tr><th width="68">N</th><th width="249">Tên</th><th>Mô tả</th></tr></thead><tbody><tr><td>1</td><td>Thông tin Nhân vật</td><td>Hiển thị avatar, tên, HP, Mana và Biểu tượng của nhân vật của bạn.</td></tr><tr><td>2</td><td>Thông tin Đội</td><td>Hiển thị thông tin về các thành viên trong đội đã kết nối, chẳng hạn như cấp độ, tên, HP, Mana và Biểu tượng.</td></tr><tr><td>3</td><td>Bản đồ nhỏ</td><td>Hiển thị tên hiện tại của bản đồ, hình ảnh và khuôn mặt của nhân vật của bạn.</td></tr><tr><td>4</td><td>Các kênh</td><td>Cho phép bạn xem có bao nhiêu người chơi trong kênh hiện tại và chuyển kênh khi có sẵn.</td></tr><tr><td>5</td><td>Chỉ báo Đạn dược</td><td>Hiển thị số lượng đạn dược hiện tại đã trang bị để tham khảo nhanh mà không cần mở kho.</td></tr><tr><td>6</td><td>Trò chuyện</td><td>Hiển thị lịch sử tin nhắn.</td></tr><tr><td>7</td><td>Thanh Kinh nghiệm</td><td>Hiển thị cấp độ cơ bản và cấp độ lớp hiện tại của người chơi, cũng như tỷ lệ phần trăm kinh nghiệm tổng cần thiết để lên cấp.</td></tr><tr><td>8</td><td>Phím tắt</td><td>Cho phép bạn kéo các kỹ năng vào F1-F12.</td></tr><tr><td>9</td><td>Hộp tin nhắn</td><td>Nhấn ENTER để gõ tin nhắn và nhấn ENTER một lần nữa để gửi.</td></tr><tr><td>10</td><td>Danh sách Nhãn dán</td><td>Nhấp để gửi một nhãn dán.</td></tr><tr><td>11</td><td>Menu</td><td>Bạn có thể mở các menu trò chơi bằng cách nhấp vào chúng hoặc sử dụng tổ hợp phím.</td></tr><tr><td>12</td><td>Nhiệm vụ</td><td>Hiển thị các nhiệm vụ mà người chơi đang thực hiện, với tùy chọn "Đang tiến hành" được đánh dấu trên màn hình Nhiệm vụ để giúp theo dõi mục tiêu.</td></tr><tr><td>13</td><td>Cửa hàng Cash và Thẻ Chiến đấu</td><td>Cho phép bạn mở các menu cửa hàng cash và thẻ chiến đấu.</td></tr></tbody></table>## **Màn Hình Thuộc Tính (ALT + A)**
 
-<table><thead><tr><th width="68">N</th><th width="249">Name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Character Information</td><td>Displays your character's avatar, name, HP, Mana, and Emblem.</td></tr><tr><td>2</td><td>Party Information</td><td>Shows information about connected party members, such as level, name, HP, Mana, and Emblem.</td></tr><tr><td>3</td><td>Mini Map</td><td>Mostra o nome atual do mapa, a imagem e o rosto de seu personagem.</td></tr><tr><td>4</td><td>Channels</td><td>Allows you to see how many players are in the current channel and switch channels when available.</td></tr><tr><td>5</td><td>Ammunition Indicator</td><td>Displays the current amount of equipped ammunition for quick reference without opening the inventory.</td></tr><tr><td>6</td><td>Chat</td><td>Shows the message history.</td></tr><tr><td>7</td><td>Experience Bar</td><td>Displays the player's current base and class level, as well as the current percentage of total experience needed to level up.</td></tr><tr><td>8</td><td>Shortcut</td><td>Allows you to drag skills to F1-F12.</td></tr><tr><td>9</td><td>Message Box</td><td>Press ENTER to type a message and press ENTER again to send it.</td></tr><tr><td>10</td><td>Sticker List</td><td>Click to send a sticker.</td></tr><tr><td>11</td><td>Menus</td><td>You can open the game menus by clicking on them or using key combinations.</td></tr><tr><td>12</td><td>Quest's</td><td>Displays the quests the player is currently on, with the "In Progress" option marked on the Quest screen to help track objectives.</td></tr><tr><td>13</td><td>Cash Shop and Battle Pass</td><td>Allows you to open the cash shop menus and battle pass.</td></tr></tbody></table>
-
-## **Attributes Screen (ALT + A)**
-
-* This screen allows you to distribute attribute points acquired when leveling up your character's base level.
-* Hovering the cursor over the attribute you want to upgrade updates the numbers below the **"Remaining Attribute Points"** text, allowing you to see how many points you will have left if you increase that attribute.
+* Màn hình này cho phép bạn phân phối điểm thuộc tính có được khi nâng cấp cấp độ cơ bản của nhân vật.
+* Di chuột qua thuộc tính mà bạn muốn nâng cấp sẽ cập nhật các số liệu bên dưới văn bản **"Điểm Thuộc Tính Còn Lại"**, cho phép bạn thấy có bao nhiêu điểm bạn sẽ còn lại nếu bạn tăng thuộc tính đó.
 
 <figure><img src="../.gitbook/assets/Stats1.gif" alt="" width="342"><figcaption></figcaption></figure>
 
-## **Secondary Attributes**
+## **Thuộc Tính Phụ**
 
-* The screen allows you to view secondary attributes, such as:
+* Màn hình cho phép bạn xem các thuộc tính phụ, chẳng hạn như:<table><thead><tr><th width="115">TRẠNG THÁI</th><th width="191">Thuộc tính</th><th>Mô tả</th></tr></thead><tbody><tr><td>Cơ bản</td><td><mark style="background-color:red;">HP</mark><br><mark style="background-color:blue;">Mana</mark></td><td><mark style="background-color:red;">HP tối đa của bạn</mark><br><mark style="background-color:blue;">Mana tối đa của bạn</mark></td></tr><tr><td>Thiệt hại</td><td>Tấn công<br>Tấn công phép<br>Độ chính xác<br>Critical</td><td><p>Độ mạnh tấn công vật lý của bạn</p><p>Độ mạnh tấn công phép của bạn<br>Độ chính xác khi thực hiện các đòn tấn công vật lý<br>Tỷ lệ chí mạng của bạn</p></td></tr><tr><td>Phòng thủ</td><td>Phòng thủ vật lý<br>Phòng thủ phép<br>Tránh né</td><td>Khả năng phòng thủ của bạn trước các đòn tấn công vật lý<br>Khả năng phòng thủ của bạn trước các đòn tấn công phép<br>Cơ hội để bạn tránh né các đòn tấn công</td></tr><tr><td>Khác</td><td>Số đòn tấn công mỗi phút</td><td>Số lượng đòn tấn công mà nhân vật của bạn thực hiện mỗi giây</td></tr></tbody></table>
 
-<table><thead><tr><th width="115">STATUS</th><th width="191">Attribute</th><th>Description</th></tr></thead><tbody><tr><td>Basic</td><td><mark style="background-color:red;">HP</mark><br><mark style="background-color:blue;">Mana</mark></td><td><mark style="background-color:red;">Your maximum HP</mark><br><mark style="background-color:blue;">Your maximum Mana</mark></td></tr><tr><td>Damage</td><td>Attack<br>Magic Attack<br>Accuracy<br>Critical</td><td><p>Your physical attack power</p><p>Your magic attack power<br>Your accuracy for landing physical attacks<br>Your critical hit rate</p></td></tr><tr><td>Defense</td><td>Physical Defense<br>Magic Defense<br>Evasion</td><td>Your defense against physical attacks<br>Your defense against magical attacks<br>Your chance to evade attacks</td></tr><tr><td>Others</td><td>Attacks per minute</td><td>QHow many attacks your character performs per second</td></tr></tbody></table>
+## **Màn hình Túi (ALT + Q)*** Trong **Arkaik: Tales of Sarina**, màn hình trang bị và vật phẩm được kết hợp thành một giao diện duy nhất để giúp mọi người dễ dàng hơn. Trang bị, gỡ trang bị và tìm kiếm vật phẩm từ màn hình này.
 
-## **Inventory Screen (ALT + Q)**
+<figure><img src="../.gitbook/assets/Stats2.gif" alt="" width="343"><figcaption><p><mark style="color:red;"><strong>Bảng Vật Phẩm</strong></mark></p></figcaption></figure>
 
-* In **Arkaik: Tales of Sarina**, the equipment and item screens are combined into a single interface to make things easier for everyone. Equip, unequip, and search for items from this screen.
+## **Về Vật Phẩm**
 
-<figure><img src="../.gitbook/assets/Stats2.gif" alt="" width="343"><figcaption><p><mark style="color:red;"><strong>Inventory Table</strong></mark></p></figcaption></figure>
+* Xem chức năng của trang bị bằng cách nhấp chuột phải vào nó.
 
-## **About Items**
+<figure><img src="../.gitbook/assets/Armainfo23.png" alt=""><figcaption><p><mark style="color:red;"><strong>Thông Tin Vật Phẩm</strong></mark></p></figcaption></figure><table><thead><tr><th width="66">N</th><th width="215">Trường</th><th>Mô tả</th></tr></thead><tbody><tr><td>1</td><td>Tên Item</td><td>Tên, điều kiện và số ô trống.</td></tr><tr><td>2</td><td>Nút Đóng</td><td>Đóng chế độ xem hiện tại.</td></tr><tr><td>3</td><td>Hình Ảnh Item</td><td>Hiển thị hình ảnh của item.</td></tr><tr><td>4</td><td>Ngọc</td><td>Số ô và hiệu ứng liên kết.</td></tr><tr><td>5</td><td>Thẻ</td><td>Số ô và hiệu ứng liên kết.</td></tr><tr><td>6</td><td>Vị Trí</td><td>Vị trí trang bị.</td></tr><tr><td>7</td><td>Cân Nặng</td><td>Cân nặng trong kho.</td></tr><tr><td>8</td><td>Cấp Độ</td><td>Cấp độ của item.</td></tr><tr><td>9</td><td>Giá Bán</td><td>Giá trị khi bán cho NPC.</td></tr><tr><td>10</td><td>Tùy Chọn Ngẫu Nhiên</td><td>Hiển thị các tùy chọn ngẫu nhiên.</td></tr><tr><td>11</td><td>Mô Tả</td><td>Chức năng và lịch sử của item.</td></tr><tr><td>12</td><td>Hạn Chế</td><td>Giới hạn sử dụng.</td></tr><tr><td>13</td><td>Tiềm Năng và Độ Bền</td><td>Hiển thị tình trạng của item.</td></tr><tr><td>14</td><td>Cần Thiết</td><td>Cấp độ cần thiết để trang bị.</td></tr></tbody></table>## Màn Hình Kỹ Năng & Thành Thạo (ALT + S)
 
-* See what your equipment does by right-clicking on it.
+* Thông tin chung về Hệ Thống Kỹ Năng và Thành Thạo
 
-<figure><img src="../.gitbook/assets/Armainfo23.png" alt=""><figcaption><p><mark style="color:red;"><strong>Item Information</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1200px-HM2.png" alt=""><figcaption><p><mark style="color:red;"><strong>Kỹ Năng &#x26; Thành Thạo</strong></mark></p></figcaption></figure><table><thead><tr><th width="76">N</th><th>Tên</th><th>Mô tả</th></tr></thead><tbody><tr><td>1</td><td>Phân cách</td><td>Phân chia các lớp và kỹ năng.</td></tr><tr><td>2</td><td>Điểm Kỹ Năng</td><td>Các điểm có sẵn để phân phối.</td></tr><tr><td>3</td><td>Kỹ Năng</td><td>Nâng cấp và tổ chức kỹ năng.</td></tr><tr><td>4</td><td>Tăng Điểm Thành Thạo</td><td>Tăng cấp độ thành thạo.</td></tr><tr><td>5</td><td>Mô Tả Kỹ Năng</td><td>Văn bản mô tả của kỹ năng.</td></tr><tr><td>6</td><td>Loại Hiệu Ứng Kỹ Năng</td><td>Hiển thị yếu tố và đặc điểm.</td></tr><tr><td>7</td><td>Thành Thạo</td><td>Nút khu vực cụ thể.</td></tr><tr><td>8</td><td>Các Thành Thạo</td><td>Hiển thị các thành thạo của nhân vật.</td></tr><tr><td>9</td><td>Lưu</td><td>Xác nhận các thay đổi tiến hóa.</td></tr><tr><td>10</td><td>Điểm Thành Thạo</td><td>Các điểm có sẵn để sử dụng.</td></tr><tr><td>11</td><td>Cấp Độ Kỹ Năng</td><td>Giới hạn cấp độ kỹ năng tối đa.</td></tr><tr><td>12</td><td>Thông Tin</td><td>Màn hình kỹ năng và thành thạo.</td></tr><tr><td>13</td><td>Kỹ Năng</td><td>Mở tab kỹ năng.</td></tr><tr><td>14</td><td>Mô Tả</td><td>Chi tiết của tab đã chọn.</td></tr></tbody></table>## Kỹ Năng Chuyên Môn
 
-<table><thead><tr><th width="66">N</th><th width="215">Field</th><th>Descrição</th></tr></thead><tbody><tr><td>1</td><td>Item Name</td><td>Name, condition, and slots.</td></tr><tr><td>2</td><td>Close Button</td><td>Closes the current view.</td></tr><tr><td>3</td><td>Item Image</td><td>Displays the item image.</td></tr><tr><td>4</td><td>Gemns</td><td>Slots and linked effects.</td></tr><tr><td>5</td><td>Cards</td><td>Slots e efeitoSlots and linked effects.</td></tr><tr><td>6</td><td>Position</td><td>Equipment location.</td></tr><tr><td>7</td><td>Weight</td><td>Inventory weight.</td></tr><tr><td>8</td><td>Level</td><td>Item level.</td></tr><tr><td>9</td><td>Selling Price</td><td>Value when selling to NPCs.</td></tr><tr><td>10</td><td>Random Options</td><td>Displays random options.</td></tr><tr><td>11</td><td>Description</td><td>FItem function and history.</td></tr><tr><td>12</td><td>Restrictions</td><td>Usage limitations.</td></tr><tr><td>13</td><td>Potential and Durability</td><td>Displays item condition.</td></tr><tr><td>14</td><td>Required</td><td>Level required to equip.</td></tr></tbody></table>
+* Thông Tin Cơ Bản Để Hiểu Về Kỹ Năng Chuyên Môn
 
-## Skills & Masteries Screen (ALT + S)
+<figure><img src="../.gitbook/assets/Ma2.png" alt=""><figcaption><p><mark style="color:red;"><strong>Thông Tin Về Lĩnh Vực Chuyên Môn</strong></mark></p></figcaption></figure><table><thead><tr><th width="69">N</th><th width="202">Tên</th><th>Mô tả</th></tr></thead><tbody><tr><td>1</td><td>Hình ảnh Kỹ Năng</td><td>Đây là biểu tượng của kỹ năng liên quan đến</td></tr><tr><td>2</td><td>Tên</td><td>Ở đây bạn có thể thấy tiêu đề của bậc thầy được hiển thị</td></tr><tr><td>3</td><td>Nâng Cấp Bậc Thầy</td><td>Nhấn để thêm 1 cấp cho bậc thầy này, sau đó xác nhận bằng</td></tr><tr><td>4</td><td>Cấp Độ</td><td>Hiển thị cấp độ kỹ năng theo định dạng: Lv &#x3C;Cấp Độ Bậc Thầy Hiện Tại/</td></tr><tr><td>5</td><td>Trạng Thái</td><td>Bạn có thể bật hoặc tắt bậc thầy</td></tr><tr><td>6</td><td>Mô Tả</td><td>Mô tả động của bậc thầy.</td></tr><tr><td>7</td><td>Số Điểm Đã Phân Bổ</td><td>Số lượng điểm đã đầu tư.</td></tr><tr><td>8</td><td>Loại Thống Kê</td><td>Chỉ ra nếu đây là buff cho bản thân, cho người khác,</td></tr><tr><td>9</td><td>Đóng</td><td>Đóng cửa sổ</td></tr></tbody></table>
 
-* General Information about the Skills and Masteries System
+## Màn Hình Nhiệm Vụ (ALT + E)* "Arkaik: Tales of Sarina" có nhiều nhiệm vụ được chia thành các tập. Với mỗi bản mở rộng game mới, một bộ nhiệm vụ mới sẽ được giới thiệu.
 
-<figure><img src="../.gitbook/assets/1200px-HM2.png" alt=""><figcaption><p><mark style="color:red;"><strong>Skills &#x26; Masteries</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/disc2239.gif" alt="" width="414"><figcaption><p><mark style="color:red;"><strong>ALT+E ( Tab Nhiệm vụ )</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="76">N</th><th>Nome</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Divider</td><td>Divides classes and skills.</td></tr><tr><td>2</td><td>Skill Points</td><td>Points available for distribution.</td></tr><tr><td>3</td><td>Skills</td><td>Upgrade and organize skills.</td></tr><tr><td>4</td><td>Increase Mastery Points</td><td>Increase the mastery level.</td></tr><tr><td>5</td><td>Skill Description</td><td>Descriptive text of the skill.</td></tr><tr><td>6</td><td>Skill Effect Type</td><td>Displays the element and characteristics.</td></tr><tr><td>7</td><td>Mastery</td><td>Specific area button.</td></tr><tr><td>8</td><td>Masteries</td><td>Displays the character's masteries.</td></tr><tr><td>9</td><td>Save</td><td>Confirms evolution changes.</td></tr><tr><td>10</td><td>Mastery Points</td><td>Points available for use.</td></tr><tr><td>11</td><td>Skill Level</td><td>Maximum skill level limit.</td></tr><tr><td>12</td><td>Information</td><td>Skills and masteries screen.</td></tr><tr><td>13</td><td>Skills</td><td>Opens the skills tab.</td></tr><tr><td>14</td><td>Description</td><td>Details of the selected tab.</td></tr></tbody></table>
+* Trong bảng này, bạn có thể thấy từng
 
-## Masteries
+<table><thead><tr><th width="157">Tên Tab</th><th>Mô tả</th></tr></thead><tbody><tr><td>Tập</td><td>Xem tất cả các tập và nhiệm vụ mà bạn đã hoàn thành hoặc đang thực hiện</td></tr><tr><td>Danh sách</td><td>Xem danh sách tất cả các nhiệm vụ. Tại đây bạn có thể lọc nhiệm vụ theo loại hoặc</td></tr><tr><td>Hoàn thành</td><td>Trong danh sách này, bạn có thể thấy tất cả các nhiệm vụ đã hoàn thành của mình được nhóm lại</td></tr><tr><td>Lịch sử</td><td>Theo dõi câu chuyện của Arkaik: Tales of Sarina trên</td></tr></tbody></table>
 
-* Basic Information to Understand Masteries
+## Chi tiết của
 
-<figure><img src="../.gitbook/assets/Ma2.png" alt=""><figcaption><p><mark style="color:red;"><strong>Mastery Field Information</strong></mark></p></figcaption></figure>
+* #### **Tóm tắt màn hình "Nhiệm vụ"**<figure><img src="../.gitbook/assets/1231.png" alt=""><figcaption><p><mark style="color:red;"><strong>Khi bạn nhấp vào một nhiệm vụ, một cửa sổ sẽ xuất hiện chứa một số thông tin.</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="69">N</th><th width="202">Nome</th><th>Descrição</th></tr></thead><tbody><tr><td>1</td><td>Skill Image</td><td>Here is the icon of the skill associated with</td></tr><tr><td>2</td><td>Name</td><td>Here you can see the title of the master's degree displayed</td></tr><tr><td>3</td><td>Upgrade Mastery</td><td>Click to add 1 level to this mastery, then confirm by</td></tr><tr><td>4</td><td>Level</td><td>Display the skill level in the format: Lv &#x3C;Current Mastery Level/</td></tr><tr><td>5</td><td>State</td><td>You can turn mastery on or off</td></tr><tr><td>6</td><td>Description</td><td>Dynamic description of mastery.</td></tr><tr><td>7</td><td>Allocated Points</td><td>Amount of points invested.</td></tr><tr><td>8</td><td>Stats Type</td><td>Indicate if it is a buff for oneself, for others,</td></tr><tr><td>9</td><td>Close</td><td>Close the window</td></tr></tbody></table>
+<table><thead><tr><th width="67">N</th><th width="149"></th><th></th></tr></thead><tbody><tr><td>1</td><td>Tiêu đề Nhiệm Vụ</td><td>Tiêu đề của nhiệm vụ.</td></tr><tr><td>2</td><td>Tóm Tắt</td><td>Những gì bạn cần làm để nhiệm vụ được đánh dấu là hoàn thành.</td></tr><tr><td>3</td><td>Mục Tiêu</td><td>Khi một nhiệm vụ yêu cầu tiêu diệt quái vật, phần này hiển thị các quái vật bạn cần đánh bại và tiến độ hiện tại của bạn.</td></tr><tr><td>4</td><td>Phần Thưởng</td><td>Phần thưởng bạn nhận được khi hoàn thành nhiệm vụ.</td></tr><tr><td>5</td><td>NPC</td><td>Hình ảnh của NPC đã giao cho bạn nhiệm vụ. Di chuột qua nó sẽ hiển thị tên của NPC.</td></tr></tbody></table>
 
-## Quest's Screen (ALT + E
+## **Các Loại Nhiệm Vụ**
 
-* "Arkaik: Tales of Sarina" features various quests divided into episodes. With each new game expansion, a new set of.
+* Mỗi cờ nhiệm vụ có một biểu tượng trực quan để chỉ ra loại của nó.<table><thead><tr><th width="102" data-type="files">Ícone</th><th width="129">Tipo</th><th>Descrição</th></tr></thead><tbody><tr><td><a href="broken-reference">Liên kết hỏng</a></td><td><mark style="color:red;">Sự kiện</mark></td><td>Các nhiệm vụ này được nhận trong những thời điểm cụ thể trong năm hoặc trong các sự kiện theo chủ đề. Việc chúng có thể lặp lại hay không phụ thuộc vào sự kiện đó.</td></tr><tr><td><a href="broken-reference">Liên kết hỏng</a></td><td><mark style="color:yellow;">Chính</mark></td><td>Các nhiệm vụ này là một phần của tập phim và là bắt buộc nếu bạn muốn mở khóa các tập tiếp theo. Chúng chỉ có thể hoàn thành một lần.</td></tr><tr><td><a href="broken-reference">Liên kết hỏng</a></td><td><mark style="color:blue;">Phụ</mark></td><td>Các nhiệm vụ này là tùy chọn và không ảnh hưởng đến việc mở khóa các tập mới. Chúng chỉ có thể hoàn thành một lần.</td></tr><tr><td><a href="broken-reference">Liên kết hỏng</a></td><td><mark style="color:green;">Có thể lặp lại</mark></td><td>Các nhiệm vụ này là tùy chọn và không ảnh hưởng đến việc mở khóa các tập mới. Chúng có thể được thực hiện nhiều lần, miễn là người chơi đáp ứng các điều kiện cần thiết.</td></tr></tbody></table>## Màn Hình Bestiary (ALT + B)
 
-<figure><img src="../.gitbook/assets/disc2239.gif" alt="" width="414"><figcaption><p><mark style="color:red;"><strong>ALT+E ( Missions tab )</strong></mark></p></figcaption></figure>
+* **Bestiary** cho phép bạn xem thông tin về các quái vật được thu thập thông qua kỹ năng **Monster Observer**.
 
-* In this table, you can see what each
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p><mark style="color:red;"><strong>ALT+B (Thông Tin Bestiary)</strong></mark></p></figcaption></figure><table><thead><tr><th width="72">N</th><th width="279">Tên</th><th>Thông tin</th></tr></thead><tbody><tr><td>1</td><td>Tab Quái Vật</td><td>Khu vực tìm kiếm quái vật.</td></tr><tr><td>2</td><td>Tab Đồ Vật</td><td>Khu vực tìm kiếm đồ vật.</td></tr><tr><td>3</td><td>Tìm Kiếm</td><td>Khu vực để gõ những gì bạn đang tìm.</td></tr><tr><td>4</td><td>Thuật Ngữ</td><td>Thông tin về tất cả quái vật/đồ vật.</td></tr><tr><td>5</td><td>Thông Tin Quái Vật</td><td>Hiển thị chỉ số của quái vật.</td></tr><tr><td>6</td><td>Thông Tin Rơi Đồ</td><td>Hiển thị tỷ lệ và cơ hội rơi đồ.</td></tr><tr><td>7</td><td>Vị Trí Quái Vật trên Bản Đồ</td><td>Cho biết nơi tìm thấy quái vật.</td></tr></tbody></table>
 
-<table><thead><tr><th width="157">Tab Name</th><th>Description</th></tr></thead><tbody><tr><td>Episode</td><td>View all the episodes and quests you have completed or are</td></tr><tr><td>List</td><td>View the list of all quests. Here you can filter quests by type or</td></tr><tr><td>Complete</td><td>In this list, you can see all your completed quests grouped</td></tr><tr><td>History</td><td>Follow the story of Arkaik: Tales of Sarina on</td></tr></tbody></table>
+## **Màn Hình Bộ Sưu Tập (ALT + C)**
 
-## Details of the
+* Bạn có thể theo dõi tiến trình bộ sưu tập bản đồ của mình tại đây.
 
-* #### **Summary of the "Quests" Screen**
+<figure><img src="../.gitbook/assets/disc22239.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+C (Thông Tin Bộ Sưu Tập)</strong></mark></p></figcaption></figure>## **Đọc Bộ Sưu Tập Bản Đồ**
 
-<figure><img src="../.gitbook/assets/1231.png" alt=""><figcaption><p><mark style="color:red;"><strong>When you click on a quest, a window will appear containing some information.</strong></mark></p></figcaption></figure>
+* Mỗi bản đồ chứa một số thông tin quan trọng cần xem xét.
+* Khi tiêu diệt quái vật, không cần phải "nhặt vật phẩm từ mặt đất."
+* Chỉ cần giết quái vật thì vật phẩm rơi ra sẽ được tính vào bộ sưu tập.
+* **VẬT PHẨM CHỈ ĐƯỢC TÍNH NẾU BẠN TỰ MÌNH GIẾT QUÁI VẬT.**
+* **NHẶT VẬT PHẨM RƠI DO BẠN BÈ ĐỂ LẠI KHÔNG ĐƯỢC TÍNH.**
 
-<table><thead><tr><th width="67">N</th><th width="149"></th><th></th></tr></thead><tbody><tr><td>1</td><td>Quest Title</td><td>The title of the quest.</td></tr><tr><td>2</td><td>Summary</td><td>What you need to do for the mission to be marked as complete.</td></tr><tr><td>3</td><td>Objectives</td><td>When a quest requires killing monsters, this section displays the monsters you need to defeat and your current progress.</td></tr><tr><td>4</td><td>Reward</td><td>The reward you receive upon completing the mission.</td></tr><tr><td>5</td><td>NPC</td><td>The sprite of the NPC who gave you the mission. Hovering over it shows the NPC's name.</td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/54 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Thông Tin Bộ Sưu Tập Bản Đồ Hiện Tại</strong></mark></p></figcaption></figure><table><thead><tr><th width="70">N</th><th width="263">Thông tin</th><th>Mô tả</th></tr></thead><tbody><tr><td>1</td><td>Tên Bản Đồ</td><td>Thông tin về bản đồ hiện tại mà bạn đang ở.</td></tr><tr><td>2</td><td>Thông Tin Bản Đồ Bổ Sung</td><td>Chi tiết bổ sung về bản đồ hiện tại.</td></tr><tr><td>3</td><td>Bản Đồ</td><td>Thông tin về bản đồ mà bạn đang ở.</td></tr><tr><td>4</td><td>Các Thuộc Tính Nhận Được Trong Bộ Sưu Tập</td><td>Các thuộc tính nhận được khi hoàn thành bộ sưu tập.</td></tr><tr><td>5</td><td>Các Vật Phẩm Cần Thiết</td><td>Các vật phẩm cần thiết để hoàn thành bộ sưu tập.</td></tr><tr><td>6</td><td>Các Giai Đoạn Đã Hoàn Thành</td><td>Hiển thị các giai đoạn đã hoàn thành.</td></tr></tbody></table>
 
-## **Quest Types**
+## **Màn Hình Thành Tựu (ALT + T)**
 
-* Each quest flag has a visual representation to indicate its type.
+* Bạn có thể theo dõi tiến trình thành tựu của mình ở đây.
+* Hoàn thành một số **nhiệm vụ phụ** sẽ mang lại cho bạn một **danh hiệu**.
+* Những **danh hiệu** này có thể được trang bị cho nhân vật của bạn bằng cách nhấp vào chúng sau khi nhận được.<figure><img src="../.gitbook/assets/disc222323393.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+T (Thông tin Thành Tựu)</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="102" data-type="files">Ícone</th><th width="129">Tipo</th><th>Descrição</th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:red;">Event</mark></td><td>These quests are obtained during specific times of the year or thematic events. Whether they are repeatable or not depends on the event itself.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:yellow;">Main</mark></td><td>These quests are part of the episode and are mandatory if you want to unlock the next episodes. They can only be completed once.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:blue;">Side</mark></td><td>These quests are optional and do not interfere with unlocking new episodes. They can only be completed once.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:green;">Repeatable</mark></td><td>These quests are optional and do not interfere with unlocking new episodes. They can be done multiple times, as long as the player meets the required conditions.</td></tr></tbody></table>
+## **Hiểu Về Thành Tựu**
 
-## Bestiary Screen (ALT + B) B)
+<figure><img src="../.gitbook/assets/5423.png" alt=""><figcaption><p><mark style="color:red;"><strong>Chi Tiết Thành Tựu</strong></mark></p></figcaption></figure>
 
-* The **Bestiary** allows you to view information about monsters obtained through the **Monster Observer** skill.
+<table><thead><tr><th width="68">N</th><th>Thông Tin</th><th>Mô Tả</th></tr></thead><tbody><tr><td>1</td><td>Tiêu Đề</td><td>Tiêu đề đã nhận.</td></tr><tr><td>2</td><td>Mục Tiêu</td><td>Những gì cần làm để nhận được tiêu đề.</td></tr><tr><td>3</td><td>Tiến Trình</td><td>Tiến trình thành tựu của bạn.</td></tr><tr><td>4</td><td>Sử Dụng</td><td>Trang bị tiêu đề.</td></tr><tr><td>5</td><td>Gỡ Bỏ</td><td>Tháo trang bị tiêu đề.</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p><mark style="color:red;"><strong>ALT+B (Bestiary Information)</strong></mark></p></figcaption></figure>
+## **Màn Hình Bạn Bè (ALT + F)**
 
-<table><thead><tr><th width="72">N</th><th width="279">Name</th><th>Information</th></tr></thead><tbody><tr><td>1</td><td>Monster Tab</td><td>Search area for monsters.</td></tr><tr><td>2</td><td>Item Tab</td><td>Search area for items.</td></tr><tr><td>3</td><td>Search</td><td>Area to type what you are looking for.</td></tr><tr><td>4</td><td>Glossary</td><td>Information on all monsters/items.</td></tr><tr><td>5</td><td>Monster Information</td><td>Displays the monster’s stats.</td></tr><tr><td>6</td><td>Drop Information</td><td>Displays item drop rates and chances.</td></tr><tr><td>7</td><td>Monster Location on the Map</td><td>Shows where to find the monster.</td></tr></tbody></table>
+* Xem tất cả bạn bè đang kết nối của bạn ở một nơi, bao gồm vị trí, cấp độ cơ sở và lớp hiện tại.<figure><img src="../.gitbook/assets/44311.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+F (Thông tin danh sách bạn bè)</strong></mark></p></figcaption></figure>
 
-## **Collections Screen (ALT + C)**
-
-* You can track the progress of your map collection here.
-
-<figure><img src="../.gitbook/assets/disc22239.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+C (Informações da Coleção)</strong></mark></p></figcaption></figure>
-
-## **Map Collection Reading**
-
-* Each map contains some important information to consider.
-* When eliminating monsters, it is not necessary to "pick up the item from the ground."
-* Simply killing the monster will count toward the collection if the item drops.
-* **THE ITEM WILL ONLY COUNT IF YOU KILL THE MONSTER YOURSELF.**
-* **UP AN ITEM DROPPED BY A FRIEND DOES NOT COUNT.**
-
-<figure><img src="../.gitbook/assets/54 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Current Map Collection Information</strong></mark></p></figcaption></figure>
-
-<table><thead><tr><th width="70">N</th><th width="263">Information</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Map Name</td><td>Information about the current map you are on.</td></tr><tr><td>2</td><td>Additional Map Information</td><td>Complementary details about the current map.</td></tr><tr><td>3</td><td>Map</td><td>Information about the map you are in.</td></tr><tr><td>4</td><td>Attributes Received in the Collection</td><td>Attributes obtained upon completing the collection.</td></tr><tr><td>5</td><td>Required Items</td><td>Items needed to complete the collection.</td></tr><tr><td>6</td><td>Completed Stages</td><td>Displays the completed stages.</td></tr></tbody></table>
-
-## **Achievements Screen (ALT + T)**
-
-* You can track the progress of your achievements here.
-* Completing certain **side quests** grants you a **title**.
-* These **titles** can be equipped on your character by clicking on them after obtaining them.
-
-<figure><img src="../.gitbook/assets/disc222323393.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+T (Achievements Information)</strong></mark></p></figcaption></figure>
-
-## **Understanding Achievements**
-
-<figure><img src="../.gitbook/assets/5423.png" alt=""><figcaption><p><mark style="color:red;"><strong>Achievement Details</strong></mark></p></figcaption></figure>
-
-<table><thead><tr><th width="68">N</th><th>Information</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Title</td><td>Obtained title.</td></tr><tr><td>2</td><td>Objective</td><td>What needs to be done to receive the title.</td></tr><tr><td>3</td><td>Progress</td><td>Your achievement progress.</td></tr><tr><td>4</td><td>Use</td><td>Equip the title.</td></tr><tr><td>5</td><td>Remove</td><td>Unequip the title.</td></tr></tbody></table>
-
-## **Friends Screen (ALT + F)**
-
-* View all your connected friends in one place, including their location, base level, and current class.
-
-<figure><img src="../.gitbook/assets/44311.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+F (Friends List Information)</strong></mark></p></figcaption></figure>
-
-| Information         | Description               |
+| Thông tin          | Mô tả                    |
 | ------------------- | ------------------------- |
-| Send "MESSAGE" - PM | /fm PLAYER NAME ; MESSAGE |
+| Gửi "TIN NHẮN" - PM | /fm TÊN NGƯỜI CHƠI ; TIN NHẮN |
 
-## Party Screen (ALT + Z)
+## Màn hình Nhóm (ALT + Z)
 
-* Playing in a party is much more fun, but first, we need to know how to create one.
-* Click the icon below or press **ALT + Z** to open the party window.
-* Set your party name and click confirm.
+* Chơi trong một nhóm thì thú vị hơn nhiều, nhưng trước tiên, chúng ta cần biết cách tạo một nhóm.
+* Nhấn vào biểu tượng bên dưới hoặc nhấn **ALT + Z** để mở cửa sổ nhóm.
+* Đặt tên nhóm của bạn và nhấn xác nhận.
 
-<figure><img src="../.gitbook/assets/44333311.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ALT+Z (Creating a Party)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44333311.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ALT+Z (Tạo Nhóm)</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/542233.png" alt=""><figcaption><p><mark style="color:red;"><strong>Party Creat</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/542233.png" alt=""><figcaption><p><mark style="color:red;"><strong>Tạo Nhóm</strong></mark></p></figcaption></figure>
 
-## **Macros Screen**
-
-* Want to quickly send that sticker after soloing a friend or stealing the MVP?
-* Add stickers or text to a macro and use key combinations for quick execution.
+## **Màn hình Macro*** Bạn muốn nhanh chóng gửi sticker đó sau khi solo một người bạn hoặc cướp MVP?
+* Thêm sticker hoặc văn bản vào một macro và sử dụng tổ hợp phím để thực hiện nhanh chóng.
 
 <figure><img src="../.gitbook/assets/33311111.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="68">N</th><th width="134">Information</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>STICKERS</td><td>The place where your stickers are stored.</td></tr><tr><td>2</td><td>Shortcuts</td><td>The place where you configure shortcuts to send your stickers in chat.</td></tr></tbody></table>
+<table><thead><tr><th width="68">N</th><th width="134">Thông tin</th><th>Mô tả</th></tr></thead><tbody><tr><td>1</td><td>STICKERS</td><td>Nơi lưu trữ các sticker của bạn.</td></tr><tr><td>2</td><td>Tổ hợp phím</td><td>Nơi bạn cấu hình các tổ hợp phím để gửi sticker trong trò chuyện.</td></tr></tbody></table>
