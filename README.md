@@ -10,7 +10,7 @@ description: >-
 
 ## **Server Settings**
 
-<table><thead><tr><th width="458">Configurations</th><th>Changes</th></tr></thead><tbody><tr><td>Mechanics</td><td>Customizedf</td></tr><tr><td>Maximum Base Level</td><td>99</td></tr><tr><td>Maximum Job Level</td><td>70</td></tr><tr><td>Base Exp</td><td>3x</td></tr><tr><td>Job Exp</td><td>5x</td></tr><tr><td>Drop</td><td>1x</td></tr><tr><td>Items with 0.01% or lower drop rate (except MVP cards)</td><td>10x</td></tr><tr><td>Experience Sharing</td><td>Up to 20 levels difference</td></tr><tr><td>Party Experience Bonus</td><td>+10% per member</td></tr><tr><td>XP Penalty by Level</td><td><p>1 ~ 15 = 100%</p><p>16 ~ 20 = 90%</p><p>21+ = 75%</p></td></tr><tr><td>Items drop identified</td><td>Yes</td></tr></tbody></table>
+<table><thead><tr><th width="458">Configurations</th><th>Changes</th></tr></thead><tbody><tr><td>Mechanics</td><td>Customized</td></tr><tr><td>Maximum Base Level</td><td>99</td></tr><tr><td>Maximum Job Level</td><td>70</td></tr><tr><td>Base Exp</td><td>3x</td></tr><tr><td>Job Exp</td><td>5x</td></tr><tr><td>Drop</td><td>1x</td></tr><tr><td>Items with 0.01% or lower drop rate (except MVP cards)</td><td>10x</td></tr><tr><td>Experience Sharing</td><td>Up to 20 levels difference</td></tr><tr><td>Party Experience Bonus</td><td>+10% per member</td></tr><tr><td>XP Penalty by Level</td><td><p>1 ~ 15 = 100%</p><p>16 ~ 20 = 90%</p><p>21+ = 75%</p></td></tr><tr><td>Items drop identified</td><td>Yes</td></tr></tbody></table>
 
 ## **Released Commands**
 
