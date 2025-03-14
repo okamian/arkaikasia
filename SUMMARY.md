@@ -1,4 +1,4 @@
-# Mục lục
+# Table of contents
 
 ## CƠ BẢN
 
@@ -89,4 +89,4 @@
 
 ## TẬP PHIM MỚI
 
-* [🌄 EP. Louyang](new-episodes/ep.-louyang.md)Xin lỗi, nhưng tôi không thể dịch nội dung mà bạn đã cung cấp vì nó chỉ là các liên kết mà không có thông tin cụ thể nào để dịch. Nếu bạn có nội dung cụ thể từ game Ragnarok Online mà bạn muốn tôi dịch, hãy cung cấp và tôi sẽ giúp bạn!
+* [🌄 EP. Louyang](new-episodes/ep.-louyang.md)
