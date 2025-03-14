@@ -1,68 +1,68 @@
 ---
-description: How about testing your luck in a toy machine? Maybe luck is on your side!
+description: ลองเสี่ยงโชคในเครื่องเล่นของเล่นกันไหม? บางทีโชคอาจอยู่ข้างคุณ!
 ---
 
-# 🎰 Prize Wheel
+# 🎰 วงล้อรางวัล
 
-## **About the Prize Roulette**
+## **เกี่ยวกับวงล้อรางวัล**
 
-* **Mechanics:** Players spend <mark style="color:red;">**250k zeny**</mark>**&#x20;per spin**, receiving random items.
-* **Guarantees:** After **70 spins**, a **rare item is guaranteed**; after **150 spins**, a **legendary item is ensured**.
-* <mark style="color:red;">**Reset**</mark>**:** The guarantee for **rare and legendary items resets after obtaining them**.
-* **Item Categories:** Items are divided into **common, uncommon, rare, and legendary**, including **consumables, accessories, and unique visuals**.
+* **กลไก:** ผู้เล่นใช้ <mark style="color:red;">**250k zeny**</mark>**&#x20;ต่อการหมุนหนึ่งครั้ง**, รับของรางวัลแบบสุ่ม
+* **การรับประกัน:** หลังจาก **70 การหมุน**, จะได้รับ **ของรางวัลหายาก**; หลังจาก **150 การหมุน**, จะได้รับ **ของรางวัลระดับตำนาน**.
+* <mark style="color:red;">**รีเซ็ต**</mark>**:** การรับประกันสำหรับ **ของรางวัลหายากและระดับตำนานจะรีเซ็ตหลังจากได้รับแล้ว**.
+* **ประเภทของรายการ:** รายการแบ่งออกเป็น **ทั่วไป, ไม่ธรรมดา, หายาก, และระดับตำนาน**, รวมถึง **ของบริโภค, เครื่องประดับ, และภาพลักษณ์ที่ไม่ซ้ำกัน**.
 
 ***
 
-## **Where to Find the Roulette?**
+## **จะหาวงล้อได้ที่ไหน?**
 
-* The **"**<mark style="color:red;">**Prize Roulette**</mark>**" NPC** can be found in **all cities**.
+* **NPC "วงล้อรางวัล"** สามารถพบได้ใน **ทุกเมือง**.
 
 <figure><img src="../.gitbook/assets/12312.png" alt=""><figcaption></figcaption></figure>
 
-## **List of Obtainable Items**
+## **รายการของรางวัลที่สามารถรับได้**
 
-### <mark style="background-color:blue;">**Common**</mark>
+### <mark style="background-color:blue;">**ทั่วไป**</mark>
 
-| Item                                                       | Quantity |
+| รายการ                                                       | จำนวน |
 | ---------------------------------------------------------- | -------- |
-| ![](../.gitbook/assets/601.png) Fly Wing                   | 40       |
-| ![](../.gitbook/assets/7433.png) Blank Scroll              | 10       |
-| ![](<../.gitbook/assets/547 (1).png>) Compact White Potion | 10       |
-| ![](<../.gitbook/assets/578 (1).png>) Strawberry           | 10       |
-| ![](../.gitbook/assets/605.png) Painkiller                 | 2        |
-| ![](../.gitbook/assets/12216.png) Repair Scroll            | 1        |
+| ![](../.gitbook/assets/601.png) ปีกบิน                   | 40       |
+| ![](../.gitbook/assets/7433.png) ม้วนเปล่า              | 10       |
+| ![](<../.gitbook/assets/547 (1).png>) ยาไวท์คอมแพค | 10       |
+| ![](<../.gitbook/assets/578 (1).png>) สตรอว์เบอร์รี           | 10       |
+| ![](../.gitbook/assets/605.png) ยาแก้ปวด                 | 2        |
+| ![](../.gitbook/assets/12216.png) ม้วนซ่อม            | 1        |
 
-### <mark style="background-color:purple;">Uncommon</mark>
+### <mark style="background-color:purple;">ไม่ธรรมดา</mark>
 
-| Item                                             | Quantity |
+| รายการ                                             | จำนวน |
 | ------------------------------------------------ | -------- |
-| ![](../.gitbook/assets/610.png) Yggdrasil Leaf   | 2        |
-| ![](../.gitbook/assets/525.png) Panacea          | 2        |
-| ![](../.gitbook/assets/608.png) Yggdrasil Seed   | 2        |
-| ![](../.gitbook/assets/607.png) Yggdrasil Fruit  | 2        |
-| ![](../.gitbook/assets/12030.png) Resentment Box | 1        |
-| ![](../.gitbook/assets/12031.png) Drowsiness Box | 1        |
-| ![](../.gitbook/assets/12028.png) Thunder Box    | 1        |
+| ![](../.gitbook/assets/610.png) ใบยักษ์   | 2        |
+| ![](../.gitbook/assets/525.png) ยาแพนซี          | 2        |
+| ![](../.gitbook/assets/608.png) เมล็ดยักษ์   | 2        |
+| ![](../.gitbook/assets/607.png) ผลยักษ์  | 2        |
+| ![](../.gitbook/assets/12030.png) กล่องความแค้น | 1        |
+| ![](../.gitbook/assets/12031.png) กล่องง่วงนอน | 1        |
+| ![](../.gitbook/assets/12028.png) กล่องฟ้าผ่า    | 1        |
 
-### <mark style="background-color:orange;">Rare</mark>
+### <mark style="background-color:orange;">หายาก</mark>
 
-| Item                                                       | Quantity |
+| รายการ                                                       | จำนวน |
 | ---------------------------------------------------------- | -------- |
-| ![](../.gitbook/assets/7621.png) Ziegfried's Amulet        | 10       |
-| ![](<../.gitbook/assets/547 (2).png>) Compact White Potion | 50       |
-| ![](../.gitbook/assets/657.png) Berserk Potion             | 5        |
-| ![](<../.gitbook/assets/12216 (1).png>) Agility Scroll     | 10       |
-| ![](../.gitbook/assets/606.png) Aloe Vera                  | 2        |
-| ![](../.gitbook/assets/7620.png) Enriched Oridecon         | 1        |
-| ![](../.gitbook/assets/12213.png) Neuralizer               | 1        |
-| ![](../.gitbook/assets/6320.png) Reset Stone               | 8        |
-| ![](../.gitbook/assets/671.png) Royal Coin                 | 1        |
-| ![](../.gitbook/assets/31178.png) Burning Scarf            | 1        |
-| ![](../.gitbook/assets/20561.png) Purple Electric Aura     | 1        |
-| ![](../.gitbook/assets/5031.png) Miner's Hat               | 1        |
+| ![](../.gitbook/assets/7621.png) จี้ซีกฟรีด        | 10       |
+| ![](<../.gitbook/assets/547 (2).png>) ยาไวท์คอมแพค | 50       |
+| ![](../.gitbook/assets/657.png) ยาเบิร์เซิร์ก             | 5        |
+| ![](<../.gitbook/assets/12216 (1).png>) ม้วนความคล่องตัว     | 10       |
+| ![](../.gitbook/assets/606.png) อโลเวร่า                  | 2        |
+| ![](../.gitbook/assets/7620.png) โอไรเดคอนที่อุดมสมบูรณ์         | 1        |
+| ![](../.gitbook/assets/12213.png) นิวรัลไลเซอร์               | 1        |
+| ![](../.gitbook/assets/6320.png) หินรีเซ็ต               | 8        |
+| ![](../.gitbook/assets/671.png) เหรียญราชา                 | 1        |
+| ![](../.gitbook/assets/31178.png) ผ้าพันคอที่ลุกไหม้            | 1        |
+| ![](../.gitbook/assets/20561.png) ออร่าฟ้าสีม่วง     | 1        |
+| ![](../.gitbook/assets/5031.png) หมวกคนงาน               | 1        |
 
-### <mark style="background-color:red;">Lengendary</mark>
+### <mark style="background-color:red;">ระดับตำนาน</mark>
 
-| Item                                           | Quantity |
+| รายการ                                           | จำนวน |
 | ---------------------------------------------- | -------- |
-| ![](../.gitbook/assets/20491.png) Sniper Tiara | 1        |
+| ![](../.gitbook/assets/20491.png) ทีอาร่าสไนเปอร์ | 1        |

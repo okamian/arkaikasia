@@ -1,42 +1,42 @@
 ---
 description: >-
-  A new way to manage your guild members—join forces, overcome challenges,
-  unlock new resources, and prepare for the ultimate battle!
+  วิธีใหม่ในการจัดการสมาชิกในกิลด์ของคุณ—รวมพลังกันเอาชนะความท้าทาย,
+  ปลดล็อกทรัพยากรใหม่ และเตรียมพร้อมสำหรับการต่อสู้ครั้งสำคัญ!
 ---
 
-# 🏰 Guild House
+# 🏰 บ้านกิลด์
 
 <figure><img src="../.gitbook/assets/Guildhouse.png" alt=""><figcaption></figcaption></figure>
 
-## About the Guild House
+## เกี่ยวกับบ้านกิลด์
 
-* The <mark style="color:red;">**Guild House**</mark> is a centralized location where guild members can gather, socialize, and strengthen their bonds as a community.
-* Below are comprehensive details about this important feature.
+* <mark style="color:red;">**บ้านกิลด์**</mark> เป็นสถานที่ศูนย์กลางที่สมาชิกกิลด์สามารถมารวมตัวกัน สังคม และเสริมสร้างความสัมพันธ์ในฐานะชุมชน
+* ด้านล่างนี้คือรายละเอียดที่ครอบคลุมเกี่ยวกับฟีเจอร์ที่สำคัญนี้
 
-## How to Access the Guild House
+## วิธีเข้าถึงบ้านกิลด์
 
-* You must be part of a <mark style="color:red;">**GUILD**</mark>, and then press <mark style="color:red;">**(ALT + G)**</mark>.
-* In the Guild interface, click the **"**<mark style="color:red;">**HALL**</mark>**"** button to teleport to your Guild House.
+* คุณต้องเป็นส่วนหนึ่งของ <mark style="color:red;">**กิลด์**</mark> และจากนั้นกด <mark style="color:red;">**(ALT + G)**</mark>
+* ในอินเทอร์เฟซกิลด์ คลิกที่ปุ่ม **"**<mark style="color:red;">**HALL**</mark>**"** เพื่อเทเลพอร์ตไปยังบ้านกิลด์ของคุณ
 
-<figure><img src="../.gitbook/assets/g111.gif" alt=""><figcaption><p><mark style="color:red;"><strong>In your ALT+G, click on "HALL" to be teleported to the GUILD HOUSE.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/g111.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ใน ALT+G ของคุณ คลิกที่ "HALL" เพื่อเทเลพอร์ตไปยังบ้านกิลด์.</strong></mark></p></figcaption></figure>
 
-## About NPCs
+## เกี่ยวกับ NPCs
 
-* Each NPC inside the **Guild House** is responsible for an important action.
-* There are currently <mark style="color:red;">**(3 Main NPCs)**</mark>**&#x20;inside the Guild House**.
-* It is possible to unlock **new NPCs** within the <mark style="color:red;">**GUILD**</mark> by contributing and completing missions.
+* NPC แต่ละตัวภายใน **บ้านกิลด์** มีหน้าที่สำคัญ
+* ขณะนี้มี <mark style="color:red;">**(3 NPC หลัก)**</mark>**&#x20;ภายในบ้านกิลด์** 
+* สามารถปลดล็อก **NPC ใหม่** ภายใน <mark style="color:red;">**กิลด์**</mark> โดยการมีส่วนร่วมและทำภารกิจให้สำเร็จ
 
-<table><thead><tr><th width="306">Image</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/300px-Donateguild.png" alt=""> <strong>Donate</strong></td><td><p>At the center of the <strong>Guild House</strong> map, you will find a <strong>standard donation NPC</strong>, where players can contribute various items to the guild.<br></p><p>The <strong>item donation is random</strong>, meaning players can contribute a variety of resources to help the guild grow and develop.</p></td></tr></tbody></table>
+<table><thead><tr><th width="306">ภาพ</th><th>ข้อมูล</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/300px-Donateguild.png" alt=""> <strong>บริจาค</strong></td><td><p>ที่กลางแผนที่ <strong>บ้านกิลด์</strong> คุณจะพบ <strong>NPC บริจาคมาตรฐาน</strong> ซึ่งผู้เล่นสามารถบริจาคไอเทมต่างๆ ให้กับกิลด์<br></p><p>การ <strong>บริจาคไอเทมเป็นแบบสุ่ม</strong> หมายความว่าผู้เล่นสามารถบริจาคทรัพยากรที่หลากหลายเพื่อช่วยให้กิลด์เติบโตและพัฒนา</p></td></tr></tbody></table>
 
-<table><thead><tr><th width="308">Image</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/300px-FolkGuild.png" alt=""><strong>Folkvang</strong></td><td><p>The <strong>Folkvang Boss Guild</strong> is a <strong>weekly guild event</strong> where players face <strong>bosses</strong> of varying difficulty levels, from easy to extreme, depending on the guild's preparation.<br></p><p>Each guild gets <strong>one attempt per week</strong> to defeat a boss. If they <strong>win</strong>, they <strong>cannot challenge other bosses</strong>, but if they fail, they can try again in the next available boss.<br></p><p>The event <strong>portal remains open for 3 hours</strong>, allowing free access. However, if the map remains empty for more than <strong>25 minutes</strong>, the portal closes.<br></p><p>Each <strong>boss</strong> has <strong>specific mechanics</strong> that are activated when its <strong>HP reaches 70%, 50%, and 20%</strong>.</p></td></tr></tbody></table>
+<table><thead><tr><th width="308">ภาพ</th><th>ข้อมูล</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/300px-FolkGuild.png" alt=""><strong>Folkvang</strong></td><td><p><strong>Folkvang Boss Guild</strong> เป็น <strong>กิจกรรมกิลด์ประจำสัปดาห์</strong> ที่ผู้เล่นต้องเผชิญกับ <strong>บอส</strong> ที่มีระดับความยากแตกต่างกัน ตั้งแต่ระดับง่ายไปจนถึงระดับสุดขีด ขึ้นอยู่กับการเตรียมตัวของกิลด์<br></p><p>แต่ละกิลด์จะมี <strong>โอกาสหนึ่งครั้งต่อสัปดาห์</strong> ในการเอาชนะบอส หากพวกเขา <strong>ชนะ</strong> พวกเขา <strong>ไม่สามารถท้าทายบอสตัวอื่นได้</strong> แต่ถ้าล้มเหลว พวกเขาสามารถลองอีกครั้งในบอสตัวถัดไปที่มีให้<br></p><p>กิจกรรม <strong>พอร์ทัลจะเปิดอยู่เป็นเวลา 3 ชั่วโมง</strong> อนุญาตให้เข้าถึงได้ฟรี อย่างไรก็ตาม หากแผนที่ว่างเปล่าเกิน <strong>25 นาที</strong> พอร์ทัลจะปิด<br></p><p>แต่ละ <strong>บอส</strong> มี <strong>กลไกเฉพาะ</strong> ที่จะถูกเปิดใช้งานเมื่อ <strong>HP ของมันลดลงถึง 70%, 50% และ 20%</strong></p></td></tr></tbody></table>
 
-<table><thead><tr><th width="311">Image</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/300px-ValkGuild.png" alt=""><strong>Valkyrie</strong></td><td><p>The <strong>Contribution Coins</strong> obtained from donations can be used at <strong>Valkyrie</strong> to increase your stats, providing <strong>permanent bonuses</strong> for your character.<br></p><p><strong>Guild members</strong> can receive <strong>Prayer Blessing Bonuses</strong> and <strong>Valkyrie's Blessing Bonuses</strong>. The <strong>Prayer Bonuses</strong> are exchanged for <strong>Contribution Coins</strong> (earned by making <strong>donations</strong> to the <strong>guild</strong>), while <strong>Blessing Bonuses</strong> are exchanged for <strong>attribute cards</strong> (which can be obtained by completing <strong>Guild Boss</strong> challenges).<br></p><p>These bonuses are <strong>character-specific and permanent</strong>, meaning they <strong>remain even if the player leaves the guild</strong>.</p></td></tr></tbody></table>
+<table><thead><tr><th width="311">ภาพ</th><th>ข้อมูล</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/300px-ValkGuild.png" alt=""><strong>Valkyrie</strong></td><td><p> <strong>เหรียญการบริจาค</strong> ที่ได้รับจากการบริจาคสามารถใช้ที่ <strong>Valkyrie</strong> เพื่อเพิ่มสถิติของคุณ โดยให้ <strong>โบนัสถาวร</strong> สำหรับตัวละครของคุณ<br></p><p><strong>สมาชิกกิลด์</strong> สามารถรับ <strong>โบนัสพร</strong> และ <strong>โบนัสพรของ Valkyrie</strong> <strong>โบนัสพร</strong> จะถูกแลกเปลี่ยนเป็น <strong>เหรียญการบริจาค</strong> (ที่ได้รับจากการ <strong>บริจาค</strong> ให้กับ <strong>กิลด์</strong>) ในขณะที่ <strong>โบนัสพร</strong> จะถูกแลกเปลี่ยนเป็น <strong>การ์ดแอตทริบิวต์</strong> (ซึ่งสามารถได้รับจากการทำภารกิจ <strong>Guild Boss</strong>)<br></p><p>โบนัสเหล่านี้เป็น <strong>เฉพาะตัวละครและถาวร</strong> หมายความว่าพวกเขาจะ <strong>ยังคงอยู่แม้ว่าผู้เล่นจะออกจากกิลด์</strong></p></td></tr></tbody></table>
 
 ## Buffs da Valkyrie Acumulados
 
 {% tabs %}
 {% tab title="BLESSING" %}
-## <mark style="color:red;">Blessing Bonuses</mark>
+## <mark style="color:red;">โบนัสพร</mark>
 
 * ATK 0/100
 * MATK 0/100
@@ -46,58 +46,56 @@ description: >-
 {% endtab %}
 
 {% tab title="ATTACK" %}
-## <mark style="color:red;">**Blessing Bonuses (ATTACK)**</mark>
+## <mark style="color:red;">**โบนัสพร (การโจมตี)**</mark>
 
 * ATK 0/30 - 30ATK
 * MATK 0/30 - 30MATK
-* Damage to Human 0/30 (0.5% \~ 15%)
-* Critical Damage 0/30 (1% \~ 30%)
-* Ignore Small Def. 0/30 (0.5% \~ 15%)
-* Ignore Medium Def. 0/30 (0.5% \~ 15%)
-* Ignore Large Def. 0/30 (0.5% \~ 15%)
-* Ignore MDEF. Non-Boss 0/30 (0.5% \~ 15%)
-* Ignore MDEF. Boss 0/30 (0.5% \~ 15%)
+* ความเสียหายต่อมนุษย์ 0/30 (0.5% \~ 15%)
+* ความเสียหายวิกฤต 0/30 (1% \~ 30%)
+* มองข้ามการป้องกันเล็ก 0/30 (0.5% \~ 15%)
+* มองข้ามการป้องกันกลาง 0/30 (0.5% \~ 15%)
+* มองข้ามการป้องกันใหญ่ 0/30 (0.5% \~ 15%)
+* มองข้าม MDEF. Non-Boss 0/30 (0.5% \~ 15%)
+* มองข้าม MDEF. Boss 0/30 (0.5% \~ 15%)
 {% endtab %}
 
 {% tab title="DEFENSE" %}
-## <mark style="color:red;">**Blessing Bonuses (DEFENSE)**</mark>
+## <mark style="color:red;">**โบนัสพร (การป้องกัน)**</mark>
 
-* Max HP 0/30 (100 \~ 3000)
-* Neutral Damage Reduction 0/30 (0.5% \~ 15%)
-* Magic Damage Reduction 0/30 (0.5% \~ 15%)
-* Critical Damage Reduction 0/30 (0.5% \~ 15%)
-* Critical Evasion 0/30 (0.5% \~ 15%)
+* MAX HP 0/30 (100 \~ 3000)
+* การลดความเสียหายธรรมชาติ 0/30 (0.5% \~ 15%)
+* การลดความเสียหายเวท 0/30 (0.5% \~ 15%)
+* การลดความเสียหายวิกฤต 0/30 (0.5% \~ 15%)
+* การหลบหลีกวิกฤต 0/30 (0.5% \~ 15%)
 * DEF 0/30 (0.5% \~ 15%)
 * MDEF 0/30 (0.5% \~ 15%)
-* Ignore MDEF. Non-Boss 0/30 (0.5% \~ 15%)
-* Ignore MDEF. Boss 0/30 (0.5% \~ 15%)
-
-
+* มองข้าม MDEF. Non-Boss 0/30 (0.5% \~ 15%)
+* มองข้าม MDEF. Boss 0/30 (0.5% \~ 15%)
 {% endtab %}
 
 {% tab title="ELEMENT" %}
-## <mark style="color:red;">**Blessing Bonuses (ELEMENT)**</mark>
+## <mark style="color:red;">**โบนัสพร (ธาตุ)**</mark>
 
-* Fire Damage (0.5% \~ 15%)
-* Earth Damage (0.5% \~ 15%)
-* Wind Damage (0.5% \~ 15%)
-* Water Damage (0.5% \~ 15%)
-* Fire Damage Reduction (0.5% \~ 15%)
-* Earth Damage Reduction (0.5% \~ 15%)
-* Wind Damage Reduction (0.5% \~ 15%)
-* Water Damage Reduction (0.5% \~ 15%)
-* Ignore MDEF. Boss (0.5% \~ 15%)
+* ความเสียหายไฟ (0.5% \~ 15%)
+* ความเสียหายดิน (0.5% \~ 15%)
+* ความเสียหายลม (0.5% \~ 15%)
+* ความเสียหายน้ำ (0.5% \~ 15%)
+* การลดความเสียหายไฟ (0.5% \~ 15%)
+* การลดความเสียหายดิน (0.5% \~ 15%)
+* การลดความเสียหายลม (0.5% \~ 15%)
+* การลดความเสียหายน้ำ (0.5% \~ 15%)
+* มองข้าม MDEF. Boss (0.5% \~ 15%)
 {% endtab %}
 
 {% tab title="Accumulated " %}
-## <mark style="color:red;">**Accumulated Status:**</mark>
+## <mark style="color:red;">**สถานะที่สะสม:**</mark>
 
 * ATK 130
 * MATK 130
 * MAX HP 7000
 * DEF 115
 * MDEF 115
-* Ignore MDEF. Non-Boss 30%
-* Ignore MDEF. Boss 45%
+* มองข้าม MDEF. Non-Boss 30%
+* มองข้าม MDEF. Boss 45%
 {% endtab %}
 {% endtabs %}

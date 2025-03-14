@@ -1,19 +1,19 @@
 ---
-description: The best way to store your hard-earned Zeny is right here!
+description: วิธีที่ดีที่สุดในการเก็บ Zeny ที่คุณหามาได้คือที่นี่!
 ---
 
-# 🏦 Banker
+# 🏦 ธนาคาร
 
-## **What is the Banker?**
+## **ธนาคารคืออะไร?**
 
-* The **Banker** is an **NPC located in the city of&#x20;**<mark style="color:red;">**Prontera**</mark>.
-* Its function is to **store your Zeny safely**.
+* **ธนาคาร** เป็น **NPC ที่ตั้งอยู่ในเมือง**<mark style="color:red;">**Prontera**</mark>.
+* หน้าที่ของมันคือ **เก็บ Zeny ของคุณอย่างปลอดภัย**.
 
-<figure><img src="../.gitbook/assets/123111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Banker Location in Prontera</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/123111.png" alt=""><figcaption><p><mark style="color:red;"><strong>ตำแหน่งธนาคารใน Prontera</strong></mark></p></figcaption></figure>
 
-## **How Does It Work?**
+## **มันทำงานอย่างไร?**
 
-* The <mark style="background-color:red;">**Banker can store your Zeny**</mark>, allowing you to **use it across different characters**.
-* Each time you **"**<mark style="color:red;">**Withdraw**</mark>**"** Zeny, you <mark style="color:red;">**must pay a small fee**</mark>.
+* <mark style="background-color:red;">**ธนาคารสามารถเก็บ Zeny ของคุณ**</mark> ทำให้คุณสามารถ **ใช้งานได้ข้ามตัวละครต่างๆ**.
+* ทุกครั้งที่คุณ **"**<mark style="color:red;">**ถอน**</mark>**"** Zeny คุณ <mark style="color:red;">**ต้องจ่ายค่าธรรมเนียมเล็กน้อย**</mark>.
 
-<figure><img src="../.gitbook/assets/4412.png" alt=""><figcaption><p><mark style="color:red;"><strong>Banker Information Upon Interaction</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4412.png" alt=""><figcaption><p><mark style="color:red;"><strong>ข้อมูลธนาคารเมื่อมีการโต้ตอบ</strong></mark></p></figcaption></figure>

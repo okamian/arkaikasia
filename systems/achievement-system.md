@@ -1,15 +1,14 @@
 ---
 description: >-
-  In Arkaik: Tales of Sarina, every achievement is celebrated with a grand
-  title!
+  ใน Arkaik: Tales of Sarina ทุกความสำเร็จจะถูกเฉลิมฉลองด้วยชื่อเสียงใหญ่โต!
 ---
 
-# 🥇 Achievement System
+# 🥇 ระบบความสำเร็จ
 
-## **Achievement Title**
+## **ชื่อความสำเร็จ**
 
-* At any time, open your achievements screen <mark style="color:red;">**(ALT + T)**</mark> and activate one of your titles!
-* These are **"**<mark style="color:red;">**visual titles**</mark>**"** given to characters upon meeting certain requirements.
-* Titles appear next to your character's name.
+* ในทุกเวลา เปิดหน้าจอความสำเร็จของคุณ <mark style="color:red;">**(ALT + T)**</mark> และเปิดใช้งานชื่อของคุณ!
+* นี่คือ **"**<mark style="color:red;">**ชื่อเสียงที่มองเห็นได้**</mark>**"** ที่มอบให้กับตัวละครเมื่อบรรลุข้อกำหนดบางอย่าง
+* ชื่อจะปรากฏถัดจากชื่อของตัวละครของคุณ
 
 <figure><img src="../.gitbook/assets/cca.gif" alt=""><figcaption></figcaption></figure>

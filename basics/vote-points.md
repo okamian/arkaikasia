@@ -1,7 +1,7 @@
 ---
-description: Under construction.
+description: กำลังอยู่ในระหว่างการก่อสร้าง
 ---
 
-# 🔝 Vote Points
+# 🔝 คะแนนโหวต
 
-<mark style="color:red;">**Waiting for information from Asia.**</mark>
+<mark style="color:red;">**รอข้อมูลจากเอเชียอยู่**</mark>

@@ -1,3 +1,3 @@
-# 📩 How to Open a Ticket
+# 📩 วิธีเปิดตั๋ว
 
-<mark style="color:red;">**Waiting for information from Asia.**</mark>
+<mark style="color:red;">**รอข้อมูลจากเอเชีย**</mark>

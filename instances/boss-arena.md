@@ -1,28 +1,27 @@
 ---
 description: >-
-  The "Boss Arena" is a special location that offers players the opportunity to
-  face powerful bosses in a controlled environment.
+  "Boss Arena" เป็นสถานที่พิเศษที่มอบโอกาสให้ผู้เล่นได้เผชิญหน้ากับบอสที่ทรงพลังในสภาพแวดล้อมที่ควบคุมได้
 ---
 
 # 🐲 Boss Arena
 
-* To participate, it is necessary to meet specific requirements and follow rules that optimize the experience and rewards for participants.
-* Below are the details and categories of the arena mechanics.
+* เพื่อเข้าร่วม จะต้องมีคุณสมบัติตามที่กำหนดและปฏิบัติตามกฎที่ช่วยเพิ่มประสบการณ์และรางวัลสำหรับผู้เข้าร่วม
+* ด้านล่างนี้คือรายละเอียดและหมวดหมู่ของกลไกในอารีน่า
 
-## About the Location
+## เกี่ยวกับสถานที่
 
-* Head to the city of **"**<mark style="color:red;">**Prontera**</mark>**"**, accessing any Kafra from a nearby city.
-* You will find the NPC **"**<mark style="color:red;">**Satella**</mark>**"** in the upper right corner of the map.
+* ไปที่เมือง **"**<mark style="color:red;">**Prontera**</mark>**"**, โดยเข้าถึง Kafra จากเมืองใกล้เคียง
+* คุณจะพบ NPC **"**<mark style="color:red;">**Satella**</mark>**"** ที่มุมขวาบนของแผนที่
 
-<figure><img src="../.gitbook/assets/311.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Satella is responsible for opening the Boss rooms.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/311.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Satella เป็นผู้รับผิดชอบในการเปิดห้องบอส</strong></mark></p></figcaption></figure>
 
-## **Entry and Fees**
+## **ค่าธรรมเนียมและการเข้าชม**
 
-* **Entry Fee:** Each entry to the **Boss Arena** costs **150k Zeny**.
-* If the player dies during the session, it is possible to return, but the entry fee must be paid again.
-* **Access Duration:** After entering, the player will have **4 continuous hours** to stay in the arena.
-* The timer starts counting as soon as the player enters the arena.
-* **Important:** The time is not cumulative. If the player uses only **1 hour** and leaves, the remaining time is lost.
+* **ค่าธรรมเนียมการเข้าชม:** การเข้าชม **Boss Arena** แต่ละครั้งมีค่าใช้จ่าย **150k Zeny**
+* หากผู้เล่นเสียชีวิตระหว่างเซสชัน สามารถกลับมาได้ แต่ต้องจ่ายค่าธรรมเนียมอีกครั้ง
+* **ระยะเวลาเข้าถึง:** หลังจากเข้ามา ผู้เล่นจะมีเวลา **4 ชั่วโมงต่อเนื่อง** ในการอยู่ในอารีน่า
+* ตัวจับเวลาจะเริ่มนับเมื่อผู้เล่นเข้ามาในอารีน่า
+* **สำคัญ:** เวลาไม่สะสม หากผู้เล่นใช้เวลาเพียง **1 ชั่วโมง** และออกไป เวลาอื่นจะหายไป
 
 ***
 
@@ -34,90 +33,90 @@ description: >-
 * **25 ➝ 50 Boss Coins**
 
 {% tabs %}
-{% tab title="Room" %}
-## **Room Types**
+{% tab title="ห้อง" %}
+## **ประเภทห้อง**
 
-### **Public Rooms:**
+### **ห้องสาธารณะ:**
 
-* There are 2 public rooms, where players can choose to enter the less crowded one.
-* A <mark style="color:red;">**public room**</mark> has a duration of **4 hours** after paying the fee of **150k Zeny**.
+* มีห้องสาธารณะ 2 ห้อง ที่ผู้เล่นสามารถเลือกเข้าห้องที่ไม่แออัด
+* ห้อง <mark style="color:red;">**สาธารณะ**</mark> มีระยะเวลา **4 ชั่วโมง** หลังจากจ่ายค่าธรรมเนียม **150k Zeny**
 
-<figure><img src="../.gitbook/assets/4441.png" alt=""><figcaption><p><mark style="color:red;"><strong>Acesso a sala pública.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4441.png" alt=""><figcaption><p><mark style="color:red;"><strong>เข้าถึงห้องสาธารณะ</strong></mark></p></figcaption></figure>
 
-### **Private Rooms:**
+### **ห้องส่วนตัว:**
 
-* It is possible to acquire an **exclusive private room** for your **party (PT)** at a cost of **3kk Zeny**.
-* A <mark style="color:red;">**private room**</mark> also lasts for **4 hours**, and only **PT members** will have access.
+* สามารถซื้อ **ห้องส่วนตัวพิเศษ** สำหรับ **ปาร์ตี้ (PT)** ของคุณในราคา **3kk Zeny**
+* ห้อง <mark style="color:red;">**ส่วนตัว**</mark> จะมีอายุ **4 ชั่วโมง** และเฉพาะ **สมาชิก PT** เท่านั้นที่จะเข้าถึงได้
 {% endtab %}
 
 {% tab title="Boss Coin" %}
-## **Boss Coin Farming Limit**
+## **ขีดจำกัดการฟาร์ม Boss Coin**
 
-* The maximum daily limit is **500 "Boss Coins"** per player.
-* After reaching the limit, the player can still continue helping their team, but <mark style="color:red;">**will no longer receive more Boss Coins**</mark><mark style="color:red;">.</mark>
+* ขีดจำกัดสูงสุดต่อวันคือ **500 "Boss Coins"** ต่อผู้เล่น
+* หลังจากถึงขีดจำกัด ผู้เล่นยังสามารถช่วยทีมต่อไปได้ แต่ <mark style="color:red;">**จะไม่ได้รับ Boss Coins เพิ่มเติม**</mark><mark style="color:red;">.</mark>
 
-<figure><img src="../.gitbook/assets/555.png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of the Boss Coin Limit.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/555.png" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของขีดจำกัด Boss Coin</strong></mark></p></figcaption></figure>
 
-## **Boss Coin Drop Chances**
+## **โอกาสในการดรอป Boss Coin**
 
-The chance of obtaining Boss Coins is directly **related to the HP of the defeated enemy**.
+โอกาสในการได้รับ Boss Coins จะสัมพันธ์โดยตรงกับ **HP ของศัตรูที่ถูกปราบ**
 
-* **Drop probabilities by HP:**
-  * Every **200k HP** has a **10% chance** of earning <mark style="color:red;">**1 Coin**</mark>. _(For example, up to 200k = 10%, 400k = 20%, and so on...)_
-  * **From 1kk to 3kk HP**, there is a **100% chance** of earning <mark style="color:red;">**1 Coin**</mark>.
-  * **Above 3kk HP**, there is a **100% chance** of earning <mark style="color:red;">**3 Coins**</mark>.
+* **ความน่าจะเป็นในการดรอปตาม HP:**
+  * ทุก **200k HP** มี **10% โอกาส** ที่จะได้รับ <mark style="color:red;">**1 Coin**</mark>. _(เช่น สูงสุด 200k = 10%, 400k = 20%, และต่อไป...)_
+  * **ตั้งแต่ 1kk ถึง 3kk HP** มี **100% โอกาส** ที่จะได้รับ <mark style="color:red;">**1 Coin**</mark>.
+  * **มากกว่า 3kk HP** มี **100% โอกาส** ที่จะได้รับ <mark style="color:red;">**3 Coins**</mark>.
 {% endtab %}
 
-{% tab title="Monsters" %}
-## **Bosses and Mini-Bosses**
+{% tab title="มอนสเตอร์" %}
+## **บอสและมินิบอส**
 
-* All current Bosses <mark style="color:red;">(Except those from Eldoria)</mark>.
-* All Mini-Bosses present.
+* บอสทั้งหมดในปัจจุบัน <mark style="color:red;">(ยกเว้นบอสจาก Eldoria)</mark>.
+* มินิบอสทั้งหมดที่มีอยู่
 
-### **Highlights**
+### **ไฮไลท์**
 
-* They do not drop loot.
-* They do not give experience.
+* พวกเขาไม่ดรอปของ
+* พวกเขาไม่ให้ประสบการณ์
 
 ### **MVPS**
 
-<table><thead><tr><th width="83">IMG</th><th width="227">Name</th><th>Chance</th><th>Boss Coin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/2202.png" alt=""></td><td>Kraken</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2194.png" alt=""></td><td>Giant Octopus</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1059.png" alt=""></td><td>Queen Bee</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1086.png" alt=""></td><td>Golden Thief Bug</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1150.png" alt=""></td><td>Luar Flower</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1159.png" alt=""></td><td>Freeoni</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1147.png" alt=""></td><td>Maya</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1115.png" alt=""></td><td>Eddga</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1046.png" alt=""></td><td>Doppelganger</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1389.png" alt=""></td><td>Dracula</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1112.png" alt=""></td><td>Drake</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1038.png" alt=""></td><td>Osíris</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1157.png" alt=""></td><td>Pharaoh</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1312.png" alt=""></td><td>General Turtle</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1688.png" alt=""></td><td>Lady Tanee</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/20571.png" alt=""></td><td>Orc Hero</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/3902.png" alt=""></td><td>Orc Lord</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1623.png" alt=""></td><td>RSX 0806</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1511.png" alt=""></td><td>Amon Ra</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1039.png" alt=""></td><td>Baphomet</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1373.png" alt=""></td><td>Lord of the Dead</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1583.png" alt=""></td><td>Tao Gunka</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1251 (1).png" alt=""></td><td>Stormy Knight</td><td>100%</td><td>25</td></tr><tr><td><img src="../.gitbook/assets/1252 (1).png" alt=""></td><td>Hatii</td><td>100%</td><td>25</td></tr><tr><td><img src="../.gitbook/assets/download.png" alt=""></td><td>Detardeurus</td><td>100%</td><td>25</td></tr></tbody></table>
+<table><thead><tr><th width="83">IMG</th><th width="227">ชื่อ</th><th>โอกาส</th><th>Boss Coin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/2202.png" alt=""></td><td>Kraken</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2194.png" alt=""></td><td>Giant Octopus</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1059.png" alt=""></td><td>Queen Bee</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1086.png" alt=""></td><td>Golden Thief Bug</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1150.png" alt=""></td><td>Luar Flower</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1159.png" alt=""></td><td>Freeoni</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1147.png" alt=""></td><td>Maya</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1115.png" alt=""></td><td>Eddga</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1046.png" alt=""></td><td>Doppelganger</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1389.png" alt=""></td><td>Dracula</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1112.png" alt=""></td><td>Drake</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1038.png" alt=""></td><td>Osíris</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1157.png" alt=""></td><td>Pharaoh</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1312.png" alt=""></td><td>General Turtle</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1688.png" alt=""></td><td>Lady Tanee</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/20571.png" alt=""></td><td>Orc Hero</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/3902.png" alt=""></td><td>Orc Lord</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1623.png" alt=""></td><td>RSX 0806</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1511.png" alt=""></td><td>Amon Ra</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1039.png" alt=""></td><td>Baphomet</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1373.png" alt=""></td><td>Lord of the Dead</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1583.png" alt=""></td><td>Tao Gunka</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1251 (1).png" alt=""></td><td>Stormy Knight</td><td>100%</td><td>25</td></tr><tr><td><img src="../.gitbook/assets/1252 (1).png" alt=""></td><td>Hatii</td><td>100%</td><td>25</td></tr><tr><td><img src="../.gitbook/assets/download.png" alt=""></td><td>Detardeurus</td><td>100%</td><td>25</td></tr></tbody></table>
 
-### Mini-Bosses
+### มินิบอส
 
-<table><thead><tr><th width="81">IMG</th><th width="223">Name</th><th>Chance</th><th>Coin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1091.png" alt=""></td><td>Dragonfly</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1092.png" alt=""></td><td>Wandering Wolf</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1093.png" alt=""></td><td>Eclipse</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1096.png" alt=""></td><td>Angeling</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2933.png" alt=""></td><td>Deviling</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1307.png" alt=""></td><td>Nine-Tailed Cat</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1012.png" alt=""></td><td>Toad</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2041.png" alt=""></td><td>Mysteltainn</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1289.png" alt=""></td><td>Male Maya</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1204.png" alt=""></td><td>Tirfing</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1205.png" alt=""></td><td>Executor</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1259.png" alt=""></td><td>Griffon</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1262.png" alt=""></td><td>Mutant Dragon</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1388.png" alt=""></td><td>ArchAngeling</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1120.png" alt=""></td><td>Ghostring</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1302.png" alt=""></td><td>Illusion of Darkness</td><td>70%</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="81">IMG</th><th width="223">ชื่อ</th><th>โอกาส</th><th>Coin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1091.png" alt=""></td><td>Dragonfly</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1092.png" alt=""></td><td>Wandering Wolf</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1093.png" alt=""></td><td>Eclipse</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1096.png" alt=""></td><td>Angeling</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2933.png" alt=""></td><td>Deviling</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1307.png" alt=""></td><td>Nine-Tailed Cat</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1012.png" alt=""></td><td>Toad</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2041.png" alt=""></td><td>Mysteltainn</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1289.png" alt=""></td><td>Male Maya</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1204.png" alt=""></td><td>Tirfing</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1205.png" alt=""></td><td>Executor</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1259.png" alt=""></td><td>Griffon</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1262.png" alt=""></td><td>Mutant Dragon</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1388.png" alt=""></td><td>ArchAngeling</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1120.png" alt=""></td><td>Ghostring</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1302.png" alt=""></td><td>Illusion of Darkness</td><td>70%</td><td>1</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Groups" %}
-## About Groups (PTs)
+{% tab title="กลุ่ม" %}
+## เกี่ยวกับกลุ่ม (PTs)
 
-When a player is in a party (PT), the drop of Insignias works as follows:
+เมื่อผู้เล่นอยู่ในปาร์ตี้ (PT) การดรอป Insignias จะทำงานดังนี้:
 
-* Only players level 90 or higher can participate.
-* There is no limit to the number of players in the party (except for the party itself) and no drop penalties.
+* ผู้เล่นที่มีเลเวล 90 ขึ้นไปเท่านั้นที่สามารถเข้าร่วมได้
+* ไม่มีขีดจำกัดจำนวนผู้เล่นในปาร์ตี้ (ยกเว้นปาร์ตี้เอง) และไม่มีการลงโทษการดรอป
 
-#### About Drops
+#### เกี่ยวกับการดรอป
 
-* There is no penalty for players in the party; everyone receives the coins when the drop happens.
-* <mark style="color:red;">**The coin drop is for the entire group.**</mark>
-* <mark style="color:red;">**When a Boss drops a coin, everyone will receive the same amount equally.**</mark>
+* ไม่มีการลงโทษสำหรับผู้เล่นในปาร์ตี้ ทุกคนจะได้รับเหรียญเมื่อมีการดรอป
+* <mark style="color:red;">**การดรอปเหรียญเป็นของทั้งกลุ่ม**</mark>
+* <mark style="color:red;">**เมื่อบอสดรอปเหรียญ ทุกคนจะได้รับจำนวนเท่ากัน**</mark>
 
-#### Spawn Location
+#### สถานที่เกิด
 
-* Inside the area, there will be a safe zone where everyone can prepare before heading out.
-* The location serves as a "lobby" for players to search for and form new parties or find new players to create parties.
+* ภายในพื้นที่ จะมีโซนปลอดภัยที่ทุกคนสามารถเตรียมตัวก่อนออกไป
+* สถานที่จะทำหน้าที่เป็น "ล็อบบี้" สำหรับผู้เล่นในการค้นหาและสร้างปาร์ตี้ใหม่หรือหาผู้เล่นใหม่เพื่อสร้างปาร์ตี้
 {% endtab %}
 
-{% tab title="Item Shop" %}
-* AoNext to the NPC **"Satella"**, you will find the NPC **"**<mark style="color:red;">**Beterin, The Trader**</mark>**"**.
+{% tab title="ร้านค้า" %}
+* ถัดจาก NPC **"Satella"** คุณจะพบ NPC **"**<mark style="color:red;">**Beterin, The Trader**</mark>**"**.
 
-<figure><img src="../.gitbook/assets/55666.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Beterin, The Trader, responsible for the exchange of Boss Coins.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/55666.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Beterin, The Trader, รับผิดชอบในการแลกเปลี่ยน Boss Coins</strong></mark></p></figcaption></figure>
 
-## About the Shop
+## เกี่ยวกับร้านค้า
 
-* Each **MVP** and **Mini-Boss** has a shop with ALL of their drops <mark style="color:red;">(</mark><mark style="color:red;">**Except for cards and gems**</mark><mark style="color:red;">)</mark>.
-* The cost of each item dropped by the boss is based on the drop rate of that item.
+* MVP และมินิบอสแต่ละตัวมีร้านค้าที่มีของดรอปทั้งหมด <mark style="color:red;">(</mark><mark style="color:red;">**ยกเว้นการ์ดและอัญมณี**</mark><mark style="color:red;">)</mark>.
+* ราคาของแต่ละรายการที่ดรอปโดยบอสจะขึ้นอยู่กับอัตราการดรอปของรายการนั้น
 
-<figure><img src="../.gitbook/assets/00000000.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of the Boss Coin Shop</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/00000000.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของร้านค้า Boss Coin</strong></mark></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

@@ -1,90 +1,90 @@
 ---
 description: >-
-  This system will help you earn new rewards in the game without having to play
-  24 hours a day.
+  ระบบนี้จะช่วยให้คุณได้รับรางวัลใหม่ในเกมโดยไม่ต้องเล่น
+  24 ชั่วโมงต่อวัน
 ---
 
-# 🤖 Auto Combat
+# 🤖 การต่อสู้โดยอัตโนมัติ
 
-## **About the System**
+## **เกี่ยวกับระบบ**
 
-We know that many players no longer have as much time as before, so our proposal is to give freedom to casual players who want to play with friends without worrying about spending hours trying to farm an item or complete a **quest**.&#x20;
+เราทราบว่าผู้เล่นหลายคนไม่มีเวลามากเหมือนเมื่อก่อน ดังนั้นข้อเสนอของเราคือการให้เสรีภาพแก่ผู้เล่นทั่วไปที่ต้องการเล่นกับเพื่อนโดยไม่ต้องกังวลเกี่ยวกับการใช้เวลาหลายชั่วโมงในการฟาร์มไอเทมหรือทำ **เควส**.&#x20;
 
-This system allows you to carry out your daily tasks while your character plays automatically for you.
+ระบบนี้ช่วยให้คุณสามารถทำภารกิจประจำวันของคุณในขณะที่ตัวละครของคุณเล่นโดยอัตโนมัติสำหรับคุณ
 
-<table><thead><tr><th width="114">Img</th><th>Name</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/29727.png" alt="" data-size="original"></td><td><strong>30D Stamina:</strong> Allows you to gain 240 minutes (4 hours) of auto-combat per day for 30 days. <br>Every day at 00:00, the 240 minutes will reset to 0/720.</td></tr><tr><td><img src="../.gitbook/assets/29728.png" alt="" data-size="original"></td><td><strong>1D Stamina:</strong> Allows you to gain 360 minutes (6 hours) of auto-combat immediately. Every day at 00:00, the 360 minutes will reset to 0/720.</td></tr></tbody></table>
+<table><thead><tr><th width="114">Img</th><th>ชื่อ</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/29727.png" alt="" data-size="original"></td><td><strong>30D Stamina:</strong> ช่วยให้คุณได้รับ 240 นาที (4 ชั่วโมง) ของการต่อสู้โดยอัตโนมัติต่อวันเป็นเวลา 30 วัน. <br>ทุกวันเวลา 00:00 นาทีจะรีเซ็ตเป็น 0/720.</td></tr><tr><td><img src="../.gitbook/assets/29728.png" alt="" data-size="original"></td><td><strong>1D Stamina:</strong> ช่วยให้คุณได้รับ 360 นาที (6 ชั่วโมง) ของการต่อสู้โดยอัตโนมัติทันที. ทุกวันเวลา 00:00 นาทีจะรีเซ็ตเป็น 0/720.</td></tr></tbody></table>
 
-## <mark style="color:red;">**Rules**</mark>
+## <mark style="color:red;">**กฎ**</mark>
 
-When using **auto-combat**, be aware of some essential rules to use it properly:
+เมื่อใช้ **การต่อสู้โดยอัตโนมัติ** โปรดทราบกฎสำคัญบางประการเพื่อใช้มันอย่างถูกต้อง:
 
-1. The system is not a 100% **bot**; it allows you to stay in combat for a maximum of 12 hours (720 minutes) per day. Even if you buy **Stamina** from the shop, you cannot exceed this limit.
-2. The system does not sell your items or talk to **NPCs**; it only attacks, uses skills, and consumes items.
-3. If you use **Fly Wings** or **Golden Fly Wing**, after 30 seconds without finding monsters, the system will automatically use the item without needing it to be in the skill bar.
-4. **If you use up all 720 minutes in a day, using additional Stamina items will have no effect, as it is not cumulative. The item will appear in your inventory automatically.**
-5. Any form of **auto-farm, bot, or macro** to supplement or improve **auto-combat** is strictly prohibited.
-6. **Auto-combat does not work against MVPs or Champion Mobs.**
-7. **The use of any methods that violate game rules is strictly prohibited.** This includes, but is not limited to:
+1. ระบบนี้ไม่ใช่ **บอท** 100%; มันช่วยให้คุณอยู่ในสนามรบได้สูงสุด 12 ชั่วโมง (720 นาที) ต่อวัน. แม้ว่าคุณจะซื้อ **Stamina** จากร้านค้า คุณก็ไม่สามารถเกินขีดจำกัดนี้ได้.
+2. ระบบนี้ไม่ขายไอเทมหรือพูดคุยกับ **NPCs**; มันจะทำการโจมตี ใช้ทักษะ และบริโภคไอเทมเท่านั้น.
+3. หากคุณใช้ **Fly Wings** หรือ **Golden Fly Wing** หลังจาก 30 วินาทีโดยไม่มีการพบมอนสเตอร์ ระบบจะใช้ไอเทมโดยอัตโนมัติโดยไม่จำเป็นต้องอยู่ในแถบทักษะ.
+4. **หากคุณใช้เวลา 720 นาทีในวันหนึ่ง การใช้ไอเทม Stamina เพิ่มเติมจะไม่มีผล เนื่องจากมันไม่สะสม. ไอเทมจะปรากฏในคลังของคุณโดยอัตโนมัติ.**
+5. รูปแบบใด ๆ ของ **การฟาร์มอัตโนมัติ, บอท, หรือมาโคร** เพื่อเสริมสร้างหรือปรับปรุง **การต่อสู้โดยอัตโนมัติ** เป็นสิ่งต้องห้ามอย่างเคร่งครัด.
+6. **การต่อสู้โดยอัตโนมัติไม่ทำงานกับ MVPs หรือ Champion Mobs.**
+7. **การใช้วิธีการใด ๆ ที่ละเมิดกฎเกมเป็นสิ่งต้องห้ามอย่างเคร่งครัด.** ซึ่งรวมถึง แต่ไม่จำกัดเพียง:
 
-* Performing **RMT (Real Money Trading)** transactions outside the official system. This includes both buying and selling items, currency, or services related to the game.
-* Offering the sale of **Zeny** within the game. This practice is prohibited and subject to punishment, which may result in a **1-day ban or more in case of repeat offenses**.
-* Selling or buying player accounts.
-* Using **macros, bots, or any tools** that allow you to obtain in-game resources without legitimate effort.\
-  Even if the **Auto-Combat** icon is active above your character, the use of macros is still subject to punishment.\
-  To avoid penalties, use only the resources provided directly by the system.
-* Using any form of **cheating** or benefiting from **exploits**.
+* การทำธุรกรรม **RMT (Real Money Trading)** นอกระบบทางการ. ซึ่งรวมถึงการซื้อและขายไอเทม สกุลเงิน หรือบริการที่เกี่ยวข้องกับเกม.
+* การเสนอขาย **Zeny** ภายในเกม. การกระทำนี้เป็นสิ่งต้องห้ามและอาจถูกลงโทษ ซึ่งอาจส่งผลให้เกิด **การแบน 1 วันหรือมากกว่านั้นในกรณีที่ทำผิดซ้ำ**.
+* การขายหรือซื้อบัญชีผู้เล่น.
+* การใช้ **มาโคร, บอท, หรือเครื่องมือใด ๆ** ที่ช่วยให้คุณได้รับทรัพยากรในเกมโดยไม่ต้องใช้ความพยายามที่ถูกต้อง.\
+  แม้ว่าไอคอน **Auto-Combat** จะเปิดอยู่เหนือตัวละครของคุณ การใช้มาโครยังคงมีโทษ.\
+  เพื่อหลีกเลี่ยงการลงโทษ ให้ใช้เฉพาะทรัพยากรที่จัดเตรียมโดยตรงจากระบบ.
+* การใช้รูปแบบใด ๆ ของ **การโกง** หรือการได้รับประโยชน์จาก **การใช้ช่องโหว่**.
 
-Remember that actions that compromise the integrity of the game are subject to severe punishment.\
-To avoid penalties, play fairly and use only the resources provided by the official system.
+โปรดจำไว้ว่าการกระทำที่ทำให้ความสมบูรณ์ของเกมเสียหายจะต้องเผชิญกับการลงโทษที่รุนแรง.\
+เพื่อหลีกเลี่ยงการลงโทษ เล่นอย่างยุติธรรมและใช้เฉพาะทรัพยากรที่จัดเตรียมโดยระบบทางการ.
 
-## **Basic Functions**
+## **ฟังก์ชันพื้นฐาน**
 
 <figure><img src="../.gitbook/assets/autopot.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Setting Up Auto-Combat in Hotkeys**
+## **การตั้งค่าการต่อสู้โดยอัตโนมัติในปุ่มลัด**
 
-* Use <mark style="color:red;">**F1**</mark>**&#x20;to&#x20;**<mark style="color:red;">**F5**</mark> to assign the skills you want **auto-combat** to use automatically.
-* Use <mark style="color:red;">**F6**</mark>**&#x20;to&#x20;**<mark style="color:red;">**F10**</mark> to assign HP and SP potions for restoration.\
-  &#xNAN;_(Golden Fly Wing does not need to be in these slots to be used.)_
-* _List of allowed items for F6 to F10._
+* ใช้ <mark style="color:red;">**F1**</mark>**&#x20;ถึง&#x20;**<mark style="color:red;">**F5**</mark> เพื่อกำหนดทักษะที่คุณต้องการให้ **การต่อสู้โดยอัตโนมัติ** ใช้โดยอัตโนมัติ.
+* ใช้ <mark style="color:red;">**F6**</mark>**&#x20;ถึง&#x20;**<mark style="color:red;">**F10**</mark> เพื่อกำหนด HP และ SP potions สำหรับการฟื้นฟู.\
+  &#xNAN;_(Golden Fly Wing ไม่จำเป็นต้องอยู่ในช่องเหล่านี้เพื่อให้ใช้งานได้.)_
+* _รายการของไอเทมที่อนุญาตสำหรับ F6 ถึง F10._
 
 <figure><img src="../.gitbook/assets/ps2.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th>ID</th><th width="660">Nome do Consumível</th></tr></thead><tbody><tr><td>501</td><td><img src="../.gitbook/assets/501.png" alt="" data-size="line"> Red Potion</td></tr><tr><td>502</td><td><img src="../.gitbook/assets/502.png" alt="" data-size="line"> Orange Potion</td></tr><tr><td>503</td><td><img src="../.gitbook/assets/503.png" alt="" data-size="line"> Yellow Potion</td></tr><tr><td>504</td><td><img src="../.gitbook/assets/504.png" alt="" data-size="line"> White Potion</td></tr><tr><td>507</td><td><img src="../.gitbook/assets/507.png" alt="" data-size="line"> Red Herb</td></tr><tr><td>508</td><td><img src="../.gitbook/assets/508.png" alt="" data-size="line"> Yellow Herb</td></tr><tr><td>509</td><td><img src="../.gitbook/assets/509.png" alt="" data-size="line"> White Herb</td></tr><tr><td>569</td><td><img src="../.gitbook/assets/569.png" alt="" data-size="line"> Novice Potion</td></tr><tr><td>547</td><td><img src="../.gitbook/assets/547.png" alt="" data-size="line"> Compact White Potion</td></tr><tr><td>546</td><td><img src="../.gitbook/assets/546.png" alt="" data-size="line"> Compact Yellow Potion</td></tr><tr><td>545</td><td><img src="../.gitbook/assets/545.png" alt="" data-size="line"> Compact Red Potion</td></tr><tr><td>505</td><td><img src="../.gitbook/assets/505.png" alt="" data-size="line"> Blue Potion</td></tr><tr><td>578</td><td><img src="../.gitbook/assets/578.png" alt="" data-size="line"> Strawberry</td></tr><tr><td>568</td><td><img src="../.gitbook/assets/568.png" alt="" data-size="line"> Lemon</td></tr><tr><td>510</td><td><img src="../.gitbook/assets/510.png" alt="" data-size="line"> Blue Herb</td></tr><tr><td>11563</td><td><img src="../.gitbook/assets/11563.png" alt="" data-size="line"> Hot Tea</td></tr><tr><td>29732</td><td><img src="../.gitbook/assets/505 (1).png" alt="" data-size="line"> Reformulated Blue Potion</td></tr></tbody></table>
+<table><thead><tr><th>ID</th><th width="660">ชื่อของผู้บริโภค</th></tr></thead><tbody><tr><td>501</td><td><img src="../.gitbook/assets/501.png" alt="" data-size="line"> ยาแดง</td></tr><tr><td>502</td><td><img src="../.gitbook/assets/502.png" alt="" data-size="line"> ยาส้ม</td></tr><tr><td>503</td><td><img src="../.gitbook/assets/503.png" alt="" data-size="line"> ยาเหลือง</td></tr><tr><td>504</td><td><img src="../.gitbook/assets/504.png" alt="" data-size="line"> ยาขาว</td></tr><tr><td>507</td><td><img src="../.gitbook/assets/507.png" alt="" data-size="line"> สมุนไพรแดง</td></tr><tr><td>508</td><td><img src="../.gitbook/assets/508.png" alt="" data-size="line"> สมุนไพรเหลือง</td></tr><tr><td>509</td><td><img src="../.gitbook/assets/509.png" alt="" data-size="line"> สมุนไพรขาว</td></tr><tr><td>569</td><td><img src="../.gitbook/assets/569.png" alt="" data-size="line"> ยานักเรียน</td></tr><tr><td>547</td><td><img src="../.gitbook/assets/547.png" alt="" data-size="line"> ยาขาวแบบกะทัดรัด</td></tr><tr><td>546</td><td><img src="../.gitbook/assets/546.png" alt="" data-size="line"> ยาเหลืองแบบกะทัดรัด</td></tr><tr><td>545</td><td><img src="../.gitbook/assets/545.png" alt="" data-size="line"> ยาแดงแบบกะทัดรัด</td></tr><tr><td>505</td><td><img src="../.gitbook/assets/505.png" alt="" data-size="line"> ยาสีน้ำเงิน</td></tr><tr><td>578</td><td><img src="../.gitbook/assets/578.png" alt="" data-size="line"> สตรอเบอรี่</td></tr><tr><td>568</td><td><img src="../.gitbook/assets/568.png" alt="" data-size="line"> มะนาว</td></tr><tr><td>510</td><td><img src="../.gitbook/assets/510.png" alt="" data-size="line"> สมุนไพรสีน้ำเงิน</td></tr><tr><td>11563</td><td><img src="../.gitbook/assets/11563.png" alt="" data-size="line"> ชาอุ่น</td></tr><tr><td>29732</td><td><img src="../.gitbook/assets/505 (1).png" alt="" data-size="line"> ยาสีน้ำเงินที่ปรับสูตรใหม่</td></tr></tbody></table>
 
-## **How to know if it is active?**
+## **จะรู้ได้อย่างไรว่าเปิดใช้งานอยู่?**
 
-When using **auto-combat**, an icon will appear above your character, and it will disappear when using **/effect**.
+เมื่อใช้ **การต่อสู้โดยอัตโนมัติ** ไอคอนจะปรากฏอยู่เหนือตัวละครของคุณ และจะหายไปเมื่อใช้ **/effect**.
 
 <figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
-## **Every time I restart the game, my daily limit decreases**
+## **ทุกครั้งที่ฉันรีสตาร์ทเกม ขีดจำกัดรายวันของฉันจะลดลง**
 
-Yes, every time you use **stamina** and **relog**, the system recalculates the remaining stamina for the day.\
-For example, if your stamina was <mark style="color:red;">**0/600**</mark> and you used 5 minutes, it would become <mark style="color:red;">**5/600**</mark>, and after relogging, it would be <mark style="color:red;">**0/595**</mark>.\
+ใช่ ทุกครั้งที่คุณใช้ **stamina** และ **relog** ระบบจะคำนวณ **stamina** ที่เหลืออยู่สำหรับวันนั้นใหม่.\
+ตัวอย่างเช่น หาก **stamina** ของคุณคือ <mark style="color:red;">**0/600**</mark> และคุณใช้เวลา 5 นาที มันจะกลายเป็น <mark style="color:red;">**5/600**</mark> และหลังจากการรีลอก มันจะเป็น <mark style="color:red;">**0/595**</mark>.\
 \
-**See the examples below:**
+**ดูตัวอย่างด้านล่าง:**
 
-<figure><img src="../.gitbook/assets/Arkaik_yUBLUV44PG.png" alt="" width="272"><figcaption><p><mark style="color:red;"><strong>After spending 5 minutes.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Arkaik_yUBLUV44PG.png" alt="" width="272"><figcaption><p><mark style="color:red;"><strong>หลังจากใช้เวลา 5 นาที.</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Arkaik_HT3kaWKVym.png" alt="" width="286"><figcaption><p><mark style="color:red;"><strong>After relogging.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Arkaik_HT3kaWKVym.png" alt="" width="286"><figcaption><p><mark style="color:red;"><strong>หลังจากรีลอก.</strong></mark></p></figcaption></figure>
 
-## <mark style="color:red;">**FAQ**</mark>
+## <mark style="color:red;">**คำถามที่พบบ่อย**</mark>
 
-1. **I used 720 minutes, and my auto-combat shows 720/720. Can I use daily stamina?**\
-   **A:** No! Using more **stamina** will not reset it, as your daily limit has already been reached.
-2. **I have 30-day Stamina and used up my 240 minutes. My auto-combat now shows 240/720. Can I use daily stamina to complete it?**\
-   **A:** Yes! You can add **+360 minutes**, summing up to **600/720** after using it. However, if you want **+120 minutes**, you will need to use another **daily stamina** item, but you will only gain 120 minutes—the rest of the 240 will be lost.
-3. **Can I buy 30-day stamina and leave my character farming while I’m at work?**\
-   **A:** Yes, you can leave it anywhere, as long as you have available minutes to use.
-4. **If my inventory is full, will auto-combat automatically sell my items?**\
-   **A:** No, auto-combat does not sell your items. You need to have space in your inventory.
-5. **Will I get banned if I just leave Auto-Combat running on my account without playing?**\
-   **A:** No, you paid for this benefit, and it is within the game's rules.
-6. **Does Auto-Combat collect items automatically?**\
-   **A:** It depends. If you place the **Collect** skill in F1 to F6, then yes. However, if you have the **Compulsive Collector** mastery, Auto-Loot will function automatically at the percentage you have set.
-7. **My Stamina is at 0/0. Did the system bug?**\
-   **A:** No, every time you use **stamina** and **relog**, the system recalculates your remaining stamina for the day.\
-   For example, if your stamina was **0/600** and you used 5 minutes, it would become **5/600**, and after relogging, it would be **0/595**.
-8. **Do GEMS that activate special drop effects, such as ZENY, or other effects that grant extra items or ZENY, work?**\
-   **A:** No, Auto-Combat is not designed to **farm** items in this way. Any GEM that grants a special extra effect, such as **"Earn Zeny when killing a monster"**, whether by percentage or a fixed amount, will **not work in Auto-Combat**.
+1. **ฉันใช้เวลา 720 นาที และการต่อสู้โดยอัตโนมัติแสดง 720/720. ฉันสามารถใช้ stamina รายวันได้หรือไม่?**\
+   **ตอบ:** ไม่! การใช้ **stamina** เพิ่มเติมจะไม่รีเซ็ตมัน เนื่องจากขีดจำกัดรายวันของคุณได้ถูกเข้าถึงแล้ว.
+2. **ฉันมี Stamina 30 วันและใช้เวลา 240 นาที. การต่อสู้โดยอัตโนมัติของฉันตอนนี้แสดง 240/720. ฉันสามารถใช้ stamina รายวันเพื่อเติมเต็มได้หรือไม่?**\
+   **ตอบ:** ใช่! คุณสามารถเพิ่ม **+360 นาที** รวมเป็น **600/720** หลังจากใช้มัน. อย่างไรก็ตาม หากคุณต้องการ **+120 นาที** คุณจะต้องใช้ไอเทม Stamina รายวันอีกอัน แต่คุณจะได้รับเพียง 120 นาที—ส่วนที่เหลือ 240 จะหายไป.
+3. **ฉันสามารถซื้อ Stamina 30 วันและปล่อยให้ตัวละครของฉันฟาร์มในขณะที่ฉันทำงานได้หรือไม่?**\
+   **ตอบ:** ใช่ คุณสามารถปล่อยไว้ที่ไหนก็ได้ ตราบใดที่คุณมีนาทีที่สามารถใช้ได้.
+4. **หากคลังของฉันเต็ม การต่อสู้โดยอัตโนมัติจะขายไอเทมของฉันโดยอัตโนมัติหรือไม่?**\
+   **ตอบ:** ไม่ การต่อสู้โดยอัตโนมัติไม่ขายไอเทมของคุณ คุณต้องมีพื้นที่ในคลังของคุณ.
+5. **ฉันจะถูกแบนถ้าฉันแค่ปล่อยให้การต่อสู้โดยอัตโนมัติทำงานในบัญชีของฉันโดยไม่เล่นหรือไม่?**\
+   **ตอบ:** ไม่ คุณจ่ายเงินสำหรับสิทธิประโยชน์นี้ และมันอยู่ภายในกฎของเกม.
+6. **การต่อสู้โดยอัตโนมัติเก็บไอเทมโดยอัตโนมัติหรือไม่?**\
+   **ตอบ:** ขึ้นอยู่กับ หากคุณวางทักษะ **Collect** ใน F1 ถึง F6 ก็ใช่. อย่างไรก็ตาม หากคุณมีความชำนาญ **Compulsive Collector** การเก็บของจะทำงานโดยอัตโนมัติในเปอร์เซ็นต์ที่คุณตั้งไว้.
+7. **Stamina ของฉันอยู่ที่ 0/0. ระบบมีบั๊กหรือไม่?**\
+   **ตอบ:** ไม่ ทุกครั้งที่คุณใช้ **stamina** และ **relog** ระบบจะคำนวณ **stamina** ที่เหลืออยู่สำหรับวันนั้นใหม่.\
+   ตัวอย่างเช่น หาก **stamina** ของคุณคือ **0/600** และคุณใช้เวลา 5 นาที มันจะกลายเป็น **5/600** และหลังจากการรีลอก มันจะเป็น **0/595**.
+8. **GEMS ที่เปิดใช้งานเอฟเฟกต์การดรอปพิเศษ เช่น ZENY หรือเอฟเฟกต์อื่น ๆ ที่มอบไอเทมพิเศษหรือ ZENY ทำงานหรือไม่?**\
+   **ตอบ:** ไม่ การต่อสู้โดยอัตโนมัติไม่ได้ออกแบบมาเพื่อ **ฟาร์ม** ไอเทมในลักษณะนี้. GEMS ใด ๆ ที่มอบเอฟเฟกต์พิเศษเพิ่มเติม เช่น **"Earn Zeny when killing a monster"** ไม่ว่าจะเป็นเปอร์เซ็นต์หรือจำนวนที่กำหนด จะ **ไม่ทำงานใน Auto-Combat**.

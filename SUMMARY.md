@@ -1,6 +1,6 @@
-# Table of contents
+# สารบัญ
 
-## BASICS
+## พื้นฐาน
 
 * [🖥️ Server Information](README.md)
 * [📘 Arkaik Introduction Guide](basics/arkaik-introduction-guide.md)
@@ -16,11 +16,11 @@
   * [Various Issues](basics/support-and-help/various-issues.md)
   * [🚧 How to Install Arkaik Online](basics/support-and-help/how-to-install-arkaik-online.md)
 
-## EVENTS
+## เหตุการณ์
 
 * [Waiting EVENT (ASIAN)](events/waiting-event-asian.md)
 
-## INSTANCES
+## ดันเจี้ยน
 
 * [⚔️ Prontera Dungeon](instances/prontera-dungeon.md)
 * [🏹 Geffen Defense](instances/geffen-defense.md)
@@ -28,7 +28,7 @@
 * [🐲 Boss Arena](instances/boss-arena.md)
 * [😈 MVP Battle](instances/mvp-battle.md)
 
-## SYSTEMS
+## ระบบ
 
 * [🤖 Auto Combat](systems/auto-combat.md)
 * [🛏️ Inn](systems/inn.md)
@@ -50,7 +50,7 @@
 * [🎰 Prize Wheel](systems/prize-wheel.md)
 * [⚛️ Gem System](systems/gem-system.md)
 
-## JOBS
+## อาชีพ
 
 * [📗 Class Guides](jobs/class-guides/README.md)
   * [\[Novice\]](jobs/class-guides/novice.md)
@@ -82,12 +82,12 @@
 * [🚧 Item Crafting](jobs/item-crafting.md)
 * [🐶 Pets and Evolutions](jobs/pets-and-evolutions.md)
 
-## CashShop
+## ร้านค้า CashShop
 
 * [🎫 Battle Pass](cashshop/battle-pass.md)
 * [🛍️ Shop](cashshop/shop.md)
 
-## NEW EPISODES
+## ตอนใหม่
 
 * [🌄 EP. Louyang](new-episodes/ep.-louyang.md)
 * [🌃 EP. Lutie](new-episodes/ep.-lutie.md)

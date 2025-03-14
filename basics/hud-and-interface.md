@@ -1,154 +1,152 @@
 ---
 description: >-
-  Arkaik: Tales of Sarina features an interface inspired by other games, thanks
-  to the technology provided by Hemera. So, if you're a veteran Ragnarok player,
-  you might feel a bit lost at first.
+  Arkaik: Tales of Sarina มีอินเทอร์เฟซที่ได้รับแรงบันดาลใจจากเกมอื่น ๆ ขอบคุณเทคโนโลยีที่จัดเตรียมโดย Hemera ดังนั้น หากคุณเป็นผู้เล่น Ragnarok ที่มีประสบการณ์ คุณอาจรู้สึกสับสนในตอนแรก
 ---
 
-# 🖱️ HUD & Interface
+# 🖱️ HUD & อินเทอร์เฟซ
 
 <figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-## **About the HUD**
+## **เกี่ยวกับ HUD**
 
-* Upon entering **Arkaik**, you will notice various pieces of information. We will list some of them to guide you.
+* เมื่อเข้าสู่ **Arkaik** คุณจะสังเกตเห็นข้อมูลหลายชิ้น เราจะทำการระบุข้อมูลบางส่วนเพื่อแนะนำคุณ
 
-<figure><img src="../.gitbook/assets/1300px-Infosark2.png" alt=""><figcaption><p><mark style="color:red;"><strong>General Overview of the HUD</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1300px-Infosark2.png" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพรวมทั่วไปของ HUD</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="68">N</th><th width="249">Name</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Character Information</td><td>Displays your character's avatar, name, HP, Mana, and Emblem.</td></tr><tr><td>2</td><td>Party Information</td><td>Shows information about connected party members, such as level, name, HP, Mana, and Emblem.</td></tr><tr><td>3</td><td>Mini Map</td><td>Mostra o nome atual do mapa, a imagem e o rosto de seu personagem.</td></tr><tr><td>4</td><td>Channels</td><td>Allows you to see how many players are in the current channel and switch channels when available.</td></tr><tr><td>5</td><td>Ammunition Indicator</td><td>Displays the current amount of equipped ammunition for quick reference without opening the inventory.</td></tr><tr><td>6</td><td>Chat</td><td>Shows the message history.</td></tr><tr><td>7</td><td>Experience Bar</td><td>Displays the player's current base and class level, as well as the current percentage of total experience needed to level up.</td></tr><tr><td>8</td><td>Shortcut</td><td>Allows you to drag skills to F1-F12.</td></tr><tr><td>9</td><td>Message Box</td><td>Press ENTER to type a message and press ENTER again to send it.</td></tr><tr><td>10</td><td>Sticker List</td><td>Click to send a sticker.</td></tr><tr><td>11</td><td>Menus</td><td>You can open the game menus by clicking on them or using key combinations.</td></tr><tr><td>12</td><td>Quest's</td><td>Displays the quests the player is currently on, with the "In Progress" option marked on the Quest screen to help track objectives.</td></tr><tr><td>13</td><td>Cash Shop and Battle Pass</td><td>Allows you to open the cash shop menus and battle pass.</td></tr></tbody></table>
+<table><thead><tr><th width="68">N</th><th width="249">ชื่อ</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>1</td><td>ข้อมูลตัวละคร</td><td>แสดงอวาตาร์ ชื่อ HP มานา และตราสัญลักษณ์ของตัวละครของคุณ</td></tr><tr><td>2</td><td>ข้อมูลปาร์ตี้</td><td>แสดงข้อมูลเกี่ยวกับสมาชิกปาร์ตี้ที่เชื่อมต่อ เช่น ระดับ ชื่อ HP มานา และตราสัญลักษณ์</td></tr><tr><td>3</td><td>แผนที่ย่อย</td><td>แสดงชื่อแผนที่ปัจจุบัน รูปภาพ และใบหน้าของตัวละครของคุณ</td></tr><tr><td>4</td><td>ช่องทาง</td><td>อนุญาตให้คุณเห็นจำนวนผู้เล่นในช่องทางปัจจุบันและเปลี่ยนช่องทางเมื่อมีให้</td></tr><tr><td>5</td><td>ตัวบ่งชี้กระสุน</td><td>แสดงจำนวนกระสุนที่ติดตั้งอยู่ในปัจจุบันเพื่อการอ้างอิงอย่างรวดเร็วโดยไม่ต้องเปิดคลังสินค้า</td></tr><tr><td>6</td><td>แชท</td><td>แสดงประวัติข้อความ</td></tr><tr><td>7</td><td>แถบประสบการณ์</td><td>แสดงระดับฐานและระดับคลาสปัจจุบันของผู้เล่น รวมถึงเปอร์เซ็นต์ของประสบการณ์ทั้งหมดที่จำเป็นในการเลื่อนระดับ</td></tr><tr><td>8</td><td>ทางลัด</td><td>อนุญาตให้คุณลากทักษะไปยัง F1-F12</td></tr><tr><td>9</td><td>กล่องข้อความ</td><td>กด ENTER เพื่อพิมพ์ข้อความและกด ENTER อีกครั้งเพื่อส่ง</td></tr><tr><td>10</td><td>รายการสติกเกอร์</td><td>คลิกเพื่อส่งสติกเกอร์</td></tr><tr><td>11</td><td>เมนู</td><td>คุณสามารถเปิดเมนูเกมได้โดยการคลิกที่พวกเขาหรือใช้การรวมปุ่ม</td></tr><tr><td>12</td><td>เควส</td><td>แสดงเควสที่ผู้เล่นกำลังทำอยู่ในปัจจุบัน โดยมีตัวเลือก "กำลังดำเนินการ" ที่ทำเครื่องหมายไว้บนหน้าจอเควสเพื่อช่วยติดตามวัตถุประสงค์</td></tr><tr><td>13</td><td>ร้านค้า Cash Shop และ Battle Pass</td><td>อนุญาตให้คุณเปิดเมนูร้านค้า Cash Shop และ Battle Pass</td></tr></tbody></table>
 
-## **Attributes Screen (ALT + A)**
+## **หน้าจอคุณสมบัติ (ALT + A)**
 
-* This screen allows you to distribute attribute points acquired when leveling up your character's base level.
-* Hovering the cursor over the attribute you want to upgrade updates the numbers below the **"Remaining Attribute Points"** text, allowing you to see how many points you will have left if you increase that attribute.
+* หน้าจอนี้อนุญาตให้คุณแจกจ่ายคะแนนคุณสมบัติที่ได้รับเมื่อเลื่อนระดับฐานของตัวละคร
+* การวางเมาส์เหนือคุณสมบัติที่คุณต้องการอัปเกรดจะอัปเดตตัวเลขด้านล่างข้อความ **"คะแนนคุณสมบัติที่เหลือ"** ช่วยให้คุณเห็นว่าคุณจะมีคะแนนเหลือเท่าใดหากคุณเพิ่มคุณสมบัตินั้น
 
 <figure><img src="../.gitbook/assets/Stats1.gif" alt="" width="342"><figcaption></figcaption></figure>
 
-## **Secondary Attributes**
+## **คุณสมบัติรอง**
 
-* The screen allows you to view secondary attributes, such as:
+* หน้าจอนี้อนุญาตให้คุณดูคุณสมบัติรอง เช่น:
 
-<table><thead><tr><th width="115">STATUS</th><th width="191">Attribute</th><th>Description</th></tr></thead><tbody><tr><td>Basic</td><td><mark style="background-color:red;">HP</mark><br><mark style="background-color:blue;">Mana</mark></td><td><mark style="background-color:red;">Your maximum HP</mark><br><mark style="background-color:blue;">Your maximum Mana</mark></td></tr><tr><td>Damage</td><td>Attack<br>Magic Attack<br>Accuracy<br>Critical</td><td><p>Your physical attack power</p><p>Your magic attack power<br>Your accuracy for landing physical attacks<br>Your critical hit rate</p></td></tr><tr><td>Defense</td><td>Physical Defense<br>Magic Defense<br>Evasion</td><td>Your defense against physical attacks<br>Your defense against magical attacks<br>Your chance to evade attacks</td></tr><tr><td>Others</td><td>Attacks per minute</td><td>QHow many attacks your character performs per second</td></tr></tbody></table>
+<table><thead><tr><th width="115">สถานะ</th><th width="191">คุณสมบัติ</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>พื้นฐาน</td><td><mark style="background-color:red;">HP</mark><br><mark style="background-color:blue;">มานา</mark></td><td><mark style="background-color:red;">HP สูงสุดของคุณ</mark><br><mark style="background-color:blue;">มานาสูงสุดของคุณ</mark></td></tr><tr><td>ความเสียหาย</td><td>การโจมตี<br>การโจมตีเวท<br>ความแม่นยำ<br>การโจมตีคริติคอล</td><td><p>พลังโจมตีทางกายภาพของคุณ</p><p>พลังโจมตีเวทของคุณ<br>ความแม่นยำในการโจมตีทางกายภาพ<br>อัตราการโจมตีคริติคอลของคุณ</p></td></tr><tr><td>การป้องกัน</td><td>การป้องกันทางกายภาพ<br>การป้องกันเวท<br>การหลบหลีก</td><td>การป้องกันของคุณต่อการโจมตีทางกายภาพ<br>การป้องกันของคุณต่อการโจมตีเวท<br>โอกาสของคุณในการหลบหลีกการโจมตี</td></tr><tr><td>อื่น ๆ</td><td>การโจมตีต่อนาที</td><td>จำนวนการโจมตีที่ตัวละครของคุณทำต่อวินาที</td></tr></tbody></table>
 
-## **Inventory Screen (ALT + Q)**
+## **หน้าจอคลังสินค้า (ALT + Q)**
 
-* In **Arkaik: Tales of Sarina**, the equipment and item screens are combined into a single interface to make things easier for everyone. Equip, unequip, and search for items from this screen.
+* ใน **Arkaik: Tales of Sarina** หน้าจออุปกรณ์และรายการถูกรวมเข้าด้วยกันในอินเทอร์เฟซเดียวเพื่อทำให้ทุกอย่างง่ายขึ้นสำหรับทุกคน คุณสามารถติดตั้ง ออกจากการติดตั้ง และค้นหารายการจากหน้าจอนี้
 
-<figure><img src="../.gitbook/assets/Stats2.gif" alt="" width="343"><figcaption><p><mark style="color:red;"><strong>Inventory Table</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stats2.gif" alt="" width="343"><figcaption><p><mark style="color:red;"><strong>ตารางคลังสินค้า</strong></mark></p></figcaption></figure>
 
-## **About Items**
+## **เกี่ยวกับรายการ**
 
-* See what your equipment does by right-clicking on it.
+* ดูว่าชิ้นส่วนอุปกรณ์ของคุณทำอะไรโดยการคลิกขวาที่มัน
 
-<figure><img src="../.gitbook/assets/Armainfo23.png" alt=""><figcaption><p><mark style="color:red;"><strong>Item Information</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Armainfo23.png" alt=""><figcaption><p><mark style="color:red;"><strong>ข้อมูลรายการ</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="66">N</th><th width="215">Field</th><th>Descrição</th></tr></thead><tbody><tr><td>1</td><td>Item Name</td><td>Name, condition, and slots.</td></tr><tr><td>2</td><td>Close Button</td><td>Closes the current view.</td></tr><tr><td>3</td><td>Item Image</td><td>Displays the item image.</td></tr><tr><td>4</td><td>Gemns</td><td>Slots and linked effects.</td></tr><tr><td>5</td><td>Cards</td><td>Slots e efeitoSlots and linked effects.</td></tr><tr><td>6</td><td>Position</td><td>Equipment location.</td></tr><tr><td>7</td><td>Weight</td><td>Inventory weight.</td></tr><tr><td>8</td><td>Level</td><td>Item level.</td></tr><tr><td>9</td><td>Selling Price</td><td>Value when selling to NPCs.</td></tr><tr><td>10</td><td>Random Options</td><td>Displays random options.</td></tr><tr><td>11</td><td>Description</td><td>FItem function and history.</td></tr><tr><td>12</td><td>Restrictions</td><td>Usage limitations.</td></tr><tr><td>13</td><td>Potential and Durability</td><td>Displays item condition.</td></tr><tr><td>14</td><td>Required</td><td>Level required to equip.</td></tr></tbody></table>
+<table><thead><tr><th width="66">N</th><th width="215">ฟิลด์</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>1</td><td>ชื่อรายการ</td><td>ชื่อ สถานะ และช่อง</td></tr><tr><td>2</td><td>ปุ่มปิด</td><td>ปิดมุมมองปัจจุบัน</td></tr><tr><td>3</td><td>รูปภาพรายการ</td><td>แสดงรูปภาพของรายการ</td></tr><tr><td>4</td><td>อัญมณี</td><td>ช่องและผลที่เชื่อมโยง</td></tr><tr><td>5</td><td>การ์ด</td><td>ช่องและผลที่เชื่อมโยง</td></tr><tr><td>6</td><td>ตำแหน่ง</td><td>ตำแหน่งของอุปกรณ์</td></tr><tr><td>7</td><td>น้ำหนัก</td><td>น้ำหนักในคลังสินค้า</td></tr><tr><td>8</td><td>ระดับ</td><td>ระดับของรายการ</td></tr><tr><td>9</td><td>ราคาขาย</td><td>มูลค่าเมื่อขายให้กับ NPC</td></tr><tr><td>10</td><td>ตัวเลือกสุ่ม</td><td>แสดงตัวเลือกสุ่ม</td></tr><tr><td>11</td><td>คำอธิบาย</td><td>ฟังก์ชันและประวัติของรายการ</td></tr><tr><td>12</td><td>ข้อจำกัด</td><td>ข้อจำกัดในการใช้งาน</td></tr><tr><td>13</td><td>ศักยภาพและความทนทาน</td><td>แสดงสภาพของรายการ</td></tr><tr><td>14</td><td>ที่ต้องการ</td><td>ระดับที่ต้องการในการติดตั้ง</td></tr></tbody></table>
 
-## Skills & Masteries Screen (ALT + S)
+## หน้าจอทักษะ & ความเชี่ยวชาญ (ALT + S)
 
-* General Information about the Skills and Masteries System
+* ข้อมูลทั่วไปเกี่ยวกับระบบทักษะและความเชี่ยวชาญ
 
-<figure><img src="../.gitbook/assets/1200px-HM2.png" alt=""><figcaption><p><mark style="color:red;"><strong>Skills &#x26; Masteries</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1200px-HM2.png" alt=""><figcaption><p><mark style="color:red;"><strong>ทักษะ & ความเชี่ยวชาญ</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="76">N</th><th>Nome</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Divider</td><td>Divides classes and skills.</td></tr><tr><td>2</td><td>Skill Points</td><td>Points available for distribution.</td></tr><tr><td>3</td><td>Skills</td><td>Upgrade and organize skills.</td></tr><tr><td>4</td><td>Increase Mastery Points</td><td>Increase the mastery level.</td></tr><tr><td>5</td><td>Skill Description</td><td>Descriptive text of the skill.</td></tr><tr><td>6</td><td>Skill Effect Type</td><td>Displays the element and characteristics.</td></tr><tr><td>7</td><td>Mastery</td><td>Specific area button.</td></tr><tr><td>8</td><td>Masteries</td><td>Displays the character's masteries.</td></tr><tr><td>9</td><td>Save</td><td>Confirms evolution changes.</td></tr><tr><td>10</td><td>Mastery Points</td><td>Points available for use.</td></tr><tr><td>11</td><td>Skill Level</td><td>Maximum skill level limit.</td></tr><tr><td>12</td><td>Information</td><td>Skills and masteries screen.</td></tr><tr><td>13</td><td>Skills</td><td>Opens the skills tab.</td></tr><tr><td>14</td><td>Description</td><td>Details of the selected tab.</td></tr></tbody></table>
+<table><thead><tr><th width="76">N</th><th>ชื่อ</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>1</td><td>Divider</td><td>แบ่งประเภทคลาสและทักษะ</td></tr><tr><td>2</td><td>คะแนนทักษะ</td><td>คะแนนที่มีอยู่สำหรับการแจกจ่าย</td></tr><tr><td>3</td><td>ทักษะ</td><td>อัปเกรดและจัดระเบียบทักษะ</td></tr><tr><td>4</td><td>เพิ่มคะแนนความเชี่ยวชาญ</td><td>เพิ่มระดับความเชี่ยวชาญ</td></tr><tr><td>5</td><td>คำอธิบายทักษะ</td><td>ข้อความอธิบายของทักษะ</td></tr><tr><td>6</td><td>ประเภทผลของทักษะ</td><td>แสดงธาตุและลักษณะ</td></tr><tr><td>7</td><td>ความเชี่ยวชาญ</td><td>ปุ่มพื้นที่เฉพาะ</td></tr><tr><td>8</td><td>ความเชี่ยวชาญ</td><td>แสดงความเชี่ยวชาญของตัวละคร</td></tr><tr><td>9</td><td>บันทึก</td><td>ยืนยันการเปลี่ยนแปลงการพัฒนา</td></tr><tr><td>10</td><td>คะแนนความเชี่ยวชาญ</td><td>คะแนนที่มีอยู่สำหรับการใช้งาน</td></tr><tr><td>11</td><td>ระดับทักษะ</td><td>ขีดจำกัดระดับทักษะสูงสุด</td></tr><tr><td>12</td><td>ข้อมูล</td><td>หน้าจอทักษะและความเชี่ยวชาญ</td></tr><tr><td>13</td><td>ทักษะ</td><td>เปิดแท็บทักษะ</td></tr><tr><td>14</td><td>คำอธิบาย</td><td>รายละเอียดของแท็บที่เลือก</td></tr></tbody></table>
 
-## Masteries
+## ความเชี่ยวชาญ
 
-* Basic Information to Understand Masteries
+* ข้อมูลพื้นฐานเพื่อทำความเข้าใจความเชี่ยวชาญ
 
-<figure><img src="../.gitbook/assets/Ma2.png" alt=""><figcaption><p><mark style="color:red;"><strong>Mastery Field Information</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ma2.png" alt=""><figcaption><p><mark style="color:red;"><strong>ข้อมูลฟิลด์ความเชี่ยวชาญ</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="69">N</th><th width="202">Nome</th><th>Descrição</th></tr></thead><tbody><tr><td>1</td><td>Skill Image</td><td>Here is the icon of the skill associated with</td></tr><tr><td>2</td><td>Name</td><td>Here you can see the title of the master's degree displayed</td></tr><tr><td>3</td><td>Upgrade Mastery</td><td>Click to add 1 level to this mastery, then confirm by</td></tr><tr><td>4</td><td>Level</td><td>Display the skill level in the format: Lv &#x3C;Current Mastery Level/</td></tr><tr><td>5</td><td>State</td><td>You can turn mastery on or off</td></tr><tr><td>6</td><td>Description</td><td>Dynamic description of mastery.</td></tr><tr><td>7</td><td>Allocated Points</td><td>Amount of points invested.</td></tr><tr><td>8</td><td>Stats Type</td><td>Indicate if it is a buff for oneself, for others,</td></tr><tr><td>9</td><td>Close</td><td>Close the window</td></tr></tbody></table>
+<table><thead><tr><th width="69">N</th><th width="202">ชื่อ</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>1</td><td>รูปภาพทักษะ</td><td>นี่คือไอคอนของทักษะที่เกี่ยวข้อง</td></tr><tr><td>2</td><td>ชื่อ</td><td>ที่นี่คุณสามารถดูชื่อของระดับความเชี่ยวชาญที่แสดง</td></tr><tr><td>3</td><td>อัปเกรดความเชี่ยวชาญ</td><td>คลิกเพื่อเพิ่ม 1 ระดับให้กับความเชี่ยวชาญนี้ จากนั้นยืนยันโดย</td></tr><tr><td>4</td><td>ระดับ</td><td>แสดงระดับทักษะในรูปแบบ: Lv &#x3C;ระดับความเชี่ยวชาญปัจจุบัน/</td></tr><tr><td>5</td><td>สถานะ</td><td>คุณสามารถเปิดหรือปิดความเชี่ยวชาญได้</td></tr><tr><td>6</td><td>คำอธิบาย</td><td>คำอธิบายแบบไดนามิกของความเชี่ยวชาญ</td></tr><tr><td>7</td><td>คะแนนที่จัดสรร</td><td>จำนวนคะแนนที่ลงทุน</td></tr><tr><td>8</td><td>ประเภทสถิติ</td><td>ระบุว่ามันเป็นบัฟสำหรับตัวเอง สำหรับผู้อื่น</td></tr><tr><td>9</td><td>ปิด</td><td>ปิดหน้าต่าง</td></tr></tbody></table>
 
-## Quest's Screen (ALT + E
+## หน้าจอเควส (ALT + E)
 
-* "Arkaik: Tales of Sarina" features various quests divided into episodes. With each new game expansion, a new set of.
+* "Arkaik: Tales of Sarina" มีเควสต่าง ๆ ที่แบ่งออกเป็นตอน ด้วยการขยายเกมใหม่แต่ละครั้ง จะมีชุดใหม่
 
-<figure><img src="../.gitbook/assets/disc2239.gif" alt="" width="414"><figcaption><p><mark style="color:red;"><strong>ALT+E ( Missions tab )</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/disc2239.gif" alt="" width="414"><figcaption><p><mark style="color:red;"><strong>ALT+E (แท็บภารกิจ)</strong></mark></p></figcaption></figure>
 
-* In this table, you can see what each
+* ในตารางนี้ คุณสามารถดูว่าแต่ละ
 
-<table><thead><tr><th width="157">Tab Name</th><th>Description</th></tr></thead><tbody><tr><td>Episode</td><td>View all the episodes and quests you have completed or are</td></tr><tr><td>List</td><td>View the list of all quests. Here you can filter quests by type or</td></tr><tr><td>Complete</td><td>In this list, you can see all your completed quests grouped</td></tr><tr><td>History</td><td>Follow the story of Arkaik: Tales of Sarina on</td></tr></tbody></table>
+<table><thead><tr><th width="157">ชื่อแท็บ</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>ตอน</td><td>ดูทุกตอนและเควสที่คุณได้ทำเสร็จหรือกำลังทำอยู่</td></tr><tr><td>รายการ</td><td>ดูรายการเควสทั้งหมด ที่นี่คุณสามารถกรองเควสตามประเภทหรือ</td></tr><tr><td>เสร็จสิ้น</td><td>ในรายการนี้ คุณสามารถดูเควสที่คุณทำเสร็จแล้วทั้งหมดที่จัดกลุ่ม</td></tr><tr><td>ประวัติ</td><td>ติดตามเรื่องราวของ Arkaik: Tales of Sarina บน</td></tr></tbody></table>
 
-## Details of the
+## รายละเอียดของ
 
-* #### **Summary of the "Quests" Screen**
+* #### **สรุปหน้าจอ "เควส"**
 
-<figure><img src="../.gitbook/assets/1231.png" alt=""><figcaption><p><mark style="color:red;"><strong>When you click on a quest, a window will appear containing some information.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1231.png" alt=""><figcaption><p><mark style="color:red;"><strong>เมื่อคุณคลิกที่เควส หน้าต่างจะปรากฏขึ้นซึ่งมีข้อมูลบางอย่าง</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="67">N</th><th width="149"></th><th></th></tr></thead><tbody><tr><td>1</td><td>Quest Title</td><td>The title of the quest.</td></tr><tr><td>2</td><td>Summary</td><td>What you need to do for the mission to be marked as complete.</td></tr><tr><td>3</td><td>Objectives</td><td>When a quest requires killing monsters, this section displays the monsters you need to defeat and your current progress.</td></tr><tr><td>4</td><td>Reward</td><td>The reward you receive upon completing the mission.</td></tr><tr><td>5</td><td>NPC</td><td>The sprite of the NPC who gave you the mission. Hovering over it shows the NPC's name.</td></tr></tbody></table>
+<table><thead><tr><th width="67">N</th><th width="149"></th><th></th></tr></thead><tbody><tr><td>1</td><td>ชื่อเควส</td><td>ชื่อของเควส</td></tr><tr><td>2</td><td>สรุป</td><td>สิ่งที่คุณต้องทำเพื่อให้ภารกิจถูกทำเครื่องหมายว่าเสร็จสิ้น</td></tr><tr><td>3</td><td>วัตถุประสงค์</td><td>เมื่อเควสต้องการให้ฆ่ามอนสเตอร์ ส่วนนี้จะแสดงมอนสเตอร์ที่คุณต้องเอาชนะและความก้าวหน้าของคุณในปัจจุบัน</td></tr><tr><td>4</td><td>รางวัล</td><td>รางวัลที่คุณได้รับเมื่อเสร็จสิ้นภารกิจ</td></tr><tr><td>5</td><td>NPC</td><td>สปริทของ NPC ที่มอบภารกิจให้คุณ การวางเมาส์เหนือมันจะแสดงชื่อของ NPC</td></tr></tbody></table>
 
-## **Quest Types**
+## **ประเภทเควส**
 
-* Each quest flag has a visual representation to indicate its type.
+* เควสแต่ละธงมีการแสดงผลทางสายตาเพื่อระบุประเภทของมัน
 
-<table><thead><tr><th width="102" data-type="files">Ícone</th><th width="129">Tipo</th><th>Descrição</th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:red;">Event</mark></td><td>These quests are obtained during specific times of the year or thematic events. Whether they are repeatable or not depends on the event itself.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:yellow;">Main</mark></td><td>These quests are part of the episode and are mandatory if you want to unlock the next episodes. They can only be completed once.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:blue;">Side</mark></td><td>These quests are optional and do not interfere with unlocking new episodes. They can only be completed once.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:green;">Repeatable</mark></td><td>These quests are optional and do not interfere with unlocking new episodes. They can be done multiple times, as long as the player meets the required conditions.</td></tr></tbody></table>
+<table><thead><tr><th width="102" data-type="files">ไอคอน</th><th width="129">ประเภท</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:red;">เหตุการณ์</mark></td><td>เควสเหล่านี้จะได้รับในช่วงเวลาที่เฉพาะเจาะจงของปีหรือเหตุการณ์ธีม ไม่ว่าจะทำซ้ำได้หรือไม่ขึ้นอยู่กับเหตุการณ์นั้น ๆ</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:yellow;">หลัก</mark></td><td>เควสเหล่านี้เป็นส่วนหนึ่งของตอนและเป็นสิ่งจำเป็นหากคุณต้องการปลดล็อกตอนถัดไป สามารถทำได้เพียงครั้งเดียว</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:blue;">ข้างเคียง</mark></td><td>เควสเหล่านี้เป็นทางเลือกและไม่ขัดขวางการปลดล็อกตอนใหม่ สามารถทำได้เพียงครั้งเดียว</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:green;">ทำซ้ำได้</mark></td><td>เควสเหล่านี้เป็นทางเลือกและไม่ขัดขวางการปลดล็อกตอนใหม่ สามารถทำได้หลายครั้งตราบใดที่ผู้เล่นตรงตามเงื่อนไขที่กำหนด</td></tr></tbody></table>
 
-## Bestiary Screen (ALT + B) B)
+## หน้าจอ Bestiary (ALT + B)
 
-* The **Bestiary** allows you to view information about monsters obtained through the **Monster Observer** skill.
+* **Bestiary** อนุญาตให้คุณดูข้อมูลเกี่ยวกับมอนสเตอร์ที่ได้รับผ่านทักษะ **Monster Observer**
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p><mark style="color:red;"><strong>ALT+B (Bestiary Information)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p><mark style="color:red;"><strong>ALT+B (ข้อมูล Bestiary)</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="72">N</th><th width="279">Name</th><th>Information</th></tr></thead><tbody><tr><td>1</td><td>Monster Tab</td><td>Search area for monsters.</td></tr><tr><td>2</td><td>Item Tab</td><td>Search area for items.</td></tr><tr><td>3</td><td>Search</td><td>Area to type what you are looking for.</td></tr><tr><td>4</td><td>Glossary</td><td>Information on all monsters/items.</td></tr><tr><td>5</td><td>Monster Information</td><td>Displays the monster’s stats.</td></tr><tr><td>6</td><td>Drop Information</td><td>Displays item drop rates and chances.</td></tr><tr><td>7</td><td>Monster Location on the Map</td><td>Shows where to find the monster.</td></tr></tbody></table>
+<table><thead><tr><th width="72">N</th><th width="279">ชื่อ</th><th>ข้อมูล</th></tr></thead><tbody><tr><td>1</td><td>แท็บมอนสเตอร์</td><td>พื้นที่ค้นหามอนสเตอร์</td></tr><tr><td>2</td><td>แท็บรายการ</td><td>พื้นที่ค้นหารายการ</td></tr><tr><td>3</td><td>ค้นหา</td><td>พื้นที่สำหรับพิมพ์สิ่งที่คุณกำลังมองหา</td></tr><tr><td>4</td><td>สารานุกรม</td><td>ข้อมูลเกี่ยวกับมอนสเตอร์/รายการทั้งหมด</td></tr><tr><td>5</td><td>ข้อมูลมอนสเตอร์</td><td>แสดงสถิติของมอนสเตอร์</td></tr><tr><td>6</td><td>ข้อมูลการดรอป</td><td>แสดงอัตราการดรอปและโอกาส</td></tr><tr><td>7</td><td>ตำแหน่งมอนสเตอร์บนแผนที่</td><td>แสดงที่ที่สามารถพบมอนสเตอร์ได้</td></tr></tbody></table>
 
-## **Collections Screen (ALT + C)**
+## **หน้าจอคอลเลกชัน (ALT + C)**
 
-* You can track the progress of your map collection here.
+* คุณสามารถติดตามความก้าวหน้าของการเก็บแผนที่ได้ที่นี่
 
-<figure><img src="../.gitbook/assets/disc22239.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+C (Informações da Coleção)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/disc22239.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+C (ข้อมูลคอลเลกชัน)</strong></mark></p></figcaption></figure>
 
-## **Map Collection Reading**
+## **การอ่านคอลเลกชันแผนที่**
 
-* Each map contains some important information to consider.
-* When eliminating monsters, it is not necessary to "pick up the item from the ground."
-* Simply killing the monster will count toward the collection if the item drops.
-* **THE ITEM WILL ONLY COUNT IF YOU KILL THE MONSTER YOURSELF.**
-* **UP AN ITEM DROPPED BY A FRIEND DOES NOT COUNT.**
+* แผนที่แต่ละแผนที่มีข้อมูลสำคัญบางอย่างที่ต้องพิจารณา
+* เมื่อกำจัดมอนสเตอร์ ไม่จำเป็นต้อง "เก็บรายการจากพื้น"
+* การฆ่ามอนสเตอร์จะนับไปยังคอลเลกชันหากมีการดรอป
+* **รายการจะนับเฉพาะเมื่อคุณฆ่ามอนสเตอร์ด้วยตัวเอง**
+* **การเก็บรายการที่ดรอปโดยเพื่อนจะไม่นับ**
 
-<figure><img src="../.gitbook/assets/54 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Current Map Collection Information</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/54 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>ข้อมูลการเก็บแผนที่ปัจจุบัน</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="70">N</th><th width="263">Information</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Map Name</td><td>Information about the current map you are on.</td></tr><tr><td>2</td><td>Additional Map Information</td><td>Complementary details about the current map.</td></tr><tr><td>3</td><td>Map</td><td>Information about the map you are in.</td></tr><tr><td>4</td><td>Attributes Received in the Collection</td><td>Attributes obtained upon completing the collection.</td></tr><tr><td>5</td><td>Required Items</td><td>Items needed to complete the collection.</td></tr><tr><td>6</td><td>Completed Stages</td><td>Displays the completed stages.</td></tr></tbody></table>
+<table><thead><tr><th width="70">N</th><th width="263">ข้อมูล</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>1</td><td>ชื่อแผนที่</td><td>ข้อมูลเกี่ยวกับแผนที่ปัจจุบันที่คุณอยู่</td></tr><tr><td>2</td><td>ข้อมูลเพิ่มเติมเกี่ยวกับแผนที่</td><td>รายละเอียดเพิ่มเติมเกี่ยวกับแผนที่ปัจจุบัน</td></tr><tr><td>3</td><td>แผนที่</td><td>ข้อมูลเกี่ยวกับแผนที่ที่คุณอยู่</td></tr><tr><td>4</td><td>คุณสมบัติที่ได้รับจากการเก็บ</td><td>คุณสมบัติที่ได้รับเมื่อเสร็จสิ้นการเก็บ</td></tr><tr><td>5</td><td>รายการที่ต้องการ</td><td>รายการที่จำเป็นสำหรับการเสร็จสิ้นการเก็บ</td></tr><tr><td>6</td><td>ขั้นตอนที่เสร็จสิ้น</td><td>แสดงขั้นตอนที่เสร็จสิ้นแล้ว</td></tr></tbody></table>
 
-## **Achievements Screen (ALT + T)**
+## **หน้าจอความสำเร็จ (ALT + T)**
 
-* You can track the progress of your achievements here.
-* Completing certain **side quests** grants you a **title**.
-* These **titles** can be equipped on your character by clicking on them after obtaining them.
+* คุณสามารถติดตามความก้าวหน้าของความสำเร็จของคุณที่นี่
+* การทำเควส **ข้างเคียง** บางอย่างจะมอบ **ชื่อ** ให้กับคุณ
+* **ชื่อเหล่านี้** สามารถติดตั้งบนตัวละครของคุณได้โดยการคลิกที่พวกเขาหลังจากที่ได้รับ
 
-<figure><img src="../.gitbook/assets/disc222323393.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+T (Achievements Information)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/disc222323393.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+T (ข้อมูลความสำเร็จ)</strong></mark></p></figcaption></figure>
 
-## **Understanding Achievements**
+## **ทำความเข้าใจกับความสำเร็จ**
 
-<figure><img src="../.gitbook/assets/5423.png" alt=""><figcaption><p><mark style="color:red;"><strong>Achievement Details</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5423.png" alt=""><figcaption><p><mark style="color:red;"><strong>รายละเอียดความสำเร็จ</strong></mark></p></figcaption></figure>
 
-<table><thead><tr><th width="68">N</th><th>Information</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Title</td><td>Obtained title.</td></tr><tr><td>2</td><td>Objective</td><td>What needs to be done to receive the title.</td></tr><tr><td>3</td><td>Progress</td><td>Your achievement progress.</td></tr><tr><td>4</td><td>Use</td><td>Equip the title.</td></tr><tr><td>5</td><td>Remove</td><td>Unequip the title.</td></tr></tbody></table>
+<table><thead><tr><th width="68">N</th><th>ข้อมูล</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>1</td><td>ชื่อ</td><td>ชื่อที่ได้รับ</td></tr><tr><td>2</td><td>วัตถุประสงค์</td><td>สิ่งที่ต้องทำเพื่อรับชื่อ</td></tr><tr><td>3</td><td>ความก้าวหน้า</td><td>ความก้าวหน้าของความสำเร็จของคุณ</td></tr><tr><td>4</td><td>ใช้</td><td>ติดตั้งชื่อ</td></tr><tr><td>5</td><td>ลบ</td><td>ถอดชื่อออก</td></tr></tbody></table>
 
-## **Friends Screen (ALT + F)**
+## **หน้าจอเพื่อน (ALT + F)**
 
-* View all your connected friends in one place, including their location, base level, and current class.
+* ดูเพื่อนที่เชื่อมต่อทั้งหมดของคุณในที่เดียว รวมถึงตำแหน่ง ระดับฐาน และคลาสปัจจุบันของพวกเขา
 
-<figure><img src="../.gitbook/assets/44311.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+F (Friends List Information)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44311.gif" alt="" width="383"><figcaption><p><mark style="color:red;"><strong>ALT+F (ข้อมูลรายชื่อเพื่อน)</strong></mark></p></figcaption></figure>
 
-| Information         | Description               |
+| ข้อมูล               | คำอธิบาย               |
 | ------------------- | ------------------------- |
-| Send "MESSAGE" - PM | /fm PLAYER NAME ; MESSAGE |
+| ส่ง "ข้อความ" - PM | /fm ชื่อผู้เล่น ; ข้อความ |
 
-## Party Screen (ALT + Z)
+## หน้าจอปาร์ตี้ (ALT + Z)
 
-* Playing in a party is much more fun, but first, we need to know how to create one.
-* Click the icon below or press **ALT + Z** to open the party window.
-* Set your party name and click confirm.
+* การเล่นในปาร์ตี้สนุกมากขึ้น แต่ก่อนอื่นเราต้องรู้วิธีสร้างหนึ่ง
+* คลิกที่ไอคอนด้านล่างหรือกด **ALT + Z** เพื่อเปิดหน้าต่างปาร์ตี้
+* ตั้งชื่อปาร์ตี้ของคุณและคลิกยืนยัน
 
-<figure><img src="../.gitbook/assets/44333311.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ALT+Z (Creating a Party)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44333311.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ALT+Z (สร้างปาร์ตี้)</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/542233.png" alt=""><figcaption><p><mark style="color:red;"><strong>Party Creat</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/542233.png" alt=""><figcaption><p><mark style="color:red;"><strong>สร้างปาร์ตี้</strong></mark></p></figcaption></figure>
 
-## **Macros Screen**
+## **หน้าจอมาโคร**
 
-* Want to quickly send that sticker after soloing a friend or stealing the MVP?
-* Add stickers or text to a macro and use key combinations for quick execution.
+* ต้องการส่งสติกเกอร์นั้นอย่างรวดเร็วหลังจากที่เล่นคนเดียวกับเพื่อนหรือขโมย MVP หรือไม่?
+* เพิ่มสติกเกอร์หรือข้อความลงในมาโครและใช้การรวมปุ่มเพื่อการดำเนินการอย่างรวดเร็ว
 
 <figure><img src="../.gitbook/assets/33311111.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="68">N</th><th width="134">Information</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>STICKERS</td><td>The place where your stickers are stored.</td></tr><tr><td>2</td><td>Shortcuts</td><td>The place where you configure shortcuts to send your stickers in chat.</td></tr></tbody></table>
+<table><thead><tr><th width="68">N</th><th width="134">ข้อมูล</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>1</td><td>สติกเกอร์</td><td>สถานที่ที่เก็บสติกเกอร์ของคุณ</td></tr><tr><td>2</td><td>ทางลัด</td><td>สถานที่ที่คุณกำหนดทางลัดเพื่อส่งสติกเกอร์ของคุณในแชท</td></tr></tbody></table>

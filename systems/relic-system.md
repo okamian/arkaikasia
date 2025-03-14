@@ -1,36 +1,35 @@
 ---
 description: >-
-  Relics in Arkaik represent items of great value and power. These relics can be
-  obtained through a series of well-crafted and challenging quests.
+  Relics ใน Arkaik แสดงถึงไอเท็มที่มีค่าและพลังมากมาย ไอเท็มเหล่านี้สามารถได้รับผ่านชุดของเควสที่ออกแบบมาอย่างดีและท้าทาย
 ---
 
-# 📜 Relic System
+# 📜 ระบบ Relic
 
 <figure><img src="../.gitbook/assets/Reliquias.png" alt=""><figcaption></figcaption></figure>
 
-## **Relic Acquisition**
+## **การได้รับ Relic**
 
-* The journey in search of the Relics begins in the **Zero&#x20;**<mark style="color:red;">**Forest to the North**</mark>, at the <mark style="color:red;">**Observatory**</mark>.
-* **(**_**You must be LEVEL 90 to start the quest.**_**)**
+* การเดินทางเพื่อค้นหา Relics เริ่มต้นที่ **Zero&#x20;**<mark style="color:red;">**ป่าไม้ทางเหนือ**</mark> ที่ <mark style="color:red;">**Observatory**</mark>.
+* **(**_**คุณต้องมี LEVEL 90 เพื่อเริ่มเควส.**_**)**
 
 {% tabs %}
-{% tab title="Quest Start: Level 90" %}
+{% tab title="เริ่มเควส: ระดับ 90" %}
 <figure><img src="../.gitbook/assets/Lineker.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-<table><thead><tr><th width="165">Information	</th><th>Description</th></tr></thead><tbody><tr><td>Observatory</td><td>ABefore starting the relic mission, talk to <mark style="color:red;"><strong>Lineker</strong></mark> at the Observatory to see the stars, then speak to him again to start your quest.</td></tr><tr><td>Guild</td><td>After speaking with <mark style="color:red;"><strong>Lineker</strong></mark>, you will be sent to your respective guild to <strong>talk to your class guild leader and proceed</strong>.</td></tr><tr><td>Crafting</td><td>After <strong>completing the guild quest</strong>, players will <strong>unlock the ability to craft their Relic</strong>.</td></tr><tr><td>Enhancement</td><td>Relics are designed as <mark style="color:red;"><strong>late-game items</strong></mark>, visually equipped with <strong>Garnet</strong>, and provide specific <strong>base attributes</strong> for each class.</td></tr></tbody></table>
+<table><thead><tr><th width="165">ข้อมูล</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td>Observatory</td><td>ก่อนเริ่มภารกิจ relic ให้พูดคุยกับ <mark style="color:red;"><strong>Lineker</strong></mark> ที่ Observatory เพื่อดูดาว จากนั้นพูดคุยกับเขาอีกครั้งเพื่อเริ่มเควสของคุณ</td></tr><tr><td>Guild</td><td>หลังจากพูดคุยกับ <mark style="color:red;"><strong>Lineker</strong></mark> คุณจะถูกส่งไปยัง Guild ของคุณเพื่อ <strong>พูดคุยกับหัวหน้า Guild ของคลาสคุณและดำเนินการต่อ</strong>.</td></tr><tr><td>Crafting</td><td>หลังจาก <strong>ทำเควส Guild เสร็จ</strong> ผู้เล่นจะ <strong>ปลดล็อกความสามารถในการสร้าง Relic ของตนเอง</strong>.</td></tr><tr><td>Enhancement</td><td>Relics ถูกออกแบบมาเป็น <mark style="color:red;"><strong>ไอเท็มในช่วงท้ายเกม</strong></mark> ซึ่งมีการติดตั้ง <strong>Garnet</strong> และให้ <strong>คุณสมบัติพื้นฐานเฉพาะ</strong> สำหรับแต่ละคลาส.</td></tr></tbody></table>
 
-## **Relic Advantages by Class**
+## **ข้อดีของ Relic ตามคลาส**
 
-* To check <mark style="color:red;">**Relic**</mark> details, click on the **buttons of each guide** in the video below.
-* Remember to defeat the <mark style="color:red;">**Guild Boss**</mark> to access the items. You can complete it on different characters.
+* เพื่อตรวจสอบรายละเอียด <mark style="color:red;">**Relic**</mark> ให้คลิกที่ **ปุ่มของแต่ละคู่มือ** ในวิดีโอด้านล่าง
+* อย่าลืมที่จะเอาชนะ <mark style="color:red;">**Guild Boss**</mark> เพื่อเข้าถึงไอเท็ม คุณสามารถทำได้ในตัวละครที่แตกต่างกัน
 
-<figure><img src="../.gitbook/assets/seeee.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>(</strong><strong>Classe) - (TIER1) - (TIER2)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/seeee.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>(</strong><strong>คลาส) - (TIER1) - (TIER2)</strong></mark></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Priest" %}
-<figure><img src="../.gitbook/assets/Sacerreli.gif" alt=""><figcaption><p><br><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sacerreli.gif" alt=""><figcaption><p><br><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -44,7 +43,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Hunter" %}
-<figure><img src="../.gitbook/assets/Caçareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Caçareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -58,7 +57,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Bard" %}
-<figure><img src="../.gitbook/assets/Bardoreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bardoreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -72,7 +71,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Dancer" %}
-<figure><img src="../.gitbook/assets/Odareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Odareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -86,7 +85,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Alchemist" %}
-<figure><img src="../.gitbook/assets/Alquireli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Alquireli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -100,7 +99,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Assasin" %}
-<figure><img src="../.gitbook/assets/Mercereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mercereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -114,7 +113,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Knight" %}
-<figure><img src="../.gitbook/assets/Cavareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Cavareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -128,7 +127,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Rogue" %}
-<figure><img src="../.gitbook/assets/Arrureli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Arrureli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -142,7 +141,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Crusader" %}
-<figure><img src="../.gitbook/assets/Templareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Templareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -156,7 +155,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Sage" %}
-<figure><img src="../.gitbook/assets/Sabioreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sabioreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -170,7 +169,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Wizard" %}
-<figure><img src="../.gitbook/assets/Bruxoreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bruxoreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -184,7 +183,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Monk" %}
-<figure><img src="../.gitbook/assets/Mogereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mogereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -198,7 +197,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Blacksmith" %}
-<figure><img src="../.gitbook/assets/Ferrereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ferrereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -212,7 +211,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Taekwon" %}
-<figure><img src="../.gitbook/assets/Taekreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Taekreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ภาพประกอบของ Relic ที่จะดูบนตัวละครของคุณ</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -224,13 +223,13 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-## **Location of NPCs for the Relic Quests**
+## **ตำแหน่งของ NPC สำหรับเควส Relic**
 
-* Details of the **NPCs** locations for each class to start the **Relic quest**.
-* These locations are important so that players can begin their journeys in search of Relics.
-* **Each NPC** offers a <mark style="color:red;">**unique quest for each class**</mark>.
+* รายละเอียดของตำแหน่ง **NPCs** สำหรับแต่ละคลาสเพื่อเริ่ม **เควส Relic**.
+* ตำแหน่งเหล่านี้มีความสำคัญเพื่อให้ผู้เล่นสามารถเริ่มการเดินทางเพื่อค้นหา Relics
+* **แต่ละ NPC** เสนอ <mark style="color:red;">**เควสเฉพาะสำหรับแต่ละคลาส**</mark>.
 
-| Class                                          | NPC                | Location               |
+| คลาส                                          | NPC                | ตำแหน่ง               |
 | ---------------------------------------------- | ------------------ | ---------------------- |
 | ![](<../.gitbook/assets/x1 (1).png>)**Priest** | Sister             | prt\_church (83, 122)  |
 | ![](../.gitbook/assets/x2.png)**Hunter**       | Huntress           | hu\_in01 (386, 373)    |

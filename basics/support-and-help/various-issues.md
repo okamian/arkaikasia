@@ -1,22 +1,22 @@
 ---
 description: >-
-  This section will help you solve issues that are not directly related to the
-  **Arkaik Client**, but rather to the **Arkaik Installer** and other
-  game-related problems.
+  ส่วนนี้จะช่วยคุณแก้ปัญหาที่ไม่เกี่ยวข้องโดยตรงกับ
+  **Arkaik Client** แต่เกี่ยวข้องกับ **Arkaik Installer** และปัญหาอื่นๆ
+  ที่เกี่ยวข้องกับเกม
 icon: stethoscope
 ---
 
-# Various Issues
+# ปัญหาต่างๆ
 
-## **Clicking Download Does Not Download Arkaik**
+## **การคลิกดาวน์โหลดไม่ดาวน์โหลด Arkaik**
 
-**Problem:**
+**ปัญหา:**
 
-* Whether using the installer or the ZIP file, **Arkaik does not download at all**.
+* ไม่ว่าจะใช้ตัวติดตั้งหรือไฟล์ ZIP, **Arkaik ไม่ดาวน์โหลดเลย**.
 
-**Solution:**
+**วิธีแก้ไข:**
 
-* Search for **"Tablet PC Settings"**
-* In the first option, set it to **"Never use tablet mode"**
+* ค้นหา **"การตั้งค่าแท็บเล็ต PC"**
+* ในตัวเลือกแรก ตั้งค่าเป็น **"ไม่ใช้โหมดแท็บเล็ต"**
 
 <figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>

@@ -1,36 +1,35 @@
 ---
 description: >-
-  Tired of constantly clicking on skills? Missing the perfect timing for your
-  abilities? **Smartcast** is here to solve that problem!
+  เบื่อกับการคลิกทักษะตลอดเวลา? พลาดจังหวะที่สมบูรณ์แบบสำหรับความสามารถของคุณ? **Smartcast** มาช่วยแก้ปัญหานั้นแล้ว!
 ---
 
 # 🧠 SMARTCAST
 
-<figure><img src="../.gitbook/assets/9999 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>SMARTCAST in action</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/9999 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>SMARTCAST ในการทำงาน</strong></mark></p></figcaption></figure>
 
-## **Smartcast System**
+## **ระบบ Smartcast**
 
-* By default, **smartcast** is enabled, but you can **disable or enable** it anytime by typing **/smartcast** in the chat.
-
-***
-
-## **Features**
-
-**Quick Auto-Cast**
-
-* Hold **Shift** at any time to **cast skills on yourself**.
-
-<mark style="color:red;">**Skill Spamming**</mark>
-
-* Hold the skill hotkey to continuously cast the same skill until it's available again.
+* โดยค่าเริ่มต้น, **smartcast** จะเปิดใช้งานอยู่ แต่คุณสามารถ **ปิดหรือเปิด** ได้ทุกเมื่อโดยการพิมพ์ **/smartcast** ในแชท.
 
 ***
 
-## **Automatic Casting on Marked Target**
+## **ฟีเจอร์**
 
-* **When you place the cursor over a target**, you set it as your <mark style="color:red;">**current target**</mark>.
-* Using **offensive skills**, even **without having the cursor on the target**, will **automatically cast them on it**.
+**การใช้ทักษะอัตโนมัติอย่างรวดเร็ว**
 
-## **Target Validation Demonstration**
+* กด **Shift** ตลอดเวลาเพื่อ **ใช้ทักษะกับตัวเอง**.
 
-<table><thead><tr><th width="95">Circle</th><th>Description</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/108px-Red_Circle_Smartcast.png" alt=""></td><td><mark style="color:red;">Valid target for offensive skills.</mark></td></tr><tr><td><img src="../.gitbook/assets/108px-Blue_Smartcast.png" alt=""></td><td><mark style="color:blue;">Valid target for group or support skills.</mark></td></tr><tr><td><img src="../.gitbook/assets/108px-Green_Smartcast.png" alt=""></td><td><mark style="color:green;">Valid target for support skills.</mark></td></tr></tbody></table>
+<mark style="color:red;">**การใช้ทักษะซ้ำ**</mark>
+
+* กดปุ่มร้อนของทักษะค้างไว้เพื่อใช้ทักษะเดียวกันซ้ำจนกว่าจะพร้อมใช้อีกครั้ง.
+
+***
+
+## **การใช้ทักษะอัตโนมัติบนเป้าหมายที่กำหนด**
+
+* **เมื่อคุณวางเคอร์เซอร์เหนือเป้าหมาย**, คุณจะตั้งมันเป็น <mark style="color:red;">**เป้าหมายปัจจุบัน**</mark>.
+* การใช้ **ทักษะโจมตี**, แม้ **โดยไม่ต้องวางเคอร์เซอร์บนเป้าหมาย**, จะ **ใช้ทักษะนั้นโดยอัตโนมัติ**.
+
+## **การแสดงผลการตรวจสอบเป้าหมาย**
+
+<table><thead><tr><th width="95">วงกลม</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/108px-Red_Circle_Smartcast.png" alt=""></td><td><mark style="color:red;">เป้าหมายที่ถูกต้องสำหรับทักษะโจมตี.</mark></td></tr><tr><td><img src="../.gitbook/assets/108px-Blue_Smartcast.png" alt=""></td><td><mark style="color:blue;">เป้าหมายที่ถูกต้องสำหรับทักษะกลุ่มหรือสนับสนุน.</mark></td></tr><tr><td><img src="../.gitbook/assets/108px-Green_Smartcast.png" alt=""></td><td><mark style="color:green;">เป้าหมายที่ถูกต้องสำหรับทักษะสนับสนุน.</mark></td></tr></tbody></table>

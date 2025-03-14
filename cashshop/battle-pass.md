@@ -1,42 +1,42 @@
 ---
-description: Battle Progression System Earn rewards by completing missions.
+description: ระบบความก้าวหน้าการต่อสู้ รับรางวัลโดยการทำภารกิจให้สำเร็จ
 ---
 
-# 🎫 Battle Pass
+# 🎫 บัตรต่อสู้
 
 <figure><img src="../.gitbook/assets/image (177).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Where to Purchase the Premium Pass?**
+## **จะซื้อบัตรพรีเมียมได้ที่ไหน?**
 
-You can purchase it by accessing the **store** and buying a package labeled **Battle Pass 30 Days**, or acquire it within Arkaik by following these steps:
+คุณสามารถซื้อได้โดยการเข้าถึง **ร้านค้า** และซื้อแพ็คเกจที่มีชื่อว่า **บัตรต่อสู้ 30 วัน** หรือรับมันภายใน Arkaik โดยทำตามขั้นตอนเหล่านี้:
 
-1. Press the **Battle Pass** button.
+1. กดปุ่ม **บัตรต่อสู้**.
 
 <figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-**2. Now click on Buy and confirm** _(18,000 CubePoints will be required in the account)._&#x20;
+**2. ตอนนี้คลิกที่ ซื้อ และยืนยัน** _(ต้องใช้ 18,000 CubePoints ในบัญชี)._&#x20;
 
-<mark style="color:red;">**Value may be changed (ASIA)**</mark>
+<mark style="color:red;">**มูลค่าอาจเปลี่ยนแปลง (เอเชีย)**</mark>
 
 <figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (180).png" alt="" width="417"><figcaption></figcaption></figure>
 
-## **How to collect Battle Pass EXP?**
+## **จะเก็บ EXP บัตรต่อสู้ได้อย่างไร?**
 
-* Collecting EXP is very simple. Follow the tips below to receive rewards.
-* You must complete a mission in the MISSIONS tab.
+* การเก็บ EXP เป็นเรื่องง่ายมาก ทำตามเคล็ดลับด้านล่างเพื่อรับรางวัล
+* คุณต้องทำภารกิจให้สำเร็จในแท็บ MISSIONS.
 
 <figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
-1. After this, click the **COLLECT** button to receive your rewards.
+1. หลังจากนี้ คลิกที่ปุ่ม **เก็บ** เพื่อรับรางวัลของคุณ
 
 <figure><img src="../.gitbook/assets/image (182).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **How does the Mission System work?**
+## **ระบบภารกิจทำงานอย่างไร?**
 
-Each mission grants **experience**. After clicking **Collect**, all this **EXP** is converted into points in the general progression of the battle pass. As you gain battle levels, you receive rewards based on your account type (Basic/Premium).
+แต่ละภารกิจจะมอบ **ประสบการณ์** หลังจากคลิก **เก็บ** ทั้งหมดนี้ **EXP** จะถูกแปลงเป็นคะแนนในความก้าวหน้าทั่วไปของบัตรต่อสู้ เมื่อคุณได้รับระดับการต่อสู้ คุณจะได้รับรางวัลตามประเภทบัญชีของคุณ (พื้นฐาน/พรีเมียม)
 
-Quests labeled as **"Daily"** reset every day at **00:00&#x20;**<mark style="color:red;">**(Asian time)**</mark>, allowing you to repeat them and earn more **experience**. For example, the **Professional Hunter** mission can be repeated, and you do not need to complete all other missions, such as **Player vs Player**, to progress your pass.
+ภารกิจที่มีป้ายว่า **"รายวัน"** จะรีเซ็ตทุกวันเวลา **00:00**<mark style="color:red;">**(เวลาเอเชีย)**</mark> ทำให้คุณสามารถทำซ้ำและรับ **ประสบการณ์** เพิ่มเติมได้ ตัวอย่างเช่น ภารกิจ **นักล่ามืออาชีพ** สามารถทำซ้ำได้ และคุณไม่จำเป็นต้องทำภารกิจอื่น ๆ ให้เสร็จ เช่น **ผู้เล่นต่อสู้กับผู้เล่น** เพื่อก้าวหน้าบัตรของคุณ
 
-**Found an issue? Report it on our Discord.**
+**พบปัญหา? รายงานได้ที่ Discord ของเรา.**

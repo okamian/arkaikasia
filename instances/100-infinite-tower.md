@@ -1,60 +1,60 @@
 ---
 description: >-
-  Are You Ready to Face the Ultimate Challenge? The Endless Tower in Arkaik is
-  truly endless! It seems that a new mystery has been discovered within the
-  tower, making its ascent infinite.
+  คุณพร้อมที่จะเผชิญกับความท้าทายที่ยิ่งใหญ่ที่สุดหรือยัง? หอคอยที่ไม่มีที่สิ้นสุดใน Arkaik นั้น
+  แท้จริงแล้วไม่มีที่สิ้นสุด! ดูเหมือนว่ามีความลับใหม่ที่ถูกค้นพบภายใน
+  หอคอย ทำให้การปีนขึ้นไปนั้นไม่มีที่สิ้นสุด
 ---
 
-# ♾️ 100% Infinite Tower
+# ♾️ 100% หอคอยไม่มีที่สิ้นสุด
 
-## **Endless Tower?**
+## **หอคอยไม่มีที่สิ้นสุด?**
 
-* Unlike the tower we already know, this one is truly **infinite**. You and your friends can keep climbing as far as you can manage. Of course, **the higher you go, the harder it gets**.
+* แตกต่างจากหอคอยที่เรารู้จักกันอยู่แล้ว หอคอยนี้แท้จริงแล้ว **ไม่มีที่สิ้นสุด** คุณและเพื่อนของคุณสามารถปีนขึ้นไปได้ตามที่คุณสามารถทำได้ แน่นอนว่า **ยิ่งคุณปีนสูงขึ้น ยิ่งมันยากขึ้น** 
 
-<figure><img src="../.gitbook/assets/t11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>Guardian of the Endless Tower</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/t11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>ผู้พิทักษ์ของหอคอยไม่มีที่สิ้นสุด</strong></mark></p></figcaption></figure>
 
-## **How to Get There**
+## **วิธีการไปที่นั่น**
 
-* Go to the **nearest Kafra** in your city, click on the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and select the city.
-* <mark style="color:red;">**Go to Alberta**</mark>**.**
+* ไปที่ **Kafra ที่ใกล้ที่สุด** ในเมืองของคุณ คลิกที่ตัวเลือก **"**<mark style="color:red;">**Teleport**</mark>**"** และเลือกเมือง
+* <mark style="color:red;">**ไปที่ Alberta**</mark>**.**
 
-<figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>How to Reach Your Destination: Alberta</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>วิธีการไปยังจุดหมาย: Alberta</strong></mark></p></figcaption></figure>
 
-## **NPC Location**
+## **ตำแหน่ง NPC**
 
-* Upon arriving in **Alberta**, head **west** to find the <mark style="color:red;">**Captain**</mark>.
+* เมื่อถึง **Alberta** ให้มุ่งหน้าไปทาง **ตะวันตก** เพื่อห <mark style="color:red;">**กัปตัน**</mark> 
 
-<figure><img src="../.gitbook/assets/41233.png" alt=""><figcaption><p><mark style="color:red;"><strong>Encontrando o Capitão que leva até a Torre.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/41233.png" alt=""><figcaption><p><mark style="color:red;"><strong>ค้นหากัปตันที่จะพาไปยังหอคอย</strong></mark></p></figcaption></figure>
 
-## **Entering the Endless Tower**
+## **การเข้าสู่หอคอยไม่มีที่สิ้นสุด**
 
-* To access the **Endless Tower**, talk to the **Captain** and select the option **"**<mark style="color:red;">**Let's go now**</mark>**"**.
-* Once on the island, select **"**<mark style="color:red;">**Generate Dungeon**</mark>**"**.
-* After creating it, click on **"**<mark style="color:red;">**Enter Dungeon**</mark>**"**.
-* Make sure you are in a **party&#x20;**<mark style="color:red;">**(ALT+Z)**</mark> before entering the instance.
+* เพื่อเข้าถึง **หอคอยไม่มีที่สิ้นสุด** ให้พูดคุยกับ **กัปตัน** และเลือกตัวเลือก **"**<mark style="color:red;">**ไปกันเถอะตอนนี้**</mark>**"** 
+* เมื่ออยู่บนเกาะ ให้เลือก **"**<mark style="color:red;">**สร้างดันเจี้ยน**</mark>**"** 
+* หลังจากสร้างแล้ว คลิกที่ **"**<mark style="color:red;">**เข้าสู่ดันเจี้ยน**</mark>**"** 
+* ตรวจสอบให้แน่ใจว่าคุณอยู่ใน **ปาร์ตี้**<mark style="color:red;">**(ALT+Z)**</mark> ก่อนที่จะเข้าสู่ดันเจี้ยน
 
-<figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Going to the Endless Tower</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ไปยังหอคอยไม่มีที่สิ้นสุด</strong></mark></p></figcaption></figure>
 
-## **Tower Mechanics**
+## **กลไกของหอคอย**
 
-**2. Tower Structure**
+**2. โครงสร้างหอคอย**
 
-* The tower consists of <mark style="color:red;">**100 floors**</mark>, each more challenging than the previous one.
-* <mark style="color:red;">**After completing all 100 floors, it will RESET**</mark> back to **level 1** automatically. However, all **monsters will become stronger, with increased HP and higher LOOT rates**.
-* **Regular floors:**
-  * You will face waves of common monsters.
-* **Checkpoint floors (every 5-10 floors):**
-  * **MVPs** or mini-bosses will spawn as the main challenge.
-  * **Examples:** Eddga, Stormy Knight, Dracula, Valkyrie Randgris, among others.
+* หอคอยประกอบด้วย <mark style="color:red;">**100 ชั้น**</mark> ซึ่งแต่ละชั้นจะท้าทายมากกว่าชั้นก่อนหน้า
+* <mark style="color:red;">**หลังจากที่คุณทำครบทั้ง 100 ชั้น มันจะ RESET**</mark> กลับไปที่ **ระดับ 1** โดยอัตโนมัติ อย่างไรก็ตาม **มอนสเตอร์ทั้งหมดจะมีความแข็งแกร่งมากขึ้น โดยมี HP ที่สูงขึ้นและอัตราการดรอปที่สูงขึ้น** 
+* **ชั้นปกติ:**
+  * คุณจะเผชิญหน้ากับคลื่นของมอนสเตอร์ทั่วไป
+* **ชั้นเช็คพ้อย (ทุก 5-10 ชั้น):**
+  * **MVPs** หรือมินิบอสจะปรากฏเป็นความท้าทายหลัก
+  * **ตัวอย่าง:** Eddga, Stormy Knight, Dracula, Valkyrie Randgris และอื่นๆ
 
 ***
 
-**3. Basic Rules**
+**3. กฎพื้นฐาน**
 
-* **Time limit:** The instance lasts **4 hours** from the moment it is created.
-* **Shared progress:** If someone dies, they can return to the tower **as long as the party leader remains inside**.
-* **Group challenges:** Only **one party** can enter the instance at a time.
-* **Monster respawn:** Monsters spawn **in waves or batches**, depending on the floor.
-* **Rewards:** You receive **rewards for defeating MVPs**.
+* **เวลาจำกัด:** ดันเจี้ยนจะมีอายุ **4 ชั่วโมง** ตั้งแต่เวลาที่สร้าง
+* **ความก้าวหน้าแบบแชร์:** หากมีใครตาย พวกเขาสามารถกลับไปที่หอคอย **ตราบใดที่หัวหน้าปาร์ตี้ยังอยู่ข้างใน**
+* **ความท้าทายกลุ่ม:** สามารถมี **ปาร์ตี้เดียว** ที่เข้าไปในดันเจี้ยนได้ในครั้งเดียว
+* **การเกิดใหม่ของมอนสเตอร์:** มอนสเตอร์จะเกิด **เป็นคลื่นหรือกลุ่ม** ขึ้นอยู่กับชั้น
+* **รางวัล:** คุณจะได้รับ **รางวัลสำหรับการเอาชนะ MVPs**
 
-<figure><img src="../.gitbook/assets/12341.png" alt=""><figcaption><p><mark style="color:red;"><strong>First Floor of the Infinite Tower</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12341.png" alt=""><figcaption><p><mark style="color:red;"><strong>ชั้นแรกของหอคอยไม่มีที่สิ้นสุด</strong></mark></p></figcaption></figure>

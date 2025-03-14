@@ -1,3 +1,3 @@
-# ✅ Become a PARTNER
+# ✅ เป็น PARTNER
 
-<mark style="color:red;">**Waiting for information from Asia.**</mark>
+<mark style="color:red;">**รอข้อมูลจากเอเชียอยู่.**</mark>

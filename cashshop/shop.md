@@ -1,15 +1,13 @@
 ---
 description: >-
-  The CubePoints store helps you in your progression; we do not sell ROPS, only
-  visual items and consumables. Enjoy exclusive benefits.
+  ร้าน CubePoints ช่วยให้คุณในความก้าวหน้า; เราไม่ขาย ROPS, เพียงแต่
+  ขายไอเท็มที่มีลักษณะและของใช้. สนุกกับสิทธิประโยชน์พิเศษ.
 ---
 
-# 🛍️ Shop
+# 🛍️ ร้านค้า
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
-**How to Buy CubePoints?**\
+**วิธีการซื้อ CubePoints?**\
 
-
-
-Buying CubePoints is very easy. You need to purchase them with real money or a credit card through our website. For every **XX** amount defined (ASIA), you will receive **XX** CubePoints. So, if you want to buy an item that costs **10,000 CP**, you will need to invest **XX** in your character.
+การซื้อ CubePoints นั้นง่ายมาก คุณต้องซื้อด้วยเงินจริงหรือบัตรเครดิตผ่านเว็บไซต์ของเรา สำหรับจำนวน **XX** ที่กำหนด (เอเชีย) คุณจะได้รับ **XX** CubePoints ดังนั้น หากคุณต้องการซื้อไอเท็มที่มีราคา **10,000 CP** คุณจะต้องลงทุน **XX** ในตัวละครของคุณ.

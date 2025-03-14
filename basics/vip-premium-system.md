@@ -1,29 +1,29 @@
 ---
 description: >-
-  The VIP system gives players a few small advantages to help speed up and
-  assist with their gameplay.
+  ระบบ VIP ให้ผู้เล่นมีข้อได้เปรียบเล็กน้อยเพื่อช่วยเร่งความเร็วและ
+  สนับสนุนการเล่นเกมของพวกเขา
 ---
 
-# 👑 VIP (PREMIUM) System
+# 👑 ระบบ VIP (พรีเมียม)
 
 <figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
-## **VIP Benefits**
+## **ประโยชน์ของ VIP**
 
-* The VIP system offers benefits that make the game easier and faster. VIP players gain 10% extra experience, pay less for buffs and teleports, and have buffs that last longer.
-* In VIP 1, when reviving, the player returns with full HP/SP and also receives a 10% speed bonus when mounted on a steed. Additionally, VIPs suffer less experience penalty upon death and can list more items in the market.
-* These benefits save time and resources, making the gaming experience more practical and efficient.
+* ระบบ VIP มอบประโยชน์ที่ทำให้เกมเล่นง่ายและรวดเร็วขึ้น ผู้เล่น VIP จะได้รับประสบการณ์เพิ่มขึ้น 10% จ่ายน้อยลงสำหรับบัฟและการโทรศัพท์ และมีบัฟที่มีอายุการใช้งานนานขึ้น
+* ใน VIP 1 เมื่อฟื้นคืนชีพ ผู้เล่นจะกลับมาพร้อม HP/SP เต็ม และยังได้รับโบนัสความเร็ว 10% เมื่ออยู่บนม้า นอกจากนี้ VIP จะได้รับโทษประสบการณ์น้อยลงเมื่อเสียชีวิตและสามารถลงรายการในตลาดได้มากขึ้น
+* ประโยชน์เหล่านี้ช่วยประหยัดเวลาและทรัพยากร ทำให้ประสบการณ์การเล่นเกมมีความเป็นจริงและมีประสิทธิภาพมากขึ้น
 
-<figure><img src="../.gitbook/assets/vvv.png" alt=""><figcaption><p><mark style="color:red;"><strong>Vip Bonus</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vvv.png" alt=""><figcaption><p><mark style="color:red;"><strong>โบนัส VIP</strong></mark></p></figcaption></figure>
 
-## VIP Ticket
+## ตั๋ว VIP
 
-* **Obtained in-game**: Can be purchased for 15,000 CP and lasts for 15 days.
-* **Obtained on the website**: Can be purchased directly from the website for 30,000 CP and lasts for 30 days.
-* **Tradeable**: The VIP ticket obtained in-game can be traded between players, allowing you to buy or sell the benefit within the game.
+* **ได้รับในเกม**: สามารถซื้อได้ในราคา 15,000 CP และมีอายุ 15 วัน
+* **ได้รับจากเว็บไซต์**: สามารถซื้อได้โดยตรงจากเว็บไซต์ในราคา 30,000 CP และมีอายุ 30 วัน
+* **สามารถแลกเปลี่ยนได้**: ตั๋ว VIP ที่ได้รับในเกมสามารถแลกเปลี่ยนระหว่างผู้เล่น ทำให้คุณสามารถซื้อหรือขายประโยชน์ภายในเกมได้
 
-<figure><img src="../.gitbook/assets/1v1.png" alt=""><figcaption><p><mark style="color:red;"><strong>VIP Ticket in the CP Store</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1v1.png" alt=""><figcaption><p><mark style="color:red;"><strong>ตั๋ว VIP ในร้าน CP</strong></mark></p></figcaption></figure>
 
-## Differences Between Normal Player and VIP Player
+## ความแตกต่างระหว่างผู้เล่นปกติกับผู้เล่น VIP
 
-<table><thead><tr><th width="383">Descrição</th><th width="144">Player Normal</th><th>Player VIP</th></tr></thead><tbody><tr><td>Ignore gem usage in skills?</td><td>No</td><td>No</td></tr><tr><td>Experience Bonus</td><td>No</td><td><mark style="color:yellow;">10%</mark></td></tr><tr><td>Inn Buffs Cost</td><td>400z</td><td><mark style="color:yellow;">200z</mark></td></tr><tr><td>Inn Buff Animation Time</td><td>5 Seconds</td><td><mark style="color:yellow;">2 Seconds</mark></td></tr><tr><td>Inn Buffs Duration Time</td><td>15 Minutes</td><td><mark style="color:yellow;">30 Minutes</mark></td></tr><tr><td>HP/SP on Resurrection</td><td>20%</td><td><mark style="color:yellow;">100%</mark></td></tr><tr><td>Teleport (<mark style="color:green;">Kafra</mark>) - (<mark style="color:orange;">Boat</mark>)</td><td><mark style="color:green;">900z</mark> - <mark style="color:orange;">500z</mark></td><td><mark style="color:green;">600z</mark> - <mark style="color:orange;">250z</mark></td></tr><tr><td>Market Listing Limit</td><td>10</td><td><mark style="color:yellow;">14</mark></td></tr><tr><td>Character Limit per Account</td><td>15</td><td><mark style="color:yellow;">15</mark></td></tr><tr><td>Repair Broken Items</td><td>900z</td><td><mark style="color:yellow;">400z</mark></td></tr><tr><td>EXP Penalty on Death</td><td>4%</td><td><mark style="color:yellow;">2%</mark></td></tr></tbody></table>
+<table><thead><tr><th width="383">คำอธิบาย</th><th width="144">ผู้เล่นปกติ</th><th>ผู้เล่น VIP</th></tr></thead><tbody><tr><td>ละเว้นการใช้เพชรในทักษะ?</td><td>ไม่</td><td>ไม่</td></tr><tr><td>โบนัสประสบการณ์</td><td>ไม่</td><td><mark style="color:yellow;">10%</mark></td></tr><tr><td>ค่าบัฟในโรงเตี๊ยม</td><td>400z</td><td><mark style="color:yellow;">200z</mark></td></tr><tr><td>เวลาการแอนิเมชันบัฟในโรงเตี๊ยม</td><td>5 วินาที</td><td><mark style="color:yellow;">2 วินาที</mark></td></tr><tr><td>ระยะเวลาบัฟในโรงเตี๊ยม</td><td>15 นาที</td><td><mark style="color:yellow;">30 นาที</mark></td></tr><tr><td>HP/SP เมื่อฟื้นคืนชีพ</td><td>20%</td><td><mark style="color:yellow;">100%</mark></td></tr><tr><td>การโทรศัพท์ (<mark style="color:green;">Kafra</mark>) - (<mark style="color:orange;">เรือ</mark>)</td><td><mark style="color:green;">900z</mark> - <mark style="color:orange;">500z</mark></td><td><mark style="color:green;">600z</mark> - <mark style="color:orange;">250z</mark></td></tr><tr><td>ขีดจำกัดการลงรายการในตลาด</td><td>10</td><td><mark style="color:yellow;">14</mark></td></tr><tr><td>ขีดจำกัดตัวละครต่อบัญชี</td><td>15</td><td><mark style="color:yellow;">15</mark></td></tr><tr><td>ซ่อมแซมของเสีย</td><td>900z</td><td><mark style="color:yellow;">400z</mark></td></tr><tr><td>โทษ EXP เมื่อเสียชีวิต</td><td>4%</td><td><mark style="color:yellow;">2%</mark></td></tr></tbody></table>

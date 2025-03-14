@@ -1,37 +1,37 @@
 ---
 description: >-
-  Tired of the same old servers where everything is mixed in English,
-  Portuguese, and other languages?   Here, you can have everything **fully
-  translated** into multiple languages!
+  เบื่อกับเซิร์ฟเวอร์เก่าๆ ที่ทุกอย่างผสมกันเป็นภาษาอังกฤษ,
+  โปรตุเกส และภาษาอื่นๆ? ที่นี่ คุณสามารถมีทุกอย่าง **แปลเป็นภาษาเต็มรูปแบบ**
+  ได้หลายภาษา!
 ---
 
-# 🌎 Multi-Language
+# 🌎 หลายภาษา
 
-## **About the Multi-Language System**
+## **เกี่ยวกับระบบหลายภาษา**
 
-* In **Arkaik: Tales of Sarina**, the **multi-language system** was introduced to solve an existing issue.
-* It allows players to **choose their preferred language** for gameplay.
-* Changing the language **completely alters** your in-game experience.
-* Great for playing with friends who speak or are accustomed to **different languages**.
+* ใน **Arkaik: Tales of Sarina** ระบบ **หลายภาษา** ถูกนำมาใช้เพื่อแก้ไขปัญหาที่มีอยู่
+* มันช่วยให้ผู้เล่น **เลือกภาษาที่ต้องการ** สำหรับการเล่นเกม
+* การเปลี่ยนภาษา **เปลี่ยนแปลง** ประสบการณ์ในเกมของคุณโดยสิ้นเชิง
+* เหมาะสำหรับการเล่นกับเพื่อนที่พูดหรือคุ้นเคยกับ **ภาษาที่แตกต่างกัน**
 
 ***
 
-## **How to Use**
+## **วิธีการใช้งาน**
 
-* <mark style="color:red;">**Open**</mark> <mark style="color:red;"></mark><mark style="color:red;">your</mark> <mark style="color:red;"></mark><mark style="color:red;">**Arkaik Launcher**</mark>.
-* Go to <mark style="color:red;">**Settings**</mark>.
-* Navigate to **"Sound & Language"** and **choose your preferred language**.
+* <mark style="color:red;">**เปิด**</mark> <mark style="color:red;"></mark><mark style="color:red;">**Arkaik Launcher**</mark>.
+* ไปที่ <mark style="color:red;">**การตั้งค่า**</mark>.
+* ไปที่ **"เสียง & ภาษา"** และ **เลือกภาษาที่คุณต้องการ**.
 
-<figure><img src="../.gitbook/assets/098.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using the Multi-Language System in the Launcher</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/098.gif" alt=""><figcaption><p><mark style="color:red;"><strong>การใช้ระบบหลายภาษาใน Launcher</strong></mark></p></figcaption></figure>
 
-## **How It Looks In-Game**
+## **มันดูอย่างไรในเกม**
 
-* Changing the language **modifies&#x20;**<mark style="color:red;">**ALL INFORMATION**</mark> in the game.
-* **NPCs, Monsters, Items, Skills, Quests—everything is translated.**
+* การเปลี่ยนภาษา **ปรับเปลี่ยน**<mark style="color:red;">**ข้อมูลทั้งหมด**</mark> ในเกม
+* **NPCs, มอนสเตอร์, ไอเทม, สกิล, เควส—ทุกอย่างถูกแปลแล้ว**
 
 {% tabs %}
 {% tab title="English" %}
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "ENGLISH"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p><mark style="color:red;"><strong>ส่วนติดต่อเกมทั้งหมดของ Arkaik ใน "ภาษาอังกฤษ"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Thailand" %}

@@ -1,11 +1,9 @@
 ---
 description: >-
-  Find a quick and effective solution to your problem by searching for it in the
-  corresponding category. If you can't find what you're looking for, contact our
-  team of professionals.
+  ค้นหาวิธีแก้ปัญหาที่รวดเร็วและมีประสิทธิภาพโดยการค้นหาในหมวดหมู่ที่เกี่ยวข้อง หากคุณไม่สามารถหาสิ่งที่คุณกำลังมองหาได้ ติดต่อทีมงานมืออาชีพของเรา
 ---
 
-# 🆘 Support and Help
+# 🆘 การสนับสนุนและช่วยเหลือ
 
 {% content-ref url="common-issues-client-problemas-comuns-client.md" %}
 [common-issues-client-problemas-comuns-client.md](common-issues-client-problemas-comuns-client.md)

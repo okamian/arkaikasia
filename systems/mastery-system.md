@@ -1,71 +1,71 @@
 ---
 description: >-
-  Tired of the current skill system? How about changing your gameplay with the
-  **Mastery System**?   A new meta, new builds, and more fun for you!
+  เบื่อกับระบบทักษะปัจจุบันอยู่หรือเปล่า? ลองเปลี่ยนการเล่นของคุณด้วย
+  **ระบบความเชี่ยวชาญ**? เมต้าใหม่, การสร้างใหม่, และความสนุกมากขึ้นสำหรับคุณ!
 ---
 
-# 🏆 Mastery System
+# 🏆 ระบบความเชี่ยวชาญ
 
-<figure><img src="../.gitbook/assets/11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>Mastery Academic NPC</strong> – Responsible for purchasing new points.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC ความเชี่ยวชาญ</strong> – รับผิดชอบในการซื้อคะแนนใหม่.</mark></p></figcaption></figure>
 
-## **Mastery System**
+## **ระบบความเชี่ยวชาญ**
 
-* In **Arkaik: Tales of Sarina**, you can improve or modify skill behavior by evolving their **masteries**.
-* These masteries can be accessed through your **skill window&#x20;**<mark style="color:red;">**(ALT + S)**</mark>.
-* You can enable or disable masteries at any time via the skill window or by dragging them to the skill bar.
+* ใน **Arkaik: Tales of Sarina**, คุณสามารถปรับปรุงหรือเปลี่ยนแปลงพฤติกรรมของทักษะโดยการพัฒนาความเชี่ยวชาญของพวกเขา
+* ความเชี่ยวชาญเหล่านี้สามารถเข้าถึงได้ผ่าน **หน้าต่างทักษะ**<mark style="color:red;">**(ALT + S)**</mark>.
+* คุณสามารถเปิดหรือปิดความเชี่ยวชาญได้ทุกเมื่อผ่านหน้าต่างทักษะหรือโดยการลากไปยังแถบทักษะ.
 
 ***
 
-## **Obtaining Mastery Points**
+## **การได้รับคะแนนความเชี่ยวชาญ**
 
-**Mastery Academic**
+**NPC ความเชี่ยวชาญ**
 
-* Purchase directly from the NPC **"**<mark style="color:red;">**Mastery Academic**</mark>**"**, available in all cities.
-* When interacting with the NPC, you can buy **Mastery Points**.
-* The more points you purchase, the more expensive they become.
-* You can **"Reset"** the tax counter for a certain amount of **Zeny**.
+* ซื้อโดยตรงจาก NPC **"**<mark style="color:red;">**NPC ความเชี่ยวชาญ**</mark>**"**, มีอยู่ในทุกเมือง.
+* เมื่อโต้ตอบกับ NPC คุณสามารถซื้อ **คะแนนความเชี่ยวชาญ**.
+* ยิ่งคุณซื้อคะแนนมากเท่าไหร่ ราคาก็จะยิ่งแพงขึ้น.
+* คุณสามารถ **"รีเซ็ต"** เคาน์เตอร์ภาษีสำหรับจำนวน **Zeny** ที่กำหนด.
 
-<figure><img src="../.gitbook/assets/11123333333333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Mastery Academic in Zero City</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11123333333333.png" alt=""><figcaption><p><mark style="color:red;"><strong>ตำแหน่งของ NPC ความเชี่ยวชาญในเมือง Zero</strong></mark></p></figcaption></figure>
 
-## **Daily Mission Shop**
+## **ร้านค้าภารกิจประจำวัน**
 
-* By completing <mark style="color:red;">**daily missions**</mark> in cities, you earn points and can exchange them for **"**<mark style="color:red;">**Mastery Bags**</mark>**"**.
-* Next to the NPC, there will be a **stone mural**. Simply click on the **"**<mark style="color:red;">**Mural**</mark>**"** and choose a mission.
+* โดยการทำ <mark style="color:red;">**ภารกิจประจำวัน**</mark> ในเมือง คุณจะได้รับคะแนนและสามารถแลกเปลี่ยนเป็น **"**<mark style="color:red;">**ถุงความเชี่ยวชาญ**</mark>**"**.
+* ข้าง NPC จะมี **ภาพจิตรกรรมหิน** เพียงแค่คลิกที่ **"**<mark style="color:red;">**ภาพจิตรกรรม**</mark>**"** และเลือกภารกิจ.
 
-<figure><img src="../.gitbook/assets/44444.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC das Trocas de missões diárias.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44444.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC สำหรับการแลกเปลี่ยนภารกิจประจำวัน.</strong></mark></p></figcaption></figure>
 
 ### MVPS
 
-* Defeating **MVPs** also grants a chance to drop **"**<mark style="color:red;">**Mastery Bags**</mark>**"**.
+* การเอาชนะ **MVPs** ยังมีโอกาสที่จะดรอป **"**<mark style="color:red;">**ถุงความเชี่ยวชาญ**</mark>**"**.
 
-<figure><img src="../.gitbook/assets/aa23.png" alt=""><figcaption><p><mark style="color:red;"><strong>Each MVP has a chance to drop "Mastery Bags".</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/aa23.png" alt=""><figcaption><p><mark style="color:red;"><strong>MVP แต่ละตัวมีโอกาสที่จะดรอป "ถุงความเชี่ยวชาญ".</strong></mark></p></figcaption></figure>
 
-## **Just by Playing**
+## **แค่เล่นเกม**
 
-* <mark style="color:red;">**Every two hours**</mark>, you **passively** receive **1 mastery point for free**.
-* You can collect your points by typing <mark style="color:red;">**@mastery**</mark> in the chat.
-* <mark style="color:red;">**The timer does not reset if you log out**</mark>, as it is cumulative.
+* <mark style="color:red;">**ทุกสองชั่วโมง**</mark>, คุณจะได้รับ **1 คะแนนความเชี่ยวชาญฟรี** แบบพาสซีฟ.
+* คุณสามารถเก็บคะแนนของคุณโดยการพิมพ์ <mark style="color:red;">**@mastery**</mark> ในแชท.
+* <mark style="color:red;">**ตัวจับเวลาไม่รีเซ็ตหากคุณออกจากระบบ**</mark>, เนื่องจากมันสะสม.
 
-<figure><img src="../.gitbook/assets/cca643.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Utilizando o comando @maestria para verificar receber seu pontos.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/cca643.gif" alt=""><figcaption><p><mark style="color:red;"><strong>ใช้คำสั่ง @mastery เพื่อตรวจสอบคะแนนที่คุณได้รับ.</strong></mark></p></figcaption></figure>
 
-## **About Point Cost**
+## **เกี่ยวกับค่าใช้จ่ายคะแนน**
 
-* **The first time** you talk to the NPC with any character, they will **give you 7 free points** to help you understand how the mastery system works.
-* From the second conversation onwards, you can <mark style="color:red;">**buy mastery points**</mark>, but **for each point already purchased, the Zeny cost increases by 25 Zeny**.
+* **ครั้งแรกที่** คุณพูดคุยกับ NPC ด้วยตัวละครใด ๆ, พวกเขาจะ **ให้คุณ 7 คะแนนฟรี** เพื่อช่วยให้คุณเข้าใจวิธีการทำงานของระบบความเชี่ยวชาญ.
+* ตั้งแต่การสนทนาครั้งที่สองเป็นต้นไป, คุณสามารถ <mark style="color:red;">**ซื้อคะแนนความเชี่ยวชาญ**</mark>, แต่ **สำหรับแต่ละคะแนนที่ซื้อแล้ว, ราคาของ Zeny จะเพิ่มขึ้น 25 Zeny**.
 
-### **Example:**
+### **ตัวอย่าง:**
 
-* Buying **3 mastery points** would cost **1,500 Zeny** _(250 + 500 + 750)_.
-*   The purchase cost can be calculated using the formula:
+* การซื้อ **3 คะแนนความเชี่ยวชาญ** จะมีค่าใช้จ่าย **1,500 Zeny** _(250 + 500 + 750)_.
+*   ค่าใช้จ่ายในการซื้อสามารถคำนวณได้โดยใช้สูตร:
 
-    **(MasteryAmount \* 250) \* (MasteryAmount / 1000 / 2) + (MasteryAmount / 8) \* 1000**
-*   **Example calculation:** Buying **100 mastery points** would be:
+    **(จำนวนความเชี่ยวชาญ \* 250) \* (จำนวนความเชี่ยวชาญ / 1000 / 2) + (จำนวนความเชี่ยวชาญ / 8) \* 1000**
+*   **การคำนวณตัวอย่าง:** การซื้อ **100 คะแนนความเชี่ยวชาญ** จะเป็น:
 
     **(100 \* 250) \* (100 / 1000 / 2) + (100 / 8) \* 1000 =&#x20;**<mark style="color:green;">**1,262,500 Zeny**</mark>
 
-## **Using Mastery Points**
+## **การใช้คะแนนความเชี่ยวชาญ**
 
-* To use your **Mastery Points**, simply press <mark style="color:red;">**(ALT + S)**</mark> and go to the **"Mastery"** tab.
-* All your **Mastery Points** will be listed below, and you can **spend them freely**.
+* เพื่อใช้ **คะแนนความเชี่ยวชาญ** ของคุณ, เพียงกด <mark style="color:red;">**(ALT + S)**</mark> และไปที่แท็บ **"ความเชี่ยวชาญ"**.
+* คะแนนความเชี่ยวชาญทั้งหมดของคุณจะถูกแสดงด้านล่าง และคุณสามารถ **ใช้จ่ายได้อย่างอิสระ**.
 
-<figure><img src="../.gitbook/assets/cca64355.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using Mastery Points in the Skill Tree.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/cca64355.gif" alt=""><figcaption><p><mark style="color:red;"><strong>การใช้คะแนนความเชี่ยวชาญในต้นไม้ทักษะ.</strong></mark></p></figcaption></figure>

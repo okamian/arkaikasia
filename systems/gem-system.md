@@ -1,19 +1,19 @@
 ---
 description: >-
-  In Tales of Sarina, when defeating monsters, there is a chance they will
-  transform into a small crystal, which holds a special power.
+  ใน Tales of Sarina, เมื่อกำจัดมอนสเตอร์ จะมีโอกาสที่พวกมันจะ
+  เปลี่ยนเป็นคริสตัลเล็ก ๆ ซึ่งมีพลังพิเศษอยู่
 ---
 
-# ⚛️ Gem System
+# ⚛️ ระบบอัญมณี
 
 {% tabs %}
-{% tab title="News " %}
-* **All Gems have been updated** <mark style="color:red;">(</mark><mark style="color:red;">**27/02/25**</mark><mark style="color:red;">)</mark>.
-* **New Gem Locations:** <mark style="color:purple;">(</mark><mark style="color:purple;">**Eldoria, Abyss Lake**</mark><mark style="color:purple;">).</mark>
+{% tab title="ข่าวสาร" %}
+* **อัญมณีทั้งหมดได้รับการอัปเดต** <mark style="color:red;">(</mark><mark style="color:red;">**27/02/25**</mark><mark style="color:red;">)</mark>.
+* **สถานที่ใหม่ของอัญมณี:** <mark style="color:purple;">(</mark><mark style="color:purple;">**Eldoria, Abyss Lake**</mark><mark style="color:purple;">).</mark>
 {% endtab %}
 
-{% tab title=" List of New Gems" %}
-## Lista: 27/02/25
+{% tab title=" รายชื่ออัญมณีใหม่" %}
+## รายการ: 27/02/25
 
 * **Detardeurus Gem** _(MVP)_
 * **Vesper Gem** _(MVP)_
@@ -37,109 +37,109 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-* This is the **complete list** of all Gems up to the present moment in _"Arkaik: Tales of Sarina"_.
-* You can **"**<mark style="color:red;">**Navigate**</mark>**"** through the tabs below to find what you need, **example GIF below**.
+* นี่คือ **รายชื่อทั้งหมด** ของอัญมณีจนถึงปัจจุบันใน _"Arkaik: Tales of Sarina"_.
+* คุณสามารถ **"**<mark style="color:red;">**นำทาง**</mark>**"** ผ่านแท็บด้านล่างเพื่อค้นหาสิ่งที่คุณต้องการ, **ตัวอย่าง GIF ด้านล่าง**.
 
 <figure><img src="../.gitbook/assets/4441111.gif" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
-{% tab title="About Gems" %}
-## **Characteristics**
+{% tab title="เกี่ยวกับอัญมณี" %}
+## **ลักษณะเฉพาะ**
 
-* **The stronger the monster, the harder it is to obtain its gem.** The chance of obtaining a monster's gem can range from <mark style="color:red;">**0.01% to 100%**</mark><mark style="color:red;">.</mark>
-* **Gems do not stack their effects.** For example, if you have a dagger with a **Poring Gem** and boots with another **Poring Gem**, the effect is **applied only once**.
-* **While equipped with a monster gem**, if you engage in combat with that same monster, you receive **-10% damage taken and +5% damage dealt** to it. Additionally, **you heal 1% of your HP/SP when defeating it**.
-* **Unlike Cards, Gems can be attached to any equipment** that has an **available gem slot**, regardless of type.
-* **Gems can be removed** using the skill **"**<mark style="color:red;">**Never Had Luck**</mark>**"**.
+* **มอนสเตอร์ที่แข็งแกร่งกว่าจะได้รับอัญมณีได้ยากขึ้น** โอกาสในการได้รับอัญมณีของมอนสเตอร์อาจอยู่ระหว่าง <mark style="color:red;">**0.01% ถึง 100%**</mark><mark style="color:red;">.</mark>
+* **อัญมณีไม่สามารถซ้อนผลของกันและกันได้** ตัวอย่างเช่น หากคุณมีมีดที่มี **Poring Gem** และรองเท้าที่มี **Poring Gem** อีกอัน ผลจะ **ถูกใช้เพียงครั้งเดียว**.
+* **ในขณะที่ติดตั้งอัญมณีของมอนสเตอร์** หากคุณต่อสู้กับมอนสเตอร์เดียวกัน คุณจะได้รับ **-10% ความเสียหายที่ได้รับและ +5% ความเสียหายที่ทำให้กับมัน** นอกจากนี้ **คุณจะฟื้นฟู 1% ของ HP/SP ของคุณเมื่อกำจัดมัน**.
+* **แตกต่างจากการ์ด อัญมณีสามารถติดตั้งกับอุปกรณ์ใดก็ได้** ที่มี **ช่องอัญมณีว่าง** โดยไม่คำนึงถึงประเภท.
+* **สามารถถอดอัญมณีออกได้** โดยใช้ทักษะ **"**<mark style="color:red;">**Never Had Luck**</mark>**"**.
 
-## **Types of Gems**
+## **ประเภทของอัญมณี**
 
-* There are currently **3 types of Gems** on the server.
+* ขณะนี้มี **3 ประเภทของอัญมณี** บนเซิร์ฟเวอร์.
 
-<table><thead><tr><th width="110">Image</th><th>Description</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Base_MVP.png" alt=""></td><td>MVP Gems are <mark style="color:yellow;">gold-colored</mark>.</td></tr><tr><td><img src="../.gitbook/assets/Base_miniboss.png" alt=""></td><td>Mini-Boss Gems are <mark style="color:blue;">blue-colored</mark>.</td></tr><tr><td><img src="../.gitbook/assets/Base_comum.png" alt=""></td><td>Common Gems are <mark style="color:purple;">purple-colored</mark>.</td></tr></tbody></table>
+<table><thead><tr><th width="110">ภาพ</th><th>คำอธิบาย</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Base_MVP.png" alt=""></td><td>อัญมณี MVP มี <mark style="color:yellow;">สีทอง</mark>.</td></tr><tr><td><img src="../.gitbook/assets/Base_miniboss.png" alt=""></td><td>อัญมณี Mini-Boss มี <mark style="color:blue;">สีน้ำเงิน</mark>.</td></tr><tr><td><img src="../.gitbook/assets/Base_comum.png" alt=""></td><td>อัญมณีทั่วไปมี <mark style="color:purple;">สีม่วง</mark>.</td></tr></tbody></table>
 
-## **Attaching a Gem**
+## **การติดตั้งอัญมณี**
 
-* **Left-click** on the gem in your inventory.
-* The following screen will appear.
+* **คลิกซ้าย** ที่อัญมณีในคลังของคุณ.
+* หน้าจอถัดไปจะปรากฏขึ้น.
 
-<figure><img src="../.gitbook/assets/212.png" alt=""><figcaption><p><mark style="color:red;"><strong>Right-Clicking to Inspect the Gem</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/212.png" alt=""><figcaption><p><mark style="color:red;"><strong>คลิกขวาเพื่อตรวจสอบอัญมณี</strong></mark></p></figcaption></figure>
 
-## **How to Attach a Gem**
+## **วิธีติดตั้งอัญมณี**
 
-1. **Click on an item**, then press the **"**<mark style="color:red;">**Add**</mark>**"** button.
-2. A <mark style="color:red;">**confirmation message**</mark> will appear in your chat.
-3. **Left-click on the item** to check the attached gem.
+1. **คลิกที่ไอเท็ม** จากนั้นกดปุ่ม **"**<mark style="color:red;">**เพิ่ม**</mark>**"**.
+2. ข้อความ <mark style="color:red;">**ยืนยัน**</mark> จะปรากฏในแชทของคุณ.
+3. **คลิกซ้ายที่ไอเท็ม** เพื่อตรวจสอบอัญมณีที่ติดตั้งอยู่.
 
-<figure><img src="../.gitbook/assets/3332.png" alt=""><figcaption><p><mark style="color:red;"><strong>Gem Linked to the Equipment</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3332.png" alt=""><figcaption><p><mark style="color:red;"><strong>อัญมณีที่เชื่อมโยงกับอุปกรณ์</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="STR" %}
-## Atrributes
+## คุณสมบัติ
 
-| Monster                 | Effect                                          |
+| มอนสเตอร์                 | ผลกระทบ                                          |
 | ----------------------- | ----------------------------------------------- |
 | Orc Skeleton Gem        | Max HP -500. STR +5.                            |
 | Orc Zombie Gem          | Max HP -700. STR +5.                            |
-| Rybio Gem               | If the user has **99 or more DEX**: **STR +5**. |
+| Rybio Gem               | หากผู้ใช้มี **DEX 99 หรือมากกว่า**: **STR +5**. |
 | Flying Exterminator Gem | +STR +2                                         |
 | Orc Warrior Gem         | STR +2                                          |
 | Minorous Gem            | STR +3                                          |
 | Deniro Gem              | SSTR +2                                         |
 
-## **Attack Gems**
+## **อัญมณีโจมตี**
 
-| Monster       | Effect           |
+| มอนสเตอร์       | ผลกระทบ           |
 | ------------- | ---------------- |
 | Crab Gem      | ATK +2.          |
 | Porcellio Gem | ATK +10.         |
 | Skeleton Gem  | ATK +4.          |
-| Matyr Gem     | +3 basic attack. |
+| Matyr Gem     | +3 การโจมตีพื้นฐาน. |
 
-## **Close-Range Damage**
+## **ความเสียหายระยะประชิด**
 
-| Monster      | Effect                                          |
+| มอนสเตอร์      | ผลกระทบ                                          |
 | ------------ | ----------------------------------------------- |
-| Dullahan Gem | Increases **close-range attack damage by +5%**. |
+| Dullahan Gem | เพิ่ม **ความเสียหายในการโจมตีระยะประชิด +5%**. |
 {% endtab %}
 
 {% tab title="AGI" %}
-## Attributes
+## คุณสมบัติ
 
-| Monster       | Effect  |
+| มอนสเตอร์       | ผลกระทบ  |
 | ------------- | ------- |
 | Laundress Gem | AGI +2. |
 | Kukre Gem     | AGI +1. |
 | Wild Rose Gem | AGI +2. |
 | Swordfish Gem | AGI +3. |
 
-## **Attack Speed**
+## **ความเร็วในการโจมตี**
 
-| Monster             | Effect                            |
+| มอนสเตอร์             | ผลกระทบ                            |
 | ------------------- | --------------------------------- |
-| Worker Skeleton Gem | VidMax HP -500. +2% attack speed. |
-| Dark Nightmare Gem  | +2% attack speed.                 |
-| Chimera Gem         | **+3 attack speed**.              |
+| Worker Skeleton Gem | VidMax HP -500. +2% ความเร็วในการโจมตี. |
+| Dark Nightmare Gem  | +2% ความเร็วในการโจมตี.                 |
+| Chimera Gem         | **+3 ความเร็วในการโจมตี**.              |
 
-## **Movement Speed**
+## **ความเร็วในการเคลื่อนที่**
 
-| Monster    | Effect                   |
+| มอนสเตอร์    | ผลกระทบ                   |
 | ---------- | ------------------------ |
-| Rabbit Gem | **+10% movement speed**. |
-| Alarm Gem  | **+10% movement speed**. |
-| Clock Gem  | **+10% movement speed**. |
-| Harpy Gem  | **+5% movement speed**.  |
-| Breeze Gem | **+10% movement speed**. |
-| Drone Gem  | **+5% movement speed**.  |
-| Yoyo Gem   | **+10% movement speed**. |
-| Verit Gem  | **+3% movement speed**.  |
-| Wolf Gem   | **+10% movement speed**. |
+| Rabbit Gem | **+10% ความเร็วในการเคลื่อนที่**. |
+| Alarm Gem  | **+10% ความเร็วในการเคลื่อนที่**. |
+| Clock Gem  | **+10% ความเร็วในการเคลื่อนที่**. |
+| Harpy Gem  | **+5% ความเร็วในการเคลื่อนที่**.  |
+| Breeze Gem | **+10% ความเร็วในการเคลื่อนที่**. |
+| Drone Gem  | **+5% ความเร็วในการเคลื่อนที่**.  |
+| Yoyo Gem   | **+10% ความเร็วในการเคลื่อนที่**. |
+| Verit Gem  | **+3% ความเร็วในการเคลื่อนที่**.  |
+| Wolf Gem   | **+10% ความเร็วในการเคลื่อนที่**. |
 
-## **Perfect Dodge and Dodge**
+## **การหลบหลีกและการหลบหลีกที่สมบูรณ์**
 
-| Monster       | Effect                                          |
+| มอนสเตอร์       | ผลกระทบ                                          |
 | ------------- | ----------------------------------------------- |
-| Mist Gem      | Immunity to map toxicity. **Perfect Dodge +1**. |
+| Mist Gem      | ภูมิคุ้มกันต่อความเป็นพิษของแผนที่. **Perfect Dodge +1**. |
 | Argiope Gem   | **Perfect Dodge +2%**.                          |
 | Zenorc Gem    | **Dodge +3**.                                   |
 | Anopheles Gem | **Dodge +2%**.                                  |
@@ -154,53 +154,53 @@ description: >-
 {% endtab %}
 
 {% tab title="VIT" %}
-## Attributes
+## คุณสมบัติ
 
-| Monster           | Effect                                                     |
+| มอนสเตอร์           | ผลกระทบ                                                     |
 | ----------------- | ---------------------------------------------------------- |
-| Marine Sphere Gem | If base level is **60 or higher**, grants **+3 Vitality**. |
-| Battering Gem     | Defense based on **Vitality +6**.                          |
+| Marine Sphere Gem | หากระดับพื้นฐาน **60 หรือสูงกว่า**, มอบ **+3 Vitality**. |
+| Battering Gem     | การป้องกันตาม **Vitality +6**.                          |
 | Lava Golem Gem    | **+5 Vitality**.                                           |
 | Evil Druid Gem    | +**+4% Max HP**.                                           |
-| Nine-Tails Gem    | Gains **+1 Vitality per 10 levels**.                       |
+| Nine-Tails Gem    | ได้รับ **+1 Vitality ต่อ 10 ระดับ**.                       |
 | Requiem Gem       | **+1 Vitality**.                                           |
 | Picky Gem         | **+1 Vitality**.                                           |
 | Piere Gem         | **+3 Vitality**.                                           |
 | Poring Gem        | **+1 Vitality**.                                           |
 
-## Life (HP Boosting Gems)
+## ชีวิต (อัญมณีเพิ่ม HP)
 
-| Monster         | Effect                                             |
+| มอนสเตอร์         | ผลกระทบ                                             |
 | --------------- | -------------------------------------------------- |
 | Apocalypse Gem  | **+1000 Max HP**.                                  |
 | Mars Gem        | **+470 Max HP**.                                   |
-| Soldier Gem     | Stops **natural HP regeneration**. **+3% Max HP**. |
+| Soldier Gem     | หยุด **การฟื้นฟู HP ตามธรรมชาติ**. **+3% Max HP**. |
 | Martin Gem      | **+200 Max HP**.                                   |
 | Majoruros Gem   | **+700 Max HP**.                                   |
 | Fabre Gem       | **+10 Max HP**.                                    |
-| Ambernite Gem   | **-30% movement speed**, **+5% Max HP**.           |
+| Ambernite Gem   | **-30% ความเร็วในการเคลื่อนที่**, **+5% Max HP**.           |
 | Marionette Gem  | **-5 Agility**, **+300 Max HP**.                   |
 | Ant Egg Gem     | **+50 Max HP**.                                    |
 | Green Ferus Gem | **+380 Max HP, +2 Vitality, -100 Max SP**.         |
 
-## **HP Recovery**
+## **การฟื้นฟู HP**
 
-| Monster             | Effect                                                                                              |
+| มอนสเตอร์             | ผลกระทบ                                                                                              |
 | ------------------- | --------------------------------------------------------------------------------------------------- |
-| Prisoner Zombie Gem | Recovers **300 HP every 5 seconds**. Unequipping an item with this gem **reduces user HP by 1000**. |
-| Nereid Gem          | +10% natural HP recovery.                                                                           |
-| Marin Gem           | +10% natural HP recovery.                                                                           |
+| Prisoner Zombie Gem | ฟื้นฟู **300 HP ทุก 5 วินาที**. การถอดไอเท็มที่มีอัญมณีนี้ **ลด HP ของผู้ใช้ลง 1000**. |
+| Nereid Gem          | +10% การฟื้นฟู HP ตามธรรมชาติ.                                                                           |
+| Marin Gem           | +10% การฟื้นฟู HP ตามธรรมชาติ.                                                                           |
 
-## HP Recovery by Attacks
+## การฟื้นฟู HP จากการโจมตี
 
-| Monster     | Effect                                                                   |
+| มอนสเตอร์     | ผลกระทบ                                                                   |
 | ----------- | ------------------------------------------------------------------------ |
-| Obeaune Gem | Recovers **50 HP** when landing basic attacks on **fish-type monsters**. |
-| Strouf Gem  | Recovers **50 SP** when landing basic attacks on **fish-type monsters**. |
+| Obeaune Gem | ฟื้นฟู **50 HP** เมื่อโจมตีพื้นฐานกับ **มอนสเตอร์ประเภทปลา**. |
+| Strouf Gem  | ฟื้นฟู **50 SP** เมื่อโจมตีพื้นฐานกับ **มอนสเตอร์ประเภทปลา**. |
 
-## **Physical Defense**
+## **การป้องกันทางกายภาพ**
 
-| Monster        | Effect                             |
+| มอนสเตอร์        | ผลกระทบ                             |
 | -------------- | ---------------------------------- |
 | Encouraged Gem | **+3% Vital Defense**.             |
 | Raydric Gem    | **+4% Physical Defense**.          |
@@ -209,365 +209,365 @@ description: >-
 | Munak Gem      | **DEF +3**.                        |
 | Golem Gem      | **DEF +6**.                        |
 | Andre Gem      | **DEF +2**.                        |
-| Skeleton Gem   | **Reduces DEF by 2%**.             |
+| Skeleton Gem   | **ลด DEF ลง 2%**.             |
 
-## Damage Reduction (Physical & Magical)
+## การลดความเสียหาย (ทางกายภาพ & เวทย์)
 
-| Monster           | Effect                                                                  |
+| มอนสเตอร์           | ผลกระทบ                                                                  |
 | ----------------- | ----------------------------------------------------------------------- |
-| Archdam Gem       | RedReduces **physical damage received by 3%**.                          |
-| Cursed Frame Gem  | **+5% defense against magical attacks**.                                |
-| Owl Baron Gem     | Reduces **magical damage received by 3%**.                              |
-| Hornet Beetle Gem | **+3% resistance to ranged attacks**.                                   |
-| Zombie Gem        | Stops **natural HP recovery**. **Reduces melee damage taken by 2%**.    |
-| Ghoul Gem         | IStops **natural SP recovery**. **Reduces melee damage taken by 2%**.   |
-| Mechatree Gem     | **Reduces damage received from large monsters by 7%**. **+170 Max HP**. |
+| Archdam Gem       | ลด **ความเสียหายทางกายภาพที่ได้รับลง 3%**.                          |
+| Cursed Frame Gem  | **+5% การป้องกันการโจมตีเวทย์**.                                |
+| Owl Baron Gem     | ลด **ความเสียหายเวทย์ที่ได้รับลง 3%**.                              |
+| Hornet Beetle Gem | **+3% ความต้านทานต่อการโจมตีระยะไกล**.                                   |
+| Zombie Gem        | หยุด **การฟื้นฟู HP ตามธรรมชาติ**. **ลดความเสียหายที่ได้รับจากการโจมตีระยะประชิดลง 2%**.    |
+| Ghoul Gem         | หยุด **การฟื้นฟู SP ตามธรรมชาติ**. **ลดความเสียหายที่ได้รับจากการโจมตีระยะประชิดลง 2%**.   |
+| Mechatree Gem     | **ลดความเสียหายที่ได้รับจากมอนสเตอร์ขนาดใหญ่ลง 7%**. **+170 Max HP**. |
 
-## **Magical Defense**
+## **การป้องกันเวทย์**
 
-| Monster                                                                   | Effect                   |
-| ------------------------------------------------------------------------- | ------------------------ |
-| Obsidian Gem                                                              | **+7% magical defense**. |
+| มอนสเตอร์                                                                   | ผลกระทบ                   |
+| ------------------------------------------------------------------------- | -------------------------- |
+| Obsidian Gem                                                              | **+7% การป้องกันเวทย์**. |
 | [G](https://arkaikonline.com/database/items?search=9954)Thief Bug Egg Gem | **MDEF +4**.             |
 
-## Resistência Elemental e Efeitos
+## ความต้านทานต่อธาตุและผลกระทบ
 
-| Monster             | Effect                                                                              |
+| มอนสเตอร์             | ผลกระทบ                                                                              |
 | ------------------- | ----------------------------------------------------------------------------------- |
-| Freezer Gem         | **+5% resistance to freezing**.                                                     |
-| Gaze Perceval Gem   | **Grants 4% resistance to Silence**.                                                |
-| Tower Keeper Gem    | **5% resistance to freezing**.                                                      |
-| Lava Labyrinth Gem  | **20% resistance to burning**.                                                      |
-| Diabolic Gem        | **-5% damage received from the Shadow element**.                                    |
-| Boom Gem            | -**5% damage received from the Fire element**.                                      |
-| Thara Frog Gem      | **5% poison damage reduction**.                                                     |
-| Stalactic Golem Gem | **+7% resistance to Stun**.                                                         |
-| Caramelo Gem        | **+3% resistance to physical damage from the Earth element**.                       |
-| Rockoso Gem         | **+10% resistance to Sleep**.                                                       |
-| Marduk Gem          | +**4% resistance to Silence**.                                                      |
-| Tormented Soul Gem  | **+3% resistance to Curse**.                                                        |
-| Scorpion Gem        | **+2% resistance to Poison**.                                                       |
-| Anaconda Gem        | **+2% resistance to Poison**.                                                       |
-| Rattlesnake Gem     | **+2% resistance to Poison**.                                                       |
-| Jibóia Gem          | **+2% resistance to Poison element damage**.                                        |
-| Spore Gem           | **+1% resistance to Poison element damage**.                                        |
-| Leib Olmai Gem      | **+20% resistance to \[Stun]**.                                                     |
-| Green Maiden Gem    | **+1% Critical Resistance**. **+1% per equipment refinement level (Max +10)**.      |
-| Mao Guai Gem        | **+20% resistance to Ghost property. -30 Flee**.                                    |
-| Zhu Po Long Gem     | **+3% resistance to all elements**.                                                 |
-| Mi Gao Gem          | **-5% damage taken from ranged (physical/magical) attacks during War of Emperium**. |
-| Giant Drone Gem     | **-5% damage received from Wind**.                                                  |
+| Freezer Gem         | **+5% ความต้านทานต่อการแช่แข็ง**.                                                     |
+| Gaze Perceval Gem   | **ให้ความต้านทาน 4% ต่อ Silence**.                                                |
+| Tower Keeper Gem    | **5% ความต้านทานต่อการแช่แข็ง**.                                                      |
+| Lava Labyrinth Gem  | **20% ความต้านทานต่อการเผาไหม้**.                                                      |
+| Diabolic Gem        | **-5% ความเสียหายที่ได้รับจากธาตุเงา**.                                    |
+| Boom Gem            | -**5% ความเสียหายที่ได้รับจากธาตุไฟ**.                                      |
+| Thara Frog Gem      | **ลดความเสียหายจากพิษลง 5%**.                                                     |
+| Stalactic Golem Gem | **+7% ความต้านทานต่อการ Stun**.                                                         |
+| Caramelo Gem        | **+3% ความต้านทานต่อความเสียหายทางกายภาพจากธาตุดิน**.                       |
+| Rockoso Gem         | **+10% ความต้านทานต่อการหลับ**.                                                       |
+| Marduk Gem          | +**4% ความต้านทานต่อ Silence**.                                                      |
+| Tormented Soul Gem  | **+3% ความต้านทานต่อคำสาป**.                                                        |
+| Scorpion Gem        | **+2% ความต้านทานต่อพิษ**.                                                       |
+| Anaconda Gem        | **+2% ความต้านทานต่อพิษ**.                                                       |
+| Rattlesnake Gem     | **+2% ความต้านทานต่อพิษ**.                                                       |
+| Jibóia Gem          | **+2% ความต้านทานต่อความเสียหายจากพิษ**.                                        |
+| Spore Gem           | **+1% ความต้านทานต่อความเสียหายจากพิษ**.                                        |
+| Leib Olmai Gem      | **+20% ความต้านทานต่อ \[Stun]**.                                                     |
+| Green Maiden Gem    | **+1% ความต้านทานต่อการโจมตีที่สำคัญ**. **+1% ต่อระดับการปรับปรุงอุปกรณ์ (สูงสุด +10)**.      |
+| Mao Guai Gem        | **+20% ความต้านทานต่อคุณสมณะผี. -30 Flee**.                                    |
+| Zhu Po Long Gem     | **+3% ความต้านทานต่อธาตุทั้งหมด**.                                                 |
+| Mi Gao Gem          | **-5% ความเสียหายที่ได้รับจากการโจมตีระยะไกล (ทางกายภาพ/เวทย์) ในระหว่างสงครามของจักรพรรดิ**. |
+| Giant Drone Gem     | **-5% ความเสียหายที่ได้รับจากลม**.                                                  |
 
-## **Healing Bonus**
+## **โบนัสการรักษา**
 
-| Monster            | Effect                                                                                   |
-| ------------------ | ---------------------------------------------------------------------------------------- |
-| Worm Tail Gem      | **Increases healing received from active skills by 7%**.                                 |
-| Pingu Gem          | **Increases healing effectiveness of all active skills on you by 10%**. **-5 Vitality**. |
-| Bigfoot Gem        | **Increases HP healing effectiveness of Honey item by 300%**.                            |
-| Steel Chonchon Gem | A**Increases effectiveness of all heals by 1%**.                                         |
-| Peco Peco Egg Gem  | **Increases healing effectiveness from skills by 2%**.                                   |
-| Thief Bug Egg Gem  | **Increases healing effectiveness from skills by 1%**.                                   |
-| Cramp Gem          | A**Increases the efficiency of healing items by 5%**.                                    |
+| มอนสเตอร์            | ผลกระทบ                                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------------ |
+| Worm Tail Gem      | **เพิ่มการรักษาที่ได้รับจากทักษะที่ใช้งานอยู่ 7%**.                                 |
+| Pingu Gem          | **เพิ่มประสิทธิภาพการรักษาของทักษะที่ใช้งานอยู่ทั้งหมดที่คุณ 10%**. **-5 Vitality**. |
+| Bigfoot Gem        | **เพิ่มประสิทธิภาพการรักษา HP ของไอเท็ม Honey 300%**.                            |
+| Steel Chonchon Gem | A**เพิ่มประสิทธิภาพการรักษาทั้งหมด 1%**.                                         |
+| Peco Peco Egg Gem  | **เพิ่มประสิทธิภาพการรักษาจากทักษะ 2%**.                                   |
+| Thief Bug Egg Gem  | **เพิ่มประสิทธิภาพการรักษาจากทักษะ 1%**.                                   |
+| Cramp Gem          | A**เพิ่มประสิทธิภาพของไอเท็มฟื้นฟู 5%**.                                    |
 
-## **Defense and Equipment Effects**
+## **ผลกระทบจากการป้องกันและอุปกรณ์**
 
-| Monster              | Effect                                                                                                         |
+| มอนสเตอร์              | ผลกระทบ                                                                                                         |
 | -------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Wootan Fighter Gem   | **Reflects 1% of ranged physical damage received**.                                                            |
-| Leaf Cat Gem         | **Reduces weapon break chance by 7%**.                                                                         |
-| Starfish Gem         | **-40% Max HP. User is immune to knockback**.                                                                  |
-| Creamy Gem           | **Reflects 1% of long-range damage**.                                                                          |
-| Savage Gem           | **Reduces weapon break chance by 2%**.                                                                         |
-| Anubis Gem           | **Weapon cannot be removed by skills. Reduces Max HP by 10%**.                                                 |
-| Sea Horse Gem        | T**Makes shoes indestructible**.                                                                               |
-| Poporing Gem         | **Reduces equipment break chance by 1%**.                                                                      |
-| Mimic Gem            | **Reduces reflected damage by 1%**.                                                                            |
-| Arclouse Gem         | **0.1% chance to reduce the target's HP by 1% with basic attacks (applies up to 5 times on the same target)**. |
-| Tarou Gem            | **1% chance to cast Increase Agility Lv.1 when hit by physical attacks**.                                      |
-| Female Thief Bug Gem | **1% chance to cast Increase Agility Lv.1 when hit by physical attacks**.                                      |
-| Jing Guzi Gem        | **When dealing physical attacks, 40% chance to remove \[Chaos] from the attacker**.                            |
+| Wootan Fighter Gem   | **สะท้อน 1% ของความเสียหายทางกายภาพที่ได้รับจากระยะไกล**.                                                            |
+| Leaf Cat Gem         | **ลดโอกาสการแตกของอาวุธลง 7%**.                                                                         |
+| Starfish Gem         | **-40% Max HP. ผู้ใช้จะไม่สามารถถูกผลักกลับได้**.                                                                  |
+| Creamy Gem           | **สะท้อน 1% ของความเสียหายจากระยะไกล**.                                                                          |
+| Savage Gem           | **ลดโอกาสการแตกของอาวุธลง 2%**.                                                                         |
+| Anubis Gem           | **อาวุธไม่สามารถถูกถอดออกได้โดยทักษะ. ลด Max HP ลง 10%**.                                                 |
+| Sea Horse Gem        | T**ทำให้รองเท้าไม่สามารถถูกทำลายได้**.                                                                               |
+| Poporing Gem         | **ลดโอกาสการแตกของอุปกรณ์ลง 1%**.                                                                      |
+| Mimic Gem            | **ลดความเสียหายที่สะท้อนกลับลง 1%**.                                                                            |
+| Arclouse Gem         | **0.1% โอกาสในการลด HP ของเป้าหมายลง 1% ด้วยการโจมตีพื้นฐาน (ใช้ได้สูงสุด 5 ครั้งกับเป้าหมายเดียวกัน)**. |
+| Tarou Gem            | **1% โอกาสในการใช้ Increase Agility Lv.1 เมื่อถูกโจมตีด้วยการโจมตีทางกายภาพ**.                                      |
+| Female Thief Bug Gem | **1% โอกาสในการใช้ Increase Agility Lv.1 เมื่อถูกโจมตีด้วยการโจมตีทางกายภาพ**.                                      |
+| Jing Guzi Gem        | **เมื่อทำการโจมตีทางกายภาพ มีโอกาส 40% ที่จะลบ \[Chaos] จากผู้โจมตี**.                            |
 
-## **Mixed Defense**
+## **การป้องกันแบบผสม**
 
-| Monster       | Effect                           |
+| มอนสเตอร์       | ผลกระทบ                           |
 | ------------- | -------------------------------- |
-| Metalling Gem | +3 physical and magical defense. |
+| Metalling Gem | +3 การป้องกันทางกายภาพและเวทย์. |
 
-## **HP Effects**
+## **ผลกระทบจาก HP**
 
-| Monster             | Effect                                                                                                                     |
+| มอนสเตอร์             | ผลกระทบ                                                                                                                     |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Plague Gem          | **0.1% chance to subtract 2% of the target's max HP when using basic attacks (applies up to 5 times on the same target)**. |
-| Hunter Fly Gem      | **0.5% chance to convert 7% of physical damage dealt into HP**.                                                            |
-| Familiar Gem        | **Recovers 3 HP when executing a normal attack**.                                                                          |
-| Desert Wolf Pup Gem | **Recovers 30 HP when killing a target with a melee attack**.                                                              |
-| Scarlet Ferus Gem   | **When defeating monsters with any magical attack, restores 100 HP. Max SP -100**.                                         |
+| Plague Gem          | **0.1% โอกาสในการลด 2% ของ Max HP ของเป้าหมายเมื่อใช้การโจมตีพื้นฐาน (ใช้ได้สูงสุด 5 ครั้งกับเป้าหมายเดียวกัน)**. |
+| Hunter Fly Gem      | **0.5% โอกาสในการเปลี่ยน 7% ของความเสียหายทางกายภาพที่ทำให้เป็น HP**.                                                            |
+| Familiar Gem        | **ฟื้นฟู 3 HP เมื่อทำการโจมตีปกติ**.                                                                          |
+| Desert Wolf Pup Gem | **ฟื้นฟู 30 HP เมื่อฆ่าเป้าหมายด้วยการโจมตีระยะประชิด**.                                                              |
+| Scarlet Ferus Gem   | **เมื่อกำจัดมอนสเตอร์ด้วยการโจมตีเวทย์ใด ๆ จะฟื้นฟู 100 HP. Max SP -100**.                                         |
 {% endtab %}
 
 {% tab title="INT" %}
-## Attributes
+## คุณสมบัติ
 
-| Monster	          | Effect      |
+| มอนสเตอร์	          | ผลกระทบ      |
 | ----------------- | ----------- |
 | Ancient Gem       | **+3 INT**. |
 | Wise Worm Gem     | **+3 INT**. |
 | Ancient Mummy Gem | **+3 INT**. |
 | Vitata Gem        | **+3 INT**. |
 
-## **Magic Attack**
+## **การโจมตีเวทย์**
 
-| Monster	       | Effect                                                                                |
-| -------------- | ------------------------------------------------------------------------------------- |
+| มอนสเตอร์	       | ผลกระทบ                                                                                |
+| -------------- | --------------------------------------------------------------------------------------- |
 | Isis Gem       | **+3 Magic Attack**.                                                                  |
-| Dark Elf Gem   | A**MATK +30. Casting cannot be interrupted**.                                         |
-| Elf Shaman Gem | **MATK +30. When using a two-handed staff: +10% resistance to the Neutral property**. |
+| Dark Elf Gem   | A**MATK +30. การร่ายไม่สามารถถูกขัดจังหวะได้**.                                         |
+| Elf Shaman Gem | **MATK +30. เมื่อใช้ไม้เท้าสองมือ: +10% ความต้านทานต่อคุณสมณะกลาง**. |
 
 ## SP (Max SP Boost)
 
-| Monster	         | Effect                                         |
+| มอนสเตอร์	         | ผลกระทบ                                         |
 | ---------------- | ---------------------------------------------- |
 | Medusa Gem       | **+290 Max SP**.                               |
 | Sohee Gem        | **+4% Max SP**.                                |
 | Rodda Frog Gem   | **+10 Max SP**.                                |
-| Golden Novus Gem | **+250 Max SP. +10% natural SP regeneration**. |
+| Golden Novus Gem | **+250 Max SP. +10% การฟื้นฟู SP ตามธรรมชาติ**. |
 
-## **SP Recovery**
+## **การฟื้นฟู SP**
 
-| Monster	   | Effect                                     |
+| มอนสเตอร์	   | ผลกระทบ                                     |
 | ---------- | ------------------------------------------ |
-| Marina Gem | **Restores 1% of max SP every 5 seconds**. |
+| Marina Gem | **ฟื้นฟู 1% ของ Max SP ทุก 5 วินาที**. |
 
-## **Magic Attack & SP Effects**
+## **ผลกระทบจากการโจมตีเวทย์ & SP**
 
-| Monster	          | Effect                                                                             |
+| มอนสเตอร์	          | ผลกระทบ                                                                             |
 | ----------------- | ---------------------------------------------------------------------------------- |
-| Anolian Gem       | **Drains 3 SP from the target with each basic attack**.                            |
-| Mummy Gem         | **Restores 7 HP when killing monsters with magic attacks**.                        |
-| Drainliar Gem     | **Recovers 2 SP when attacking**.                                                  |
-| Ancient Mimic Gem | **When defeating monsters with any physical attack, restores 10 SP. Max HP -100**. |
+| Anolian Gem       | **ดูด SP 3 จากเป้าหมายด้วยการโจมตีพื้นฐานแต่ละครั้ง**.                            |
+| Mummy Gem         | **ฟื้นฟู 7 HP เมื่อฆ่ามอนสเตอร์ด้วยการโจมตีเวทย์**.                        |
+| Drainliar Gem     | **ฟื้นฟู 2 SP เมื่อโจมตี**.                                                  |
+| Ancient Mimic Gem | **เมื่อกำจัดมอนสเตอร์ด้วยการโจมตีทางกายภาพใด ๆ จะฟื้นฟู 10 SP. Max HP -100**. |
 
-## **Mixed Effects**
+## **ผลกระทบแบบผสม**
 
-| Monster	        | Effect                                |
+| มอนสเตอร์	        | ผลกระทบ                                |
 | --------------- | ------------------------------------- |
 | Blue Acidus Gem | **+180 Max SP. +2 INT. -100 Max HP**. |
 {% endtab %}
 
 {% tab title="DEX" %}
-## Attribute
+## คุณสมบัติ
 
-| Monster             | Effect                                                                        |
+| มอนสเตอร์             | ผลกระทบ                                                                        |
 | ------------------- | ----------------------------------------------------------------------------- |
 | Mineros Gem         | **+2 Dexterity**.                                                             |
-| Forest Guardian Gem | **If used by Archers: +4 Dexterity**.                                         |
-| Rocker Gem          | **+1 Dexterity. If used by Bard or Odalisques, grants +5 Dexterity instead**. |
+| Forest Guardian Gem | **หากใช้โดยนักธนู: +4 Dexterity**.                                         |
+| Rocker Gem          | **+1 Dexterity. หากใช้โดย Bard หรือ Odalisques, จะให้ +5 Dexterity แทน**. |
 | Zerom Gem           | **+1 Dexterity**.                                                             |
 
-## Casting
+## การร่าย
 
-| Monster     | Effect                                                            |
+| มอนสเตอร์     | ผลกระทบ                                                            |
 | ----------- | ----------------------------------------------------------------- |
-| Fen Gem     | **-3% Cast Time**.                                                |
-| Bathory Gem | **Reduces variable cast time of all skills by 300ms. -10% Mana**. |
+| Fen Gem     | **-3% เวลาในการร่าย**.                                                |
+| Bathory Gem | **ลดเวลาร่ายที่เปลี่ยนแปลงได้ของทักษะทั้งหมดลง 300ms. -10% Mana**. |
 
-## **Effects Against Dodge**
+## **ผลกระทบต่อการหลบหลีก**
 
-| Monster    | Effect                                        |
+| มอนสเตอร์    | ผลกระทบ                                        |
 | ---------- | --------------------------------------------- |
-| Hornet Gem | **Ignores 5% of the target's perfect dodge**. |
+| Hornet Gem | **ละเว้น 5% ของการหลบหลีกที่สมบูรณ์ของเป้าหมาย**. |
 
-## **Hit & Accuracy Bonus**
+## **โบนัสการโจมตี & ความแม่นยำ**
 
-| Monster                 | Effect                                  |
+| มอนสเตอร์                 | ผลกระทบ                                  |
 | ----------------------- | --------------------------------------- |
-| Prisoner Skeleton Gem   | **-7% Movement Speed. +5% Hit Chance**. |
-| Ground Exterminator Gem | **+2% Hit Rate Chance**.                |
-| Coco Gem                | **+4% Hit Chance**.                     |
-| Yao Jun Gem             | **+30 Hit**.                            |
-| Tin Soldier Gem         | **+15 Hit. +10 Perfect Hit**.           |
-| Elfkid Gem              | **+15 Perfect Hit. -15 Critical**.      |
+| Prisoner Skeleton Gem   | **-7% ความเร็วในการเคลื่อนที่. +5% โอกาสในการโจมตี**. |
+| Ground Exterminator Gem | **+2% โอกาสในการโจมตี**.                |
+| Coco Gem                | **+4% โอกาสในการโจมตี**.                     |
+| Yao Jun Gem             | **+30 โอกาสในการโจมตี**.                            |
+| Tin Soldier Gem         | **+15 โอกาสในการโจมตี. +10 โอกาสโจมตีที่สมบูรณ์**.           |
+| Elfkid Gem              | **+15 โอกาสโจมตีที่สมบูรณ์. -15 โอกาสโจมตีที่สำคัญ**.      |
 
-## **Ranged Damage**
+## **ความเสียหายจากระยะไกล**
 
-| Monster             | Effect                                     |
+| มอนสเตอร์             | ผลกระทบ                                     |
 | ------------------- | ------------------------------------------ |
-| Raydric Archer Gem  | **+4% damage with ranged attacks**.        |
-| Archer Skeleton Gem | **+2% physical ranged damage**.            |
-| Goblin Archer Gem   | **+3% damage from ranged attacks**.        |
-| Kobold Archer Gem   | **+2% damage from ranged attacks**.        |
-| Stone Shooter Gem   | **Grants +(Dexterity/10)% ranged damage**. |
+| Raydric Archer Gem  | **+4% ความเสียหายจากการโจมตีระยะไกล**.        |
+| Archer Skeleton Gem | **+2% ความเสียหายทางกายภาพจากการโจมตีระยะไกล**.            |
+| Goblin Archer Gem   | **+3% ความเสียหายจากการโจมตีระยะไกล**.        |
+| Kobold Archer Gem   | **+2% ความเสียหายจากการโจมตีระยะไกล**.        |
+| Stone Shooter Gem   | **ให้ +(Dexterity/10)% ความเสียหายจากการโจมตีระยะไกล**. |
 {% endtab %}
 
 {% tab title="LUK" %}
-## **Attributes**
+## **คุณสมบัติ**
 
-| Monster          | Effect                                          |
+| มอนสเตอร์          | ผลกระทบ                                          |
 | ---------------- | ----------------------------------------------- |
-| Mastering Gem    | **If Luck is greater than 40, grants +3 Luck**. |
-| Raggler Gem      | **+1 Luck**.                                    |
-| Holden Gem       | **+2 Luck**.                                    |
-| Poison Spore Gem | **Immunity to toxic air. +1 Luck**.             |
-| Plankton Gem     | **-2 Strength / +2 Luck**.                      |
-| Lunatic Gem      | **+1 Luck**.                                    |
-| Condor Gem       | **+1 Luck**.                                    |
+| Mastering Gem    | **หากโชคมากกว่า 40, จะให้ +3 โชค**. |
+| Raggler Gem      | **+1 โชค**.                                    |
+| Holden Gem       | **+2 โชค**.                                    |
+| Poison Spore Gem | **ภูมิคุ้มกันต่ออากาศพิษ. +1 โชค**.             |
+| Plankton Gem     | **-2 Strength / +2 โชค**.                      |
+| Lunatic Gem      | **+1 โชค**.                                    |
+| Condor Gem       | **+1 โชค**.                                    |
 
-## Critical
+## การโจมตีที่สำคัญ
 
-| Monster              | Effect                                             |
+| มอนสเตอร์              | ผลกระทบ                                             |
 | -------------------- | -------------------------------------------------- |
-| Punk Gem             | **+2 Critical**.                                   |
-| Orc Archer Gem       | **+5 Critical when using ranged basic attacks**.   |
-| Soldier Skeleton Gem | **+2 Critical Rate**.                              |
-| Steam Goblin Gem     | **Inflicts 3% more damage with Critical Attacks**. |
-| Desert Wolf Gem      | **+2% Critical**.                                  |
+| Punk Gem             | **+2 การโจมตีที่สำคัญ**.                                   |
+| Orc Archer Gem       | **+5 การโจมตีที่สำคัญเมื่อใช้การโจมตีพื้นฐานระยะไกล**.   |
+| Soldier Skeleton Gem | **+2 อัตราการโจมตีที่สำคัญ**.                              |
+| Steam Goblin Gem     | **ทำให้เกิดความเสียหายมากขึ้น 3% ด้วยการโจมตีที่สำคัญ**. |
+| Desert Wolf Gem      | **+2% การโจมตีที่สำคัญ**.                                  |
 {% endtab %}
 
 {% tab title="EXTRA" %}
-## Elemental Damage
+## ความเสียหายจากธาตุ
 
-| Monster            | Effect                                                                 |
+| มอนสเตอร์            | ผลกระทบ                                                                 |
 | ------------------ | ---------------------------------------------------------------------- |
-| Wood Golem Gem     | **Increases Physical & Magical Damage using the Earth element by 7%**. |
-| Cursed Tree Gem    | **Increases Physical & Magical Damage using the Earth element by 4%**. |
-| Loli Ruri Gem      | **Increases Physical & Magical Damage using the Water element by 7%**. |
-| Lude Gem           | **Increases Ghost property magical damage by 20%**.                    |
-| Poltergeist Gem    | **Increases Ghost property magical damage by 20%**.                    |
-| Dimik Gem          | **+4% Physical Damage against Neutral property enemies**.              |
-| Dimik (Wind) Gem   | **+4% Physical Damage against Wind property enemies**.                 |
-| Dimik (Water) Gem  | **+4% Physical Damage against Water property enemies**.                |
-| Dimik (Earth) Gem  | **+4% Physical Damage against Earth property enemies**.                |
-| Dimik (Fire) Gem   | **+4% Physical Damage against Fire property enemies**.                 |
-| Venatu Gem         | **+4% Magical Damage against Neutral property enemies**.               |
-| Venatu (Fire) Gem  | **+4% Magical Damage against Fire property enemies**.                  |
-| Venatu (Wind) Gem  | **+4% Magical Damage against Wind property enemies**.                  |
-| Venatu (Earth) Gem | **+4% Magical Damage against Earth property enemies**.                 |
-| Venatu (Water) Gem | +**+4% Magical Damage against Water property enemies**.                |
-| Vadon Gem          | **+5% Physical Damage against Fire property**.                         |
-| Kaho Gem           | **+4% Physical & Magical Damage against Earth property**.              |
-| Rideword Gem       | +**+3% Damage to all elements except Shadow**.                         |
-| Triton Gem         | **+7% Physical & Magical Damage against Fire property**.               |
-| Mollusk Gem        | **+4% Physical & Magical Damage against Water property**.              |
-| Wind Shaman Gem    | **Increases skill damage of Wind element by 3%**.                      |
-| Nightmare Gem      | **Increases skill damage of Fire element by 3%**.                      |
-| Ancient Willow Gem | **+4% Physical & Magical Damage against Fire property**.               |
-| Willow Gem         | **+4% Physical & Magical Damage against Earth property**.              |
+| Wood Golem Gem     | **เพิ่มความเสียหายทางกายภาพ & เวทย์ที่ใช้ธาตุดิน 7%**. |
+| Cursed Tree Gem    | **เพิ่มความเสียหายทางกายภาพ & เวทย์ที่ใช้ธาตุดิน 4%**. |
+| Loli Ruri Gem      | **เพิ่มความเสียหายทางกายภาพ & เวทย์ที่ใช้ธาตุน้ำ 7%**. |
+| Lude Gem           | **เพิ่มความเสียหายเวทย์ที่ใช้ธาตุผี 20%**.                    |
+| Poltergeist Gem    | **เพิ่มความเสียหายเวทย์ที่ใช้ธาตุผี 20%**.                    |
+| Dimik Gem          | **+4% ความเสียหายทางกายภาพต่อศัตรูที่มีคุณสมณะกลาง**.              |
+| Dimik (Wind) Gem   | **+4% ความเสียหายทางกายภาพต่อศัตรูที่มีคุณสมณะลม**.                 |
+| Dimik (Water) Gem  | **+4% ความเสียหายทางกายภาพต่อศัตรูที่มีคุณสมณะน้ำ**.                |
+| Dimik (Earth) Gem  | **+4% ความเสียหายทางกายภาพต่อศัตรูที่มีคุณสมณะดิน**.                |
+| Dimik (Fire) Gem   | **+4% ความเสียหายทางกายภาพต่อศัตรูที่มีคุณสมณะไฟ**.                 |
+| Venatu Gem         | **+4% ความเสียหายเวทย์ต่อศัตรูที่มีคุณสมณะกลาง**.               |
+| Venatu (Fire) Gem  | **+4% ความเสียหายเวทย์ต่อศัตรูที่มีคุณสมณะไฟ**.                  |
+| Venatu (Wind) Gem  | **+4% ความเสียหายเวทย์ต่อศัตรูที่มีคุณสมณะลม**.                  |
+| Venatu (Earth) Gem | **+4% ความเสียหายเวทย์ต่อศัตรูที่มีคุณสมณะดิน**.                 |
+| Venatu (Water) Gem | +**+4% ความเสียหายเวทย์ต่อศัตรูที่มีคุณสมณะน้ำ**.                |
+| Vadon Gem          | **+5% ความเสียหายทางกายภาพต่อธาตุไฟ**.                         |
+| Kaho Gem           | **+4% ความเสียหายทางกายภาพ & เวทย์ต่อธาตุดิน**.              |
+| Rideword Gem       | +**+3% ความเสียหายต่อธาตุทั้งหมดยกเว้นเงา**.                         |
+| Triton Gem         | **+7% ความเสียหายทางกายภาพ & เวทย์ต่อธาตุไฟ**.               |
+| Mollusk Gem        | **+4% ความเสียหายทางกายภาพ & เวทย์ต่อธาตุน้ำ**.              |
+| Wind Shaman Gem    | **เพิ่มความเสียหายของทักษะธาตุลม 3%**.                      |
+| Nightmare Gem      | **เพิ่มความเสียหายของทักษะธาตุไฟ 3%**.                      |
+| Ancient Willow Gem | **+4% ความเสียหายทางกายภาพ & เวทย์ต่อธาตุไฟ**.               |
+| Willow Gem         | **+4% ความเสียหายทางกายภาพ & เวทย์ต่อธาตุดิน**.              |
 
-## Skills
+## ทักษะ
 
-| Monster               | Effect                                                                                    |
+| มอนสเตอร์               | ผลกระทบ                                                                                    |
 | --------------------- | ----------------------------------------------------------------------------------------- |
-| Masquerade Gem        | **Reduces cooldown time of \[Stealth] by 1 second**.                                      |
-| Serial Killer Gem     | **When casting \[Destroyer Blades], has a 3% chance to auto-cast \[Fatal Blow]**.         |
-| Quve Gem              | **Increases success rate of \[Steal] by 0.02%**.                                          |
-| Teddy Bear Gem        | **Reduces damage received from \[Destroyer Blades] by 10%**.                              |
-| Aggressor Gem         | **Increases damage of \[Magnus Exorcismus] by 10%**.                                      |
-| Heater Gem            | **Reduces cooldown of \[Fire Lance] by 0.2 seconds**.                                     |
-| Wootan Shooter Gem    | **Reduces cooldown of \[Thor’s Wrath] by 2 seconds**.                                     |
-| Jirtas Gem            | **+4% damage with \[Piercing Stab] and \[Melodic Arrow]**.                                |
-| Wanderer Gem          | **Enables use of \[Recover] at level 7**.                                                 |
-| Wronged Gem           | **+15% damage with \[Destroyer Blades]**.                                                 |
-| Carrot Gem            | **Enables use of \[Provoke] at level 8**.                                                 |
-| Alice Gem             | **+10% damage with \[Fatal Blow]**.                                                       |
-| Arenoso Gem           | **Adds a 0.1% chance to auto-cast \[Arcane Protection] when receiving physical attacks**. |
-| Crocodile Gem         | **+4% damage with \[Stone Column]**.                                                      |
-| Seal Gem              | **Reduces damage received from \[Water Balls] by 10%**.                                   |
-| Otter Gem             | **Reduces damage received from \[Blizzard] by 7%**.                                       |
-| Carnivorous Plant Gem | **Enables use of \[Steal HP] at level 3**.                                                |
-| Grove Gem             | **Reduces SP cost of \[Recover] by 40%**.                                                 |
-| Scarlet Novus Gem     | **Small chance to inflict \[Chaos] on the target when landing physical attacks**.         |
-| Dokebi Gem            | **Reduces damage received from \[Fire Lance] by 5%**.                                     |
-| Wild Baby Gem         | **Adds 0.1% chance to inflict Stun on the target with each attack**.                      |
-| Smokey Gem            | **-50% Max HP. Allows the user to see invisible opponents**.                              |
-| Kobold Gem            | **Reduces damage received from \[Arrow Storm] by 5%**.                                    |
-| Kobold Gem            | **Reduces damage received from \[Arrow Storm] by 3%**.                                    |
-| Grand Orc Gem         | **Enables use of \[Endure] at level 1**.                                                  |
-| Orc Lady Gem          | **Adds a 0.01% chance to inflict Bleeding on the target with any attack**.                |
-| Pasana Gem            | **+4% damage with \[Destroyer Blades]**.                                                  |
-| Muka Gem              | **Reduces damage received from \[Fire Lance] by 5%**.                                     |
-| Frilldora Gem         | 0**0.1% chance to auto-cast \[Stealth] level 10 when hit**.                               |
-| Horong Gem            | **Enables use of \[Supernova] at level 1**.                                               |
+| Masquerade Gem        | **ลดเวลาคูลดาวน์ของ \[Stealth] ลง 1 วินาที**.                                      |
+| Serial Killer Gem     | **เมื่อร่าย \[Destroyer Blades], มีโอกาส 3% ที่จะร่าย \[Fatal Blow] อัตโนมัติ**.         |
+| Quve Gem              | **เพิ่มอัตราความสำเร็จของ \[Steal] ขึ้น 0.02%**.                                          |
+| Teddy Bear Gem        | **ลดความเสียหายที่ได้รับจาก \[Destroyer Blades] ลง 10%**.                              |
+| Aggressor Gem         | **เพิ่มความเสียหายของ \[Magnus Exorcismus] ขึ้น 10%**.                                      |
+| Heater Gem            | **ลดเวลาคูลดาวน์ของ \[Fire Lance] ลง 0.2 วินาที**.                                     |
+| Wootan Shooter Gem    | **ลดเวลาคูลดาวน์ของ \[Thor’s Wrath] ลง 2 วินาที**.                                     |
+| Jirtas Gem            | **+4% ความเสียหายด้วย \[Piercing Stab] และ \[Melodic Arrow]**.                                |
+| Wanderer Gem          | **เปิดใช้งานการใช้ \[Recover] ที่ระดับ 7**.                                                 |
+| Wronged Gem           | **+15% ความเสียหายด้วย \[Destroyer Blades]**.                                                 |
+| Carrot Gem            | **เปิดใช้งานการใช้ \[Provoke] ที่ระดับ 8**.                                                 |
+| Alice Gem             | **+10% ความเสียหายด้วย \[Fatal Blow]**.                                                       |
+| Arenoso Gem           | **เพิ่มโอกาส 0.1% ในการร่าย \[Arcane Protection] อัตโนมัติเมื่อได้รับการโจมตีทางกายภาพ**. |
+| Crocodile Gem         | **+4% ความเสียหายด้วย \[Stone Column]**.                                                      |
+| Seal Gem              | **ลดความเสียหายที่ได้รับจาก \[Water Balls] ลง 10%**.                                   |
+| Otter Gem             | **ลดความเสียหายที่ได้รับจาก \[Blizzard] ลง 7%**.                                       |
+| Carnivorous Plant Gem | **เปิดใช้งานการใช้ \[Steal HP] ที่ระดับ 3**.                                                |
+| Grove Gem             | **ลดค่า SP ของ \[Recover] ลง 40%**.                                                 |
+| Scarlet Novus Gem     | **มีโอกาสเล็กน้อยที่จะทำให้เกิด \[Chaos] กับเป้าหมายเมื่อทำการโจมตีทางกายภาพ**.         |
+| Dokebi Gem            | **ลดความเสียหายที่ได้รับจาก \[Fire Lance] ลง 5%**.                                     |
+| Wild Baby Gem         | **เพิ่มโอกาส 0.1% ในการทำให้เป้าหมาย Stun ด้วยการโจมตีแต่ละครั้ง**.                      |
+| Smokey Gem            | **-50% Max HP. ทำให้ผู้ใช้สามารถมองเห็นคู่ต่อสู้ที่มองไม่เห็น**.                              |
+| Kobold Gem            | **ลดความเสียหายที่ได้รับจาก \[Arrow Storm] ลง 5%**.                                    |
+| Kobold Gem            | **ลดความเสียหายที่ได้รับจาก \[Arrow Storm] ลง 3%**.                                    |
+| Grand Orc Gem         | **เปิดใช้งานการใช้ \[Endure] ที่ระดับ 1**.                                                  |
+| Orc Lady Gem          | **เพิ่มโอกาส 0.01% ในการทำให้เป้าหมาย Bleeding ด้วยการโจมตีใด ๆ**.                |
+| Pasana Gem            | **+4% ความเสียหายด้วย \[Destroyer Blades]**.                                                  |
+| Muka Gem              | **ลดความเสียหายที่ได้รับจาก \[Fire Lance] ลง 5%**.                                     |
+| Frilldora Gem         | 0**0.1% โอกาสในการร่าย \[Stealth] ระดับ 10 เมื่อถูกโจมตี**.                               |
+| Horong Gem            | **เปิดใช้งานการใช้ \[Supernova] ที่ระดับ 1**.                                               |
 
-## **Size-Based Damage**
+## **ความเสียหายตามขนาด**
 
-| Monster           | Effect                                                           |
+| มอนสเตอร์           | ผลกระทบ                                                           |
 | ----------------- | ---------------------------------------------------------------- |
-| Old Furnace Gem   | **+10% magical damage against small-sized monsters**.            |
-| Dryad Gem         | **+5% magical damage against small-sized monsters**.             |
-| Flora Gem         | **+2% physical damage against small-sized monsters**.            |
-| Golden Acidus Gem | **+7% physical & magical damage against large-sized opponents**. |
+| Old Furnace Gem   | **+10% ความเสียหายเวทย์ต่อมอนสเตอร์ขนาดเล็ก**.            |
+| Dryad Gem         | **+5% ความเสียหายเวทย์ต่อมอนสเตอร์ขนาดเล็ก**.             |
+| Flora Gem         | **+2% ความเสียหายทางกายภาพต่อมอนสเตอร์ขนาดเล็ก**.            |
+| Golden Acidus Gem | **+7% ความเสียหายทางกายภาพ & เวทย์ต่อคู่ต่อสู้ขนาดใหญ่**. |
 
-## Races & Elemental Effects
+## เผ่าพันธุ์ & ผลกระทบจากธาตุ
 
-| Monster            | Effect                                                                        |
+| มอนสเตอร์            | ผลกระทบ                                                                        |
 | ------------------ | ----------------------------------------------------------------------------- |
-| Ungoliant Gem      | **+20% attack against Insect and Plant race monsters**.                       |
-| Toxic Cloud Gem    | **Immunity to map toxicity. +6% damage against Poison property targets**.     |
-| Venomous Cloud Gem | **Immunity to map toxicity. +6% damage against Poison property targets**.     |
-| Rafflesia Gem      | **Reduces damage taken from Fish race monsters by 5%**.                       |
-| Grand Peco Gem     | **+50% physical & magical damage against Peco Peco monsters**.                |
-| Parasite Gem       | **0.1% chance to cause Bleeding on Brute race monsters when attacking**.      |
-| Argos Gem          | **+5% damage against Insect race monsters**.                                  |
-| Baphomet Jr. Gem   | **+50% physical damage & +25% magical damage against Baphomet epic monster**. |
-| Penomena Gem       | **+3% damage against Humanoid monsters and Players**.                         |
-| Fendark Gem        | **+4% damage against Humanoid monsters and Players**.                         |
-| Sting Gem          | **+7% experience received from Amorphous race monsters**.                     |
-| Abyss Knight Gem   | **+4% physical & magical damage against Boss monsters**.                      |
-| Megalith Gem       | **+20% physical & magical defense against Tao Gunka monster**.                |
-| Goat Gem           | **+40% damage against Goat monster**.                                         |
-| Pungus Gem         | **Ignores 5% of Demon race defense**.                                         |
-| Driller Gem        | **+5% physical & magical damage against Brute race monsters**.                |
-| Bongun Gem         | **Receives 200% less damage from Munak**.                                     |
-| Hydra Gem          | **+5% Physical Damage against Humanoid monsters and Players**.                |
-| Goblin Gem         | **+1% Physical Damage against Humanoid monsters and Players**.                |
-| Goblin Gem         | **+2% Physical Damage against Humanoid monsters and Players**.                |
-| Goblin Gem         | **+3% Physical Damage against Humanoid monsters and Players**.                |
-| Goblin Gem         | **+4% Physical Damage against Humanoid monsters and Players**.                |
-| Goblin Gem         | **+5% Physical Damage against Humanoid monsters and Players**.                |
-| Mantis Gem         | **Ignores 10% of the defense of Insect race monsters**.                       |
-| Giearth Gem        | **Ignores 3% of the defense of Insect race monsters**.                        |
+| Ungoliant Gem      | **+20% การโจมตีต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์แมลงและพืช**.                       |
+| Toxic Cloud Gem    | **ภูมิคุ้มกันต่อความเป็นพิษของแผนที่. +6% ความเสียหายต่อเป้าหมายที่เป็นพิษ**.     |
+| Venomous Cloud Gem | **ภูมิคุ้มกันต่อความเป็นพิษของแผนที่. +6% ความเสียหายต่อเป้าหมายที่เป็นพิษ**.     |
+| Rafflesia Gem      | **ลดความเสียหายที่ได้รับจากมอนสเตอร์ที่เป็นเผ่าพันธุ์ปลา 5%**.                       |
+| Grand Peco Gem     | **+50% ความเสียหายทางกายภาพ & เวทย์ต่อมอนสเตอร์ Peco Peco**.                |
+| Parasite Gem       | **0.1% โอกาสในการทำให้ Bleeding กับมอนสเตอร์ที่เป็นเผ่าพันธุ์ Brute เมื่อโจมตี**.      |
+| Argos Gem          | **+5% ความเสียหายต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์แมลง**.                                  |
+| Baphomet Jr. Gem   | **+50% ความเสียหายทางกายภาพ & +25% ความเสียหายเวทย์ต่อมอนสเตอร์ Baphomet epic**. |
+| Penomena Gem       | **+3% ความเสียหายต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์มนุษย์และผู้เล่น**.                         |
+| Fendark Gem        | **+4% ความเสียหายต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์มนุษย์และผู้เล่น**.                         |
+| Sting Gem          | **+7% ประสบการณ์ที่ได้รับจากมอนสเตอร์ที่เป็นเผ่าพันธุ์ Amorphous**.                     |
+| Abyss Knight Gem   | **+4% ความเสียหายทางกายภาพ & เวทย์ต่อมอนสเตอร์ Boss**.                      |
+| Megalith Gem       | **+20% การป้องกันทางกายภาพ & เวทย์ต่อมอนสเตอร์ Tao Gunka**.                |
+| Goat Gem           | **+40% ความเสียหายต่อมอนสเตอร์ Goat**.                                         |
+| Pungus Gem         | **ละเว้น 5% ของการป้องกันเผ่าพันธุ์ปีศาจ**.                                         |
+| Driller Gem        | **+5% ความเสียหายทางกายภาพ & เวทย์ต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์ Brute**.                |
+| Bongun Gem         | **ได้รับความเสียหายน้อยลง 200% จาก Munak**.                                     |
+| Hydra Gem          | **+5% ความเสียหายทางกายภาพต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์มนุษย์และผู้เล่น**.                |
+| Goblin Gem         | **+1% ความเสียหายทางกายภาพต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์มนุษย์และผู้เล่น**.                |
+| Goblin Gem         | **+2% ความเสียหายทางกายภาพต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์มนุษย์และผู้เล่น**.                |
+| Goblin Gem         | **+3% ความเสียหายทางกายภาพต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์มนุษย์และผู้เล่น**.                |
+| Goblin Gem         | **+4% ความเสียหายทางกายภาพต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์มนุษย์และผู้เล่น**.                |
+| Goblin Gem         | **+5% ความเสียหายทางกายภาพต่อมอนสเตอร์ที่เป็นเผ่าพันธุ์มนุษย์และผู้เล่น**.                |
+| Mantis Gem         | **ละเว้น 10% ของการป้องกันของมอนสเตอร์ที่เป็นเผ่าพันธุ์แมลง**.                       |
+| Giearth Gem        | **ละเว้น 3% ของการป้องกันของมอนสเตอร์ที่เป็นเผ่าพันธุ์แมลง**.                        |
 
-## **XP Bonus & Zeny Drop**
+## **โบนัส XP & การดรอป Zeny**
 
-| Monster             | Effect                                                                    |
+| มอนสเตอร์             | ผลกระทบ                                                                    |
 | ------------------- | ------------------------------------------------------------------------- |
-| Devicee Gem         | **+30% experience from Plant race monsters**.                             |
-| Pirate Skeleton Gem | **1% chance to obtain up to 500 Zeny when defeating monsters**.           |
-| Owl Duke Gem        | **+30% experience received when killing monsters in Glast Heim**.         |
-| Petite Gem          | **+5% experience when killing Dragon race monsters**.                     |
-| Mandragora Gem      | **Increases experience received when killing Plant race monsters by 7%**. |
-| Deviling Gem        | **3% chance to obtain up to 500 Zeny when defeating monsters**.           |
-| Drops Gem           | **+1% item drop rate**.                                                   |
-| Dragon Egg Gem      | **+10% experience from Large-sized monsters, but reduces Max HP by 20%**. |
+| Devicee Gem         | **+30% ประสบการณ์จากมอนสเตอร์ที่เป็นเผ่าพันธุ์พืช**.                             |
+| Pirate Skeleton Gem | **1% โอกาสในการได้รับสูงสุด 500 Zeny เมื่อกำจัดมอนสเตอร์**.           |
+| Owl Duke Gem        | **+30% ประสบการณ์ที่ได้รับเมื่อฆ่ามอนสเตอร์ใน Glast Heim**.         |
+| Petite Gem          | **+5% ประสบการณ์เมื่อฆ่ามอนสเตอร์ที่เป็นเผ่าพันธุ์มังกร**.                     |
+| Mandragora Gem      | **เพิ่มประสบการณ์ที่ได้รับเมื่อฆ่ามอนสเตอร์ที่เป็นเผ่าพันธุ์พืช 7%**. |
+| Deviling Gem        | **3% โอกาสในการได้รับสูงสุด 500 Zeny เมื่อกำจัดมอนสเตอร์**.           |
+| Drops Gem           | **+1% อัตราการดรอปไอเท็ม**.                                                   |
+| Dragon Egg Gem      | **+10% ประสบการณ์จากมอนสเตอร์ขนาดใหญ่ แต่ลด Max HP ลง 20%**. |
 
-## **Weight Capacity**
+## **ความจุน้ำหนัก**
 
-| Monster      | Effect                               |
+| มอนสเตอร์      | ผลกระทบ                               |
 | ------------ | ------------------------------------ |
-| Grizzly Gem  | **+1000 Maximum Weight Capacity**.   |
-| Magnolia Gem | **+1000 Maximum Carrying Capacity**. |
+| Grizzly Gem  | **+1000 ความจุน้ำหนักสูงสุด**.   |
+| Magnolia Gem | **+1000 ความจุในการถือ**. |
 
-## **All Attributes**
+## **คุณสมบัติทั้งหมด**
 
-| Monster         | Effect                    |
+| มอนสเตอร์         | ผลกระทบ                    |
 | --------------- | ------------------------- |
-| Khalitzburg Gem | **+1 to all attributes**. |
+| Khalitzburg Gem | **+1 ในทุกคุณสมบัติ**. |
 
-## **Mixed Attributes**
+## **คุณสมบัติแบบผสม**
 
-| Monster           | Effect                                                                         |
+| มอนสเตอร์           | ผลกระทบ                                                                         |
 | ----------------- | ------------------------------------------------------------------------------ |
 | Cursed Priest Gem | **+2 Intelligence, +1 Dexterity**.                                             |
-| Peco Peco Gem     | **+2 Agility. If used by Swordsmen and their evolutions, grants +3 Vitality**. |
+| Peco Peco Gem     | **+2 Agility. หากใช้โดย Swordsmen และการพัฒนาของพวกเขา จะให้ +3 Vitality**. |
 {% endtab %}
 
 {% tab title="BOSS" %}
 ## MVPS
 
-<table><thead><tr><th width="153">Gem</th><th width="280">Monster	</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1059 (1).png" alt=""></td><td>Queen Bee Gem</td><td>+35 Physical &#x26; Magical Damage against Insect Race. Grants use of [Rescue Teleport] at level 1.</td></tr><tr><td><img src="../.gitbook/assets/1511 (1).png" alt=""></td><td>Amon Ra Gem</td><td>Spotting an enemy automatically casts [Decrease Agility] level 10. Has a 10-minute cooldown before it can affect the same target again.</td></tr><tr><td><img src="../.gitbook/assets/1039 (1).png" alt=""></td><td>Baphomet Gem</td><td>+35% Physical &#x26; Magical Damage against Demon Race. If used together with Baphomet Jr. Gem: ATK &#x26; MATK +15, Critical -5.</td></tr><tr><td><img src="../.gitbook/assets/1086 (1).png" alt=""></td><td>Golden Thief Bug Gem</td><td>90% chance to ignore the effect of [Golden Thief Bug Card] on the target.</td></tr><tr><td><img src="../.gitbook/assets/1046 (1).png" alt=""></td><td>Doppelganger Gem</td><td>Enables Block Level 3. 5% chance to reflect any single-target skill back to the caster.</td></tr><tr><td><img src="../.gitbook/assets/1389 (1).png" alt=""></td><td>Dracula Gem</td><td>-20% Max HP &#x26; +90% Fire Element damage taken. Changes your race to Undead.</td></tr><tr><td><img src="../.gitbook/assets/1112 (1).png" alt=""></td><td>Drake Gem</td><td>Enables Power Amplifier (Removing the gem disables the effect). Increases Magic Damage against Shadow property by +15%.</td></tr><tr><td><img src="../.gitbook/assets/1115 (1).png" alt=""></td><td>Eddga Gem</td><td>+70% Damage to Stunned Targets.</td></tr><tr><td><img src="../.gitbook/assets/1157 (1).png" alt=""></td><td>Pharaoh Gem</td><td>Positive buffs persist after death. +7% Magic Damage across all properties.</td></tr><tr><td><img src="../.gitbook/assets/1150 (1).png" alt=""></td><td>Lunar Flower Gem</td><td>Monsters cannot initiate attacks on you directly but will retaliate.</td></tr><tr><td><img src="../.gitbook/assets/1159 (1).png" alt=""></td><td>Freeoni Gem</td><td>+50 Perfect Hit.</td></tr><tr><td><img src="../.gitbook/assets/1312 (1).png" alt=""></td><td>General Tartaruga Gem</td><td>Reduces Critical Damage received by 30%. Adds 7% chance to dodge an incoming Critical Attack.</td></tr><tr><td><img src="../.gitbook/assets/2202 (1).png" alt=""></td><td>Kraken Gem</td><td>+12% Max HP. Changes your size to Large.</td></tr><tr><td><img src="../.gitbook/assets/1688 (1).png" alt=""></td><td>Lady Tanee Gem</td><td>+5 Vitality. HP recovery items also restore SP in equal amounts. If unequipped, SP decay is set to 1 per second.</td></tr><tr><td><img src="../.gitbook/assets/1147 (1).png" alt=""></td><td>Maya Gem</td><td>Reduces single-target Magic Damage received by 10%.</td></tr><tr><td><img src="../.gitbook/assets/1087.png" alt=""></td><td>Orc Hero Gem</td><td>If your Strength is higher than your target’s, deal +15% Damage.</td></tr><tr><td><img src="../.gitbook/assets/1038 (1).png" alt=""></td><td>Osiris Gem</td><td>+3 to All Stats. Increases damage dealt by 10% to players with a different crest from yours. Deals extra damage to Protectors with the Courage crest.</td></tr><tr><td><img src="../.gitbook/assets/2194 (1).png" alt=""></td><td>Giant Octopus Gem</td><td>Increases Physical and Magic Damage by 35% when standing in a Water cell. (Works with [Deluge]).</td></tr><tr><td><img src="../.gitbook/assets/1623 (1).png" alt=""></td><td>RSX 0806 Gem</td><td>+10% Max HP. If used by a Protector with the Hope crest: Equipment cannot be broken or removed by skills while targeting an enemy.</td></tr><tr><td><img src="../.gitbook/assets/1373 (1).png" alt=""></td><td>Lord of the Dead Gem</td><td>Deals +30% Damage to Undead race. Has a 5% chance to completely ignore received damage when HP is below 15%.</td></tr><tr><td><img src="../.gitbook/assets/1190.png" alt=""></td><td>Orc Lord Gem</td><td>+3 Strength. If used by a Protector with the Friendship crest: Grants immunity to Freeze.</td></tr><tr><td><img src="../.gitbook/assets/1583 (1).png" alt=""></td><td>Tao Gunka Gem</td><td>+50 DEF and +25 MDEF. If the user also has a Tao Gunka card, the received damage is doubled.</td></tr><tr><td><img src="../.gitbook/assets/1916.png" alt=""></td><td>Morroc Emperor Gem</td><td>No information is available about this type of gem. It is extremely rare.</td></tr><tr><td><img src="../.gitbook/assets/10309.png" alt=""></td><td>Atroce Gem</td><td>+35% Physical and Magical Damage against Brute race. Set Bonus with Wolf Gem: ATK &#x26; MATK +15, AGI -5.</td></tr><tr><td><img src="../.gitbook/assets/10299.png" alt=""></td><td>Detardeurus Gem</td><td>+35% Physical and Magical Damage against Dragon race. Set Bonus with Hydrolancer Gem: ATK &#x26; MATK +15, STR -5.</td></tr><tr><td><img src="../.gitbook/assets/10300.png" alt=""></td><td>Vesper Gem</td><td>+35% Physical and Magical Damage against Formless race. Set Bonus with Apocalypse Gem: ATK &#x26; MATK +15, Max HP -500.</td></tr><tr><td><img src="../.gitbook/assets/10301.png" alt=""></td><td>Motaro Gem</td><td>Max HP +3000, Max SP -15%.</td></tr><tr><td><img src="../.gitbook/assets/10302.png" alt=""></td><td>Ainz Ooal Gown Gem</td><td>Ignores 70% of the DEF of normal monsters and players.</td></tr></tbody></table>
+<table><thead><tr><th width="153">อัญมณี</th><th width="280">มอนสเตอร์	</th><th>ผลกระทบ</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1059 (1).png" alt=""></td><td>Queen Bee Gem</td><td>+35 ความเสียหายทางกายภาพ &#x26; เวทย์ต่อเผ่าพันธุ์แมลง. ให้ใช้ [Rescue Teleport] ที่ระดับ 1.</td></tr><tr><td><img src="../.gitbook/assets/1511 (1).png" alt=""></td><td>Amon Ra Gem</td><td>การมองเห็นศัตรูจะทำให้ร่าย [Decrease Agility] ระดับ 10 อัตโนมัติ. มีเวลาคูลดาวน์ 10 นาที ก่อนที่จะสามารถส่งผลต่อเป้าหมายเดียวกันอีกครั้ง.</td></tr><tr><td><img src="../.gitbook/assets/1039 (1).png" alt=""></td><td>Baphomet Gem</td><td>+35% ความเสียหายทางกายภาพ &#x26; เวทย์ต่อเผ่าพันธุ์ปีศาจ. หากใช้ร่วมกับ Baphomet Jr. Gem: ATK &#x26; MATK +15, Critical -5.</td></tr><tr><td><img src="../.gitbook/assets/1086 (1).png" alt=""></td><td>Golden Thief Bug Gem</td><td>90% โอกาสในการละเว้นผลของ [Golden Thief Bug Card] บนเป้าหมาย.</td></tr><tr><td><img src="../.gitbook/assets/1046 (1).png" alt=""></td><td>Doppelganger Gem</td><td>เปิดใช้งาน Block Level 3. 5% โอกาสในการสะท้อนทักษะเป้าหมายกลับไปยังผู้ใช้.</td></tr><tr><td><img src="../.gitbook/assets/1389 (1).png" alt=""></td><td>Dracula Gem</td><td>-20% Max HP &#x26; +90% ความเสียหายจากธาตุไฟที่ได้รับ. เปลี่ยนเผ่าพันธุ์ของคุณเป็น Undead.</td></tr><tr><td><img src="../.gitbook/assets/1112 (1).png" alt=""></td><td>Drake Gem</td><td>เปิดใช้งาน Power Amplifier (การลบอัญมณีจะทำให้ผลกระทบหมดลง). เพิ่มความเสียหายเวทย์ต่อธาตุเงาขึ้น +15%.</td></tr><tr><td><img src="../.gitbook/assets/1115 (1).png" alt=""></td><td>Eddga Gem</td><td>+70% ความเสียหายต่อเป้าหมายที่ถูก Stunned.</td></tr><tr><td><img src="../.gitbook/assets/1157 (1).png" alt=""></td><td>Pharaoh Gem</td><td>บัฟเชิงบวกยังคงอยู่หลังจากตาย. +7% ความเสียหายเวทย์ทั่วทั้งคุณสมบัติ.</td></tr><tr><td><img src="../.gitbook/assets/1150 (1).png" alt=""></td><td>Lunar Flower Gem</td><td>มอนสเตอร์ไม่สามารถเริ่มการโจมตีคุณโดยตรง แต่จะตอบโต้.</td></tr><tr><td><img src="../.gitbook/assets/1159 (1).png" alt=""></td><td>Freeoni Gem</td><td>+50 โอกาสโจมตีที่สมบูรณ์.</td></tr><tr><td><img src="../.gitbook/assets/1312 (1).png" alt=""></td><td>General Tartaruga Gem</td><td>ลดความเสียหายที่ได้รับจาก Critical ลง 30%. เพิ่มโอกาส 7% ในการหลบการโจมตีที่สำคัญที่เข้ามา.</td></tr><tr><td><img src="../.gitbook/assets/2202 (1).png" alt=""></td><td>Kraken Gem</td><td>+12% Max HP. เปลี่ยนขนาดของคุณเป็นขนาดใหญ่.</td></tr><tr><td><img src="../.gitbook/assets/1688 (1).png" alt=""></td><td>Lady Tanee Gem</td><td>+5 Vitality. ไอเท็มฟื้นฟู HP ยังฟื้นฟู SP ในปริมาณที่เท่ากัน. หากถอดออก การเสื่อมสภาพ SP จะถูกตั้งค่าเป็น 1 ต่อวินาที.</td></tr><tr><td><img src="../.gitbook/assets/1147 (1).png" alt=""></td><td>Maya Gem</td><td>ลดความเสียหายเวทย์ที่ได้รับจากการโจมตีเป้าหมายเดียวลง 10%.</td></tr><tr><td><img src="../.gitbook/assets/1087.png" alt=""></td><td>Orc Hero Gem</td><td>หาก Strength ของคุณสูงกว่าของเป้าหมาย, ทำให้เกิดความเสียหาย +15%.</td></tr><tr><td><img src="../.gitbook/assets/1038 (1).png" alt=""></td><td>Osiris Gem</td><td>+3 ในทุกสถิติ. เพิ่มความเสียหายที่ทำให้กับผู้เล่นที่มีตราสัญลักษณ์ต่างจากคุณ 10%. ทำความเสียหายเพิ่มเติมให้กับผู้คุ้มกันที่มีตราสัญลักษณ์ Courage.</td></tr><tr><td><img src="../.gitbook/assets/2194 (1).png" alt=""></td><td>Giant Octopus Gem</td><td>เพิ่มความเสียหายทางกายภาพและเวทย์ 35% เมื่อยืนอยู่ในเซลล์น้ำ. (ทำงานร่วมกับ [Deluge]).</td></tr><tr><td><img src="../.gitbook/assets/1623 (1).png" alt=""></td><td>RSX 0806 Gem</td><td>+10% Max HP. หากใช้โดยผู้คุ้มกันที่มีตราสัญลักษณ์ Hope: อุปกรณ์ไม่สามารถถูกทำลายหรือถอดออกได้โดยทักษะในขณะที่กำลังเล็งไปที่ศัตรู.</td></tr><tr><td><img src="../.gitbook/assets/1373 (1).png" alt=""></td><td>Lord of the Dead Gem</td><td>ทำให้เกิดความเสียหาย +30% ต่อเผ่าพันธุ์ Undead. มีโอกาส 5% ที่จะละเว้นความเสียหายที่ได้รับเมื่อ HP ต่ำกว่า 15%.</td></tr><tr><td><img src="../.gitbook/assets/1190.png" alt=""></td><td>Orc Lord Gem</td><td>+3 Strength. หากใช้โดยผู้คุ้มกันที่มีตราสัญลักษณ์ Friendship: มอบภูมิคุ้มกันต่อการแช่แข็ง.</td></tr><tr><td><img src="../.gitbook/assets/1583 (1).png" alt=""></td><td>Tao Gunka Gem</td><td>+50 DEF และ +25 MDEF. หากผู้ใช้มีการ์ด Tao Gunka ความเสียหายที่ได้รับจะถูกเพิ่มเป็นสองเท่า.</td></tr><tr><td><img src="../.gitbook/assets/1916.png" alt=""></td><td>Morroc Emperor Gem</td><td>ไม่มีข้อมูลเกี่ยวกับประเภทอัญมณีนี้. มันหายากมาก.</td></tr><tr><td><img src="../.gitbook/assets/10309.png" alt=""></td><td>Atroce Gem</td><td>+35% ความเสียหายทางกายภาพและเวทย์ต่อเผ่าพันธุ์ Brute. ชุดโบนัสกับ Wolf Gem: ATK &#x26; MATK +15, AGI -5.</td></tr><tr><td><img src="../.gitbook/assets/10299.png" alt=""></td><td>Detardeurus Gem</td><td>+35% ความเสียหายทางกายภาพและเวทย์ต่อเผ่าพันธุ์ Dragon. ชุดโบนัสกับ Hydrolancer Gem: ATK &#x26; MATK +15, STR -5.</td></tr><tr><td><img src="../.gitbook/assets/10300.png" alt=""></td><td>Vesper Gem</td><td>+35% ความเสียหายทางกายภาพและเวทย์ต่อเผ่าพันธุ์ Formless. ชุดโบนัสกับ Apocalypse Gem: ATK &#x26; MATK +15, Max HP -500.</td></tr><tr><td><img src="../.gitbook/assets/10301.png" alt=""></td><td>Motaro Gem</td><td>Max HP +3000, Max SP -15%.</td></tr><tr><td><img src="../.gitbook/assets/10302.png" alt=""></td><td>Ainz Ooal Gown Gem</td><td>ละเว้น 70% ของ DEF ของมอนสเตอร์ทั่วไปและผู้เล่น.</td></tr></tbody></table>
 
 ## MINI-BOSS
 
-<table><thead><tr><th width="158">Gem</th><th width="284">Monster</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1091 (1).png" alt=""></td><td>Dragonfly Gem</td><td>Perfect Dodge +10.</td></tr><tr><td><img src="../.gitbook/assets/1092 (1).png" alt=""></td><td>Wandering Wolf Gem</td><td>STR +10.</td></tr><tr><td><img src="../.gitbook/assets/1093 (1).png" alt=""></td><td>Eclipse Gem</td><td>VIT +10.</td></tr><tr><td><img src="../.gitbook/assets/1090.png" alt="" data-size="original"></td><td>Mastering Gem</td><td>LUK +3. Increases drop rate by +6%.</td></tr><tr><td><img src="../.gitbook/assets/1096 (1).png" alt=""></td><td>Angeling Gem</td><td>Unlocks Resurrection Lv.1. Increases Physical &#x26; Magical Damage against Holy property enemies by 10%.</td></tr><tr><td><img src="../.gitbook/assets/1120 (1).png" alt=""></td><td>Ghostring Gem</td><td>Increases Physical Damage against Shadow property enemies by +15%.</td></tr><tr><td><img src="../.gitbook/assets/1203.png" alt=""></td><td>Mysteltainn Gem</td><td>Increases Physical Damage against Small-sized enemies by +12%..</td></tr><tr><td><img src="../.gitbook/assets/1204 (1).png" alt=""></td><td>Tirfing Gem</td><td>Increases Physical Damage against Medium-sized enemies by +12%.</td></tr><tr><td><img src="../.gitbook/assets/1205 (1).png" alt=""></td><td>Executor Gem</td><td>Increases Physical Damage against Large-sized enemies by +12%.</td></tr><tr><td><img src="../.gitbook/assets/1259 (1).png" alt=""></td><td>Griffon Gem</td><td>When performing physical attacks, 5% chance to auto-cast [Tyr's Impact] Lv. 5.</td></tr><tr><td><img src="../.gitbook/assets/1262 (1).png" alt=""></td><td>Mutant Dragon Gem</td><td>ATK +40.</td></tr><tr><td><img src="../.gitbook/assets/1289 (1).png" alt=""></td><td>Maya Macho Gem</td><td>Aproximar-se de um alvo Approaching an enemy will automatically cast [Stone Column] Lv. 1, revealing hidden or cloaked enemies.</td></tr><tr><td><img src="../.gitbook/assets/1302 (1).png" alt=""></td><td>Dark Illusion Gem</td><td>Variable cast time -30%. Max HP/SP +10%.</td></tr><tr><td><img src="../.gitbook/assets/1307 (1).png" alt=""></td><td>Nine-Tailed Cat Gem</td><td>INT +15</td></tr><tr><td><img src="../.gitbook/assets/1388 (1).png" alt=""></td><td>ArchAngeling Gem</td><td>Recovers 500 HP every 5 seconds. Grants +5% Max HP.</td></tr><tr><td><img src="../.gitbook/assets/1582.png" alt=""></td><td>Deviling Gem</td><td>Resistance to all elements +10%.</td></tr><tr><td><img src="../.gitbook/assets/1089.png" alt=""></td><td>Sapo Cururu Gem</td><td>Perfect Dodge +10.</td></tr><tr><td><img src="../.gitbook/assets/10297.png" alt=""></td><td>Hydrolancer Gem</td><td>Magic damage of Wind and Earth +8%. -4% damage received from Wind and Earth.</td></tr><tr><td><img src="../.gitbook/assets/10298.png" alt=""></td><td>Momon Gem</td><td>Critical Damage +10%. Accuracy -150.</td></tr></tbody></table>
+<table><thead><tr><th width="158">อัญมณี</th><th width="284">มอนสเตอร์</th><th>ผลกระทบ</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1091 (1).png" alt=""></td><td>Dragonfly Gem</td><td>Perfect Dodge +10.</td></tr><tr><td><img src="../.gitbook/assets/1092 (1).png" alt=""></td><td>Wandering Wolf Gem</td><td>STR +10.</td></tr><tr><td><img src="../.gitbook/assets/1093 (1).png" alt=""></td><td>Eclipse Gem</td><td>VIT +10.</td></tr><tr><td><img src="../.gitbook/assets/1090.png" alt="" data-size="original"></td><td>Mastering Gem</td><td>LUK +3. เพิ่มอัตราการดรอป +6%.</td></tr><tr><td><img src="../.gitbook/assets/1096 (1).png" alt=""></td><td>Angeling Gem</td><td>ปลดล็อก Resurrection Lv.1. เพิ่มความเสียหายทางกายภาพ &#x26; เวทย์ต่อศัตรูที่เป็นคุณสมณะศักดิ์สิทธิ์ 10%.</td></tr><tr><td><img src="../.gitbook/assets/1120 (1).png" alt=""></td><td>Ghostring Gem</td><td>เพิ่มความเสียหายทางกายภาพต่อศัตรูที่เป็นคุณสมณะเงา +15%.</td></tr><tr><td><img src="../.gitbook/assets/1203.png" alt=""></td><td>Mysteltainn Gem</td><td>เพิ่มความเสียหายทางกายภาพต่อศัตรูขนาดเล็ก +12%..</td></tr><tr><td><img src="../.gitbook/assets/1204 (1).png" alt=""></td><td>Tirfing Gem</td><td>เพิ่มความเสียหายทางกายภาพต่อศัตรูขนาดกลาง +12%.</td></tr><tr><td><img src="../.gitbook/assets/1205 (1).png" alt=""></td><td>Executor Gem</td><td>เพิ่มความเสียหายทางกายภาพต่อศัตรูขนาดใหญ่ +12%.</td></tr><tr><td><img src="../.gitbook/assets/1259 (1).png" alt=""></td><td>Griffon Gem</td><td>เมื่อทำการโจมตีทางกายภาพ, มีโอกาส 5% ที่จะร่าย [Tyr's Impact] Lv. 5 อัตโนมัติ.</td></tr><tr><td><img src="../.gitbook/assets/1262 (1).png" alt=""></td><td>Mutant Dragon Gem</td><td>ATK +40.</td></tr><tr><td><img src="../.gitbook/assets/1289 (1).png" alt=""></td><td>Maya Macho Gem</td><td>การเข้าใกล้เป้าหมายจะทำให้ร่าย [Stone Column] Lv. 1 อัตโนมัติ, เปิดเผยศัตรูที่ซ่อนอยู่หรือคลุมเครือ.</td></tr><tr><td><img src="../.gitbook/assets/1302 (1).png" alt=""></td><td>Dark Illusion Gem</td><td>เวลาร่ายที่เปลี่ยนแปลงได้ -30%. Max HP/SP +10%.</td></tr><tr><td><img src="../.gitbook/assets/1307 (1).png" alt=""></td><td>Nine-Tailed Cat Gem</td><td>INT +15</td></tr><tr><td><img src="../.gitbook/assets/1388 (1).png" alt=""></td><td>ArchAngeling Gem</td><td>ฟื้นฟู 500 HP ทุก 5 วินาที. มอบ +5% Max HP.</td></tr><tr><td><img src="../.gitbook/assets/1582.png" alt=""></td><td>Deviling Gem</td><td>ความต้านทานต่อธาตุทั้งหมด +10%.</td></tr><tr><td><img src="../.gitbook/assets/1089.png" alt=""></td><td>Sapo Cururu Gem</td><td>Perfect Dodge +10.</td></tr><tr><td><img src="../.gitbook/assets/10297.png" alt=""></td><td>Hydrolancer Gem</td><td>ความเสียหายเวทย์ของลมและดิน +8%. -4% ความเสียหายที่ได้รับจากลมและดิน.</td></tr><tr><td><img src="../.gitbook/assets/10298.png" alt=""></td><td>Momon Gem</td><td>ความเสียหายที่สำคัญ +10%. ความแม่นยำ -150.</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

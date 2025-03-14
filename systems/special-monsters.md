@@ -1,29 +1,29 @@
 ---
 description: >-
-  Special monsters have a different respawn system compared to regular monsters.
-  Some spawn in specific maps at certain times of the day, while others must be
-  summoned by the player.
+  มอนสเตอร์พิเศษมีระบบการเกิดใหม่ที่แตกต่างจากมอนสเตอร์ทั่วไป
+  บางตัวเกิดในแผนที่เฉพาะในช่วงเวลาที่กำหนดของวัน ในขณะที่บางตัวต้องถูก
+  เรียกโดยผู้เล่น
 ---
 
-# 👾 Special Monsters
+# 👾 มอนสเตอร์พิเศษ
 
 <figure><img src="../.gitbook/assets/Monstrosespecial.png" alt=""><figcaption></figcaption></figure>
 
-## **Differences Between Champion Monsters and Special Monsters**
+## **ความแตกต่างระหว่างมอนสเตอร์แชมป์และมอนสเตอร์พิเศษ**
 
-* <mark style="color:red;">**10 times more experience**</mark> <mark style="color:red;"></mark><mark style="color:red;">and</mark> <mark style="color:red;"></mark><mark style="color:red;">**3 times higher drop rate**</mark>, special monsters also <mark style="background-color:red;">**drop unique items**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">used in</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**crafting powerful equipment**</mark> _(e.g., Prontera Dungeon)_.
-
-***
-
-## **Rare Treasures**
-
-* In addition to **Unique Monsters**, adventurers in **Arkaik** can obtain **rare treasures** across different parts of the game.
-* <mark style="color:red;">**Drops are tripled**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**except for cards and gems**</mark><mark style="color:red;">.</mark>
-* Additionally, <mark style="color:red;">**certain exclusive items are provided for the equipment crafting system**</mark>, adding an extra layer of complexity to the game.
+* <mark style="color:red;">**ประสบการณ์มากขึ้น 10 เท่า**</mark> <mark style="color:red;"></mark><mark style="color:red;">และ</mark> <mark style="color:red;"></mark><mark style="color:red;">**อัตราการดรอปสูงขึ้น 3 เท่า**</mark>, มอนสเตอร์พิเศษยัง <mark style="background-color:red;">**ดรอปไอเทมที่ไม่ซ้ำกัน**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">ที่ใช้ในการ</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**สร้างอุปกรณ์ที่ทรงพลัง**</mark> _(เช่น, ดันเจี้ยน Prontera)_.
 
 ***
 
-## **Special Monsters and Unique Items**
+## **สมบัติล้ำค่า**
+
+* นอกจาก **มอนสเตอร์พิเศษ** แล้ว นักผจญภัยใน **Arkaik** ยังสามารถได้รับ **สมบัติล้ำค่า** ในหลายส่วนของเกม
+* <mark style="color:red;">**ดรอปเพิ่มขึ้น 3 เท่า**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**ยกเว้นการ์ดและอัญมณี**</mark><mark style="color:red;">.</mark>
+* นอกจากนี้ <mark style="color:red;">**ไอเทมพิเศษบางอย่างจะถูกจัดเตรียมสำหรับระบบการสร้างอุปกรณ์**</mark> ซึ่งเพิ่มความซับซ้อนให้กับเกม
+
+***
+
+## **มอนสเตอร์พิเศษและไอเทมที่ไม่ซ้ำกัน**
 
 ### **Special Alarm**
 
@@ -31,21 +31,21 @@ description: >-
 {% tab title="Monster" %}
 <figure><img src="../.gitbook/assets/200px-Alarm1.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Special Alarm</strong></mark></p></figcaption></figure>
 
-* **Larger than normal**.
-* Commands an **army of Mimics**.
-* **Drops "**<mark style="color:red;">**Memory Gem**</mark>**"** when defeated.
+* **ใหญ่กว่าปกติ**.
+* มี **กองทัพ Mimics**.
+* **ดรอป "**<mark style="color:red;">**Memory Gem**</mark>**"** เมื่อถูกทำลาย.
 {% endtab %}
 
 {% tab title="Location" %}
-<figure><img src="../.gitbook/assets/200px-Tw1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Clock Tower - c_tower1</strong> in <strong>Aldebaran</strong>.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/200px-Tw1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Clock Tower - c_tower1</strong> ใน <strong>Aldebaran</strong>.</mark></p></figcaption></figure>
 
-* Located in the **Clock Tower - c\_tower1** in **Aldebaran**.
-* Appears daily from **21:00 to 21:30** in the <mark style="color:red;">**Clock Tower of Arkaik**</mark>.
-* **Alarms** can appear anywhere on the map and accumulate if not defeated.
+* ตั้งอยู่ใน **Clock Tower - c\_tower1** ใน **Aldebaran**.
+* ปรากฏทุกวันตั้งแต่ **21:00 ถึง 21:30** ใน <mark style="color:red;">**Clock Tower of Arkaik**</mark>.
+* **Alarms** สามารถปรากฏได้ทุกที่ในแผนที่และสะสมถ้าไม่ถูกทำลาย.
 {% endtab %}
 
 {% tab title="Acquired Items" %}
-<table><thead><tr><th width="155">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01GE.png" alt=""><strong>Memory Gem</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
+<table><thead><tr><th width="155">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01GE.png" alt=""><strong>Memory Gem</strong></td><td>ไอเทมที่ใช้ในการสร้างอุปกรณ์ที่ NPC CRAFTS ใน [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -55,22 +55,22 @@ description: >-
 {% tab title="Monster" %}
 <figure><img src="../.gitbook/assets/200px-BP.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Special Baphomet Jr.</strong></mark></p></figcaption></figure>
 
-* **Larger than normal**.
-* Commands an **army of Ridewords**.
-* **Drops "**<mark style="color:red;">**Black Wing**</mark>**"** when defeated.
+* **ใหญ่กว่าปกติ**.
+* มี **กองทัพ Ridewords**.
+* **ดรอป "**<mark style="color:red;">**Black Wing**</mark>**"** เมื่อถูกทำลาย.
 {% endtab %}
 
 {% tab title="Location" %}
 <figure><img src="../.gitbook/assets/200px-Gl1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Glast Heim Abbey - gl_church</strong>.</mark></p></figcaption></figure>
 
-* Located in **Glast Heim Abbey - gl\_church**.
-* Spawns daily at **21:00** in the <mark style="color:red;">**church of Glast Heim**</mark>.
-* Event ends at **21:30**, but if not defeated, it remains on the map.
-* **Baphomet Jr.** can spawn in various locations on the map and accumulate if not eliminated.
+* ตั้งอยู่ใน **Glast Heim Abbey - gl\_church**.
+* ปรากฏทุกวันเวลา **21:00** ใน <mark style="color:red;">**โบสถ์ของ Glast Heim**</mark>.
+* กิจกรรมสิ้นสุดที่ **21:30** แต่ถ้าไม่ถูกทำลาย จะยังคงอยู่ในแผนที่.
+* **Baphomet Jr.** สามารถเกิดในหลายตำแหน่งในแผนที่และสะสมถ้าไม่ถูกกำจัด.
 {% endtab %}
 
 {% tab title="Acquired Items" %}
-<table><thead><tr><th width="149">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01bw.png" alt=""><strong>Black Wing</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
+<table><thead><tr><th width="149">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01bw.png" alt=""><strong>Black Wing</strong></td><td>ไอเทมที่ใช้ในการสร้างอุปกรณ์ที่ NPC CRAFTS ใน [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -80,25 +80,25 @@ description: >-
 {% tab title="Monstro" %}
 <figure><img src="../.gitbook/assets/200px-LD.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Special Lude</strong></mark></p></figcaption></figure>
 
-* **Larger than normal**.
-* Commands an **army of Dullahans**.
-* **Drops "**<mark style="color:red;">**Ancient Skull**</mark>**"** when defeated.
+* **ใหญ่กว่าปกติ**.
+* มี **กองทัพ Dullahans**.
+* **ดรอป "**<mark style="color:red;">**Ancient Skull**</mark>**"** เมื่อถูกทำลาย.
 {% endtab %}
 
 {% tab title="Location" %}
 <figure><img src="../.gitbook/assets/200px-Nif1.png" alt=""><figcaption><p><mark style="color:red;">Niflheim - Vale de Gyoll</mark></p></figcaption></figure>
 
-* Located in **Niflheim**.
-* In **Vale de Gyoll**, explorers can find <mark style="color:red;">**three Restless Souls**</mark> at specific coordinates:
+* ตั้งอยู่ใน **Niflheim**.
+* ใน **Vale de Gyoll**, นักสำรวจสามารถพบ <mark style="color:red;">**สามวิญญาณที่ไม่สงบ**</mark> ที่พิกัดเฉพาะ:
   * **(68,328)**
   * **(120,116)**
   * **(344,268)**
-* **Releasing these souls is crucial**, as it triggers the appearance of <mark style="color:red;">**two Special Ludes**</mark> in the center of the map.
-* After freeing the **three souls**, **two Special Ludes** will spawn in the middle of the map.
+* **การปล่อยวิญญาณเหล่านี้เป็นสิ่งสำคัญ**, เพราะมันจะกระตุ้นการปรากฏตัวของ <mark style="color:red;">**สอง Special Ludes**</mark> ในกลางแผนที่.
+* หลังจากปล่อย **สามวิญญาณ**, **สอง Special Ludes** จะเกิดขึ้นในกลางแผนที่.
 {% endtab %}
 
 {% tab title="Acquired Items" %}
-<table><thead><tr><th width="158">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01C.png" alt=""><strong>Ancient Skull</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
+<table><thead><tr><th width="158">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01C.png" alt=""><strong>Ancient Skull</strong></td><td>ไอเทมที่ใช้ในการสร้างอุปกรณ์ที่ NPC CRAFTS ใน [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -108,9 +108,9 @@ description: >-
 {% tab title="Monster" %}
 <figure><img src="../.gitbook/assets/200px-DENI.jpg" alt=""><figcaption><p><mark style="color:red;"><strong>Special Deniro</strong></mark></p></figcaption></figure>
 
-* **Larger than normal**.
-* Commands an **army of Andre**.
-* **Drops "**<mark style="color:red;">**Flaming Agate**</mark>**"** when defeated.
+* **ใหญ่กว่าปกติ**.
+* มี **กองทัพ Andre**.
+* **ดรอป "**<mark style="color:red;">**Flaming Agate**</mark>**"** เมื่อถูกทำลาย.
 {% endtab %}
 
 {% tab title="Location" %}
@@ -118,15 +118,15 @@ description: >-
 
 <figure><img src="../.gitbook/assets/200px-Antmap.png" alt=""><figcaption><p><mark style="color:red;"><strong>Anthell (Infernal Anthill)</strong>.</mark></p></figcaption></figure>
 
-* Found in <mark style="color:red;">**Anthell (Infernal Anthill)**</mark>.
-* Has **fixed spawn points** at coordinates **(93,251) and (49,181)**.
-* **Respawns every 30 minutes**.
-* Inside the **Infernal Anthill**, at **points "4" and "8" on the minimap**,\
-  there are **fixed egg spawns**.
-* **Destroying these eggs** will **release Special Deniros**.
+* พบใน <mark style="color:red;">**Anthell (Infernal Anthill)**</mark>.
+* มี **จุดเกิดที่แน่นอน** ที่พิกัด **(93,251) และ (49,181)**.
+* **เกิดใหม่ทุก 30 นาที**.
+* ภายใน **Infernal Anthill**, ที่ **จุด "4" และ "8" บนแผนที่ย่อย**,\
+  จะมี **จุดเกิดไข่ที่แน่นอน**.
+* **การทำลายไข่เหล่านี้** จะ **ปล่อย Special Deniro**.
 {% endtab %}
 
 {% tab title="Acquired Items" %}
-<table><thead><tr><th width="182">Item </th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-MG.png" alt=""><strong>Flaming Agate</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
+<table><thead><tr><th width="182">Item </th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-MG.png" alt=""><strong>Flaming Agate</strong></td><td>ไอเทมที่ใช้ในการสร้างอุปกรณ์ที่ NPC CRAFTS ใน [<a href="../instances/prontera-dungeon.md">Prontera Dungeon</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
