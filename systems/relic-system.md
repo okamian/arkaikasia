@@ -1,36 +1,31 @@
 ---
 description: >-
-  Relics in Arkaik represent items of great value and power. These relics can be
-  obtained through a series of well-crafted and challenging quests.
+  Relik di Arkaik mewakili barang-barang yang memiliki nilai dan kekuatan yang besar. Relik ini dapat diperoleh melalui serangkaian misi yang dirancang dengan baik dan menantang.
 ---
 
-# 📜 Relic System
+# 📜 Sistem Relik
 
 <figure><img src="../.gitbook/assets/Reliquias.png" alt=""><figcaption></figcaption></figure>
 
-## **Relic Acquisition**
+## **Perolehan Relik**
 
-* The journey in search of the Relics begins in the **Zero&#x20;**<mark style="color:red;">**Forest to the North**</mark>, at the <mark style="color:red;">**Observatory**</mark>.
-* **(**_**You must be LEVEL 90 to start the quest.**_**)**
+* Perjalanan untuk mencari Relik dimulai di **Zero&#x20;**<mark style="color:red;">**Hutan Utara**</mark>, di <mark style="color:red;">**Observatorium**</mark>.
+* **(**_**Anda harus LEVEL 90 untuk memulai misi.**_**)**
 
 {% tabs %}
-{% tab title="Quest Start: Level 90" %}
+{% tab title="Mulai Misi: Level 90" %}
 <figure><img src="../.gitbook/assets/Lineker.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
-{% endtabs %}
+{% endtabs %}<table><thead><tr><th width="165">Informasi	</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Observatorium</td><td>Sebelum memulai misi relik, bicaralah dengan <mark style="color:red;"><strong>Lineker</strong></mark> di Observatorium untuk melihat bintang, lalu bicaralah dengannya lagi untuk memulai pencarianmu.</td></tr><tr><td>Gilda</td><td>Setelah berbicara dengan <mark style="color:red;"><strong>Lineker</strong></mark>, kamu akan dikirim ke gilda masing-masing untuk <strong>berbicara dengan pemimpin gilda kelasmu dan melanjutkan</strong>.</td></tr><tr><td>Kerajinan</td><td>Setelah <strong>menyelesaikan misi gilda</strong>, pemain akan <strong>membuka kemampuan untuk membuat Relik mereka</strong>.</td></tr><tr><td>Peningkatan</td><td>Relik dirancang sebagai <mark style="color:red;"><strong>item akhir permainan</strong></mark>, dilengkapi secara visual dengan <strong>Garnet</strong>, dan memberikan <strong>atribut dasar tertentu</strong> untuk setiap kelas.</td></tr></tbody></table>
 
-<table><thead><tr><th width="165">Information	</th><th>Description</th></tr></thead><tbody><tr><td>Observatory</td><td>ABefore starting the relic mission, talk to <mark style="color:red;"><strong>Lineker</strong></mark> at the Observatory to see the stars, then speak to him again to start your quest.</td></tr><tr><td>Guild</td><td>After speaking with <mark style="color:red;"><strong>Lineker</strong></mark>, you will be sent to your respective guild to <strong>talk to your class guild leader and proceed</strong>.</td></tr><tr><td>Crafting</td><td>After <strong>completing the guild quest</strong>, players will <strong>unlock the ability to craft their Relic</strong>.</td></tr><tr><td>Enhancement</td><td>Relics are designed as <mark style="color:red;"><strong>late-game items</strong></mark>, visually equipped with <strong>Garnet</strong>, and provide specific <strong>base attributes</strong> for each class.</td></tr></tbody></table>
+## **Keuntungan Relik berdasarkan Kelas*** Untuk memeriksa detail <mark style="color:red;">**Relic**</mark>, klik pada **tombol panduan masing-masing** di video di bawah ini.
+* Ingat untuk mengalahkan <mark style="color:red;">**Guild Boss**</mark> untuk mengakses item-item tersebut. Anda dapat menyelesaikannya dengan karakter yang berbeda.
 
-## **Relic Advantages by Class**
-
-* To check <mark style="color:red;">**Relic**</mark> details, click on the **buttons of each guide** in the video below.
-* Remember to defeat the <mark style="color:red;">**Guild Boss**</mark> to access the items. You can complete it on different characters.
-
-<figure><img src="../.gitbook/assets/seeee.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>(</strong><strong>Classe) - (TIER1) - (TIER2)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/seeee.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>(</strong><strong>Kelas) - (TIER1) - (TIER2)</strong></mark></p></figcaption></figure>
 
 {% tabs %}
-{% tab title="Priest" %}
-<figure><img src="../.gitbook/assets/Sacerreli.gif" alt=""><figcaption><p><br><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+{% tab title="Pendeta" %}
+<figure><img src="../.gitbook/assets/Sacerreli.gif" alt=""><figcaption><p><br><mark style="color:red;"><strong>Ilustrasi Bagaimana Relic Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -40,11 +35,8 @@ description: >-
 {% tab title="TIER 2" %}
 <figure><img src="../.gitbook/assets/s2.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Hunter" %}
-<figure><img src="../.gitbook/assets/Caçareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+{% endtabs %}{% tab title="Hunter" %}
+<figure><img src="../.gitbook/assets/Caçareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi tentang bagaimana Relik akan terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -58,7 +50,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Bard" %}
-<figure><img src="../.gitbook/assets/Bardoreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bardoreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi tentang bagaimana Relik akan terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -68,11 +60,13 @@ description: >-
 {% tab title="TIER 2" %}
 <figure><img src="../.gitbook/assets/c4.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
+{% endtabs %}<figure><img src="../.gitbook/assets/c4.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Dancer" %}
-<figure><img src="../.gitbook/assets/Odareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+{% tab title="Penari" %}
+<figure><img src="../.gitbook/assets/Odareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi tentang bagaimana Relik akan terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -85,12 +79,11 @@ description: >-
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Alchemist" %}
-<figure><img src="../.gitbook/assets/Alquireli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+{% tab title="Alkemis" %}
+<figure><img src="../.gitbook/assets/Alquireli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi tentang bagaimana Relik akan terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c7.png" alt=""><figcaption></figcaption></figure>
+{% tab title="TIER 1" %}<figure><img src="../.gitbook/assets/c7.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
@@ -100,7 +93,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Assasin" %}
-<figure><img src="../.gitbook/assets/Mercereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mercereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi tentang bagaimana Relik akan terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -113,8 +106,7 @@ description: >-
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Knight" %}
-<figure><img src="../.gitbook/assets/Cavareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+{% tab title="Knight" %}<figure><img src="../.gitbook/assets/Cavareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi Bagaimana Relik Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -128,7 +120,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Rogue" %}
-<figure><img src="../.gitbook/assets/Arrureli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Arrureli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi Bagaimana Relik Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -137,12 +129,11 @@ description: >-
 
 {% tab title="TIER 2" %}
 <figure><img src="../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+{% endtab %}{% endtabs %}
 
 {% tabs %}
 {% tab title="Crusader" %}
-<figure><img src="../.gitbook/assets/Templareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Templareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi Bagaimana Relik Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -156,7 +147,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Sage" %}
-<figure><img src="../.gitbook/assets/Sabioreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sabioreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi Bagaimana Relik Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -170,7 +161,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Wizard" %}
-<figure><img src="../.gitbook/assets/Bruxoreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bruxoreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi Bagaimana Relik Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -184,11 +175,10 @@ description: >-
 
 {% tabs %}
 {% tab title="Monk" %}
-<figure><img src="../.gitbook/assets/Mogereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mogereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi Bagaimana Relik Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c19.png" alt=""><figcaption></figcaption></figure>
+{% tab title="TIER 1" %}<figure><img src="../.gitbook/assets/c19.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
@@ -198,7 +188,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Blacksmith" %}
-<figure><img src="../.gitbook/assets/Ferrereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ferrereli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi tentang Bagaimana Relik Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -211,8 +201,7 @@ description: >-
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Taekwon" %}
-<figure><img src="../.gitbook/assets/Taekreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Illustration of How the Relic Will Look on Your Character</strong></mark></p></figcaption></figure>
+{% tab title="Taekwon" %}<figure><img src="../.gitbook/assets/Taekreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Ilustrasi Bagaimana Relik Akan Terlihat di Karakter Anda</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 1" %}
@@ -224,25 +213,23 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-## **Location of NPCs for the Relic Quests**
+## **Lokasi NPC untuk Misi Relik**
 
-* Details of the **NPCs** locations for each class to start the **Relic quest**.
-* These locations are important so that players can begin their journeys in search of Relics.
-* **Each NPC** offers a <mark style="color:red;">**unique quest for each class**</mark>.
+* Detail lokasi **NPC** untuk setiap kelas untuk memulai **misi Relik**.
+* Lokasi-lokasi ini penting agar pemain dapat memulai perjalanan mereka dalam mencari Relik.
+* **Setiap NPC** menawarkan <mark style="color:red;">**misi unik untuk setiap kelas**</mark>.
 
-| Class                                          | NPC                | Location               |
-| ---------------------------------------------- | ------------------ | ---------------------- |
-| ![](<../.gitbook/assets/x1 (1).png>)**Priest** | Sister             | prt\_church (83, 122)  |
-| ![](../.gitbook/assets/x2.png)**Hunter**       | Huntress           | hu\_in01 (386, 373)    |
-| ![](../.gitbook/assets/x3.png)**Bard**         | Wandering Bard     | payon (161, 178)       |
-| ![](../.gitbook/assets/x4.png)**Dancer**       | Talent Seeker      | comodo (189, 163)      |
-| ![](../.gitbook/assets/x6.png)**Alchemist**    | Fay                | ein\_in01 (257, 26)    |
-| ![](../.gitbook/assets/x7.png)**Assasin**      | Lars               | in\_moc\_16 (19, 33)   |
-| ![](../.gitbook/assets/x8.png)**Knight**       | Saibah             | iz\_ac01 (99, 150)     |
-| ![](../.gitbook/assets/x9.png)**Rogue**        | Kel                | in\_rogue (363, 122)   |
-| ![](../.gitbook/assets/x10.png)**Crusader**    | Crusader           | prt\_church (115, 122) |
-| ![](../.gitbook/assets/x11.png)**Sage**        | Oberin             | yuno\_in02 (93, 203)   |
-| ![](../.gitbook/assets/x12.png)**Wizard**      | Guild Receptionist | gef\_tower (111, 37)   |
-| ![](../.gitbook/assets/x13.png)**Monk**        | Last Monk          | prt\_monk (246, 79)    |
-| ![](../.gitbook/assets/x14.png)**Blacksmith**  | Claus              | ein\_in01 (22, 151)    |
-| ![](../.gitbook/assets/c15.png)**Taekwon**     | Leonor             | louyang (151, 59)      |
+| Kelas                                          | NPC                | Lokasi                |
+| ---------------------------------------------- | ------------------ | --------------------- || ![](<../.gitbook/assets/x1 (1).png>)**Pendeta** | Suster             | prt\_church (83, 122)  |
+| ![](../.gitbook/assets/x2.png)**Pemburu**       | Pemburu Wanita     | hu\_in01 (386, 373)    |
+| ![](../.gitbook/assets/x3.png)**Penyanyi**      | Penyanyi Mengembara | payon (161, 178)       |
+| ![](../.gitbook/assets/x4.png)**Penari**        | Pencari Bakat      | comodo (189, 163)      |
+| ![](../.gitbook/assets/x6.png)**Alkemis**       | Fay                | ein\_in01 (257, 26)    |
+| ![](../.gitbook/assets/x7.png)**Pembunuh**      | Lars               | in\_moc\_16 (19, 33)   |
+| ![](../.gitbook/assets/x8.png)**Ksatria**       | Saibah             | iz\_ac01 (99, 150)     |
+| ![](../.gitbook/assets/x9.png)**Rogue**         | Kel                | in\_rogue (363, 122)   |
+| ![](../.gitbook/assets/x10.png)**Krisader**      | Krisader           | prt\_church (115, 122) |
+| ![](../.gitbook/assets/x11.png)**Cendekiawan**   | Oberin             | yuno\_in02 (93, 203)   |
+| ![](../.gitbook/assets/x12.png)**Penyihir**     | Resepsionis Guild  | gef\_tower (111, 37)   |
+| ![](../.gitbook/assets/x13.png)**Biksu**        | Biksu Terakhir     | prt\_monk (246, 79)    |
+| ![](../.gitbook/assets/x14.png)**Pandai Besi**  | Claus              | ein\_in01 (22, 151)    || ![](../.gitbook/assets/c15.png)**Taekwon**     | Leonor             | louyang (151, 59)      |

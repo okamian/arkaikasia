@@ -1,2 +1,1 @@
-# Waiting EVENT (ASIAN)
-
+# Menunggu EVENT (ASIA)

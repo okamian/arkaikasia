@@ -1,36 +1,35 @@
 ---
 description: >-
-  Tired of constantly clicking on skills? Missing the perfect timing for your
-  abilities? **Smartcast** is here to solve that problem!
+  Bosan terus-menerus mengklik keterampilan? Kehilangan waktu yang tepat untuk
+  kemampuan Anda? **Smartcast** hadir untuk menyelesaikan masalah itu!
 ---
 
 # 🧠 SMARTCAST
 
-<figure><img src="../.gitbook/assets/9999 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>SMARTCAST in action</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/9999 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>SMARTCAST dalam aksi</strong></mark></p></figcaption></figure>
 
-## **Smartcast System**
+## **Sistem Smartcast**
 
-* By default, **smartcast** is enabled, but you can **disable or enable** it anytime by typing **/smartcast** in the chat.
-
-***
-
-## **Features**
-
-**Quick Auto-Cast**
-
-* Hold **Shift** at any time to **cast skills on yourself**.
-
-<mark style="color:red;">**Skill Spamming**</mark>
-
-* Hold the skill hotkey to continuously cast the same skill until it's available again.
+* Secara default, **smartcast** diaktifkan, tetapi Anda dapat **menonaktifkan atau mengaktifkannya** kapan saja dengan mengetik **/smartcast** di obrolan.
 
 ***
 
-## **Automatic Casting on Marked Target**
+## **Fitur**
 
-* **When you place the cursor over a target**, you set it as your <mark style="color:red;">**current target**</mark>.
-* Using **offensive skills**, even **without having the cursor on the target**, will **automatically cast them on it**.
+**Auto-Cast Cepat**
 
-## **Target Validation Demonstration**
+* Tahan **Shift** kapan saja untuk **menggunakan keterampilan pada diri sendiri**.
 
-<table><thead><tr><th width="95">Circle</th><th>Description</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/108px-Red_Circle_Smartcast.png" alt=""></td><td><mark style="color:red;">Valid target for offensive skills.</mark></td></tr><tr><td><img src="../.gitbook/assets/108px-Blue_Smartcast.png" alt=""></td><td><mark style="color:blue;">Valid target for group or support skills.</mark></td></tr><tr><td><img src="../.gitbook/assets/108px-Green_Smartcast.png" alt=""></td><td><mark style="color:green;">Valid target for support skills.</mark></td></tr></tbody></table>
+<mark style="color:red;">**Spam Keterampilan**</mark>
+
+* Tahan tombol pintasan keterampilan untuk terus-menerus menggunakan keterampilan yang sama hingga tersedia lagi.
+
+***
+
+## **Pencasting Otomatis pada Target yang Ditandai**
+
+* **Ketika Anda menempatkan kursor di atas target**, Anda menetapkannya sebagai <mark style="color:red;">**target saat ini**</mark>.* Menggunakan **skill ofensif**, bahkan **tanpa mengarahkan kursor ke target**, akan **secara otomatis menggunakannya pada target tersebut**.
+
+## **Demonstrasi Validasi Target**
+
+<table><thead><tr><th width="95">Lingkaran</th><th>Deskripsi</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/108px-Red_Circle_Smartcast.png" alt=""></td><td><mark style="color:red;">Target yang valid untuk skill ofensif.</mark></td></tr><tr><td><img src="../.gitbook/assets/108px-Blue_Smartcast.png" alt=""></td><td><mark style="color:blue;">Target yang valid untuk skill grup atau dukungan.</mark></td></tr><tr><td><img src="../.gitbook/assets/108px-Green_Smartcast.png" alt=""></td><td><mark style="color:green;">Target yang valid untuk skill dukungan.</mark></td></tr></tbody></table>

@@ -1,22 +1,22 @@
 ---
 description: >-
-  This section will help you solve issues that are not directly related to the
-  **Arkaik Client**, but rather to the **Arkaik Installer** and other
-  game-related problems.
+  Bagian ini akan membantu Anda menyelesaikan masalah yang tidak terkait langsung
+  dengan **Klien Arkaik**, tetapi lebih kepada **Installer Arkaik** dan masalah
+  terkait game lainnya.
 icon: stethoscope
 ---
 
-# Various Issues
+# Berbagai Masalah
 
-## **Clicking Download Does Not Download Arkaik**
+## **Mengklik Unduh Tidak Mengunduh Arkaik**
 
-**Problem:**
+**Masalah:**
 
-* Whether using the installer or the ZIP file, **Arkaik does not download at all**.
+* Baik menggunakan installer atau file ZIP, **Arkaik sama sekali tidak diunduh**.
 
-**Solution:**
+**Solusi:**
 
-* Search for **"Tablet PC Settings"**
-* In the first option, set it to **"Never use tablet mode"**
+* Cari **"Pengaturan Tablet PC"**
+* Di opsi pertama, atur ke **"Jangan pernah gunakan mode tablet"**
 
 <figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>

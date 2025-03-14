@@ -1,17 +1,15 @@
 ---
-description: Choose your crest, as it defines the initial path of your class.
+description: Pilih lambang Anda, karena itu menentukan jalur awal kelas Anda.
 ---
 
-# 🛡️ Coat of Arms System
+# 🛡️ Sistem Lambang
 
-#### **About the Emblem**
+#### **Tentang Emblem**
 
-* Upon graduating from the **Protectors Academy**, you must choose which emblem your character will have by speaking with <mark style="color:red;">**Director Roosevelt**</mark><mark style="color:orange;">.</mark>
-* <mark style="color:red;">**Once you have chosen your emblem, it can only be changed in Prontera by the DIRECTOR.**</mark>
-* Your character’s emblem is visible in the upper left corner next to your character's image on the general vision screen.
-* Party members can also see your emblem on the general vision screen or the party screen.
-* **Remember that all emblems are subject to balancing and may change without prior notice!**
+* Setelah lulus dari **Akademi Pelindung**, Anda harus memilih lambang yang akan dimiliki karakter Anda dengan berbicara dengan <mark style="color:red;">**Direktur Roosevelt**</mark><mark style="color:orange;">.</mark>
+* <mark style="color:red;">**Setelah Anda memilih lambang Anda, itu hanya dapat diubah di Prontera oleh DIREKTUR.**</mark>
+* Emblem karakter Anda terlihat di sudut kiri atas di samping gambar karakter Anda di layar visi umum.
+* Anggota party juga dapat melihat emblem Anda di layar visi umum atau layar party.
+* **Ingat bahwa semua emblem dapat disesuaikan dan dapat berubah tanpa pemberitahuan sebelumnya!**
 
-## **List of Emblems**
-
-<table><thead><tr><th width="108">Symbol</th><th width="121">Nome</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/CREST_COURAGE.png" alt=""></td><td>Courage</td><td>Immunity to fear and +3 to all attributes.</td></tr><tr><td><img src="../.gitbook/assets/CREST_FRIENDSHIP.png" alt=""></td><td>Friendship</td><td>+3 Luck, allows reviving friends and, upon leveling up, added friends recover HP and SP.</td></tr><tr><td><img src="../.gitbook/assets/CREST_LOVE.png" alt=""></td><td>Love</td><td>Immunity to charm, healing from any source is 25% more effective, and +5% max HP.</td></tr><tr><td><img src="../.gitbook/assets/CREST_KNOWLEDGE.png" alt=""></td><td>Wisdom</td><td>Immunity to confusion, restores 3+(IntTotal/4) SP when defeating monsters, and +5 Intelligence.</td></tr><tr><td><img src="../.gitbook/assets/CREST_LIGHT.png" alt=""></td><td>Light</td><td>Immunity to curse and blindness, +20% damage against undead, and +5 Vitality.</td></tr><tr><td><img src="../.gitbook/assets/CREST_HOPE.png" alt=""></td><td>Hope</td><td>Levels up when defeating an epic monster, resurrects anywhere on the map. Upon receiving a fatal hit, 10% chance to survive with 1 HP, and when dying, equipment durability does not decrease.</td></tr><tr><td><img src="../.gitbook/assets/CREST_SINCERITY.png" alt=""></td><td>Sincerity</td><td>+7% damage to neutral property and +1 to all attributes.</td></tr><tr><td><img src="../.gitbook/assets/CREST_RELIABILITY.png" alt=""></td><td>Confidence</td><td>+3% final damage, and attacks deal +[Base Level] true damage.</td></tr><tr><td><img src="../.gitbook/assets/CREST_RELIABILITY.png" alt=""></td><td>Miracle</td><td>+6 Critical / +3% Critical Damage.</td></tr></tbody></table>
+## **Daftar Emblem**<table><thead><tr><th width="108">Simbol</th><th width="121">Nama</th><th>Efek</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/CREST_COURAGE.png" alt=""></td><td>Keberanian</td><td>Imunitas terhadap ketakutan dan +3 untuk semua atribut.</td></tr><tr><td><img src="../.gitbook/assets/CREST_FRIENDSHIP.png" alt=""></td><td>Persahabatan</td><td>+3 Keberuntungan, memungkinkan menghidupkan kembali teman dan, saat naik level, teman yang ditambahkan memulihkan HP dan SP.</td></tr><tr><td><img src="../.gitbook/assets/CREST_LOVE.png" alt=""></td><td>Cinta</td><td>Imunitas terhadap pesona, penyembuhan dari sumber mana pun lebih efektif 25%, dan +5% HP maksimum.</td></tr><tr><td><img src="../.gitbook/assets/CREST_KNOWLEDGE.png" alt=""></td><td>Kebijaksanaan</td><td>Imunitas terhadap kebingungan, memulihkan 3+(IntTotal/4) SP saat mengalahkan monster, dan +5 Intelijensi.</td></tr><tr><td><img src="../.gitbook/assets/CREST_LIGHT.png" alt=""></td><td>Cahaya</td><td>Imunitas terhadap kutukan dan kebutaan, +20% damage terhadap undead, dan +5 Vitalitas.</td></tr><tr><td><img src="../.gitbook/assets/CREST_HOPE.png" alt=""></td><td>Harapan</td><td>Naik level saat mengalahkan monster epik, bangkit di mana saja di peta. Saat menerima serangan fatal, 10% kemungkinan untuk bertahan hidup dengan 1 HP, dan saat mati, daya tahan peralatan tidak berkurang.</td></tr><tr><td><img src="../.gitbook/assets/CREST_SINCERITY.png" alt=""></td><td>Ketulusan</td><td>+7% damage terhadap properti netral dan +1 untuk semua atribut.</td></tr><tr><td><img src="../.gitbook/assets/CREST_RELIABILITY.png" alt=""></td><td>Kepercayaan Diri</td><td>+3% damage akhir, dan serangan memberikan +[Base Level] damage nyata.</td></tr><tr><td><img src="../.gitbook/assets/CREST_RELIABILITY.png" alt=""></td><td>Mukjizat</td><td>+6 Kritikal / +3% Damage Kritikal.</td></tr></tbody></table>

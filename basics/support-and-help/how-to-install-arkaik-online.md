@@ -1,11 +1,11 @@
 ---
 description: >-
-  Arkaik: Tales of Sarina is a private Ragnarok Online server, offering a unique
-  experience. This guide outlines the process of downloading, installing, and
-  configuring the game.
+  Arkaik: Tales of Sarina adalah server Ragnarok Online pribadi, menawarkan
+  pengalaman yang unik. Panduan ini menjelaskan proses mengunduh, menginstal,
+  dan mengonfigurasi permainan.
 ---
 
-# 🚧 How to Install Arkaik Online
+# 🚧 Cara Menginstal Arkaik Online
 
 <figure><img src="../../.gitbook/assets/Sarina-1250x300.png" alt=""><figcaption></figcaption></figure>
 
@@ -19,133 +19,122 @@ description: >-
 * ### [**Starting the Game**](how-to-install-arkaik-online.md#starting-the-game-1)
 * ### [**Common Problem Solutions**](how-to-install-arkaik-online.md#common-problem-solutions-1)
 
-### **System Requirements**
+### **Persyaratan Sistem**
 
-| Component	          | Minimum Requirements                   |
-| ------------------- | -------------------------------------- |
-| Operating System    | Windows 10 or higher                   |
-| Processor           | Dual Core 2.0 GHz                      |
-| RAM Memory          | 4 GB (8 GB recommended)                |
-| Disk Space          | 8 GB free (at least 10 GB recommended) |
-| Graphics Card       | 256 MB with DirectX 9.0c               |
-| Internet Connection | 1 Mbps or higher                       |
+| Komponen           | Persyaratan Minimum                    |
+| ------------------ | -------------------------------------- |
+| Sistem Operasi     | Windows 10 atau lebih tinggi          |
+| Prosesor           | Dual Core 2.0 GHz                     |
+| Memori RAM         | 4 GB (8 GB disarankan)                |
+| Ruang Disk         | 8 GB kosong (setidaknya 10 GB disarankan) |
+| Kartu Grafis       | 256 MB dengan DirectX 9.0c            || Koneksi Internet | 1 Mbps atau lebih tinggi                       |
 
-### **Account Registration**
+### **Pendaftaran Akun**
 
-To play, you need an account. Follow the steps below:
+Untuk bermain, Anda perlu sebuah akun. Ikuti langkah-langkah di bawah ini:
 
-1. Access the official website of **Arkaik Tales of Sarina**. <mark style="color:red;">**(ASIAN)**</mark>
-2. Click on **"Register"**.
-3. Fill in the required fields (username, email, password).
-4. Confirm your email by clicking on the verification link sent.
+1. Akses situs web resmi **Arkaik Tales of Sarina**. <mark style="color:red;">**(ASIAN)**</mark>
+2. Klik **"Daftar"**.
+3. Isi kolom yang diperlukan (nama pengguna, email, kata sandi).
+4. Konfirmasi email Anda dengan mengklik tautan verifikasi yang dikirim.
 
-### **Client Download**
+### **Unduhan Klien**
 
-1. Go to the **Download** section on the official website.
-2. Click **"Download"** to get the client (usually in **.zip** or **.rar** format).
+1. Pergi ke bagian **Unduh** di situs web resmi.
+2. Klik **"Unduh"** untuk mendapatkan klien (biasanya dalam format **.zip** atau **.rar**).
 
-### **Client Extraction**
+### **Ekstraksi Klien**
 
-1. Navigate to the folder where the client was downloaded.
-2. You can also extract it directly by **right-clicking** on the file and selecting **"Extract All"**, as shown in the image below.
-3. Wait for the extraction to complete.
+1. Navigasikan ke folder tempat klien diunduh.
+2. Anda juga dapat mengekstraknya langsung dengan **klik kanan** pada file dan memilih **"Ekstrak Semua"**, seperti yang ditunjukkan dalam gambar di bawah ini.
+3. Tunggu hingga proses ekstraksi selesai.
 
 <figure><img src="../../.gitbook/assets/Extra1.png" alt=""><figcaption></figcaption></figure>
 
-### **Game Installation**
+### **Instalasi Game**1. Setelah ekstraksi, cari file **"Arkaik.exe"** atau **"Setup.exe"** di dalam folder.
+2. Klik dua kali untuk memulai instalasi.
+3. Ikuti petunjuk di layar untuk memilih direktori instalasi.
+4. Tunggu hingga instalasi selesai.
 
-1. After extraction, locate the **"Arkaik.exe"** or **"Setup.exe"** file in the folder.
-2. Double-click to start the installation.
-3. Follow the on-screen instructions to choose the installation directory.
-4. Wait for the installation to complete.
+### **Pembaruan Klien**
 
-### **Client Update**
+1. Jalankan **Launcher.exe**.
+2. Sistem akan secara otomatis memeriksa pembaruan.
+3. Tunggu sementara pembaruan diterapkan.
 
-1. Run **Launcher.exe**.
-2. The system will automatically check for updates.
-3. Wait while updates are applied.
+### **Konfigurasi Grafis dan Suara**
 
-### **Graphics and Sound Configuration**
+1. Di **launcher**, klik pada **"Pengaturan"**.
+2. Sesuaikan resolusi dan pengaturan grafis.
+3. Simpan dan tutup jendela.
 
-1. In the **launcher**, click on **"Settings"**.
-2. Adjust the resolution and graphics settings.
-3. Save and close the window.
+### **Memulai Permainan**
 
-### **Starting the Game**
+1. Buka **Arkaik.exe**.
+2. Masukkan **kredensial login** Anda (nama pengguna dan kata sandi).
+3. Pilih **Server Beta**.
+4. Di **launcher**, klik **Mainkan**.
 
-1. Open **Arkaik.exe**.
-2. Enter your **login credentials** (username and password).
-3. Select the **Beta Server**.
-4. In the **launcher**, click **Play**.
+### **Solusi Masalah Umum**
 
-### **Common Problem Solutions**
+**Permainan Tidak Dibuka**
 
-**Game Does Not Open**
+* Periksa apakah **DirectX 9.0c** terinstal.
+* Tambahkan pengecualian untuk permainan di **firewall/antivirus** Anda.
 
-* Check if **DirectX 9.0c** is installed.
-* Add exceptions for the game in your **firewall/antivirus**.
+**Kesalahan "File Rusak"**
 
-**"Corrupted File" Error**
+* Unduh ulang klien dan ekstrak lagi.* Jika masalah tetap ada, periksa **Masalah Umum**.
 
-* Re-download the client and extract it again.
-* If the issue persists, check **General Issues**.
+**Kinerja Buruk (Lag)**
 
-**Poor Performance (Lag)**
+* Turunkan pengaturan grafis di opsi.
+* Tutup program latar belakang.
 
-* Lower graphical settings in the options.
-* Close background programs.
+**Masalah Koneksi**
 
-**Connection Issues**
+* Periksa **stabilitas internet** Anda.
+* Verifikasi apakah server sedang dalam pemeliharaan di **Discord Resmi**. <mark style="color:red;">**(ASIAN)**</mark>
 
-* Check your **internet stability**.
-* Verify if the server is under maintenance on the **Official Discord**. <mark style="color:red;">**(ASIAN)**</mark>
+### **Instalasi .NET 8**
 
-### **.NET 8 Installation**
+Banyak pemain **Arkaik: Tales of Sarina** melaporkan bahwa, selama proses pembaruan, muncul pesan yang meminta instalasi **.NET 8** (baik versi **x86** atau **x64**). Meskipun ini adalah proses yang sederhana, beberapa pemain mungkin bingung atau mengira ini adalah kesalahan.
 
-Many **Arkaik: Tales of Sarina** players report that, during the update process, a message appears requesting the installation of **.NET 8** (either **x86** or **x64** version). While this is a simple process, some players may be confused or think it's an error.
+**Apa itu .NET 8?**
 
-**What is .NET 8?**
+.NET 8 adalah kumpulan **perpustakaan dan alat** yang diperlukan untuk menjalankan aplikasi Windows tertentu, termasuk game. Jika sistem Anda tidak memiliki versi .NET 8 yang benar terinstal, **game atau peluncur mungkin tidak berfungsi dengan baik**.
 
-.NET 8 is a collection of **libraries and tools** required to run certain Windows applications, including games. If your system does not have the correct version of .NET 8 installed, the **game or launcher may not work properly**.
+**Mengapa Ini Terjadi?**Selama beberapa pembaruan, game mungkin memerlukan **fungsi spesifik** dari **.NET 8**. Jika sistem Anda tidak memiliki versi yang diperlukan terinstal, peluncur akan secara otomatis meminta instalasi framework tersebut.
 
-**Why Does This Happen?**
+**Apa yang Harus Anda Lakukan Ketika Pesan Ini Muncul?**
 
-During some updates, the game may require **specific functionalities** from **.NET 8**. If your system does not have the necessary version installed, the launcher will automatically request the framework installation.
-
-**What Should You Do When This Message Appears?**
-
-(Next steps would likely include downloading and installing .NET 8—if needed, let me know!)
-
-
+(Langkah selanjutnya kemungkinan termasuk mengunduh dan menginstal .NET 8—jika perlu, beri tahu saya!)
 
 <figure><img src="../../.gitbook/assets/Net8.png" alt=""><figcaption></figcaption></figure>
 
-If you receive the message (or encounter the error listed below), follow these steps to install **.NET 8**:
+Jika Anda menerima pesan (atau mengalami kesalahan yang terdaftar di bawah), ikuti langkah-langkah ini untuk menginstal **.NET 8**:
 
-1. Click the link provided in the message or visit the official Microsoft website to download **DIRECT LINK** or **.NET8 LINK**.
-2. Download and install it **directly on your computer** (**IMPORTANT**).
-3. Run the **Arkaik: Tales of Sarina** launcher again and check if the issue is resolved.
+1. Klik tautan yang disediakan dalam pesan atau kunjungi situs resmi Microsoft untuk mengunduh **TAUTAN LANGSUNG** atau **TAUTAN .NET8**.
+2. Unduh dan instal **langsung di komputer Anda** (**PENTING**).
+3. Jalankan kembali peluncur **Arkaik: Tales of Sarina** dan periksa apakah masalahnya teratasi.
 
 ***
 
-#### **Common Problem Solutions**
+#### **Solusi Masalah Umum**
 
-If installing **.NET Framework** does not resolve the problem or you still see the message:
+Jika menginstal **.NET Framework** tidak menyelesaikan masalah atau Anda masih melihat pesan tersebut:1. Pastikan Anda telah menginstal **.NET 8**.
+2. Cobalah untuk memperbarui **Windows** untuk memastikan semua ketergantungan yang diperlukan terinstal.
+3. Periksa apakah **antivirus atau firewall** Anda memblokir instalasi atau eksekusi game setelah pembaruan.
 
-1. Make sure you have installed **.NET 8**.
-2. Try updating **Windows** to ensure all necessary dependencies are installed.
-3. Check if your **antivirus or firewall** is blocking the game's installation or execution after the update.
-
-| Common Error	                         | Suggested Solution                                      |
+| Kesalahan Umum	                         | Solusi yang Disarankan                                      |
 | ------------------------------------- | ------------------------------------------------------- |
-| .NET 8 installer does not open        | Check administrative permissions and restart your PC.   |
-| .NET 8 installation fails             | Update Windows and try installing again.                |
-| Error message after installing .NET 8 | Check if the launcher is not blocked by your antivirus. |
+| Penginstal .NET 8 tidak terbuka        | Periksa izin administratif dan restart PC Anda.   |
+| Instalasi .NET 8 gagal                 | Perbarui Windows dan coba instal lagi.                |
+| Pesan kesalahan setelah menginstal .NET 8 | Periksa apakah peluncur tidak diblokir oleh antivirus Anda. |
 
-### Useful In-Game Commands
+### Perintah Berguna Dalam Game
 
-| Command | Function                            |
+| Perintah | Fungsi                            |
 | ------- | ----------------------------------- |
-| /effect | Toggles visual effects on/off.      |
-| /where  | Displays the character's location.  |
-| /noctrl | Enables/disables continuous attack. |
+| /effect | Menghidupkan/mematikan efek visual.      |
+| /where  | Menampilkan lokasi karakter.  || /noctrl | Mengaktifkan/mematikan serangan terus menerus. |

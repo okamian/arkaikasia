@@ -1,52 +1,48 @@
 ---
-description: How about testing your luck in a toy machine? Maybe luck is on your side!
+description: Bagaimana jika Anda menguji keberuntungan Anda di mesin mainan? Mungkin keberuntungan ada di pihak Anda!
 ---
 
-# 🎰 Prize Wheel
+# 🎰 Roda Hadiah
 
-## **About the Prize Roulette**
+## **Tentang Roulette Hadiah**
 
-* **Mechanics:** Players spend <mark style="color:red;">**250k zeny**</mark>**&#x20;per spin**, receiving random items.
-* **Guarantees:** After **70 spins**, a **rare item is guaranteed**; after **150 spins**, a **legendary item is ensured**.
-* <mark style="color:red;">**Reset**</mark>**:** The guarantee for **rare and legendary items resets after obtaining them**.
-* **Item Categories:** Items are divided into **common, uncommon, rare, and legendary**, including **consumables, accessories, and unique visuals**.
+* **Mekanika:** Pemain menghabiskan <mark style="color:red;">**250k zeny**</mark>**&#x20;per putaran**, menerima item acak.
+* **Jaminan:** Setelah **70 putaran**, **item langka dijamin**; setelah **150 putaran**, **item legendaris dijamin**.
+* <mark style="color:red;">**Reset**</mark>**:** Jaminan untuk **item langka dan legendaris direset setelah mendapatkannya**.
+* **Kategori Item:** Item dibagi menjadi **umum, tidak umum, langka, dan legendaris**, termasuk **barang konsumsi, aksesori, dan visual unik**.
 
 ***
 
-## **Where to Find the Roulette?**
+## **Di Mana Menemukan Roulette?**
 
-* The **"**<mark style="color:red;">**Prize Roulette**</mark>**" NPC** can be found in **all cities**.
+* NPC **"**<mark style="color:red;">**Roulette Hadiah**</mark>**"** dapat ditemukan di **semua kota**.
 
 <figure><img src="../.gitbook/assets/12312.png" alt=""><figcaption></figcaption></figure>
 
-## **List of Obtainable Items**
+## **Daftar Item yang Dapat Diperoleh**
 
-### <mark style="background-color:blue;">**Common**</mark>
-
-| Item                                                       | Quantity |
+### <mark style="background-color:blue;">**Umum**</mark>| Item                                                       | Quantity |
 | ---------------------------------------------------------- | -------- |
-| ![](../.gitbook/assets/601.png) Fly Wing                   | 40       |
-| ![](../.gitbook/assets/7433.png) Blank Scroll              | 10       |
-| ![](<../.gitbook/assets/547 (1).png>) Compact White Potion | 10       |
-| ![](<../.gitbook/assets/578 (1).png>) Strawberry           | 10       |
-| ![](../.gitbook/assets/605.png) Painkiller                 | 2        |
-| ![](../.gitbook/assets/12216.png) Repair Scroll            | 1        |
+| ![](../.gitbook/assets/601.png) Sayap Terbang                   | 40       |
+| ![](../.gitbook/assets/7433.png) Gulungan Kosong              | 10       |
+| ![](<../.gitbook/assets/547 (1).png>) Porsi Putih Kompak | 10       |
+| ![](<../.gitbook/assets/578 (1).png>) Stroberi           | 10       |
+| ![](../.gitbook/assets/605.png) Obat Penghilang Rasa Sakit                 | 2        |
+| ![](../.gitbook/assets/12216.png) Gulungan Perbaikan            | 1        |
 
-### <mark style="background-color:purple;">Uncommon</mark>
+### <mark style="background-color:purple;">Tidak Biasa</mark>
 
 | Item                                             | Quantity |
 | ------------------------------------------------ | -------- |
-| ![](../.gitbook/assets/610.png) Yggdrasil Leaf   | 2        |
+| ![](../.gitbook/assets/610.png) Daun Yggdrasil   | 2        |
 | ![](../.gitbook/assets/525.png) Panacea          | 2        |
-| ![](../.gitbook/assets/608.png) Yggdrasil Seed   | 2        |
-| ![](../.gitbook/assets/607.png) Yggdrasil Fruit  | 2        |
-| ![](../.gitbook/assets/12030.png) Resentment Box | 1        |
-| ![](../.gitbook/assets/12031.png) Drowsiness Box | 1        |
-| ![](../.gitbook/assets/12028.png) Thunder Box    | 1        |
+| ![](../.gitbook/assets/608.png) Benih Yggdrasil   | 2        |
+| ![](../.gitbook/assets/607.png) Buah Yggdrasil  | 2        |
+| ![](../.gitbook/assets/12030.png) Kotak Kebencian | 1        |
+| ![](../.gitbook/assets/12031.png) Kotak Mengantuk | 1        |
+| ![](../.gitbook/assets/12028.png) Kotak Petir    | 1        |
 
-### <mark style="background-color:orange;">Rare</mark>
-
-| Item                                                       | Quantity |
+### <mark style="background-color:orange;">Langka</mark>| Item                                                       | Quantity |
 | ---------------------------------------------------------- | -------- |
 | ![](../.gitbook/assets/7621.png) Ziegfried's Amulet        | 10       |
 | ![](<../.gitbook/assets/547 (2).png>) Compact White Potion | 50       |
@@ -61,7 +57,7 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 | ![](../.gitbook/assets/20561.png) Purple Electric Aura     | 1        |
 | ![](../.gitbook/assets/5031.png) Miner's Hat               | 1        |
 
-### <mark style="background-color:red;">Lengendary</mark>
+### <mark style="background-color:red;">Legendary</mark>
 
 | Item                                           | Quantity |
 | ---------------------------------------------- | -------- |

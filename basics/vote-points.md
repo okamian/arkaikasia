@@ -1,7 +1,7 @@
 ---
-description: Under construction.
+description: Sedang dalam pembangunan.
 ---
 
-# 🔝 Vote Points
+# 🔝 Poin Suara
 
-<mark style="color:red;">**Waiting for information from Asia.**</mark>
+<mark style="color:red;">**Menunggu informasi dari Asia.**</mark>

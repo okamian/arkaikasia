@@ -1,3 +1,3 @@
-# ⚠️ RMT RULES
+# ⚠️ ATURAN RMT
 
-<mark style="color:red;">**Waiting for information from Asia.**</mark>
+<mark style="color:red;">**Menunggu informasi dari Asia.**</mark>

@@ -1,136 +1,125 @@
 ---
 description: >-
-  With its towering mountains, vast fields, and the glorious Dragon Castle
-  visible from all around the region, it didn’t take long for foreign
-  adventurers to be captivated by the ancient atmosphere of L
+  Dengan pegunungan yang menjulang tinggi, ladang yang luas, dan Kastil Naga yang megah terlihat dari seluruh wilayah, tidak butuh waktu lama bagi petualang asing untuk terpesona oleh suasana kuno L
 ---
 
 # 🌄 EP. Louyang
 
-## **How to Access LOUYANG**
+## **Cara Mengakses LOUYANG**
 
-* To access the city of **"**<mark style="color:red;">**Louyang**</mark>**"**, simply head to the Kafra in any city, go to **"**<mark style="color:red;">**Teleportar**</mark>**"**, and select the city.
+* Untuk mengakses kota **"**<mark style="color:red;">**Louyang**</mark>**"**, cukup pergi ke Kafra di kota mana pun, pilih **"**<mark style="color:red;">**Teleportar**</mark>**"**, dan pilih kota tersebut.
 
 <figure><img src="../.gitbook/assets/1234.gif" alt=""><figcaption></figcaption></figure>
 
-## **About the Maps**
+## **Tentang Peta**
 
-* **Louyang** is divided into <mark style="color:red;">**4 main maps**</mark>
-* **Louyang**, the main map and city
+* **Louyang** dibagi menjadi <mark style="color:red;">**4 peta utama**</mark>
+* **Louyang**, peta utama dan kota
 * **"**<mark style="color:red;">**Louyang Fields**</mark>**"**, **"**<mark style="color:red;">**The Royal Tomb**</mark>**"**, **"**<mark style="color:red;">**Inside the Royal Tomb**</mark>**"**, **"**<mark style="color:red;">**Suei Long Gon**</mark>**"**
 
-{% tabs %}
-{% tab title="Louyang" %}
-<figure><img src="../.gitbook/assets/Louyang_map_novo.png" alt=""><figcaption><p><mark style="color:red;"><strong>City of Louyang</strong></mark></p></figcaption></figure>
+{% tabs %}{% tab title="Louyang" %}
+<figure><img src="../.gitbook/assets/Louyang_map_novo.png" alt=""><figcaption><p><mark style="color:red;"><strong>Kota Louyang</strong></mark></p></figcaption></figure>
 
-| image                                       | Description                   |
+| gambar                                       | Deskripsi                   |
 | ------------------------------------------- | ----------------------------- |
-| ![](<../.gitbook/assets/Map_lupa (1).png>)  | Guide                         |
-| ![](../.gitbook/assets/Map_armazem.png)     | Storage                       |
-| ![](<../.gitbook/assets/image (183).png>)   | Guild Storage                 |
-| ![](<../.gitbook/assets/Map_pocao (1).png>) | Utility Shop                  |
-| ![](<../.gitbook/assets/Map_faca (1).png>)  | Equipment and Ammunition Shop |
+| ![](<../.gitbook/assets/Map_lupa (1).png>)  | Panduan                         |
+| ![](../.gitbook/assets/Map_armazem.png)     | Penyimpanan                       |
+| ![](<../.gitbook/assets/image (183).png>)   | Penyimpanan Guild                 |
+| ![](<../.gitbook/assets/Map_pocao (1).png>) | Toko Utilitas                  |
+| ![](<../.gitbook/assets/Map_faca (1).png>)  | Toko Peralatan dan Munisi |
 {% endtab %}
 
 {% tab title="Louyang Fields" %}
-<figure><img src="../.gitbook/assets/lou_fild01.webp" alt=""><figcaption><p><mark style="color:red;"><strong>Louyang Fields Map</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lou_fild01.webp" alt=""><figcaption><p><mark style="color:red;"><strong>Peta Louyang Fields</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Royal Tomb " %}
-<figure><img src="../.gitbook/assets/lou_dun01.webp" alt=""><figcaption><p><mark style="color:red;"><strong>Royal Tomb Map</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lou_dun01.webp" alt=""><figcaption><p><mark style="color:red;"><strong>Peta Makam Kerajaan</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Inside of the Royal Tomb" %}
-<figure><img src="../.gitbook/assets/lou_dun02.webp" alt=""><figcaption><p><mark style="color:red;"><strong>Map of the Inside of the Royal Tomb</strong></mark></p></figcaption></figure>
+{% tab title="Di Dalam Makam Kerajaan" %}
+<figure><img src="../.gitbook/assets/lou_dun02.webp" alt=""><figcaption><p><mark style="color:red;"><strong>Peta Di Dalam Makam Kerajaan</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Suei Long Gon" %}
-<figure><img src="../.gitbook/assets/lou_dun03.webp" alt=""><figcaption><p><mark style="color:red;"><strong>Suei Long Gon Map (Final Floor of the Royal Tomb)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lou_dun03.webp" alt=""><figcaption><p><mark style="color:red;"><strong>Peta Suei Long Gon (Lantai Terakhir Makam Kerajaan)</strong></mark></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-## **Monsters and MVPs**
+## **Monster dan MVP**
 
-* In <mark style="color:red;">**Louyang**</mark>, there are various monsters spread throughout its location.
-* See below the list of monsters in each map.
+* Di <mark style="color:red;">**Louyang**</mark>, terdapat berbagai monster yang tersebar di seluruh lokasinya.
+* Lihat di bawah daftar monster di setiap peta.
 
 {% tabs %}
-{% tab title="Louyang Fields" %}
-| Monster                                        | Race      | Size   | Element  |
-| ---------------------------------------------- | --------- | ------ | -------- |
-| ![](<../.gitbook/assets/0-0 (15).png>)         | Plant     | Small  | Earth 1  |
-| ![](../.gitbook/assets/0.png)                  | Plant     | Small  | Earth 1  |
-| ![](<../.gitbook/assets/0-0 (1) (2).png>)      | Insect    | Medium | Earth 1  |
-| ![](<../.gitbook/assets/0-0 (3) (2).png>)      | Amorphous | Medium | Earth 3  |
-| ![](<../.gitbook/assets/download (2).png>)     | Brute     | Large  | Earth 1  |
-| ![](<../.gitbook/assets/download (1).png>)     | Brute     | Medium | Poison 1 |
-| ![](<../.gitbook/assets/download (1) (1).png>) | Brute     | Small  | Earth 1  |
+{% tab title="Lapangan Louyang" %}
+| Monster                                        | Ras       | Ukuran | Elemen   || ---------------------------------------------- | --------- | ------ | -------- |
+| ![](<../.gitbook/assets/0-0 (15).png>)         | Tanaman   | Kecil  | Bumi 1  |
+| ![](../.gitbook/assets/0.png)                  | Tanaman   | Kecil  | Bumi 1  |
+| ![](<../.gitbook/assets/0-0 (1) (2).png>)      | Serangga  | Sedang | Bumi 1  |
+| ![](<../.gitbook/assets/0-0 (3) (2).png>)      | Amorf    | Sedang | Bumi 3  |
+| ![](<../.gitbook/assets/download (2).png>)     | Brut     | Besar  | Bumi 1  |
+| ![](<../.gitbook/assets/download (1).png>)     | Brut     | Sedang | Racun 1 |
+| ![](<../.gitbook/assets/download (1) (1).png>) | Brut     | Kecil  | Bumi 1  |
 {% endtab %}
 
-{% tab title="Royal Tomb " %}
-| Monstros                                  | Raça      | Tamanho | Elemento |
+{% tab title="Makam Kerajaan " %}
+| Monster                                   | Ras       | Ukuran  | Elemen   |
 | ----------------------------------------- | --------- | ------- | -------- |
-| ![](<../.gitbook/assets/0-0 (16).png>)    | Plant     | Small   | Earth 1  |
-| ![](<../.gitbook/assets/0-0 (1) (3).png>) | Plant     | Small   | Earth 1  |
-| ![](<../.gitbook/assets/0-0 (4) (2).png>) | Brute     | Small   | Poison 1 |
-| ![](<../.gitbook/assets/0-0 (2) (3).png>) | Amorphous | Small   | Fire 4   |
-| ![](<../.gitbook/assets/0-0 (6) (2).png>) | Demon     | Medium  | Earth 3  |
-| ![](<../.gitbook/assets/0-0 (5) (2).png>) | Amorphous | Medium  | Earth 3  |
-| ![](<../.gitbook/assets/0-0 (7) (3).png>) | Dragon    | Medium  | Wind 2   |
-| ![](<../.gitbook/assets/0-0 (3) (3).png>) | Brute     | Large   | Fire 3   |
-| ![](<../.gitbook/assets/0-0 (5) (3).png>) | Brute     | Large   | Earth 1  |
+| ![](<../.gitbook/assets/0-0 (16).png>)    | Tanaman   | Kecil   | Bumi 1  |
+| ![](<../.gitbook/assets/0-0 (1) (3).png>) | Tanaman   | Kecil   | Bumi 1  |
+| ![](<../.gitbook/assets/0-0 (4) (2).png>) | Brut     | Kecil   | Racun 1 |
+| ![](<../.gitbook/assets/0-0 (2) (3).png>) | Amorf    | Kecil   | Api 4   |
+| ![](<../.gitbook/assets/0-0 (6) (2).png>) | Iblis    | Sedang  | Bumi 3  || ![](<../.gitbook/assets/0-0 (5) (2).png>) | Amorphous | Sedang  | Tanah 3  |
+| ![](<../.gitbook/assets/0-0 (7) (3).png>) | Naga      | Sedang  | Angin 2   |
+| ![](<../.gitbook/assets/0-0 (3) (3).png>) | Brute     | Besar   | Api 3   |
+| ![](<../.gitbook/assets/0-0 (5) (3).png>) | Brute     | Besar   | Tanah 1  |
 
 
 {% endtab %}
 
-{% tab title="Inside of the Royal Tomb" %}
-| Monstros                                  | Raça      | Tamanho | Elemento  |
-| ----------------------------------------- | --------- | ------- | --------- |
-| ![](<../.gitbook/assets/0-0 (8) (2).png>) | Undead    | Medium  | Cursed 1  |
-| ![](<../.gitbook/assets/0-0 (1) (4).png>) | Undead    | Medium  | Cursed 2  |
-| ![](<../.gitbook/assets/0-0 (2) (4).png>) | Dragon    | Medium  | Wind 2    |
-| ![](<../.gitbook/assets/0-0 (17).png>)    | Amorphous | Medium  | Neutral 3 |
+{% tab title="Di Dalam Makam Kerajaan" %}
+| Monster                                   | Ras       | Ukuran  | Elemen    |
+| ----------------------------------------- | ---------- | ------- | --------- |
+| ![](<../.gitbook/assets/0-0 (8) (2).png>) | Undead    | Sedang  | Terkutuk 1  |
+| ![](<../.gitbook/assets/0-0 (1) (4).png>) | Undead    | Sedang  | Terkutuk 2  |
+| ![](<../.gitbook/assets/0-0 (2) (4).png>) | Naga      | Sedang  | Angin 2    |
+| ![](<../.gitbook/assets/0-0 (17).png>)    | Amorphous | Sedang  | Netral 3   |
 {% endtab %}
 
 {% tab title="Suel Long Gon" %}
-| Monstros                                  | Raça       | Tamanho | Elemento  |
+| Monster                                   | Ras        | Ukuran  | Elemen    |
 | ----------------------------------------- | ---------- | ------- | --------- |
-| ![](<../.gitbook/assets/0-0 (3) (4).png>) | Morto-Vivo | Médio   | Maldito 2 |
-| ![](<../.gitbook/assets/0-0 (18).png>)    | Bruto      | Médio   | Vento 2   |
-| ![](<../.gitbook/assets/0-0 (1) (5).png>) | Dragão     | Médio   | Vento 2   |
-| ![](<../.gitbook/assets/0-0 (4) (3).png>) | Humanoide  | Médio   | Vento 2   |
-| ![](<../.gitbook/assets/0-0 (2) (5).png>) | Humanoide  | Grande  | Vento 3   |
+| ![](<../.gitbook/assets/0-0 (3) (4).png>) | Mayat Hidup | Sedang  | Terkutuk 2 |
+| ![](<../.gitbook/assets/0-0 (18).png>)    | Brute      | Sedang  | Angin 2   || ![](<../.gitbook/assets/0-0 (1) (5).png>) | Naga       | Sedang  | Angin 2   |
+| ![](<../.gitbook/assets/0-0 (4) (3).png>) | Humanoid   | Sedang  | Angin 2   |
+| ![](<../.gitbook/assets/0-0 (2) (5).png>) | Humanoid   | Besar   | Angin 3   |
 
 
 {% endtab %}
 {% endtabs %}
 
-## **Cards**
+## **Kartu**
 
-* Some new <mark style="color:red;">**Cards**</mark> have also been added with the arrival of <mark style="color:red;">**Louyang**</mark>.
+* Beberapa <mark style="color:red;">**Kartu**</mark> baru juga telah ditambahkan dengan kedatangan <mark style="color:red;">**Louyang**</mark>.
 
-| Card                                               | Effect                                                                                                                                                                                                         |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/4328.webp)Yao Jun Card      | <p>CRIT +1. Flee +15. </p><p>Type: Card </p><p>Equipped on: Garment </p><p>Weight: 1</p>                                                                                                                       |
-| ![](../.gitbook/assets/4328.webp)Zhu Po Long Card  | <p>AGI +1. CRIT +3. </p><p>TipAGI +1. CRIT +3. </p><p>Type: Card </p><p>Equipped on: Accessory </p><p>Weight: 1</p>                                                                                            |
-| ![](../.gitbook/assets/4328.webp)Mao Guai Card     | <p>Physical damage against Ghost property +20%. Combine with an item to use its property. </p><p>Class: Card </p><p>Usage: Weapon </p><p>Weight: 1</p>                                                         |
-| ![](../.gitbook/assets/4328.webp)Mi Gao Card       | <p>Resistance to Guardians +50%. Affects the Guardians from War of Emperium: Archer Guardian, Knight Guardian, and Soldier Guardian. </p><p>Type: Card </p><p>Equipped on: Shield </p><p>Weight: 1</p>         |
-| ![](../.gitbook/assets/4328.webp)Green Maiden Card | <p>STR -5. For each refine up to +10: STR +1. CRIT +1. </p><p>Type: Card </p><p>Equipped on: Garment</p><p>Weight: 1</p>                                                                                       |
-| ![](../.gitbook/assets/4328.webp)Jing Guai Card    | <p>When defeating Angel race monsters: 1% chance to drop Box of Sunlight. </p><p>Type: Card </p><p>Equipped on: Accessory </p><p>Weight: 1</p>                                                                 |
-| ![](../.gitbook/assets/4328.webp)Lady Branca Card  | <p>Efetividade de cura +30%. Custo de SP das habilidades +15%. </p><p>TipHealing effectiveness +30%. SP skill cost +15%. Item </p><p>Type: Card </p><p>Equipped on: Accessory or Headgear </p><p>Weight: 1</p> |
+| Kartu                                              | Efek                                                                                                                                                                                                          |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- || ![](../.gitbook/assets/4328.webp)Kartu Yao Jun      | <p>CRIT +1. Flee +15. </p><p>Type: Kartu </p><p>Dipasang pada: Pakaian luar </p><p>Berat: 1</p>                                                                                                                       |
+| ![](../.gitbook/assets/4328.webp)Kartu Zhu Po Long  | <p>AGI +1. CRIT +3. </p><p>TipAGI +1. CRIT +3. </p><p>Type: Kartu </p><p>Dipasang pada: Aksesoris </p><p>Berat: 1</p>                                                                                            |
+| ![](../.gitbook/assets/4328.webp)Kartu Mao Guai     | <p>Kerusakan fisik terhadap properti Hantu +20%. Gabungkan dengan item untuk menggunakan propertinya. </p><p>Kelas: Kartu </p><p>Penggunaan: Senjata </p><p>Berat: 1</p>                                                         |
+| ![](../.gitbook/assets/4328.webp)Kartu Mi Gao       | <p>Resistensi terhadap Penjaga +50%. Mempengaruhi Penjaga dari Perang Emperium: Penjaga Pemanah, Penjaga Kesatria, dan Penjaga Prajurit. </p><p>Type: Kartu </p><p>Dipasang pada: Perisai </p><p>Berat: 1</p>         || ![](../.gitbook/assets/4328.webp)Kartu Green Maiden | <p>STR -5. Untuk setiap refine hingga +10: STR +1. CRIT +1. </p><p>Type: Kartu </p><p>Equipped on: Pakaian</p><p>Weight: 1</p>                                                                                       |
+| ![](../.gitbook/assets/4328.webp)Kartu Jing Guai    | <p>Ketika mengalahkan monster ras Angel: 1% peluang untuk menjatuhkan Box of Sunlight. </p><p>Type: Kartu </p><p>Equipped on: Aksesoris </p><p>Weight: 1</p>                                                                 |
+| ![](../.gitbook/assets/4328.webp)Kartu Lady Branca  | <p>Efektivitas penyembuhan +30%. Biaya SP dari keterampilan +15%. </p><p>TipEfektivitas penyembuhan +30%. Biaya SP keterampilan +15%. Item </p><p>Type: Kartu </p><p>Equipped on: Aksesoris atau Headgear </p><p>Weight: 1</p> |
 
-## Gems
+## Permata
 
-* Some new <mark style="color:red;">**Gems**</mark> have also been added with the arrival of **Louyang**.
-
-| Gem                                              | Effect                                                                                                                  |
+* Beberapa <mark style="color:red;">**Permata**</mark> baru juga telah ditambahkan dengan kedatangan **Louyang**.| Gem                                              | Effect                                                                                                                  |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/1129.png)Horong Gem       | Grants the skill _Super Nova_ Lv.1.                                                                                     |
-| ![](../.gitbook/assets/1306.png)Leib Olmai Gem   | Adds 20% resistance against _Stun_ status.                                                                              |
-| ![](../.gitbook/assets/1512.png)Yao Jun Gem      | Accuracy +30.                                                                                                           |
-| ![](../.gitbook/assets/1513.png)Mao Guai Gem     | <p>Resistance to <em>Ghost</em> property +20%.<br>Flee -30.</p>                                                         |
-| ![](../.gitbook/assets/1514.png) Zhu Po Long Gem | Adds 3% resistance to all elements.                                                                                     |
-| ![](../.gitbook/assets/1516.png) Mi Gao Gem      | Reduces ranged damage taken by 5% during _War of Emperium_ (physical/magical).                                          |
-| ![](../.gitbook/assets/1517.png) GJing Guai Gem  | When inflicting physical attacks, 10% chance to remove _Chaos_ status from the attacker.                                |
-| ![](../.gitbook/assets/1631.png) Chung E Gem     | Critical resistance +1% per refine level of the equipment where this Gem is slotted.                                    |
-| ![](../.gitbook/assets/1630.png) Lady Tanee Gem  | <p>When receiving magical or physical attacks, 1% chance to cast <em>Safety Wall</em> Lv.5.<br>Skill SP cost +100%.</p> |
+| ![](../.gitbook/assets/1129.png)Horong Gem       | Memberikan keterampilan _Super Nova_ Lv.1.                                                                                     |
+| ![](../.gitbook/assets/1306.png)Leib Olmai Gem   | Menambahkan 20% ketahanan terhadap status _Stun_.                                                                              |
+| ![](../.gitbook/assets/1512.png)Yao Jun Gem      | Akurasi +30.                                                                                                           |
+| ![](../.gitbook/assets/1513.png)Mao Guai Gem     | <p>Ketahanan terhadap properti <em>Ghost</em> +20%.<br>Flee -30.</p>                                                         || ![](../.gitbook/assets/1514.png) Zhu Po Long Gem | Menambahkan 3% ketahanan terhadap semua elemen.                                                                                     |
+| ![](../.gitbook/assets/1516.png) Mi Gao Gem      | Mengurangi kerusakan jarak yang diterima sebesar 5% selama _War of Emperium_ (fisik/magis).                                          |
+| ![](../.gitbook/assets/1517.png) GJing Guai Gem  | Saat melakukan serangan fisik, 10% kemungkinan untuk menghapus status _Chaos_ dari penyerang.                                |
+| ![](../.gitbook/assets/1631.png) Chung E Gem     | Ketahanan kritis +1% per level refine dari peralatan tempat Gem ini dipasang.                                    |
+| ![](../.gitbook/assets/1630.png) Lady Tanee Gem  | <p>Ketika menerima serangan magis atau fisik, 1% kemungkinan untuk mengaktifkan <em>Safety Wall</em> Lv.5.<br>Biaya SP skill +100%.</p> |

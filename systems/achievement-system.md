@@ -1,15 +1,15 @@
 ---
 description: >-
-  In Arkaik: Tales of Sarina, every achievement is celebrated with a grand
-  title!
+  Di Arkaik: Tales of Sarina, setiap pencapaian dirayakan dengan sebuah
+  gelar yang megah!
 ---
 
-# 🥇 Achievement System
+# 🥇 Sistem Pencapaian
 
-## **Achievement Title**
+## **Gelar Pencapaian**
 
-* At any time, open your achievements screen <mark style="color:red;">**(ALT + T)**</mark> and activate one of your titles!
-* These are **"**<mark style="color:red;">**visual titles**</mark>**"** given to characters upon meeting certain requirements.
-* Titles appear next to your character's name.
+* Kapan saja, buka layar pencapaian Anda <mark style="color:red;">**(ALT + T)**</mark> dan aktifkan salah satu gelar Anda!
+* Ini adalah **"**<mark style="color:red;">**gelar visual**</mark>**"** yang diberikan kepada karakter setelah memenuhi syarat tertentu.
+* Gelar muncul di samping nama karakter Anda.
 
 <figure><img src="../.gitbook/assets/cca.gif" alt=""><figcaption></figcaption></figure>

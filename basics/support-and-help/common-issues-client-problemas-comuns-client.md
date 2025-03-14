@@ -1,177 +1,167 @@
 ---
 description: >-
-  If you do not find a solution below, please contact our support team on
-  Discord or WhatsApp.
+  Jika Anda tidak menemukan solusi di bawah ini, silakan hubungi tim dukungan kami di
+  Discord atau WhatsApp.
 ---
 
-# 🪛 Common Issues (Client)Problemas Comuns (Client)
+# 🪛 Masalah Umum (Klien)
 
-## Arkaik.exe opens, but when clicking "Play," nothing happens, and it closes
+## Arkaik.exe terbuka, tetapi saat mengklik "Mainkan," tidak ada yang terjadi, dan itu menutup
 
-**Cause:**
+**Penyebab:**
 
-* Your **antivirus** or **exploit protection** might be blocking the client's `.exe` file.
+* **Antivirus** atau **perlindungan eksploitasi** Anda mungkin memblokir file `.exe` klien.
 
-**Solution:**\
-Go to:\
-➡ **Windows Security** > **App & Browser Control** > **Exploit Protection Settings** > **Program Settings (Top Tab)** > **(+) Add a Program to Customize**
+**Solusi:**\
+Pergi ke:\
+➡ **Keamanan Windows** > **Kontrol Aplikasi & Browser** > **Pengaturan Perlindungan Eksploitasi** > **Pengaturan Program (Tab Atas)** > **(+) Tambahkan Program untuk Kustomisasi**
 
-Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)\
+Ketik `Client.exe` dan aktifkan semua proses. (Periksa semua kotak pilihan; beberapa mungkin diaktifkan secara default—nonaktifkan juga jika perlu.)\
 
 
 <figure><img src="../../.gitbook/assets/image (149).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (150).png" alt="" width="410"><figcaption></figcaption></figure>
 
-## **Arkaik.exe does not open, is not in the task manager, and no error appears**
+## **Arkaik.exe tidak terbuka, tidak ada di pengelola tugas, dan tidak ada kesalahan yang muncul**
 
-**Cause:**
+**Penyebab:*** Antivirus atau perlindungan eksploitasi Anda mungkin memblokir file `exe` dari **Arkaik**.
 
-* Your **antivirus** or **exploit protection** might be blocking the `exe` file of **Arkaik**.
+**Solusi:**\
+➡ **Keamanan Windows** > **Kontrol Aplikasi & Browser** > **Pengaturan Perlindungan Eksploitasi** > **Pengaturan Program (Tab Atas)** > **(+) Tambahkan Program untuk Kustomisasi**
 
-**Solution:**\
-➡ **Windows Security** > **App & Browser Control** > **Exploit Protection Settings** > **Program Settings (Top Tab)** > **(+) Add a Program to Customize**
+Ketik **Arkaik.exe** dan aktifkan semua proses. (Centang semua kotak pilihan; beberapa mungkin sudah diaktifkan secara default—nonaktifkan juga jika perlu.)
 
-Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
+📌 **Gambar:** Prosedur yang sama seperti di atas!
 
-📌 **Image:** Same procedure as above!
+## **Kesalahan: Tidak dapat menemukan File dengan karakter khusus "????"**
 
-## **Error: Cannot find File with special characters "????"**
+**Masalah:**
 
-**Problem:**
-
-* When running `Client.exe`, after selecting a character, the game displays special characters as `???`, causing it to **crash**.
+* Saat menjalankan `Client.exe`, setelah memilih karakter, permainan menampilkan karakter khusus sebagai `???`, menyebabkan permainan **crash**.
 
 <figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
-**Cause:**
+**Penyebab:**
 
-* The language pack **fails to convert UTF-8 encoding** for **Korean (Western Europe 1252)** characters.
+* Paket bahasa **gagal mengonversi encoding UTF-8** untuk karakter **Korea (Eropa Barat 1252)**.
 
-**Solution:**\
-➡ **Control Panel** > **Change date, time, or number formats** > **Administrative (Top Tab)** > **Change system locale**
+**Solusi:**\
+➡ **Panel Kontrol** > **Ubah format tanggal, waktu, atau angka** > **Administratif (Tab Atas)** > **Ubah lokal sistem**
 
-🔹 **Uncheck** the **UNICODE UTF-8** box if it is enabled, restart, and test the game.
+🔹 **Hapus centang** pada kotak **UNICODE UTF-8** jika diaktifkan, restart, dan uji permainan.
 
 <figure><img src="../../.gitbook/assets/image (152).png" alt="" width="329"><figcaption></figcaption></figure>
 
-## **Error in Client.exe: "Cannot init d3d OR grf file has problem" or White Screen**
+## **Kesalahan di Client.exe: "Tidak dapat menginisialisasi d3d ATAU file grf memiliki masalah" atau Layar Putih**
 
 <figure><img src="../../.gitbook/assets/Cannot_init_d3d_or_grf_file_has_problem.png" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/800px-Telabranca.png" alt="" width="375"><figcaption><p>Tela Branca</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/800px-Telabranca.png" alt="" width="375"><figcaption><p>Tela Putih</p></figcaption></figure>
 
-**Problem:**
+**Masalah:**
 
-* When clicking on **Client.exe**, nothing happens, a white screen appears, and the game closes immediately, even after selecting the **graphics card** in **RO/OpenSetup.exe**.
+* Ketika mengklik **Client.exe**, tidak ada yang terjadi, layar putih muncul, dan permainan langsung ditutup, bahkan setelah memilih **kartu grafis** di **RO/OpenSetup.exe**.
 
-**Problem 2:**
-
-* When clicking **Play** through **Arkaik.exe** or **Client.exe**, the error message **"Cannot init d3d OR grf file has problem"** appears (this is the most common case).
+**Masalah 2:*** Ketika mengklik **Play** melalui **Arkaik.exe** atau **Client.exe**, pesan kesalahan **"Tidak dapat menginisialisasi d3d ATAU file grf bermasalah"** muncul (ini adalah kasus yang paling umum).
 
 ***
 
-#### **Solution for Problem 2:**
+#### **Solusi untuk Masalah 2:**
 
-1. Open **RO/OpenSetup.exe**
-2. Select your **graphics card**
-3. Click **Apply**
+1. Buka **RO/OpenSetup.exe**
+2. Pilih **kartu grafis** Anda
+3. Klik **Terapkan**
 
-➡ If the issue persists, try **Solution 1** below.
+➡ Jika masalah masih berlanjut, coba **Solusi 1** di bawah ini.
 
-#### **Possible Cause:**
+#### **Kemungkinan Penyebab:**
 
-* Your **graphics card driver** may be outdated or not being recognized by **Ragnarok**.
-* Some **RTX 3050 laptops** from **Asus Gaming** have this issue.
+* **Driver kartu grafis** Anda mungkin sudah usang atau tidak dikenali oleh **Ragnarok**.
+* Beberapa **laptop RTX 3050** dari **Asus Gaming** memiliki masalah ini.
 
 ***
 
-#### **How to Test This Issue:**
+#### **Cara Menguji Masalah Ini:**
 
-1. **Right-click** on **Client.exe**
-2. Select **"Troubleshoot Compatibility"**
-3. Click **"Test the Program"**
+1. **Klik kanan** pada **Client.exe**
+2. Pilih **"Perbaiki Kompatibilitas"**
+3. Klik **"Uji Program"**
 
-If the game **runs but has errors** (_like missing textures or incorrect visuals_), proceed to the **next solution**.
+Jika game **berjalan tetapi mengalami kesalahan** (_seperti tekstur yang hilang atau visual yang tidak tepat_), lanjutkan ke **solusi berikutnya**.
 
 <figure><img src="../../.gitbook/assets/image (153).png" alt="" width="387"><figcaption></figcaption></figure>
 
 \
-**Additional Solution: "Cannot init d3d OR grf file has problem"**
+**Solusi Tambahan: "Tidak dapat menginisialisasi d3d ATAU file grf bermasalah"**
 
-**Solution:**
+**Solusi:**1. Buka **Device Manager**
+2. Pergi ke **Display Adapters**
+3. **Nonaktifkan** **kartu grafis RTX** Anda (atau GPU khusus Anda)
+4. Buka **Client.exe** lagi
 
-1. Open **Device Manager**
-2. Go to **Display Adapters**
-3. **Disable** your **RTX graphics card** (or your dedicated GPU)
-4. Open **Client.exe** again
+**Penjelasan:**
 
-**Explanation:**
-
-* If the game **opens and works**, it means the **Vodoo** renderer is being used.
-* Your graphics card might be **too modern** and **does not support older DirectX versions**.
+* Jika permainan **dibuka dan berfungsi**, itu berarti renderer **Vodoo** sedang digunakan.
+* Kartu grafis Anda mungkin **terlalu modern** dan **tidak mendukung versi DirectX yang lebih lama**.
 
 [<mark style="color:purple;">Link do Video Tutorial</mark>](https://www.youtube.com/watch?v=2dStctdLMeE)
 
 <figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
-## **Error Loading Arkaik.exe Modules Before the Login Screen (Date & Time)**
+## **Kesalahan Memuat Modul Arkaik.exe Sebelum Layar Login (Tanggal & Waktu)**
 
-**Problem:**
+**Masalah:**
 
-* When opening **Arkaik.exe**, during the module loading process, a **red error** appears stating:\
-  &#xNAN;**"Server failed to authenticate the request"**.
+* Ketika membuka **Arkaik.exe**, selama proses memuat modul, muncul **kesalahan merah** yang menyatakan:\
+  &#xNAN;**"Server gagal untuk mengautentikasi permintaan"**.
 
 <figure><img src="../../.gitbook/assets/image (155).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Cause:**
+**Penyebab:**
 
-* This issue is common on **Windows 11** because it relies on an online server to synchronize the system time.
+* Masalah ini umum terjadi di **Windows 11** karena bergantung pada server online untuk menyinkronkan waktu sistem.
 
-**Solution:**
+**Solusi:**
 
-1. **Go to:**
-   * **Control Panel** > **Date & Time** > **Sync Now**
+1. **Pergi ke:*** **Panel Kontrol** > **Tanggal & Waktu** > **Sinkronkan Sekarang**
 
 <figure><img src="../../.gitbook/assets/image (156).png" alt="" width="332"><figcaption></figcaption></figure>
 
-1. Open the **classic Date & Time settings** in Windows.
-2. **Manually adjust** the date and time.
-3. Make sure the time matches the current minutes from **Brasilia (Google Time Server)**.
-4. Also, enable:
-   * **"Change Time Zone"**
-   * **"Internet Time"** synchronization with the correct server.
+1. Buka **pengaturan Tanggal & Waktu klasik** di Windows.
+2. **Sesuaikan secara manual** tanggal dan waktu.
+3. Pastikan waktu sesuai dengan menit saat ini dari **Brasilia (Server Waktu Google)**.
+4. Juga, aktifkan:
+   * **"Ubah Zona Waktu"**
+   * **Sinkronisasi Waktu Internet** dengan server yang benar.
 
-**If the Problem Persists:**
+**Jika Masalah Berlanjut:**
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption><p><mark style="color:red;"><strong>Click on Internet Time</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption><p><mark style="color:red;"><strong>Klik pada Waktu Internet</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p><mark style="color:red;"><strong>Change Time Zone</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p><mark style="color:red;"><strong>Ubah Zona Waktu</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>## **Error: Gagal mendapatkan URL pembaruan (saat membuka arkaik.exe)**
 
-## **Error: Failed to get updates URL (when opening arkaik.exe)**
+**Masalah:** Saat menjalankan **arkaik.exe**, muncul kesalahan pembaruan: **"Gagal mendapatkan URL pembaruan"**, yang berarti server pembaruan menolak koneksi.
 
-**Problem:** When running **arkaik.exe**, an update error appears: **"Failed to get updates URL"**, meaning the update server rejected the connection.
-
-**Solution:** Download **https://1.1.1.1**. If the issue persists, **Cloudflare** can optimize the best route for your internet.
+**Solusi:** Unduh **https://1.1.1.1**. Jika masalah tetap ada, **Cloudflare** dapat mengoptimalkan rute terbaik untuk internet Anda.
 
 <figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
-## **Colored Squares Screen When Running Client.exe**
+## **Layar Kotak Berwarna Saat Menjalankan Client.exe**
 
 <figure><img src="../../.gitbook/assets/800px-Tela_com_quadrados_coloridos_arkaik_online.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Problem:**
+**Masalah:**
 
-* This configuration was designed for **older graphics cards**. Newer **RTX GPUs** and **chipsets** may experience this issue.
+* Konfigurasi ini dirancang untuk **kartu grafis yang lebih tua**. **GPU RTX** dan **chipset** yang lebih baru mungkin mengalami masalah ini.
 
-**Solution:**
+**Solusi:**
 
-1. Go to the folder where you installed the game:
+1. Pergi ke folder tempat Anda menginstal game:
    * **ArkaikOnline/RO/OpenSetup.exe**
-   * Or open **arkaik.exe** > **Settings** > **External ROSETUP**
-2. Look for a checkbox labeled **"Enable hardware accelerator"**, **disable it**, save, and restart the game.
-3. If the issue persists, return to the same location and:
-   * **Add a graphics card**
-   * **Set a resolution lower than 1366x768**
+   * Atau buka **arkaik.exe** > **Pengaturan** > **ROSETUP Eksternal**2. Cari kotak centang yang bertuliskan **"Aktifkan akselerator perangkat keras"**, **nonaktifkan**, simpan, dan restart permainan.
+3. Jika masalah masih berlanjut, kembali ke lokasi yang sama dan:
+   * **Tambahkan kartu grafis**
+   * **Atur resolusi lebih rendah dari 1366x768**

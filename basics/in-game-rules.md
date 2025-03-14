@@ -1,25 +1,24 @@
 ---
-description: Rules to Avoid Issues in the Game.
+description: Aturan untuk Menghindari Masalah dalam Permainan.
 ---
 
-# 📜 In-Game Rules
+# 📜 Aturan Dalam Permainan
 
-## **About MOB TRAIN**
+## **Tentang MOB TRAIN**
 
-**Boss Dispute Rules**
+**Aturan Perselisihan Boss**
 
-1. <mark style="color:red;">**Mob train is not allowed**</mark>, meaning you cannot approach another party while leading mobs, nor can you bring mobs following you into another boss party, regardless of the situation.
-2. **Anything else that is not mob train is allowed** (Using skills in general) (Both in your party or an ENEMY party).
-3. **If a boss spawns in PVP mode, killing other party members is allowed** (**MOB TRAINING IS NOT ALLOWED**).
+1. <mark style="color:red;">**Mob train tidak diperbolehkan**</mark>, yang berarti Anda tidak dapat mendekati partai lain saat memimpin mob, dan Anda juga tidak dapat membawa mob yang mengikuti Anda ke dalam partai boss lain, terlepas dari situasinya.
+2. **Hal lain yang bukan mob train diperbolehkan** (Menggunakan keterampilan secara umum) (Baik di partai Anda atau partai MUSUH).
+3. **Jika boss muncul dalam mode PVP, membunuh anggota partai lain diperbolehkan** (**MOB TRAINING TIDAK DIPERBOLEHKAN**).
 
-## <mark style="color:red;">**PENALTIES**</mark>
+## <mark style="color:red;">**SANKSI**</mark>
 
-* Table of penalties applied in-game.
+* Tabel sanksi yang diterapkan dalam permainan.
 
 ## MOB TRAIN
 
-| Type of Infraction	 | Occurrence	 | Penalty                                       |
+| Jenis Pelanggaran    | Kejadian     | Sanksi                                       |
 | ------------------- | ----------- | --------------------------------------------- |
-| **Mob Train**       | **First**   | <mark style="color:red;">**1 DAYS**</mark>    |
-| **Mob Train**       | **Second**  | <mark style="color:red;">**3 DAYS**</mark>    |
-| **Mob Train**       | **Third**   | <mark style="color:red;">**PERMANENT**</mark> |
+| **Mob Train**       | **Pertama** | <mark style="color:red;">**1 HARI**</mark>    || **Mob Train**       | **Kedua**   | <mark style="color:red;">**3 HARI**</mark>    |
+| **Mob Train**       | **Ketiga**   | <mark style="color:red;">**SEUMUR HIDUP**</mark> |

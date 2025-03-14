@@ -1,19 +1,19 @@
 ---
-description: The best way to store your hard-earned Zeny is right here!
+description: Cara terbaik untuk menyimpan Zeny yang telah Anda peroleh dengan susah payah ada di sini!
 ---
 
 # 🏦 Banker
 
-## **What is the Banker?**
+## **Apa itu Banker?**
 
-* The **Banker** is an **NPC located in the city of&#x20;**<mark style="color:red;">**Prontera**</mark>.
-* Its function is to **store your Zeny safely**.
+* **Banker** adalah **NPC yang terletak di kota** <mark style="color:red;">**Prontera**</mark>.
+* Fungsinya adalah untuk **menyimpan Zeny Anda dengan aman**.
 
-<figure><img src="../.gitbook/assets/123111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Banker Location in Prontera</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/123111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Lokasi Banker di Prontera</strong></mark></p></figcaption></figure>
 
-## **How Does It Work?**
+## **Bagaimana Cara Kerjanya?**
 
-* The <mark style="background-color:red;">**Banker can store your Zeny**</mark>, allowing you to **use it across different characters**.
-* Each time you **"**<mark style="color:red;">**Withdraw**</mark>**"** Zeny, you <mark style="color:red;">**must pay a small fee**</mark>.
+* <mark style="background-color:red;">**Banker dapat menyimpan Zeny Anda**</mark>, memungkinkan Anda untuk **menggunakannya di berbagai karakter**.
+* Setiap kali Anda **"**<mark style="color:red;">**Tarik**</mark>**"** Zeny, Anda <mark style="color:red;">**harus membayar biaya kecil**</mark>.
 
-<figure><img src="../.gitbook/assets/4412.png" alt=""><figcaption><p><mark style="color:red;"><strong>Banker Information Upon Interaction</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4412.png" alt=""><figcaption><p><mark style="color:red;"><strong>Informasi Banker Saat Berinteraksi</strong></mark></p></figcaption></figure>

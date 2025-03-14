@@ -1,159 +1,144 @@
 ---
 description: >-
-  The newly renovated Prontera now hides a dark secret after its downfall.
-  Unravel this mystery by joining this incursion.
+  Prontera yang baru direnovasi kini menyimpan rahasia gelap setelah kejatuhannya.
+  Ungkap misteri ini dengan bergabung dalam invasi ini.
 ---
 
-# ⚔️ Prontera Dungeon
+# ⚔️ Penjara Prontera
 
-## **What is the Prontera Dungeon?**
+## **Apa itu Penjara Prontera?**
 
-* The **Prontera Dungeon** is one of the **completely innovative** and unique **instances** in **Arkaik**, featuring its own mechanics and exclusive items.
+* **Penjara Prontera** adalah salah satu **instance** yang **sepenuhnya inovatif** dan unik di **Arkaik**, dengan mekanisme dan item eksklusifnya sendiri.
 
-### <mark style="color:red;">(WAITING VIDEO ASIAN)</mark>
+### <mark style="color:red;">(MENUNGGU VIDEO ASIA)</mark>
 
-## Where to Find It on the Map
+## Di Mana Menemukannya di Peta
 
-* The instance is located in the <mark style="color:red;">**Prontera**</mark> map.
-* You can check its location on the <mark style="color:red;">**MINIMAP**</mark>.
-* You will find a portal with some guards—just enter.
+* Instance ini terletak di peta <mark style="color:red;">**Prontera**</mark>.
+* Anda dapat memeriksa lokasinya di <mark style="color:red;">**MINIMAP**</mark>.
+* Anda akan menemukan portal dengan beberapa penjaga—cukup masuk.
 
-<figure><img src="../.gitbook/assets/213.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location on the "Mini Map" of Prontera</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/213.png" alt=""><figcaption><p><mark style="color:red;"><strong>Lokasi di "Mini Map" Prontera</strong></mark></p></figcaption></figure>
 
-## **How to Access the Location**
-
-* Go to the nearest <mark style="color:red;">**Kafra**</mark> in your city, click on the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and select the city.
-* <mark style="color:red;">**Go to Prontera**</mark>**.**
+## **Cara Mengakses Lokasi*** Pergi ke <mark style="color:red;">**Kafra**</mark> terdekat di kota Anda, klik opsi **"**<mark style="color:red;">**Teleport**</mark>**"**, dan pilih kota.
+* <mark style="color:red;">**Pergi ke Prontera**</mark>**.**
 
 <figure><img src="../.gitbook/assets/bb1.gif" alt=""><figcaption></figcaption></figure>
 
-* After that, head <mark style="color:red;">**north of Prontera**</mark> until you find the <mark style="color:red;">**guards and a portal**</mark>.
-* Then, simply enter the <mark style="color:red;">**portal**</mark>.
+* Setelah itu, pergi ke <mark style="color:red;">**utara Prontera**</mark> hingga Anda menemukan <mark style="color:red;">**penjaga dan sebuah portal**</mark>.
+* Kemudian, cukup masuk ke <mark style="color:red;">**portal**</mark>.
 
 <figure><img src="../.gitbook/assets/bb2.gif" alt=""><figcaption></figcaption></figure>
 
-## **Which NPCs Exist Inside?**
+## **NPC Apa Saja yang Ada Di Dalam?**
 
 {% tabs %}
-{% tab title="Recruiter" %}
-<mark style="color:red;">**RECRUITER**</mark>
+{% tab title="Perekrut" %}
+<mark style="color:red;">**PEREKRUT**</mark>
 
-* To create your instance, you need to <mark style="color:red;">**form a party (ALT+Z)**</mark><mark style="color:red;">.</mark>
-* To cancel the interaction, you can choose the option **"**<mark style="color:red;">**No way...**</mark>**"**.
-* To leave the room, simply select **"**<mark style="color:red;">**Get out of here**</mark>**"**.
+* Untuk membuat instance Anda, Anda perlu <mark style="color:red;">**membentuk sebuah party (ALT+Z)**</mark><mark style="color:red;">.</mark>
+* Untuk membatalkan interaksi, Anda dapat memilih opsi **"**<mark style="color:red;">**Tidak mungkin...**</mark>**"**.* Untuk meninggalkan ruangan, cukup pilih **"**<mark style="color:red;">**Keluar dari sini**</mark>**"**.
 
-<figure><img src="../.gitbook/assets/0009544.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaction with the RECRUITER NPC</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/0009544.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaksi dengan NPC REKRUTER</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Crafts" %}
-<mark style="background-color:red;">**CRAFTS**</mark>
+{% tab title="Kerajinan" %}
+<mark style="background-color:red;">**KERAJINAN**</mark>
 
-* The <mark style="color:red;">**Crafts NPC**</mark> offers some items that can be <mark style="color:red;">**crafted**</mark>.
-* Upon completing the instance, you will receive some <mark style="color:red;">**Fire Essence**</mark>.
-* These are **one of the required items** to create your **enhanced weapon**.
-* **Other items cannot be obtained within the instance**.
-* Some items can be acquired by defeating <mark style="color:red;">**\[SPECIAL MONSTERS**</mark>**]**.
-
-<figure><img src="../.gitbook/assets/00095445.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaction with the "CRAFTS" NPC</strong></mark></p></figcaption></figure>
+* NPC <mark style="color:red;">**Kerajinan**</mark> menawarkan beberapa item yang dapat <mark style="color:red;">**dikerjakan**</mark>.
+* Setelah menyelesaikan instance, Anda akan menerima beberapa <mark style="color:red;">**Esensi Api**</mark>.
+* Ini adalah **salah satu item yang diperlukan** untuk membuat **senjata yang ditingkatkan** Anda.
+* **Item lain tidak dapat diperoleh dalam instance**.
+* Beberapa item dapat diperoleh dengan mengalahkan <mark style="color:red;">**\[MONSTER KHUSUS**</mark>**]**.<figure><img src="../.gitbook/assets/00095445.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaksi dengan NPC "CRAFTS"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 0" %}
-## **Crafted Weapons**
-
-<table><thead><tr><th width="252">Image</th><th width="118">Job</th><th>Crafting Items</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/5d97a115-f682-4664-aa05-622b7501f4ea.jpeg" alt=""></td><td>Bard &#x26; Dancer</td><td><p>1x Guitar </p><p>40x Fire Essence</p><p>25x Black Wings </p><p>450x Turtle Shell</p></td></tr><tr><td><img src="../.gitbook/assets/8eb893d4-6ad6-40ef-8e66-e18eebd1e6e3.jpeg" alt=""></td><td>Knight</td><td><p><br>1x Zweihander </p><p>40x Fire Essence </p><p>25x Memory Jewel </p><p>600x Blazing Heart</p></td></tr><tr><td><img src="../.gitbook/assets/6e77a396-6d26-4d00-82e0-f047820a6f3f.jpeg" alt=""></td><td>All</td><td><p>1x Celestial Ceremonial Cloak </p><p>40x Fire Essence </p><p>25x Memory Jewel </p><p>1x Pasana Card</p></td></tr><tr><td><img src="../.gitbook/assets/06c5915d-2d80-480d-8448-fc633c80e838.jpeg" alt=""></td><td>Priest</td><td><p>1x Rod</p><p>40x Fire Essence</p><p>5x Ancient Skull</p><p>1x Heater Card<br></p></td></tr><tr><td><img src="../.gitbook/assets/5cd34065-cce4-4ea7-b21e-5db352445a76.jpeg" alt=""></td><td>Rogue</td><td><p>1x Sucsamad</p><p>40x Fire Essence</p><p>25x Black Wings</p><p>500x Flaming Horseshoe</p></td></tr><tr><td><img src="../.gitbook/assets/33b7ed78-fd33-4936-9480-26eb26988548.jpeg" alt=""></td><td>Crusader</td><td><p>1x Colossal Lance Blade</p><p>40x Fire Essence</p><p>5x Ancient Skull</p><p>600x Dragon Skin</p></td></tr><tr><td><img src="../.gitbook/assets/414acd88-39ca-4045-a2f9-3d7fb89c7d5b.jpeg" alt=""></td><td>Wizard</td><td><p>1x Rod</p><p>40x Fire Essence</p><p>25x Memory Jewel</p><p>1x Nine Tails Card</p></td></tr><tr><td><img src="../.gitbook/assets/10447079-eb81-4e36-8a1d-3cd926697bae.jpeg" alt=""></td><td>Monk</td><td><p>1x Magma Fist</p><p>40x Fire Essence</p><p>5x Ancient Skull</p><p>250x Scorpion Claws</p></td></tr><tr><td><img src="../.gitbook/assets/958eae11-21b2-4411-a955-9b4d76ee7e85.jpeg" alt=""></td><td>Sage</td><td><p>120x Deteriorated Page</p><p>40x Fire Essence</p><p>10x Flaming Agate</p><p>120x Fire Element Converter</p></td></tr><tr><td><img src="../.gitbook/assets/823dff66-2324-4823-a523-0667aa957b57.jpeg" alt=""></td><td>Alll</td><td><p>1x Buckler</p><p>40x Fire Essence</p><p>25x Black Wings</p><p>200x Steel</p></td></tr><tr><td><img src="../.gitbook/assets/f995b9c9-acdb-4260-8099-107b9a8afc34.jpeg" alt=""></td><td>Assasin</td><td><p>1x Katar of the Fierce Flame</p><p>40x Fire Essence</p><p>25x Memory Jewel</p><p>250x Incandescent Fur</p></td></tr><tr><td><img src="../.gitbook/assets/1469e0df-bcbc-4034-b89f-d3d0cfce3713.jpeg" alt=""></td><td>Blacksmith</td><td><p>1x Orcish Axe</p><p>40x Fire Essence</p><p>25x Black Wings</p><p>30x Fire Heart</p></td></tr><tr><td><img src="../.gitbook/assets/a88b7445-a942-4300-9d22-96ebb2480545.jpeg" alt=""></td><td>Hunter</td><td><p>1x Gakkung</p><p>40x Fire Essence</p><p>10x Flaming Agate</p><p>400x Scarlet Blood</p></td></tr><tr><td><img src="../.gitbook/assets/9c0eb2b0-19f2-4878-aa12-25bb796eef43.jpeg" alt=""></td><td>Alchimist</td><td><p>1x Solar Sword</p><p>40x Fire Essence</p><p>10x Flaming Agate</p><p>120x Pumice Stone</p></td></tr></tbody></table>
-{% endtab %}
+## **Senjata yang Dikerjakan**<table><thead><tr><th width="252">Gambar</th><th width="118">Pekerjaan</th><th>Item Kerajinan</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/5d97a115-f682-4664-aa05-622b7501f4ea.jpeg" alt=""></td><td>Bard &#x26; Penari</td><td><p>1x Gitar </p><p>40x Esensi Api</p><p>25x Sayap Hitam </p><p>450x Cangkang Kura-kura</p></td></tr><tr><td><img src="../.gitbook/assets/8eb893d4-6ad6-40ef-8e66-e18eebd1e6e3.jpeg" alt=""></td><td>Knight</td><td><p><br>1x Zweihander </p><p>40x Esensi Api </p><p>25x Permata Memori </p><p>600x Hati Berapi</p></td></tr><tr><td><img src="../.gitbook/assets/6e77a396-6d26-4d00-82e0-f047820a6f3f.jpeg" alt=""></td><td>Semua</td><td><p>1x Jubah Seremonial Surgawi </p><p>40x Esensi Api </p><p>25x Permata Memori </p><p>1x Kartu Pasana</p></td></tr><tr><td><img src="../.gitbook/assets/06c5915d-2d80-480d-8448-fc633c80e838.jpeg" alt=""></td><td>Pastor</td><td><p>1x Tongkat</p><p>40x Esensi Api</p><p>5x Tengkorak Kuno</p><p>1x Kartu Pemanas<br></p></td></tr><tr><td><img src="../.gitbook/assets/5cd34065-cce4-4ea7-b21e-5db352445a76.jpeg" alt=""></td><td>Rogue</td><td><p>1x Sucsamad</p><p>40x Esensi Api</p><p>25x Sayap Hitam</p><p>500x Kuku Flaming</p></td></tr><tr><td><img src="../.gitbook/assets/33b7ed78-fd33-4936-9480-26eb26988548.jpeg" alt=""></td><td>Crusader</td><td><p>1x Bilah Lances Colossal</p><p>40x Esensi Api</p><p>5x Tengkorak Kuno</p><p>600x Kulit Naga</p></td></tr><tr><td><img src="../.gitbook/assets/414acd88-39ca-4045-a2f9-3d7fb89c7d5b.jpeg" alt=""></td><td>Wizard</td><td><p>1x Tongkat</p><p>40x Esensi Api</p><p>25x Permata Memori</p><p>1x Kartu Sembilan Ekor</p></td></tr><tr><td><img src="../.gitbook/assets/10447079-eb81-4e36-8a1d-3cd926697bae.jpeg" alt=""></td><td>Biara</td><td><p>1x Pukulan Magma</p><p>40x Esensi Api</p><p>5x Tengkorak Kuno</p><p>250x Kuku Kalajengking</p></td></tr><tr><td><img src="../.gitbook/assets/958eae11-21b2-4411-a955-9b4d76ee7e85.jpeg" alt=""></td><td>Ahli Sihir</td><td><p>120x Halaman yang Memburuk</p><p>40x Esensi Api</p><p>10x Agate Berapi</p><p>120x Konverter Elemen Api</p></td></tr><tr><td><img src="../.gitbook/assets/823dff66-2324-4823-a523-0667aa957b57.jpeg" alt=""></td><td>Semua</td><td><p>1x Buckler</p><p>40x Esensi Api</p><p>25x Sayap Hitam</p><p>200x Baja</p></td></tr><tr><td><img src="../.gitbook/assets/f995b9c9-acdb-4260-8099-107b9a8afc34.jpeg" alt=""></td><td>Assasin</td><td><p>1x Katar Api yang Garang</p><p>40x Esensi Api</p><p>25x Permata Memori</p><p>250x Bulu Berapi</p></td></tr><tr><td><img src="../.gitbook/assets/1469e0df-bcbc-4034-b89f-d3d0cfce3713.jpeg" alt=""></td><td>Blacksmith</td><td><p>1x Kapak Orc</p><p>40x Esensi Api</p><p>25x Sayap Hitam</p><p>30x Hati Api</p></td></tr><tr><td><img src="../.gitbook/assets/a88b7445-a942-4300-9d22-96ebb2480545.jpeg" alt=""></td><td>Pemburu</td><td><p>1x Gakkung</p><p>40x Esensi Api</p><p>10x Agate Berapi</p><p>400x Darah Merah</p></td></tr><tr><td><img src="../.gitbook/assets/9c0eb2b0-19f2-4878-aa12-25bb796eef43.jpeg" alt=""></td><td>Alchimist</td><td><p>1x Pedang Solar</p><p>40x Esensi Api</p><p>10x Agate Berapi</p><p>120x Batu Pumice</p></td></tr></tbody></table>{% endtab %}
 
 {% tab title="TIER 1" %}
-## **Crafted Weapons** - TIER 1
+## **Senjata Buatan** - TIER 1
 
-<table><thead><tr><th width="252">Image</th><th width="118">Job</th><th>Crafting Items</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.32_6b93b511.jpg" alt=""></td><td>Bard &#x26; Dancer</td><td><p>+6 1x Berimbau</p><p>120x Fire Essence</p><p>100x Black Wings</p><p>10x Panda Hat</p><p>Horong Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.32_10550e60.jpg" alt=""></td><td>Knight</td><td><p>+6 1x Enhanced Claymore</p><p>120x Fire Essence</p><p>100x Memory Jewel</p><p>1x Haedonggum</p><p>20x Cornutus Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_3e923f1b.jpg" alt=""></td><td>All</td><td><p>+6 1x Flame Cloak</p><p>120x Fire Essence</p><p>100x Memory Jewel</p><p>1x Impact Saber</p><p>1x Pavana</p><p>10x Raggler Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_7d5c7eb3.jpg" alt=""></td><td>Priest</td><td><p>+6 1x Enhanced Rod</p><p>120x Fire Essence</p><p>100x Ancient Skull</p><p>10x Gold Ring</p><p>20x Mist Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_8bcb6769.jpg" alt=""></td><td>Rogue</td><td><p>+6 1x Enhanced Dagger</p><p>120x Fire Essence</p><p>100x Black Wings</p><p>1x Stellar Dust Blade</p><p>20x Fiery Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_87b69388.jpg" alt=""></td><td>Crusader</td><td><p>+6 1x Enhanced Lance</p><p>120x Fire Essence</p><p>100x Ancient Skull</p><p>1x Lance, 1x Scythe</p><p>20x Fire Lance Level 5</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_162a69af.jpg" alt=""></td><td>Wizard</td><td><p>+6 1x Enhanced Scepter</p><p>120x Fire Essence</p><p>100x Memory Jewel</p><p>1x Ghost Band</p><p>200x Fire Barrier Level 5</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_790bf026.jpg" alt=""></td><td>Monk</td><td><p>+6 1x Enhanced Magma Fist</p><p>120x Fire Essence</p><p>100x Ancient Skull</p><p>5x Dark Veil</p><p>400x Wolf Blood</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_2006d12b.jpg" alt=""></td><td>Sage</td><td><p>+6 1x Enhanced Bible</p><p>120x Fire Essence</p><p>200x Flaming Agate</p><p>1x Mystic Brutal Rune</p><p>250x Fire Spear Level 3</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_4334171d.jpg" alt=""></td><td>All</td><td><p>+6 1x Flame Shield</p><p>120x Fire Essence</p><p>100x Black Wings</p><p>10x Matchstick</p><p>70x Ancient Brutal Rune</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_38315029.jpg" alt=""></td><td>Assasin</td><td><p>+6 1x Enhanced Flame Katar</p><p>120x Fire Essence</p><p>100x Memory Jewel</p><p>1x Jamadhar</p><p>20x Novus Scarlet Gem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_d509446a.jpg" alt=""></td><td>Blacksmith</td><td><p>+6 1x Enhanced Igneous Steel</p><p>120x Fire Essence</p><p>100x Black Wings</p><p>1x Bloody Axe</p><p>1x Tear Gas</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_eaf82dd9.jpg" alt=""></td><td>Hunter</td><td><p>+6 1x Enhanced Incendiary Bow</p><p>120x Fire Essence</p><p>200x Flaming Agate</p><p>3x Angel Wings</p><p>500x Official Emblem</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_f36f59bf.jpg" alt=""></td><td>Alchimist</td><td><p>+6 1x Enhanced Cleaver</p><p>120x Fire Essence</p><p>200x Flaming Agate</p><p>1x Bardiche</p><p>20x Grizzly Gem</p></td></tr></tbody></table>
-{% endtab %}
+<table><thead><tr><th width="252">Gambar</th><th width="118">Pekerjaan</th><th>Item Kerajinan</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.32_6b93b511.jpg" alt=""></td><td>Bard &#x26; Dancer</td><td><p>+6 1x Berimbau</p><p>120x Esensi Api</p><p>100x Sayap Hitam</p><p>10x Topi Panda</p><p>Permata Horong</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.32_10550e60.jpg" alt=""></td><td>Kesatria</td><td><p>+6 1x Claymore Ditingkatkan</p><p>120x Esensi Api</p><p>100x Permata Memori</p><p>1x Haedonggum</p><p>20x Permata Cornutus</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_3e923f1b.jpg" alt=""></td><td>Semua</td><td><p>+6 1x Jubah Api</p><p>120x Esensi Api</p><p>100x Permata Memori</p><p>1x Impact Saber</p><p>1x Pavana</p><p>10x Permata Raggler</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_7d5c7eb3.jpg" alt=""></td><td>Pendeta</td><td><p>+6 1x Tongkat Ditingkatkan</p><p>120x Esensi Api</p><p>100x Tengkorak Kuno</p><p>10x Cincin Emas</p><p>20x Permata Kabut</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_8bcb6769.jpg" alt=""></td><td>Rogue</td><td><p>+6 1x Belati Ditingkatkan</p><p>120x Esensi Api</p><p>100x Sayap Hitam</p><p>1x Pedang Debu Stellar</p><p>20x Permata Berapi</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_87b69388.jpg" alt=""></td><td>Penyerang</td><td><p>+6 1x Lances Ditingkatkan</p><p>120x Esensi Api</p><p>100x Tengkorak Kuno</p><p>1x Lances, 1x Sabit</p><p>20x Lances Api Level 5</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_162a69af.jpg" alt=""></td><td>Wizard</td><td><p>+6 1x Scepter Ditingkatkan</p><p>120x Esensi Api</p><p>100x Permata Memori</p><p>1x Ghost Band</p><p>200x Penghalang Api Level 5</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_790bf026.jpg" alt=""></td><td>Biara</td><td><p>+6 1x Pukulan Magma Ditingkatkan</p><p>120x Esensi Api</p><p>100x Tengkorak Kuno</p><p>5x Selubung Gelap</p><p>400x Darah Serigala</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_2006d12b.jpg" alt=""></td><td>Bijak</td><td><p>+6 1x Alkitab Ditingkatkan</p><p>120x Esensi Api</p><p>200x Agate Berapi</p><p>1x Rune Brutal Mistis</p><p>250x Tombak Api Level 3</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_4334171d.jpg" alt=""></td><td>Semua</td><td><p>+6 1x Perisai Api</p><p>120x Esensi Api</p><p>100x Sayap Hitam</p><p>10x Korek Api</p><p>70x Rune Brutal Kuno</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_38315029.jpg" alt=""></td><td>Assasin</td><td><p>+6 1x Katar Api Ditingkatkan</p><p>120x Esensi Api</p><p>100x Permata Memori</p><p>1x Jamadhar</p><p>20x Permata Merah Novus</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_d509446a.jpg" alt=""></td><td>Pandai Besi</td><td><p>+6 1x Baja Igneous Ditingkatkan</p><p>120x Esensi Api</p><p>100x Sayap Hitam</p><p>1x Kapak Berdarah</p><p>1x Gas Air Mata</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_eaf82dd9.jpg" alt=""></td><td>Pemburu</td><td><p>+6 1x Busur Pembakar Ditingkatkan</p><p>120x Esensi Api</p><p>200x Agate Berapi</p><p>3x Sayap Malaikat</p><p>500x Lambang Resmi</p></td></tr><tr><td><img src="../.gitbook/assets/Imagem do WhatsApp de 2025-01-07 à(s) 15.26.33_f36f59bf.jpg" alt=""></td><td>Alchemist</td><td><p>+6 1x Cleaver Ditingkatkan</p><p>120x Esensi Api</p><p>200x Agate Berapi</p><p>1x Bardiche</p><p>20x Permata Grizzly</p></td></tr></tbody></table>{% endtab %}
 
 {% tab title="TIER 2" %}
-## Armas Fabricadas - TIER 2
+## Senjata Buatan - TIER 2
 
-#### <mark style="color:red;">**(Not Implemented Yet)**</mark>
+#### <mark style="color:red;">**(Belum Diimplementasikan)**</mark>
 
-| Image       | Job           |
-| ----------- | ------------- |
-| Coming Soon | Bard & Dancer |
-| Coming Soon | Knight        |
-| Coming Soon | All           |
-| Coming Soon | Priest        |
-| Coming Soon | Rogue         |
-| Coming Soon | Crusader      |
-| Coming Soon | Wizard        |
-| Coming Soon | Monk          |
-| Coming Soon | Sage          |
-| Coming Soon | All           |
-| Coming Soon | Assasin       |
-| Coming Soon | Blacksmith    |
-| Coming Soon | Hunter        |
-| Coming Soon | Alchimist     |
+| Gambar       | Pekerjaan      |
+| ------------ | -------------- |
+| Segera Hadir | Bard & Penari  |
+| Segera Hadir | Kesatria       |
+| Segera Hadir | Semua          |
+| Segera Hadir | Pendeta        |
+| Segera Hadir | Penipu         |
+| Segera Hadir | Crusader       |
+| Segera Hadir | Penyihir       |
+| Segera Hadir | Biksu          |
+| Segera Hadir | Bijak          |
+| Segera Hadir | Semua          |
+| Segera Hadir | Pembunuh       |
+| Segera Hadir | Pandai Besi    |
+| Segera Hadir | Pemburu        |
+| Segera Hadir | Alkimis        |
 {% endtab %}
 {% endtabs %}
 
-## **What Will I Find Inside?**
+## **Apa yang Akan Saya Temukan di Dalamnya?**
 
 {% tabs %}
-{% tab title="Monsters" %}
-<mark style="background-color:red;">**MONSTERS**</mark>
+{% tab title="Monster" %}
+<mark style="background-color:red;">**MONSTER**</mark>
 
-* Monsters found inside the instance.
-
-<table><thead><tr><th width="127">Sprite</th><th>Nome</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/0000.png" alt="" data-size="original"></td><td>Flame Monster</td></tr><tr><td><img src="../.gitbook/assets/23.png" alt="" data-size="original"></td><td>Flame Monster</td></tr><tr><td><img src="../.gitbook/assets/00333300.png" alt=""></td><td>Flame Monster</td></tr></tbody></table>
+* Monster yang ditemukan di dalam instance.<table><thead><tr><th width="127">Sprite</th><th>Nama</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/0000.png" alt="" data-size="original"></td><td>Monster Api</td></tr><tr><td><img src="../.gitbook/assets/23.png" alt="" data-size="original"></td><td>Monster Api</td></tr><tr><td><img src="../.gitbook/assets/00333300.png" alt=""></td><td>Monster Api</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Mecanicas" %}
-<mark style="color:red;">**Map Mechanics**</mark>
+{% tab title="Mekanika" %}
+<mark style="color:red;">**Mekanika Peta**</mark>
 
-* **Barricades:** Some rooms will contain a large number of monsters and barricades blocking your path. Defeat all monsters to clear the area.
-* **Thorns:** Along your journey, there will be areas with thorns to hinder your movement.
+* **Barricade:** Beberapa ruangan akan berisi sejumlah besar monster dan barricade yang menghalangi jalanmu. Kalahkan semua monster untuk membersihkan area tersebut.
+* **Duri:** Sepanjang perjalananmu, akan ada area dengan duri yang menghambat gerakanmu.
 
-<mark style="background-color:red;">**Crystal Mechanic**</mark>
+<mark style="background-color:red;">**Mekanika Kristal**</mark>
 
-| Sprite                            | Description                                                                                  |
-| --------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/00010.png) | There will be a **crystal** that you need to activate by pulling the lever to open the path. |
+| Sprite                            | Deskripsi                                                                                  || --------------------------------- | -------------------------------------------------------------------------------------------- |
+| ![](../.gitbook/assets/00010.png) | Akan ada **kristal** yang perlu Anda aktifkan dengan menarik tuas untuk membuka jalan. |
 
 <mark style="background-color:red;">**Soul Mechanic**</mark>
 
-| Sprite                                    | Description                                                                                        |
+| Sprite                                    | Deskripsi                                                                                        |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/4_ghost_stand.png) | Some souls are **lost on the map**. You must **guide them to the altar** to complete the instance. |
+| ![](../.gitbook/assets/4_ghost_stand.png) | Beberapa jiwa **hilang di peta**. Anda harus **memandu mereka ke altar** untuk menyelesaikan instance. |
 {% endtab %}
 
 {% tab title="NPCs" %}
-Recruiter
+Perekrut
 
-* After the souls are released, he will open the barricades to <mark style="color:red;">**SATAN MORROC**</mark>.
-
-<figure><img src="../.gitbook/assets/21233333.png" alt=""><figcaption><p><mark style="color:red;"><strong>After completing all the challenges, you must talk to him to unlock the final challenge: defeating Satan Morroc.</strong></mark></p></figcaption></figure>
+* Setelah jiwa-jiwa dilepaskan, dia akan membuka penghalang menuju <mark style="color:red;">**SATAN MORROC**</mark>.<figure><img src="../.gitbook/assets/21233333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Setelah menyelesaikan semua tantangan, Anda harus berbicara dengannya untuk membuka tantangan terakhir: mengalahkan Satan Morroc.</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="MVP" %}
 <mark style="background-color:red;">**MVPs**</mark>
 
-| Sprite                                      | Descrição                                            |
+| Sprite                                      | Deskripsi                                            |
 | ------------------------------------------- | ---------------------------------------------------- |
-| ![](../.gitbook/assets/0002220.png)         | <p>Boss of the First Part of the Instance</p><p></p> |
-| ![](../.gitbook/assets/ep14_mors_event.png) | Boss of the Second Part of the Instance              |
+| ![](../.gitbook/assets/0002220.png)         | <p>Boss dari Bagian Pertama Instance</p><p></p> |
+| ![](../.gitbook/assets/ep14_mors_event.png) | Boss dari Bagian Kedua Instance              |
 {% endtab %}
 {% endtabs %}
 
-## **Rewards**
+## **Hadiah**
 
 <figure><img src="../.gitbook/assets/2321o.png" alt=""><figcaption></figcaption></figure>
 
-* After defeating <mark style="color:red;">**Satan Morroc**</mark>, collect the last **Soul** and deliver it to the **altar** nearby.
-* You will then be **teleported** to the NPC **"Recruiter"**, who will send you out of the instance.
-* Upon leaving the instance, you will receive **"**<mark style="color:red;">**20 Fire Essence Fragments**</mark>**"**, which can be used to craft **equipment** at the NPC **"**<mark style="color:red;">**CRAFTS**</mark>**"**
+* Setelah mengalahkan <mark style="color:red;">**Satan Morroc**</mark>, kumpulkan **Jiwa** terakhir dan serahkan ke **altar** terdekat.* Anda akan **teleportasi** ke NPC **"Recruiter"**, yang akan mengeluarkan Anda dari instance.
+* Setelah meninggalkan instance, Anda akan menerima **"**<mark style="color:red;">**20 Fragmen Esensi Api**</mark>**"**, yang dapat digunakan untuk membuat **peralatan** di NPC **"**<mark style="color:red;">**CRAFTS**</mark>**"**
 
-<figure><img src="../.gitbook/assets/4441111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Item Received After Completing the Instance</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4441111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Item Diterima Setelah Menyelesaikan Instance</strong></mark></p></figcaption></figure>
 
-* **Item Received After Completing the Instance**
+* **Item Diterima Setelah Menyelesaikan Instance**
 
-| Item                             | Nome           | Chance                                    |
+| Item                             | Nama           | Peluang                                   |
 | -------------------------------- | -------------- | ----------------------------------------- |
 | ![](../.gitbook/assets/2433.png) | Diabolus Boots | <mark style="color:red;">**0.15%**</mark> |
 | ![](../.gitbook/assets/2345.png) | Fire Armor     | <mark style="color:red;">**0.6%**</mark>  |

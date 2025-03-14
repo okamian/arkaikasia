@@ -1,42 +1,38 @@
 ---
-description: Battle Progression System Earn rewards by completing missions.
+description: Sistem Progresi Pertempuran Dapatkan hadiah dengan menyelesaikan misi.
 ---
 
 # 🎫 Battle Pass
 
 <figure><img src="../.gitbook/assets/image (177).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Where to Purchase the Premium Pass?**
+## **Di mana Membeli Premium Pass?**
 
-You can purchase it by accessing the **store** and buying a package labeled **Battle Pass 30 Days**, or acquire it within Arkaik by following these steps:
+Anda dapat membelinya dengan mengakses **toko** dan membeli paket yang diberi label **Battle Pass 30 Hari**, atau mendapatkannya di dalam Arkaik dengan mengikuti langkah-langkah ini:
 
-1. Press the **Battle Pass** button.
+1. Tekan tombol **Battle Pass**.
 
 <figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-**2. Now click on Buy and confirm** _(18,000 CubePoints will be required in the account)._&#x20;
+**2. Sekarang klik Beli dan konfirmasi** _(18.000 CubePoints akan diperlukan di akun)._&#x20;
 
-<mark style="color:red;">**Value may be changed (ASIA)**</mark>
+<mark style="color:red;">**Nilai dapat berubah (ASIA)**</mark>
 
 <figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (180).png" alt="" width="417"><figcaption></figcaption></figure>
 
-## **How to collect Battle Pass EXP?**
-
-* Collecting EXP is very simple. Follow the tips below to receive rewards.
-* You must complete a mission in the MISSIONS tab.
+## **Bagaimana cara mengumpulkan EXP Battle Pass?*** Mengumpulkan EXP sangat sederhana. Ikuti tips di bawah ini untuk menerima hadiah.
+* Anda harus menyelesaikan misi di tab MISSIONS.
 
 <figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
-1. After this, click the **COLLECT** button to receive your rewards.
+1. Setelah itu, klik tombol **COLLECT** untuk menerima hadiah Anda.
 
 <figure><img src="../.gitbook/assets/image (182).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **How does the Mission System work?**
+## **Bagaimana cara kerja Sistem Misi?**
 
-Each mission grants **experience**. After clicking **Collect**, all this **EXP** is converted into points in the general progression of the battle pass. As you gain battle levels, you receive rewards based on your account type (Basic/Premium).
+Setiap misi memberikan **pengalaman**. Setelah mengklik **Collect**, semua **EXP** ini akan dikonversi menjadi poin dalam kemajuan umum dari battle pass. Saat Anda mendapatkan level pertempuran, Anda menerima hadiah berdasarkan tipe akun Anda (Dasar/Premium).Quest yang diberi label **"Daily"** direset setiap hari pada **00:00&#x20;**<mark style="color:red;">**(waktu Asia)**</mark>, memungkinkan Anda untuk mengulangnya dan mendapatkan lebih banyak **pengalaman**. Misalnya, misi **Professional Hunter** dapat diulang, dan Anda tidak perlu menyelesaikan semua misi lainnya, seperti **Player vs Player**, untuk melanjutkan pas Anda.
 
-Quests labeled as **"Daily"** reset every day at **00:00&#x20;**<mark style="color:red;">**(Asian time)**</mark>, allowing you to repeat them and earn more **experience**. For example, the **Professional Hunter** mission can be repeated, and you do not need to complete all other missions, such as **Player vs Player**, to progress your pass.
-
-**Found an issue? Report it on our Discord.**
+**Menemukan masalah? Laporkan di Discord kami.**

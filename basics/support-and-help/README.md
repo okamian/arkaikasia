@@ -1,11 +1,11 @@
 ---
 description: >-
-  Find a quick and effective solution to your problem by searching for it in the
-  corresponding category. If you can't find what you're looking for, contact our
-  team of professionals.
+  Temukan solusi cepat dan efektif untuk masalah Anda dengan mencarinya di
+  kategori yang sesuai. Jika Anda tidak dapat menemukan apa yang Anda cari, hubungi
+  tim profesional kami.
 ---
 
-# 🆘 Support and Help
+# 🆘 Dukungan dan Bantuan
 
 {% content-ref url="common-issues-client-problemas-comuns-client.md" %}
 [common-issues-client-problemas-comuns-client.md](common-issues-client-problemas-comuns-client.md)

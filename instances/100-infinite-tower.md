@@ -1,60 +1,55 @@
 ---
 description: >-
-  Are You Ready to Face the Ultimate Challenge? The Endless Tower in Arkaik is
-  truly endless! It seems that a new mystery has been discovered within the
-  tower, making its ascent infinite.
+  Apakah Anda Siap Menghadapi Tantangan Terbesar? Menara Tak Berujung di Arkaik
+  benar-benar tak berujung! Sepertinya sebuah misteri baru telah ditemukan di dalam
+  menara, membuat pendakiannya tak terbatas.
 ---
 
-# ♾️ 100% Infinite Tower
+# ♾️ Menara Tak Terbatas 100%
 
-## **Endless Tower?**
+## **Menara Tak Berujung?**
 
-* Unlike the tower we already know, this one is truly **infinite**. You and your friends can keep climbing as far as you can manage. Of course, **the higher you go, the harder it gets**.
+* Berbeda dengan menara yang sudah kita kenal, yang ini benar-benar **tak terbatas**. Anda dan teman-teman Anda dapat terus mendaki sejauh yang Anda bisa. Tentu saja, **semakin tinggi Anda pergi, semakin sulit itu**.
 
-<figure><img src="../.gitbook/assets/t11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>Guardian of the Endless Tower</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/t11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>Penjaga Menara Tak Berujung</strong></mark></p></figcaption></figure>
 
-## **How to Get There**
+## **Cara Mencapainya**
 
-* Go to the **nearest Kafra** in your city, click on the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and select the city.
-* <mark style="color:red;">**Go to Alberta**</mark>**.**
+* Pergi ke **Kafra terdekat** di kota Anda, klik opsi **"**<mark style="color:red;">**Teleport**</mark>**"**, dan pilih kota.
+* <mark style="color:red;">**Pergi ke Alberta**</mark>**.**<figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Bagaimana Mencapai Tujuan Anda: Alberta</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>How to Reach Your Destination: Alberta</strong></mark></p></figcaption></figure>
+## **Lokasi NPC**
 
-## **NPC Location**
+* Setelah tiba di **Alberta**, pergi ke **barat** untuk menemukan <mark style="color:red;">**Kapten**</mark>.
 
-* Upon arriving in **Alberta**, head **west** to find the <mark style="color:red;">**Captain**</mark>.
+<figure><img src="../.gitbook/assets/41233.png" alt=""><figcaption><p><mark style="color:red;"><strong>Menemukan Kapten yang membawa ke Menara.</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/41233.png" alt=""><figcaption><p><mark style="color:red;"><strong>Encontrando o Capitão que leva até a Torre.</strong></mark></p></figcaption></figure>
+## **Masuk ke Menara Tak Berujung**
 
-## **Entering the Endless Tower**
+* Untuk mengakses **Menara Tak Berujung**, bicaralah dengan **Kapten** dan pilih opsi **"**<mark style="color:red;">**Ayo pergi sekarang**</mark>**"**.
+* Setelah berada di pulau, pilih **"**<mark style="color:red;">**Buat Dungeon**</mark>**"**.
+* Setelah membuatnya, klik pada **"**<mark style="color:red;">**Masuk Dungeon**</mark>**"**.
+* Pastikan Anda berada dalam **partai** <mark style="color:red;">**(ALT+Z)**</mark> sebelum memasuki instance.<figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Menuju Menara Tak Berujung</strong></mark></p></figcaption></figure>
 
-* To access the **Endless Tower**, talk to the **Captain** and select the option **"**<mark style="color:red;">**Let's go now**</mark>**"**.
-* Once on the island, select **"**<mark style="color:red;">**Generate Dungeon**</mark>**"**.
-* After creating it, click on **"**<mark style="color:red;">**Enter Dungeon**</mark>**"**.
-* Make sure you are in a **party&#x20;**<mark style="color:red;">**(ALT+Z)**</mark> before entering the instance.
+## **Mekanika Menara**
 
-<figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Going to the Endless Tower</strong></mark></p></figcaption></figure>
+**2. Struktur Menara**
 
-## **Tower Mechanics**
-
-**2. Tower Structure**
-
-* The tower consists of <mark style="color:red;">**100 floors**</mark>, each more challenging than the previous one.
-* <mark style="color:red;">**After completing all 100 floors, it will RESET**</mark> back to **level 1** automatically. However, all **monsters will become stronger, with increased HP and higher LOOT rates**.
-* **Regular floors:**
-  * You will face waves of common monsters.
-* **Checkpoint floors (every 5-10 floors):**
-  * **MVPs** or mini-bosses will spawn as the main challenge.
-  * **Examples:** Eddga, Stormy Knight, Dracula, Valkyrie Randgris, among others.
+* Menara terdiri dari <mark style="color:red;">**100 lantai**</mark>, masing-masing lebih menantang daripada yang sebelumnya.
+* <mark style="color:red;">**Setelah menyelesaikan semua 100 lantai, itu akan RESET**</mark> kembali ke **level 1** secara otomatis. Namun, semua **monster akan menjadi lebih kuat, dengan HP yang meningkat dan tingkat LOOT yang lebih tinggi**.
+* **Lantai biasa:**
+  * Anda akan menghadapi gelombang monster umum.
+* **Lantai checkpoint (setiap 5-10 lantai):**
+  * **MVP** atau mini-boss akan muncul sebagai tantangan utama.
+  * **Contoh:** Eddga, Stormy Knight, Dracula, Valkyrie Randgris, dan lainnya.
 
 ***
 
-**3. Basic Rules**
+**3. Aturan Dasar**
 
-* **Time limit:** The instance lasts **4 hours** from the moment it is created.
-* **Shared progress:** If someone dies, they can return to the tower **as long as the party leader remains inside**.
-* **Group challenges:** Only **one party** can enter the instance at a time.
-* **Monster respawn:** Monsters spawn **in waves or batches**, depending on the floor.
-* **Rewards:** You receive **rewards for defeating MVPs**.
+* **Batas waktu:** Instance berlangsung **4 jam** sejak saat dibuat.* **Kemajuan bersama:** Jika seseorang mati, mereka dapat kembali ke menara **selama pemimpin partai tetap di dalam**.
+* **Tantangan grup:** Hanya **satu partai** yang dapat memasuki instance pada satu waktu.
+* **Respawn monster:** Monster muncul **dalam gelombang atau kelompok**, tergantung pada lantai.
+* **Hadiah:** Anda menerima **hadiah untuk mengalahkan MVP**.
 
-<figure><img src="../.gitbook/assets/12341.png" alt=""><figcaption><p><mark style="color:red;"><strong>First Floor of the Infinite Tower</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12341.png" alt=""><figcaption><p><mark style="color:red;"><strong>Lantai Pertama Menara Tak Terbatas</strong></mark></p></figcaption></figure>
