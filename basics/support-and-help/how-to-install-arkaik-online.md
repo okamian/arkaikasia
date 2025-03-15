@@ -1,31 +1,33 @@
 ---
 description: >-
-  Arkaik: Tales of Sarina là một máy chủ Ragnarok Online riêng, cung cấp trải nghiệm độc đáo. Hướng dẫn này phác thảo quy trình tải xuống, cài đặt và cấu hình trò chơi.
+  Arkaik: Tales of Sarina là một máy chủ Ragnarok Online riêng, cung cấp trải
+  nghiệm độc đáo. Hướng dẫn này phác thảo quy trình tải xuống, cài đặt và cấu
+  hình trò chơi.
 ---
 
-# 🚧 Cách Cài Đặt Arkaik Online
+# 🚧 How to Install Arkaik Online
 
 <figure><img src="../../.gitbook/assets/Sarina-1250x300.png" alt=""><figcaption></figcaption></figure>
 
-* ### [**System Requirements**](how-to-install-arkaik-online.md#system-requirements-1)
-* ### [**Account Registration**](how-to-install-arkaik-online.md#account-registration-1)
-* ### [**Client Download**](how-to-install-arkaik-online.md#client-download-1)
-* ### [**Client Extraction**](how-to-install-arkaik-online.md#client-extraction-1)
-* ### [**Game Installation**](how-to-install-arkaik-online.md#game-installation-1)
-* ### [**Client Update**](how-to-install-arkaik-online.md#client-update-1)
-* ### [**Graphics and Sound Configuration**](how-to-install-arkaik-online.md#graphics-and-sound-configuration-1)
-* ### [**Starting the Game**](how-to-install-arkaik-online.md#starting-the-game-1)
-* ### [**Common Problem Solutions**](how-to-install-arkaik-online.md#common-problem-solutions-1)
+* #### [**System Requirements**](how-to-install-arkaik-online.md#system-requirements-1)
+* #### [**Account Registration**](how-to-install-arkaik-online.md#account-registration-1)
+* #### [**Client Download**](how-to-install-arkaik-online.md#client-download-1)
+* #### [**Client Extraction**](how-to-install-arkaik-online.md#client-extraction-1)
+* #### [**Game Installation**](how-to-install-arkaik-online.md#game-installation-1)
+* #### [**Client Update**](how-to-install-arkaik-online.md#client-update-1)
+* #### [**Graphics and Sound Configuration**](how-to-install-arkaik-online.md#graphics-and-sound-configuration-1)
+* #### [**Starting the Game**](how-to-install-arkaik-online.md#starting-the-game-1)
+* #### [**Common Problem Solutions**](how-to-install-arkaik-online.md#common-problem-solutions-1)
 
 ### **Yêu Cầu Hệ Thống**
 
-| Thành Phần         | Yêu Cầu Tối Thiểu                      |
-| ------------------- | -------------------------------------- |
-| Hệ Điều Hành       | Windows 10 hoặc cao hơn                |
-| Bộ Xử Lý           | Dual Core 2.0 GHz                      |
-| RAM                 | 4 GB (khuyến nghị 8 GB)                |
-| Dung Lượng Đĩa     | 8 GB trống (ít nhất 10 GB khuyến nghị) |
-| Card Đồ Họa        | 256 MB với DirectX 9.0c               || Kết Nối Internet | 1 Mbps hoặc cao hơn                       |
+| Thành Phần     | Yêu Cầu Tối Thiểu                      |
+| -------------- | -------------------------------------- |
+| Hệ Điều Hành   | Windows 10 hoặc cao hơn                |
+| Bộ Xử Lý       | Dual Core 2.0 GHz                      |
+| RAM            | 4 GB (khuyến nghị 8 GB)                |
+| Dung Lượng Đĩa | 8 GB trống (ít nhất 10 GB khuyến nghị) |
+| Card Đồ Họa    | 256 MB với DirectX 9.0c                |
 
 ### **Đăng Ký Tài Khoản**
 
@@ -50,6 +52,7 @@ description: >-
 <figure><img src="../../.gitbook/assets/Extra1.png" alt=""><figcaption></figcaption></figure>
 
 ### **Cài Đặt Game**1. Sau khi giải nén, tìm tệp **"Arkaik.exe"** hoặc **"Setup.exe"** trong thư mục.
+
 2. Nhấp đúp để bắt đầu cài đặt.
 3. Làm theo hướng dẫn trên màn hình để chọn thư mục cài đặt.
 4. Chờ đợi quá trình cài đặt hoàn tất.
@@ -82,7 +85,7 @@ description: >-
 
 **Lỗi "Tệp bị hỏng"**
 
-* Tải lại client và giải nén lại.* Nếu vấn đề vẫn tiếp diễn, hãy kiểm tra **Vấn đề Chung**.
+* Tải lại client và giải nén lại.\* Nếu vấn đề vẫn tiếp diễn, hãy kiểm tra **Vấn đề Chung**.
 
 **Hiệu Suất Kém (Lag)**
 
@@ -102,7 +105,7 @@ Nhiều người chơi **Arkaik: Tales of Sarina** báo cáo rằng, trong quá 
 
 .NET 8 là một tập hợp các **thư viện và công cụ** cần thiết để chạy một số ứng dụng Windows, bao gồm cả trò chơi. Nếu hệ thống của bạn không có phiên bản đúng của .NET 8 được cài đặt, **trò chơi hoặc launcher có thể không hoạt động đúng cách**.
 
-**Tại Sao Điều Này Xảy Ra?**Trong một số bản cập nhật, trò chơi có thể yêu cầu **chức năng cụ thể** từ **.NET 8**. Nếu hệ thống của bạn không có phiên bản cần thiết được cài đặt, trình khởi động sẽ tự động yêu cầu cài đặt framework.
+\*\*Tại Sao Điều Này Xảy Ra?\*\*Trong một số bản cập nhật, trò chơi có thể yêu cầu **chức năng cụ thể** từ **.NET 8**. Nếu hệ thống của bạn không có phiên bản cần thiết được cài đặt, trình khởi động sẽ tự động yêu cầu cài đặt framework.
 
 **Bạn Nên Làm Gì Khi Thông Điệp Này Xuất Hiện?**
 
@@ -120,19 +123,17 @@ Nếu bạn nhận được thông điệp (hoặc gặp lỗi được liệt k
 
 #### **Giải Quyết Vấn Đề Thường Gặp**
 
-Nếu việc cài đặt **.NET Framework** không giải quyết được vấn đề hoặc bạn vẫn thấy thông điệp:1. Đảm bảo bạn đã cài đặt **.NET 8**.
-2. Thử cập nhật **Windows** để đảm bảo tất cả các phụ thuộc cần thiết đã được cài đặt.
-3. Kiểm tra xem **phần mềm diệt virus hoặc tường lửa** của bạn có đang chặn việc cài đặt hoặc thực thi trò chơi sau khi cập nhật hay không.
+Nếu việc cài đặt **.NET Framework** không giải quyết được vấn đề hoặc bạn vẫn thấy thông điệp:1. Đảm bảo bạn đã cài đặt **.NET 8**. 2. Thử cập nhật **Windows** để đảm bảo tất cả các phụ thuộc cần thiết đã được cài đặt. 3. Kiểm tra xem **phần mềm diệt virus hoặc tường lửa** của bạn có đang chặn việc cài đặt hoặc thực thi trò chơi sau khi cập nhật hay không.
 
-| Lỗi Thường Gặp	                     | Giải Pháp Đề Xuất                                      |
-| ------------------------------------- | ------------------------------------------------------- |
-| Trình cài đặt .NET 8 không mở        | Kiểm tra quyền quản trị và khởi động lại máy tính của bạn.   |
-| Cài đặt .NET 8 thất bại               | Cập nhật Windows và thử cài đặt lại.                    |
+| Lỗi Thường Gặp                       | Giải Pháp Đề Xuất                                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------ |
+| Trình cài đặt .NET 8 không mở        | Kiểm tra quyền quản trị và khởi động lại máy tính của bạn.                     |
+| Cài đặt .NET 8 thất bại              | Cập nhật Windows và thử cài đặt lại.                                           |
 | Thông báo lỗi sau khi cài đặt .NET 8 | Kiểm tra xem trình khởi động có bị chặn bởi phần mềm diệt virus của bạn không. |
 
 ### Lệnh Hữu Ích Trong Trò Chơi
 
-| Lệnh    | Chức Năng                            |
-| ------- | ----------------------------------- |
-| /effect | Bật/tắt hiệu ứng hình ảnh.         |
-| /where  | Hiển thị vị trí của nhân vật.      || /noctrl | Bật/tắt tấn công liên tục. |
+| Lệnh    | Chức Năng                     |
+| ------- | ----------------------------- |
+| /effect | Bật/tắt hiệu ứng hình ảnh.    |
+| /where  | Hiển thị vị trí của nhân vật. |

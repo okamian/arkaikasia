@@ -1,9 +1,11 @@
 ---
 description: >-
-  Bạn đã sẵn sàng để đối mặt với thử thách tối thượng chưa? Tháp Vô Tận ở Arkaik thực sự là vô tận! Dường như một bí ẩn mới đã được phát hiện bên trong tháp, khiến cho việc leo lên của nó trở nên vô hạn.
+  Bạn đã sẵn sàng để đối mặt với thử thách tối thượng chưa? Tháp Vô Tận ở Arkaik
+  thực sự là vô tận! Dường như một bí ẩn mới đã được phát hiện bên trong tháp,
+  khiến cho việc leo lên của nó trở nên vô hạn
 ---
 
-# ♾️ 100% Tháp Vô Tận
+# ♾️ 100% Infinite Tower
 
 ## **Tháp Vô Tận?**
 
@@ -14,7 +16,9 @@ description: >-
 ## **Cách Đến Đó**
 
 * Đi đến **Kafra gần nhất** trong thành phố của bạn, nhấp vào tùy chọn **"**<mark style="color:red;">**Dịch Chuyển**</mark>**"** và chọn thành phố.
-* <mark style="color:red;">**Đi đến Alberta**</mark>**.**<figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Cách Để Đến Đích: Alberta</strong></mark></p></figcaption></figure>
+*   <mark style="color:red;">**Đi đến Alberta**</mark>**.**
+
+    <figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Cách Để Đến Đích: Alberta</strong></mark></p></figcaption></figure>
 
 ## **Vị Trí NPC**
 
@@ -27,7 +31,9 @@ description: >-
 * Để vào **Tháp Vô Tận**, hãy nói chuyện với **Thuyền Trưởng** và chọn tùy chọn **"**<mark style="color:red;">**Đi ngay bây giờ**</mark>**"**.
 * Khi đã đến hòn đảo, chọn **"**<mark style="color:red;">**Tạo Ngục Tù**</mark>**"**.
 * Sau khi tạo xong, nhấp vào **"**<mark style="color:red;">**Vào Ngục Tù**</mark>**"**.
-* Đảm bảo bạn đang trong một **nhóm** <mark style="color:red;">**(ALT+Z)**</mark> trước khi vào instance.<figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Đi đến Tháp Vô Tận</strong></mark></p></figcaption></figure>
+*   Đảm bảo bạn đang trong một **nhóm** <mark style="color:red;">**(ALT+Z)**</mark> trước khi vào instance.
+
+    <figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Đi đến Tháp Vô Tận</strong></mark></p></figcaption></figure>
 
 ## **Cơ Chế Của Tháp**
 
@@ -45,7 +51,7 @@ description: >-
 
 **3. Quy Tắc Cơ Bản**
 
-* **Thời gian giới hạn:** Instance kéo dài **4 giờ** từ thời điểm nó được tạo ra.* **Tiến trình chia sẻ:** Nếu ai đó chết, họ có thể quay lại tháp **miễn là người lãnh đạo nhóm vẫn ở bên trong**.
+* **Thời gian giới hạn:** Instance kéo dài **4 giờ** từ thời điểm nó được tạo ra.\* **Tiến trình chia sẻ:** Nếu ai đó chết, họ có thể quay lại tháp **miễn là người lãnh đạo nhóm vẫn ở bên trong**.
 * **Thử thách nhóm:** Chỉ **một nhóm** có thể vào instance tại một thời điểm.
 * **Tái sinh quái vật:** Quái vật xuất hiện **theo đợt hoặc theo nhóm**, tùy thuộc vào tầng.
 * **Phần thưởng:** Bạn nhận được **phần thưởng cho việc đánh bại MVP**.

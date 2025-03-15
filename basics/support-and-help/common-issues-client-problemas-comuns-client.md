@@ -1,10 +1,10 @@
 ---
 description: >-
-  Nếu bạn không tìm thấy giải pháp nào bên dưới, vui lòng liên hệ với đội ngũ hỗ trợ của chúng tôi trên
-  Discord hoặc WhatsApp.
+  Nếu bạn không tìm thấy giải pháp nào bên dưới, vui lòng liên hệ với đội ngũ hỗ
+  trợ của chúng tôi trên Discord hoặc WhatsApp.
 ---
 
-# 🪛 Vấn đề Thường Gặp (Khách Hàng)
+# 🪛 Common Issues (Client)Problemas Comuns (Client)
 
 ## Arkaik.exe mở lên, nhưng khi nhấn "Chơi", không có gì xảy ra và nó đóng lại
 
@@ -16,8 +16,7 @@ description: >-
 Đi tới:\
 ➡ **Bảo mật Windows** > **Kiểm soát Ứng dụng & Trình duyệt** > **Cài đặt Bảo vệ Khai thác** > **Cài đặt Chương trình (Tab trên cùng)** > **(+) Thêm một Chương trình để Tùy chỉnh**
 
-Gõ `Client.exe` và kích hoạt tất cả các quy trình. (Kiểm tra tất cả các ô chọn; một số có thể được kích hoạt theo mặc định - cũng tắt chúng nếu cần.)\
-
+Gõ `Client.exe` và kích hoạt tất cả các quy trình. (Kiểm tra tất cả các ô chọn; một số có thể được kích hoạt theo mặc định - cũng tắt chúng nếu cần.)\\
 
 <figure><img src="../../.gitbook/assets/image (149).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -25,7 +24,7 @@ Gõ `Client.exe` và kích hoạt tất cả các quy trình. (Kiểm tra tất 
 
 ## **Arkaik.exe không mở, không có trong trình quản lý tác vụ và không có lỗi nào xuất hiện**
 
-**Nguyên nhân:*** **Phần mềm diệt virus** hoặc **bảo vệ khai thác** của bạn có thể đang chặn tệp `exe` của **Arkaik**.
+**Nguyên nhân:**\* **Phần mềm diệt virus** hoặc **bảo vệ khai thác** của bạn có thể đang chặn tệp `exe` của **Arkaik**.
 
 **Giải pháp:**\
 ➡ **Bảo mật Windows** > **Kiểm soát Ứng dụng & Trình duyệt** > **Cài đặt Bảo vệ Khai thác** > **Cài đặt Chương trình (Tab trên cùng)** > **(+) Thêm một Chương trình để Tùy chỉnh**
@@ -63,7 +62,7 @@ Gõ **Arkaik.exe** và kích hoạt tất cả các quy trình. (Đánh dấu t�
 
 * Khi nhấp vào **Client.exe**, không có gì xảy ra, màn hình trắng xuất hiện và trò chơi đóng ngay lập tức, ngay cả sau khi chọn **card đồ họa** trong **RO/OpenSetup.exe**.
 
-**Vấn đề 2:*** Khi nhấp vào **Chơi** qua **Arkaik.exe** hoặc **Client.exe**, thông báo lỗi **"Không thể khởi tạo d3d HOẶC tệp grf có vấn đề"** xuất hiện (đây là trường hợp phổ biến nhất).
+**Vấn đề 2:**\* Khi nhấp vào **Chơi** qua **Arkaik.exe** hoặc **Client.exe**, thông báo lỗi **"Không thể khởi tạo d3d HOẶC tệp grf có vấn đề"** xuất hiện (đây là trường hợp phổ biến nhất).
 
 ***
 
@@ -95,10 +94,7 @@ Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc h
 \
 **Giải pháp bổ sung: "Không thể khởi tạo d3d HOẶC tệp grf có vấn đề"**
 
-**Giải pháp:**1. Mở **Trình quản lý thiết bị**
-2. Đi đến **Bộ điều hợp hiển thị**
-3. **Vô hiệu hóa** **card đồ họa RTX** của bạn (hoặc GPU chuyên dụng của bạn)
-4. Mở lại **Client.exe**
+\*\*Giải pháp:\*\*1. Mở **Trình quản lý thiết bị** 2. Đi đến **Bộ điều hợp hiển thị** 3. **Vô hiệu hóa** **card đồ họa RTX** của bạn (hoặc GPU chuyên dụng của bạn) 4. Mở lại **Client.exe**
 
 **Giải thích:**
 
@@ -114,7 +110,7 @@ Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc h
 **Vấn đề:**
 
 * Khi mở **Arkaik.exe**, trong quá trình tải mô-đun, một **lỗi đỏ** xuất hiện với thông báo:\
-  &#xNAN;**"Máy chủ không thể xác thực yêu cầu"**.
+  \&#xNAN;**"Máy chủ không thể xác thực yêu cầu"**.
 
 <figure><img src="../../.gitbook/assets/image (155).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -124,7 +120,7 @@ Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc h
 
 **Giải pháp:**
 
-1. **Đi đến:**   * **Bảng điều khiển** > **Ngày & Giờ** > **Đồng bộ ngay**
+1. **Đi đến:** \* **Bảng điều khiển** > **Ngày & Giờ** > **Đồng bộ ngay**
 
 <figure><img src="../../.gitbook/assets/image (156).png" alt="" width="332"><figcaption></figcaption></figure>
 
@@ -141,7 +137,9 @@ Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc h
 
 <figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p><mark style="color:red;"><strong>Thay đổi Múi giờ</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>## **Lỗi: Không thể lấy URL cập nhật (khi mở arkaik.exe)**
+<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+
+\## \*\*Lỗi: Không thể lấy URL cập nhật (khi mở arkaik.exe)\*\*
 
 **Vấn đề:** Khi chạy **arkaik.exe**, xuất hiện lỗi cập nhật: **"Không thể lấy URL cập nhật"**, có nghĩa là máy chủ cập nhật đã từ chối kết nối.
 
@@ -162,6 +160,6 @@ Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc h
 1. Đi đến thư mục nơi bạn đã cài đặt trò chơi:
    * **ArkaikOnline/RO/OpenSetup.exe**
    * Hoặc mở **arkaik.exe** > **Cài đặt** > **ROSETUP bên ngoài**2. Tìm một ô kiểm có nhãn **"Bật tăng tốc phần cứng"**, **tắt nó đi**, lưu lại và khởi động lại trò chơi.
-3. Nếu vấn đề vẫn tiếp diễn, quay lại cùng một vị trí và:
+2. Nếu vấn đề vẫn tiếp diễn, quay lại cùng một vị trí và:
    * **Thêm một card đồ họa**
    * **Đặt độ phân giải thấp hơn 1366x768**

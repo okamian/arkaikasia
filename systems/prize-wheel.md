@@ -1,8 +1,10 @@
 ---
-description: Bạn có muốn thử vận may của mình trong máy chơi đồ chơi không? Có thể vận may đang đứng về phía bạn!
+description: >-
+  Bạn có muốn thử vận may của mình trong máy chơi đồ chơi không? Có thể vận may
+  đang đứng về phía bạn!
 ---
 
-# 🎰 Bánh Xe Giải Thưởng
+# 🎰 Prize Wheel
 
 ## **Về Bánh Xe Giải Thưởng**
 
@@ -21,44 +23,28 @@ description: Bạn có muốn thử vận may của mình trong máy chơi đồ
 
 ## **Danh Sách Các Vật Phẩm Có Thể Nhận Được**
 
-### <mark style="background-color:blue;">**Thông Thường**</mark>| Mục                                                       | Số lượng |
-| ---------------------------------------------------------- | -------- |
-| ![](../.gitbook/assets/601.png) Cánh Bay                   | 40       |
-| ![](../.gitbook/assets/7433.png) Cuộn Trắng              | 10       |
-| ![](<../.gitbook/assets/547 (1).png>) Thuốc Trắng Nhỏ | 10       |
-| ![](<../.gitbook/assets/578 (1).png>) Dâu              | 10       |
-| ![](../.gitbook/assets/605.png) Thuốc Giảm Đau                 | 2        |
-| ![](../.gitbook/assets/12216.png) Cuộn Sửa Chữa            | 1        |
+### <mark style="background-color:blue;">**Thông Thường**</mark>| Mục | Số lượng |
+
+\| ---------------------------------------------------------- | -------- | | ![](../.gitbook/assets/601.png) Cánh Bay | 40 | | ![](../.gitbook/assets/7433.png) Cuộn Trắng | 10 | | ![](<../.gitbook/assets/547 (1).png>) Thuốc Trắng Nhỏ | 10 | | ![](<../.gitbook/assets/578 (1).png>) Dâu | 10 | | ![](../.gitbook/assets/605.png) Thuốc Giảm Đau | 2 | | ![](../.gitbook/assets/12216.png) Cuộn Sửa Chữa | 1 |
 
 ### <mark style="background-color:purple;">Không phổ biến</mark>
 
 | Mục                                             | Số lượng |
-| ------------------------------------------------ | -------- |
-| ![](../.gitbook/assets/610.png) Lá Yggdrasil   | 2        |
-| ![](../.gitbook/assets/525.png) Thuốc Chữa Bệnh          | 2        |
+| ----------------------------------------------- | -------- |
+| ![](../.gitbook/assets/610.png) Lá Yggdrasil    | 2        |
+| ![](../.gitbook/assets/525.png) Thuốc Chữa Bệnh | 2        |
 | ![](../.gitbook/assets/608.png) Hạt Yggdrasil   | 2        |
 | ![](../.gitbook/assets/607.png) Trái Yggdrasil  | 2        |
-| ![](../.gitbook/assets/12030.png) Hộp Oán Hận | 1        |
-| ![](../.gitbook/assets/12031.png) Hộp Buồn Ngủ | 1        |
-| ![](../.gitbook/assets/12028.png) Hộp Sấm Sét    | 1        |
+| ![](../.gitbook/assets/12030.png) Hộp Oán Hận   | 1        |
+| ![](../.gitbook/assets/12031.png) Hộp Buồn Ngủ  | 1        |
+| ![](../.gitbook/assets/12028.png) Hộp Sấm Sét   | 1        |
 
-### <mark style="background-color:orange;">Hiếm</mark>| Món đồ                                                   | Số lượng |
-| -------------------------------------------------------- | -------- |
-| ![](../.gitbook/assets/7621.png) Bùa Ziegfried               | 10       |
-| ![](<../.gitbook/assets/547 (2).png>) Thuốc Trắng Nhỏ        | 50       |
-| ![](../.gitbook/assets/657.png) Thuốc Điên Cuồng              | 5        |
-| ![](<../.gitbook/assets/12216 (1).png>) Cuộn Tăng Tốc          | 10       |
-| ![](../.gitbook/assets/606.png) Lô Hội                       | 2        |
-| ![](../.gitbook/assets/7620.png) Oridecon Tinh Chế           | 1        |
-| ![](../.gitbook/assets/12213.png) Neuralizer                   | 1        |
-| ![](../.gitbook/assets/6320.png) Đá Đổi Mới                   | 8        |
-| ![](../.gitbook/assets/671.png) Đồng Hoàng Gia               | 1        |
-| ![](../.gitbook/assets/31178.png) Khăn Bốc Cháy                | 1        |
-| ![](../.gitbook/assets/20561.png) Aura Điện Tím                | 1        |
-| ![](../.gitbook/assets/5031.png) Mũ Thợ Mỏ                   | 1        |
+### <mark style="background-color:orange;">Hiếm</mark>| Món đồ | Số lượng |
+
+\| -------------------------------------------------------- | -------- | | ![](../.gitbook/assets/7621.png) Bùa Ziegfried | 10 | | ![](<../.gitbook/assets/547 (2).png>) Thuốc Trắng Nhỏ | 50 | | ![](../.gitbook/assets/657.png) Thuốc Điên Cuồng | 5 | | ![](<../.gitbook/assets/12216 (1).png>) Cuộn Tăng Tốc | 10 | | ![](../.gitbook/assets/606.png) Lô Hội | 2 | | ![](../.gitbook/assets/7620.png) Oridecon Tinh Chế | 1 | | ![](../.gitbook/assets/12213.png) Neuralizer | 1 | | ![](../.gitbook/assets/6320.png) Đá Đổi Mới | 8 | | ![](../.gitbook/assets/671.png) Đồng Hoàng Gia | 1 | | ![](../.gitbook/assets/31178.png) Khăn Bốc Cháy | 1 | | ![](../.gitbook/assets/20561.png) Aura Điện Tím | 1 | | ![](../.gitbook/assets/5031.png) Mũ Thợ Mỏ | 1 |
 
 ### <mark style="background-color:red;">Huyền Thoại</mark>
 
-| Món đồ                                         | Số lượng |
-| ---------------------------------------------- | -------- |
-| ![](../.gitbook/assets/20491.png) Vương Miện Xạ Thủ                  | 1        |
+| Món đồ                                              | Số lượng |
+| --------------------------------------------------- | -------- |
+| ![](../.gitbook/assets/20491.png) Vương Miện Xạ Thủ | 1        |

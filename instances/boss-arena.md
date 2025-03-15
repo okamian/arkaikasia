@@ -1,9 +1,10 @@
 ---
 description: >-
-  "Đấu Trường Boss" là một địa điểm đặc biệt cung cấp cho người chơi cơ hội đối mặt với những ông trùm mạnh mẽ trong một môi trường được kiểm soát.
+  "Đấu Trường Boss" là một địa điểm đặc biệt cung cấp cho người chơi cơ hội đối
+  mặt với những ông trùm mạnh mẽ trong một môi trường được kiểm soát.
 ---
 
-# 🐲 Đấu Trường Boss
+# 🐲 Boss Arena
 
 * Để tham gia, cần phải đáp ứng các yêu cầu cụ thể và tuân thủ các quy tắc nhằm tối ưu hóa trải nghiệm và phần thưởng cho người tham gia.
 * Dưới đây là các chi tiết và danh mục về cơ chế của đấu trường.
@@ -17,7 +18,7 @@ description: >-
 
 ## **Phí Tham Gia**
 
-* **Phí Tham Gia:** Mỗi lần vào **Đấu Trường Boss** có giá **150k Zeny**.* Nếu người chơi chết trong phiên chơi, có thể quay lại, nhưng phải trả lại phí vào cửa.
+* **Phí Tham Gia:** Mỗi lần vào **Đấu Trường Boss** có giá **150k Zeny**.\* Nếu người chơi chết trong phiên chơi, có thể quay lại, nhưng phải trả lại phí vào cửa.
 * **Thời gian truy cập:** Sau khi vào, người chơi sẽ có **4 giờ liên tục** để ở lại trong đấu trường.
 * Đồng hồ bắt đầu đếm ngay khi người chơi vào đấu trường.
 * **Quan trọng:** Thời gian không được cộng dồn. Nếu người chơi chỉ sử dụng **1 giờ** và rời đi, thời gian còn lại sẽ bị mất.
@@ -33,28 +34,30 @@ description: >-
 
 {% tabs %}
 {% tab title="Phòng" %}
-## **Các loại phòng**
+### **Các loại phòng**
 
-### **Phòng công cộng:**
+#### **Phòng công cộng:**
 
 * Có 2 phòng công cộng, nơi người chơi có thể chọn vào phòng ít đông hơn.
-* Một <mark style="color:red;">**phòng công cộng**</mark> có thời gian sử dụng là **4 giờ** sau khi trả phí **150k Zeny**.<figure><img src="../.gitbook/assets/4441.png" alt=""><figcaption><p><mark style="color:red;"><strong>Truy cập vào phòng công cộng.</strong></mark></p></figcaption></figure>
+*   Một <mark style="color:red;">**phòng công cộng**</mark> có thời gian sử dụng là **4 giờ** sau khi trả phí **150k Zeny**.
 
-### **Phòng Riêng:**
+    <figure><img src="../.gitbook/assets/4441.png" alt=""><figcaption><p><mark style="color:red;"><strong>Truy cập vào phòng công cộng.</strong></mark></p></figcaption></figure>
+
+#### **Phòng Riêng:**
 
 * Có thể mua một **phòng riêng độc quyền** cho **đội (PT)** của bạn với giá **3kk Zeny**.
 * Một <mark style="color:red;">**phòng riêng**</mark> cũng kéo dài trong **4 giờ**, và chỉ **các thành viên PT** mới có quyền truy cập.
 {% endtab %}
 
 {% tab title="Boss Coin" %}
-## **Giới Hạn Farm Boss Coin**
+### **Giới Hạn Farm Boss Coin**
 
 * Giới hạn tối đa hàng ngày là **500 "Boss Coins"** cho mỗi người chơi.
 * Sau khi đạt giới hạn, người chơi vẫn có thể tiếp tục hỗ trợ đội của mình, nhưng <mark style="color:red;">**sẽ không nhận thêm Boss Coins**</mark><mark style="color:red;">.</mark>
 
 <figure><img src="../.gitbook/assets/555.png" alt=""><figcaption><p><mark style="color:red;"><strong>Minh họa về Giới Hạn Boss Coin.</strong></mark></p></figcaption></figure>
 
-## **Xác Suất Rơi Boss Coin**Cơ hội nhận được Boss Coins **liên quan trực tiếp đến HP của kẻ thù bị đánh bại**.
+### **Xác Suất Rơi Boss Coin**Cơ hội nhận được Boss Coins **liên quan trực tiếp đến HP của kẻ thù bị đánh bại**.
 
 * **Xác suất rơi theo HP:**
   * Mỗi **200k HP** có **10% cơ hội** nhận được <mark style="color:red;">**1 Coin**</mark>. _(Ví dụ, lên đến 200k = 10%, 400k = 20%, và cứ như vậy...)_
@@ -63,45 +66,47 @@ description: >-
 {% endtab %}
 
 {% tab title="Quái vật" %}
-## **Boss và Mini-Boss**
+### **Boss và Mini-Boss**
 
 * Tất cả các Boss hiện tại <mark style="color:red;">(Ngoại trừ những Boss từ Eldoria)</mark>.
 * Tất cả các Mini-Boss hiện có.
 
-### **Điểm nổi bật**
+#### **Điểm nổi bật**
 
 * Chúng không rơi đồ.
 * Chúng không cho kinh nghiệm.
 
-### **MVPS**<table><thead><tr><th width="83">IMG</th><th width="227">Tên</th><th>Cơ hội</th><th>Boss Coin</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/2202.png" alt=""></td><td>Kraken</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2194.png" alt=""></td><td>Octopus Khổng Lồ</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1059.png" alt=""></td><td>Queen Bee</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1086.png" alt=""></td><td>Bọ Trộm Vàng</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1150.png" alt=""></td><td>Hoa Luar</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1159.png" alt=""></td><td>Freeoni</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1147.png" alt=""></td><td>Maya</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1115.png" alt=""></td><td>Eddga</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1046.png" alt=""></td><td>Doppelganger</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1389.png" alt=""></td><td>Dracula</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1112.png" alt=""></td><td>Drake</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1038.png" alt=""></td><td>Osíris</td><td>100%</td><td>4</td></tr><tr><td><img src="../.gitbook/assets/1157.png" alt=""></td><td>Pharaoh</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1312.png" alt=""></td><td>Tướng Rùa</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1688.png" alt=""></td><td>Lady Tanee</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/20571.png" alt=""></td><td>Orc Hero</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/3902.png" alt=""></td><td>Orc Lord</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1623.png" alt=""></td><td>RSX 0806</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1511.png" alt=""></td><td>Amon Ra</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1039.png" alt=""></td><td>Baphomet</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1373.png" alt=""></td><td>Chúa Tể Cõi Chết</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1583.png" alt=""></td><td>Tao Gunka</td><td>100%</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/1251 (1).png" alt=""></td><td>Hiệp Sĩ Bão Tố</td><td>100%</td><td>25</td></tr><tr><td><img src="../.gitbook/assets/1252 (1).png" alt=""></td><td>Hatii</td><td>100%</td><td>25</td></tr><tr><td><img src="../.gitbook/assets/download.png" alt=""></td><td>Detardeurus</td><td>100%</td><td>25</td></tr></tbody></table>### Mini-Bosses
+#### **MVPS**### Mini-Bosses
 
-<table><thead><tr><th width="81">IMG</th><th width="223">Tên</th><th>Cơ hội</th><th>Xu</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1091.png" alt=""></td><td>Chuồn chuồn</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1092.png" alt=""></td><td>Chó sói lang thang</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1093.png" alt=""></td><td>Nguyệt thực</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1096.png" alt=""></td><td>Thiên thần</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2933.png" alt=""></td><td>Quỷ nhỏ</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1307.png" alt=""></td><td>Mèo chín đuôi</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1012.png" alt=""></td><td>Ếch</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2041.png" alt=""></td><td>Mysteltainn</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1289.png" alt=""></td><td>Maya đực</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1204.png" alt=""></td><td>Tirfing</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1205.png" alt=""></td><td>Người thi hành</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1259.png" alt=""></td><td>Griffon</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1262.png" alt=""></td><td>Rồng đột biến</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1388.png" alt=""></td><td>Thiên thần tối cao</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1120.png" alt=""></td><td>Ma vòng</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1302.png" alt=""></td><td>Ảo ảnh của bóng tối</td><td>70%</td><td>1</td></tr></tbody></table>{% endtab %}
+<table><thead><tr><th width="81">IMG</th><th width="223">Tên</th><th>Cơ hội</th><th>Xu</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1091.png" alt=""></td><td>Chuồn chuồn</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1092.png" alt=""></td><td>Chó sói lang thang</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1093.png" alt=""></td><td>Nguyệt thực</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1096.png" alt=""></td><td>Thiên thần</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2933.png" alt=""></td><td>Quỷ nhỏ</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1307.png" alt=""></td><td>Mèo chín đuôi</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1012.png" alt=""></td><td>Ếch</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/2041.png" alt=""></td><td>Mysteltainn</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1289.png" alt=""></td><td>Maya đực</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1204.png" alt=""></td><td>Tirfing</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1205.png" alt=""></td><td>Người thi hành</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1259.png" alt=""></td><td>Griffon</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1262.png" alt=""></td><td>Rồng đột biến</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1388.png" alt=""></td><td>Thiên thần tối cao</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1120.png" alt=""></td><td>Ma vòng</td><td>70%</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/1302.png" alt=""></td><td>Ảo ảnh của bóng tối</td><td>70%</td><td>1</td></tr></tbody></table>
+{% endtab %}
 
 {% tab title="Nhóm" %}
-## Về Nhóm (PTs)
+### Về Nhóm (PTs)
 
 Khi một người chơi tham gia vào một nhóm (PT), việc rơi Insignias hoạt động như sau:
 
 * Chỉ những người chơi có cấp độ 90 trở lên mới có thể tham gia.
 * Không có giới hạn về số lượng người chơi trong nhóm (ngoại trừ chính nhóm đó) và không có hình phạt rơi đồ.
 
-#### Về Rơi Đồ
+**Về Rơi Đồ**
 
 * Không có hình phạt cho những người chơi trong nhóm; mọi người đều nhận được tiền xu khi có đồ rơi.
 * <mark style="color:red;">**Việc rơi tiền xu là cho toàn bộ nhóm.**</mark>
 * <mark style="color:red;">**Khi một Boss rơi tiền xu, mọi người sẽ nhận được số lượng bằng nhau.**</mark>
 
-#### Địa Điểm Xuất Hiện
+**Địa Điểm Xuất Hiện**
 
 * Bên trong khu vực, sẽ có một khu vực an toàn nơi mọi người có thể chuẩn bị trước khi ra ngoài.
 * Địa điểm này đóng vai trò như một "sảnh" để người chơi tìm kiếm và tạo các nhóm mới hoặc tìm những người chơi mới để tạo nhóm.
 {% endtab %}
 
-{% tab title="Cửa Hàng Đồ" %}* Gần NPC **"Satella"**, bạn sẽ tìm thấy NPC **"<mark style="color:red;">**Beterin, The Trader**</mark>"**.
+{% tab title="Cửa Hàng Đồ" %}
+* Gần NPC **"Satella"**, bạn sẽ tìm thấy NPC **"**<mark style="color:red;">**Beterin, The Trader**</mark>**"**.
 
 <figure><img src="../.gitbook/assets/55666.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Beterin, The Trader, chịu trách nhiệm trao đổi Boss Coins.</strong></mark></p></figcaption></figure>
 
-## Về Cửa Hàng
+### Về Cửa Hàng
 
 * Mỗi **MVP** và **Mini-Boss** đều có một cửa hàng với TẤT CẢ các vật phẩm mà chúng rơi <mark style="color:red;">(</mark><mark style="color:red;">**Ngoại trừ thẻ và đá quý**</mark><mark style="color:red;">)</mark>.
 * Giá của mỗi vật phẩm rơi từ boss dựa trên tỷ lệ rơi của vật phẩm đó.
