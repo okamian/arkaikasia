@@ -1,8 +1,8 @@
 ---
 description: >-
   Tìm giải pháp nhanh chóng và hiệu quả cho vấn đề của bạn bằng cách tìm kiếm
-  trong danh mục tương ứng. Nếu bạn không tìm thấy những gì mình đang tìm kiếm,
-  hãy liên hệ với đội ngũ chuyên nghiệp của chún
+  trong danh mục tương ứng.Nếu bạn không tìm thấy những gì mình đang tìm
+  kiếm,hãy liên hệ với đội ngũ chuyên nghiệp chúng tôi
 ---
 
 # 🆘 Support and Help
