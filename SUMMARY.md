@@ -3,7 +3,7 @@
 ## CƠ BẢN
 
 * [🖥️ Thông Tin Máy Chủ](README.md)
-* [📘 Arkaik Introduction Guide](basics/arkaik-introduction-guide.md)
+* [📘 Hướng Dẫn Giới Thiệu Arkaik](basics/arkaik-introduction-guide.md)
 * [🔝 Vote Points](basics/vote-points.md)
 * [👑 VIP (PREMIUM) System](basics/vip-premium-system.md)
 * [✅ Become a PARTNER](basics/become-a-partner.md)
