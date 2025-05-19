@@ -4,21 +4,21 @@
 
 * [🖥️ Thông Tin Máy Chủ](README.md)
 * [📘 Hướng Dẫn Giới Thiệu Arkaik](basics/arkaik-introduction-guide.md)
-* [🔝 Vote Points](basics/vote-points.md)
-* [👑 VIP (PREMIUM) System](basics/vip-premium-system.md)
-* [✅ Become a PARTNER](basics/become-a-partner.md)
-* [🖱️ HUD & Interface](basics/hud-and-interface.md)
-* [⚠️ RMT RULES](basics/rmt-rules.md)
-* [📜 In-Game Rules](basics/in-game-rules.md)
-* [📩 How to Open a Ticket](basics/how-to-open-a-ticket.md)
-* [🆘 Support and Help](basics/support-and-help/README.md)
-  * [🪛 Common Issues (Client)Problemas Comuns (Client)](basics/support-and-help/common-issues-client-problemas-comuns-client.md)
-  * [Various Issues](basics/support-and-help/various-issues.md)
-  * [🚧 How to Install Arkaik Online](basics/support-and-help/how-to-install-arkaik-online.md)
+* [🔝 Điểm Bầu Chọn](basics/vote-points.md)
+* [👑 Hệ Thống VIP (PREMIUM)](basics/vip-premium-system.md)
+* [✅ Trở Thành ĐỐI TÁC](basics/become-a-partner.md)
+* [🖱️ HUD & Giao Diện](basics/hud-and-interface.md)
+* [⚠️ QUY TẮC RMT](basics/rmt-rules.md)
+* [📜 Quy Tắc Trong Trò Chơi](basics/in-game-rules.md)
+* [📩 Cách Mở Vé](basics/how-to-open-a-ticket.md)
+* [🆘 Hỗ Trợ Và Trợ Giúp](basics/support-and-help/README.md)
+  * [🪛 Các vấn đề chung (Khách hàng)](basics/support-and-help/common-issues-client-problemas-comuns-client.md)
+  * [Các vấn đề khác nhau](basics/support-and-help/various-issues.md)
+  * [🚧 Cách cài đặt Arkaik trực tuyến](basics/support-and-help/how-to-install-arkaik-online.md)
 
 ## SỰ KIỆN
 
-* [Waiting EVENT (ASIAN)](events/waiting-event-asian.md)
+* [Sự kiện đang chờ (Châu Á)](events/waiting-event-asian.md)
 
 ## THỬ THÁCH
 
@@ -30,29 +30,29 @@
 
 ## HỆ THỐNG
 
-* [🤖 Auto Combat](systems/auto-combat.md)
-* [🛏️ Inn](systems/inn.md)
-* [🏆 Champion Monster](systems/champion-monster.md)
-* [🥇 Achievement System](systems/achievement-system.md)
-* [📚 Collection System](systems/collection-system.md)
-* [🏆 Mastery System](systems/mastery-system.md)
-* [💎 MVP Seals](systems/mvp-seals.md)
-* [🎨 STICKERs](systems/stickers.md)
-* [🧠 SMARTCAST](systems/smartcast.md)
-* [⛏️ Mining System](systems/mining-system.md)
-* [🌎 Multi-Language](systems/multi-language.md)
-* [👾 Special Monsters](systems/special-monsters.md)
-* [🏰 Guild House](systems/guild-house.md)
-* [📜 Relic System](systems/relic-system.md)
-* [✨ Aura System](systems/aura-system.md)
-* [🛡️ Coat of Arms System](systems/coat-of-arms-system.md)
-* [💪 Potential System](systems/potential-system.md)
-* [🎰 Prize Wheel](systems/prize-wheel.md)
-* [⚛️ Gem System](systems/gem-system.md)
+* [🤖 Tự Động Chiến Đấu](systems/auto-combat.md)
+* [🛏️ Quán Trọ](systems/inn.md)
+* [🏆 Quái Vật Vô Địch](systems/champion-monster.md)
+* [🥇 Hệ Thống Thành Tích](systems/achievement-system.md)
+* [📚 Hệ Thống Thu Thập](systems/collection-system.md)
+* [🏆 Hệ Thống Mastery](systems/mastery-system.md)
+* [💎 Hệ Thống Phong Ấn](systems/mvp-seals.md)
+* [🎨 Nhãn Dán](systems/stickers.md)
+* [🧠 SmartCast](systems/smartcast.md)
+* [⛏️ Hệ Thống Khai Thác](systems/mining-system.md)
+* [🌎 Đa Ngôn Ngữ](systems/multi-language.md)
+* [👾 Quái Vật Đặc Biệt](systems/special-monsters.md)
+* [🏰 Hệ Thống Nhà Guild](systems/guild-house.md)
+* [📜 Hệ Thống Di Tích](systems/relic-system.md)
+* [✨ Hệ Thống Aura](systems/aura-system.md)
+* [🛡️ Hệ Thống Huy Hiệu](systems/coat-of-arms-system.md)
+* [💪 Hệ Thống Tiềm Năng](systems/potential-system.md)
+* [🎰 Vòng Quay Giải Thưởng](systems/prize-wheel.md)
+* [⚛️ Hệ Thống Đá Quý](systems/gem-system.md)
 
 ## NGHỀ NGHIỆP
 
-* [📗 Class Guides](jobs/class-guides/README.md)
+* [📗 Về Các Lớp](jobs/class-guides/README.md)
   * [\[Novice\]](jobs/class-guides/novice.md)
   * [\[Swordman\]](jobs/class-guides/swordman.md)
   * [\[Archer\]](jobs/class-guides/archer.md)
@@ -74,19 +74,20 @@
   * [\[Monk\]](jobs/class-guides/monk.md)
   * [\[Blacksmith\]](jobs/class-guides/blacksmith.md)
   * [\[Alchemist\]](jobs/class-guides/alchemist.md)
-* [📊 Attributes & Stats](jobs/attributes-and-stats.md)
-* [🔥 Element Guide](jobs/element-guide.md)
-* [💰 Daily/Guild Mission Guide \[Farm\]](jobs/daily-guild-mission-guide-farm.md)
-* [🛒 Shops and NPCs](jobs/shops-and-npcs.md)
-* [🏦 Banker](jobs/banker.md)
-* [🚧 Item Crafting](jobs/item-crafting.md)
-* [🐶 Pets and Evolutions](jobs/pets-and-evolutions.md)
+* [📊 Thuộc Tính & Thống Kê](jobs/attributes-and-stats.md)
+* [🔥 Bảng Nguyên Tố](jobs/element-guide.md)
+* [💰 Hướng Dẫn Nhiệm Vụ Hàng Ngày/Bang Hội \[Nông trại\]](jobs/daily-guild-mission-guide-farm.md)
+* [🛒 Cửa Hàng và NPC](jobs/shops-and-npcs.md)
+* [🏦 Ngân Hàng](jobs/banker.md)
+* [🚧 Chế Tạo Vật Phẩm Đặc Thù Các Lớp](jobs/item-crafting.md)
+* [🐶 Thú Cưng và Sự Tiến Hóa](jobs/pets-and-evolutions.md)
 
 ## Cửa hàng CashShop
 
 * [🎫 Battle Pass](cashshop/battle-pass.md)
 * [🛍️ Shop](cashshop/shop.md)
 
-## TẬP PHIM MỚI
+## &#x20;NEW
 
-* [🌄 EP. Louyang](new-episodes/ep.-louyang.md)
+* [🌄 EP. Louyang](new/ep.-louyang.md)
+* [🌃EP. Lutie](new/ep.-lutie.md)
