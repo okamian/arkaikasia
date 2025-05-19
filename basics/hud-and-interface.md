@@ -5,9 +5,9 @@ description: >-
   cựu Ragnarok,có thể cảm thấy hơi bối rối lúc đầu.
 ---
 
-# 🖱️ HUD & Interface
+# 🖱️ HUD & Giao Diện
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Về HUD**
 

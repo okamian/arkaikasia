@@ -91,3 +91,4 @@
 
 * [🌄 EP. Louyang](new/ep.-louyang.md)
 * [🌃EP. Lutie](new/ep.-lutie.md)
+* [🏞️ EP. Eldoriage](new/ep.-eldoriage.md)
