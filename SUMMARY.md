@@ -91,4 +91,4 @@
 
 * [🌄 EP. Louyang](new/ep.-louyang.md)
 * [🌃EP. Lutie](new/ep.-lutie.md)
-* [🏞️ EP. Eldoriage](new/ep.-eldoriage.md)
+* [🏞️ EP. Eldoriage và HƯỚNG DẪN NHIỆM VỤ CHÍNH](new/ep.-eldoriage-va-huong-dan-nhiem-vu-chinh.md)
