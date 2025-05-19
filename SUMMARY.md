@@ -2,7 +2,7 @@
 
 ## CƠ BẢN
 
-* [🖥️ Server Information](README.md)
+* [🖥️ Thông Tin Máy Chủ](README.md)
 * [📘 Arkaik Introduction Guide](basics/arkaik-introduction-guide.md)
 * [🔝 Vote Points](basics/vote-points.md)
 * [👑 VIP (PREMIUM) System](basics/vip-premium-system.md)
