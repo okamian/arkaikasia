@@ -4,7 +4,7 @@ description: >-
   Pháp sư, và Tăng nhân—mọi người đều có mặt ở đây.
 ---
 
-# 🚧 Item Crafting
+# 🚧 Chế Tạo Vật Phẩm Đặc Thù Các Lớp
 
 **Chế tạo là một cơ chế có sẵn cho một số lớp nhân vật, cho phép bạn tạo ra các vật phẩm.**
 
@@ -81,14 +81,14 @@ description: >-
 #### Mũi Tên Choáng
 {% endtab %}
 
-{% tab title="Acolyte" %}
+{% tab title="Người giúp lễ" %}
 * **Người mới** có thể tạo ra **"Nước Thánh"**.
 * **ĐỂ SẢN XUẤT NƯỚC THÁNH, BẠN PHẢI ĐỨNG TRÊN BẤT KỲ BỀ MẶT NƯỚC NÀO.**
 * Dùng cho **Aspersio**.
 * Dùng cho **nhiệm vụ của Crusader**.
 * Có thể bán trong **"**<mark style="color:red;">**Thị Trường Toàn Cầu**</mark>**"**.
 
-<figure><img src="../.gitbook/assets/44112.png" alt=""><figcaption><p><mark style="color:red;">Hình minh họa của "Người mới".</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44112.png" alt=""><figcaption><p><mark style="color:red;">Hình minh họa của "Người giúp lễ".</mark></p></figcaption></figure>
 
 ### **Nước Thánh**
 {% endtab %}
@@ -115,11 +115,11 @@ description: >-
 ### Đá Cơ Bản
 {% endtab %}
 
-{% tab title="Alchimist" %}
+{% tab title="Thương Gia" %}
 * **Alchemist** có thể tạo ra nhiều loại **thuốc** khác nhau.
 * Bạn có thể tạo thuốc bằng cách mở **ALT+S** và sử dụng kỹ năng **"Dược Phẩm"**.
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về "Alchemist"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về "Thương Gia"</strong></mark></p></figcaption></figure>
 
 ### Thuốc HP/SP## Thuốc HP Compact## **Đồ Phủ**
 
@@ -136,11 +136,11 @@ description: >-
 ### Đồ vật để gây sát thương
 {% endtab %}
 
-{% tab title="Sage" %}
+{% tab title="Nhà Hiền Triết" %}
 * **Sage** có thể tạo ra **Bộ Chuyển Đổi Nguyên Tố**.
 * Chúng có thể được **xếp chồng** và bán trên **Thị Trường Toàn Cầu.**
 
-<figure><img src="../.gitbook/assets/33333111111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa của "Sage"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/33333111111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa của "Nhà Hiền Triết"</strong></mark></p></figcaption></figure>
 
 ### **Bộ Chuyển Đổi Nguyên Tố**
 {% endtab %}
