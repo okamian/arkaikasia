@@ -50,6 +50,10 @@
 * [🎰 Vòng Quay Giải Thưởng](systems/prize-wheel.md)
 * [⚛️ Hệ Thống Đá Quý](systems/gem-system.md)
 
+***
+
+* [💹 Thị Trường Toàn Cầu](thi-truong-toan-cau.md)
+
 ## NGHỀ NGHIỆP
 
 * [📗 Về Các Lớp](jobs/class-guides/README.md)
