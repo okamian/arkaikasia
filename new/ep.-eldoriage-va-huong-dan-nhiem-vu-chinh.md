@@ -5,7 +5,7 @@ description: >-
   dám xâm phạm lãnh thổ của chúng.
 ---
 
-# 🏞️ EP. Eldoriage
+# 🏞️ EP. Eldoriage và HƯỚNG DẪN NHIỆM VỤ CHÍNH
 
 ## Làm thế nào để truy cập Eldoriage
 
@@ -82,11 +82,13 @@ description: >-
     \
     **1.6 \[ Giúp Lupina ] Phần 1/2**
 * Khi nói chuyện với "Lupina" lần nữa, cô ấy sẽ yêu cầu bạn mang đến một "Viên ngọc" từ bất kỳ quái vật nào trong "Zero Sewer".
-* Để có được Đá quý, hãy nói chuyện với "Người tuyển dụng cống rãnh".
-* Sau khi lấy được "Đá quý" từ bất kỳ quái vật cống rãnh nào, hãy quay lại gặp Lupina để trao nó.
+* Để vào được cống rãnh Zero, hãy gặp lần lượt "Người tuyển dụng cống rãnh 1 và 2 và quay lại 1 để anh ấy đưa bạn vào cống rãnh".
+* Sau khi lấy được "Đá quý" bằng cách đánh và nhặt( có tỉ lệ rơi thấp) từ bất kỳ quái vật cống rãnh nào, hãy quay lại gặp Lupina để trao nó.
 * Bạn sẽ nhận được \[1x![](https://roakaiksea.gitbook.io/~gitbook/image?url=https%3A%2F%2F719346718-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F5dw75qmKGvVS4vVNTE1B%252Fuploads%252Fgit-blob-88bdf89e5d94092a8b9b691e7717a6e1fa96b2eb%252Fimage%2520%28417%29.png%3Falt%3Dmedia\&width=300\&dpr=4\&quality=100\&sign=637adbd0\&sv=2)Đánh bóng đá quý] như một phần thưởng.
 
-<figure><img src="../.gitbook/assets/image (416).png" alt=""><figcaption><p>Địa điểm Lupina yêu cầu bạn đến.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (416).png" alt=""><figcaption><p>đến đây gặp nhân viên cống rãnh 1</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (492).png" alt="" width="375"><figcaption><p>đến đây gặp nhân viên cống rãnh 2</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (418).png" alt=""><figcaption><p>Vị trí để có được Đá quý.</p></figcaption></figure>
 
