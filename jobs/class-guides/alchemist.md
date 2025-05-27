@@ -14,7 +14,13 @@ description: Các nhà giả kim chuyên về thuốc và việc tạo ra sự s
 
 {% tabs %}
 {% tab title="Kỹ Năng " %}
-### **Kỹ Năng**
+## Kỹ Năng
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 {% endtab %}
 
 {% tab title="Bậc Thầy" %}
