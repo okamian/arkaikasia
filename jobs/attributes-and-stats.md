@@ -20,7 +20,7 @@ description: >-
 
 {% tabs %}
 {% tab title="STR" %}
-## <mark style="color:red;">**Strength (STR)**</mark>
+### <mark style="color:red;">**Strength (STR)**</mark>
 
 * Each **1** point in **"**<mark style="color:red;">**STR**</mark>**"** grants you some bonuses.
 
@@ -28,7 +28,7 @@ description: >-
 {% endtab %}
 
 {% tab title="AGI" %}
-## <mark style="color:orange;">**Agility (AGI)**</mark>
+### <mark style="color:orange;">**Agility (AGI)**</mark>
 
 * Each **1** point in **"**<mark style="color:orange;">**AGI**</mark>**"** grants you some bonuses.
 
@@ -36,7 +36,7 @@ description: >-
 {% endtab %}
 
 {% tab title="VIT" %}
-## <mark style="color:green;">**Vitality (VIT)**</mark>
+### <mark style="color:green;">**Vitality (VIT)**</mark>
 
 * Each **1** point in **"**<mark style="color:green;">**VIT**</mark>**"** grants you some bonuses.
 
@@ -44,7 +44,7 @@ description: >-
 {% endtab %}
 
 {% tab title="INT" %}
-## <mark style="color:blue;">**Intelligence (INT)**</mark>
+### <mark style="color:blue;">**Intelligence (INT)**</mark>
 
 * Each **1** point in **"**<mark style="color:blue;">**INT**</mark>**"** grants you some bonuses.
 
@@ -52,7 +52,7 @@ description: >-
 {% endtab %}
 
 {% tab title="DEX" %}
-## <mark style="color:purple;">**Dexterity (DEX)**</mark>
+### <mark style="color:purple;">**Dexterity (DEX)**</mark>
 
 * Each **1** point in **"**<mark style="color:purple;">**DEX**</mark>**"** grants you some bonuses.
 
@@ -60,7 +60,7 @@ description: >-
 {% endtab %}
 
 {% tab title="LUK" %}
-## <mark style="color:yellow;">**Luck (LUK)**</mark>
+### <mark style="color:yellow;">**Luck (LUK)**</mark>
 
 * Each **1** point in **"**<mark style="color:yellow;">**LUK**</mark>**"** grants you some bonuses.
 

@@ -4,9 +4,11 @@ description: >-
   Discord or WhatsApp.
 ---
 
-# 🪛 Common Issues (Client)Problemas Comuns (Client)
+# 🪛 Common Issues (Client)
 
 ## Arkaik.exe opens, but when clicking "Play," nothing happens, and it closes
+
+{% embed url="https://youtu.be/alrPDAo3cx0" %}
 
 **Cause:**
 
@@ -16,14 +18,15 @@ description: >-
 Go to:\
 ➡ **Windows Security** > **App & Browser Control** > **Exploit Protection Settings** > **Program Settings (Top Tab)** > **(+) Add a Program to Customize**
 
-Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)\
+Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt="" width="563"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (150).png" alt="" width="410"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="410"><figcaption></figcaption></figure>
 
 ## **Arkaik.exe does not open, is not in the task manager, and no error appears**
+
+{% embed url="https://youtu.be/7MElYRZ4p8w" %}
 
 **Cause:**
 
@@ -38,11 +41,13 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 ## **Error: Cannot find File with special characters "????"**
 
+{% embed url="https://youtu.be/2HYe4efWQus" %}
+
 **Problem:**
 
 * When running `Client.exe`, after selecting a character, the game displays special characters as `???`, causing it to **crash**.
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Cause:**
 
@@ -53,9 +58,11 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 🔹 **Uncheck** the **UNICODE UTF-8** box if it is enabled, restart, and test the game.
 
-<figure><img src="../../.gitbook/assets/image (152).png" alt="" width="329"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="329"><figcaption></figcaption></figure>
 
 ## **Error in Client.exe: "Cannot init d3d OR grf file has problem" or White Screen**
+
+{% embed url="https://youtu.be/Spq8HxAYCW0" %}
 
 <figure><img src="../../.gitbook/assets/Cannot_init_d3d_or_grf_file_has_problem.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -94,7 +101,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 If the game **runs but has errors** (_like missing textures or incorrect visuals_), proceed to the **next solution**.
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt="" width="387"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="387"><figcaption></figcaption></figure>
 
 \
 **Additional Solution: "Cannot init d3d OR grf file has problem"**
@@ -113,16 +120,18 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 [<mark style="color:purple;">Link do Video Tutorial</mark>](https://www.youtube.com/watch?v=2dStctdLMeE)
 
-<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## **Error Loading Arkaik.exe Modules Before the Login Screen (Date & Time)**
+
+{% embed url="https://youtu.be/_AesF-DFHbs" %}
 
 **Problem:**
 
 * When opening **Arkaik.exe**, during the module loading process, a **red error** appears stating:\
   &#xNAN;**"Server failed to authenticate the request"**.
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Cause:**
 
@@ -133,7 +142,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 1. **Go to:**
    * **Control Panel** > **Date & Time** > **Sync Now**
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt="" width="332"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="332"><figcaption></figcaption></figure>
 
 1. Open the **classic Date & Time settings** in Windows.
 2. **Manually adjust** the date and time.
@@ -144,21 +153,25 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 **If the Problem Persists:**
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption><p><mark style="color:red;"><strong>Click on Internet Time</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p><mark style="color:red;"><strong>Click on Internet Time</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p><mark style="color:red;"><strong>Change Time Zone</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p><mark style="color:red;"><strong>Change Time Zone</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ## **Error: Failed to get updates URL (when opening arkaik.exe)**
+
+{% embed url="https://youtu.be/zMdliegZya8" %}
 
 **Problem:** When running **arkaik.exe**, an update error appears: **"Failed to get updates URL"**, meaning the update server rejected the connection.
 
 **Solution:** Download **https://1.1.1.1**. If the issue persists, **Cloudflare** can optimize the best route for your internet.
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## **Colored Squares Screen When Running Client.exe**
+
+{% embed url="https://youtu.be/b4LLXuUrKoc" %}
 
 <figure><img src="../../.gitbook/assets/800px-Tela_com_quadrados_coloridos_arkaik_online.png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -9,19 +9,19 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Sarina-1250x300.png" alt=""><figcaption></figcaption></figure>
 
-* ### [**System Requirements**](how-to-install-arkaik-online.md#system-requirements-1)
-* ### [**Account Registration**](how-to-install-arkaik-online.md#account-registration-1)
-* ### [**Client Download**](how-to-install-arkaik-online.md#client-download-1)
-* ### [**Client Extraction**](how-to-install-arkaik-online.md#client-extraction-1)
-* ### [**Game Installation**](how-to-install-arkaik-online.md#game-installation-1)
-* ### [**Client Update**](how-to-install-arkaik-online.md#client-update-1)
-* ### [**Graphics and Sound Configuration**](how-to-install-arkaik-online.md#graphics-and-sound-configuration-1)
-* ### [**Starting the Game**](how-to-install-arkaik-online.md#starting-the-game-1)
-* ### [**Common Problem Solutions**](how-to-install-arkaik-online.md#common-problem-solutions-1)
+* #### [**System Requirements**](how-to-install-arkaik-online.md#system-requirements-1)
+* #### [**Account Registration**](how-to-install-arkaik-online.md#account-registration-1)
+* #### [**Client Download**](how-to-install-arkaik-online.md#client-download-1)
+* #### [**Client Extraction**](how-to-install-arkaik-online.md#client-extraction-1)
+* #### [**Game Installation**](how-to-install-arkaik-online.md#game-installation-1)
+* #### [**Client Update**](how-to-install-arkaik-online.md#client-update-1)
+* #### [**Graphics and Sound Configuration**](how-to-install-arkaik-online.md#graphics-and-sound-configuration-1)
+* #### [**Starting the Game**](how-to-install-arkaik-online.md#starting-the-game-1)
+* #### [**Common Problem Solutions**](how-to-install-arkaik-online.md#common-problem-solutions-1)
 
 ### **System Requirements**
 
-| Component	          | Minimum Requirements                   |
+| Component           | Minimum Requirements                   |
 | ------------------- | -------------------------------------- |
 | Operating System    | Windows 10 or higher                   |
 | Processor           | Dual Core 2.0 GHz                      |
@@ -116,8 +116,6 @@ During some updates, the game may require **specific functionalities** from **.N
 
 (Next steps would likely include downloading and installing .NET 8—if needed, let me know!)
 
-
-
 <figure><img src="../../.gitbook/assets/Net8.png" alt=""><figcaption></figcaption></figure>
 
 If you receive the message (or encounter the error listed below), follow these steps to install **.NET 8**:
@@ -136,7 +134,7 @@ If installing **.NET Framework** does not resolve the problem or you still see t
 2. Try updating **Windows** to ensure all necessary dependencies are installed.
 3. Check if your **antivirus or firewall** is blocking the game's installation or execution after the update.
 
-| Common Error	                         | Suggested Solution                                      |
+| Common Error                          | Suggested Solution                                      |
 | ------------------------------------- | ------------------------------------------------------- |
 | .NET 8 installer does not open        | Check administrative permissions and restart your PC.   |
 | .NET 8 installation fails             | Update Windows and try installing again.                |

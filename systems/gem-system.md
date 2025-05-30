@@ -13,7 +13,7 @@ description: >-
 {% endtab %}
 
 {% tab title=" List of New Gems" %}
-## Lista: 27/02/25
+### Lista: 27/02/25
 
 * **Detardeurus Gem** _(MVP)_
 * **Vesper Gem** _(MVP)_
@@ -44,7 +44,7 @@ description: >-
 
 {% tabs %}
 {% tab title="About Gems" %}
-## **Characteristics**
+### **Characteristics**
 
 * **The stronger the monster, the harder it is to obtain its gem.** The chance of obtaining a monster's gem can range from <mark style="color:red;">**0.01% to 100%**</mark><mark style="color:red;">.</mark>
 * **Gems do not stack their effects.** For example, if you have a dagger with a **Poring Gem** and boots with another **Poring Gem**, the effect is **applied only once**.
@@ -52,20 +52,20 @@ description: >-
 * **Unlike Cards, Gems can be attached to any equipment** that has an **available gem slot**, regardless of type.
 * **Gems can be removed** using the skill **"**<mark style="color:red;">**Never Had Luck**</mark>**"**.
 
-## **Types of Gems**
+### **Types of Gems**
 
 * There are currently **3 types of Gems** on the server.
 
 <table><thead><tr><th width="110">Image</th><th>Description</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Base_MVP.png" alt=""></td><td>MVP Gems are <mark style="color:yellow;">gold-colored</mark>.</td></tr><tr><td><img src="../.gitbook/assets/Base_miniboss.png" alt=""></td><td>Mini-Boss Gems are <mark style="color:blue;">blue-colored</mark>.</td></tr><tr><td><img src="../.gitbook/assets/Base_comum.png" alt=""></td><td>Common Gems are <mark style="color:purple;">purple-colored</mark>.</td></tr></tbody></table>
 
-## **Attaching a Gem**
+### **Attaching a Gem**
 
 * **Left-click** on the gem in your inventory.
 * The following screen will appear.
 
 <figure><img src="../.gitbook/assets/212.png" alt=""><figcaption><p><mark style="color:red;"><strong>Right-Clicking to Inspect the Gem</strong></mark></p></figcaption></figure>
 
-## **How to Attach a Gem**
+### **How to Attach a Gem**
 
 1. **Click on an item**, then press the **"**<mark style="color:red;">**Add**</mark>**"** button.
 2. A <mark style="color:red;">**confirmation message**</mark> will appear in your chat.
@@ -75,7 +75,7 @@ description: >-
 {% endtab %}
 
 {% tab title="STR" %}
-## Atrributes
+### Atrributes
 
 | Monster                 | Effect                                          |
 | ----------------------- | ----------------------------------------------- |
@@ -87,7 +87,7 @@ description: >-
 | Minorous Gem            | STR +3                                          |
 | Deniro Gem              | SSTR +2                                         |
 
-## **Attack Gems**
+### **Attack Gems**
 
 | Monster       | Effect           |
 | ------------- | ---------------- |
@@ -96,7 +96,7 @@ description: >-
 | Skeleton Gem  | ATK +4.          |
 | Matyr Gem     | +3 basic attack. |
 
-## **Close-Range Damage**
+### **Close-Range Damage**
 
 | Monster      | Effect                                          |
 | ------------ | ----------------------------------------------- |
@@ -104,7 +104,7 @@ description: >-
 {% endtab %}
 
 {% tab title="AGI" %}
-## Attributes
+### Attributes
 
 | Monster       | Effect  |
 | ------------- | ------- |
@@ -113,7 +113,7 @@ description: >-
 | Wild Rose Gem | AGI +2. |
 | Swordfish Gem | AGI +3. |
 
-## **Attack Speed**
+### **Attack Speed**
 
 | Monster             | Effect                            |
 | ------------------- | --------------------------------- |
@@ -121,7 +121,7 @@ description: >-
 | Dark Nightmare Gem  | +2% attack speed.                 |
 | Chimera Gem         | **+3 attack speed**.              |
 
-## **Movement Speed**
+### **Movement Speed**
 
 | Monster    | Effect                   |
 | ---------- | ------------------------ |
@@ -135,7 +135,7 @@ description: >-
 | Verit Gem  | **+3% movement speed**.  |
 | Wolf Gem   | **+10% movement speed**. |
 
-## **Perfect Dodge and Dodge**
+### **Perfect Dodge and Dodge**
 
 | Monster       | Effect                                          |
 | ------------- | ----------------------------------------------- |
@@ -154,7 +154,7 @@ description: >-
 {% endtab %}
 
 {% tab title="VIT" %}
-## Attributes
+### Attributes
 
 | Monster           | Effect                                                     |
 | ----------------- | ---------------------------------------------------------- |
@@ -168,7 +168,7 @@ description: >-
 | Piere Gem         | **+3 Vitality**.                                           |
 | Poring Gem        | **+1 Vitality**.                                           |
 
-## Life (HP Boosting Gems)
+### Life (HP Boosting Gems)
 
 | Monster         | Effect                                             |
 | --------------- | -------------------------------------------------- |
@@ -183,7 +183,7 @@ description: >-
 | Ant Egg Gem     | **+50 Max HP**.                                    |
 | Green Ferus Gem | **+380 Max HP, +2 Vitality, -100 Max SP**.         |
 
-## **HP Recovery**
+### **HP Recovery**
 
 | Monster             | Effect                                                                                              |
 | ------------------- | --------------------------------------------------------------------------------------------------- |
@@ -191,14 +191,14 @@ description: >-
 | Nereid Gem          | +10% natural HP recovery.                                                                           |
 | Marin Gem           | +10% natural HP recovery.                                                                           |
 
-## HP Recovery by Attacks
+### HP Recovery by Attacks
 
 | Monster     | Effect                                                                   |
 | ----------- | ------------------------------------------------------------------------ |
 | Obeaune Gem | Recovers **50 HP** when landing basic attacks on **fish-type monsters**. |
 | Strouf Gem  | Recovers **50 SP** when landing basic attacks on **fish-type monsters**. |
 
-## **Physical Defense**
+### **Physical Defense**
 
 | Monster        | Effect                             |
 | -------------- | ---------------------------------- |
@@ -211,7 +211,7 @@ description: >-
 | Andre Gem      | **DEF +2**.                        |
 | Skeleton Gem   | **Reduces DEF by 2%**.             |
 
-## Damage Reduction (Physical & Magical)
+### Damage Reduction (Physical & Magical)
 
 | Monster           | Effect                                                                  |
 | ----------------- | ----------------------------------------------------------------------- |
@@ -223,14 +223,14 @@ description: >-
 | Ghoul Gem         | IStops **natural SP recovery**. **Reduces melee damage taken by 2%**.   |
 | Mechatree Gem     | **Reduces damage received from large monsters by 7%**. **+170 Max HP**. |
 
-## **Magical Defense**
+### **Magical Defense**
 
 | Monster                                                                   | Effect                   |
 | ------------------------------------------------------------------------- | ------------------------ |
 | Obsidian Gem                                                              | **+7% magical defense**. |
 | [G](https://arkaikonline.com/database/items?search=9954)Thief Bug Egg Gem | **MDEF +4**.             |
 
-## Resistência Elemental e Efeitos
+### Resistência Elemental e Efeitos
 
 | Monster             | Effect                                                                              |
 | ------------------- | ----------------------------------------------------------------------------------- |
@@ -258,7 +258,7 @@ description: >-
 | Mi Gao Gem          | **-5% damage taken from ranged (physical/magical) attacks during War of Emperium**. |
 | Giant Drone Gem     | **-5% damage received from Wind**.                                                  |
 
-## **Healing Bonus**
+### **Healing Bonus**
 
 | Monster            | Effect                                                                                   |
 | ------------------ | ---------------------------------------------------------------------------------------- |
@@ -270,7 +270,7 @@ description: >-
 | Thief Bug Egg Gem  | **Increases healing effectiveness from skills by 1%**.                                   |
 | Cramp Gem          | A**Increases the efficiency of healing items by 5%**.                                    |
 
-## **Defense and Equipment Effects**
+### **Defense and Equipment Effects**
 
 | Monster              | Effect                                                                                                         |
 | -------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -288,13 +288,13 @@ description: >-
 | Female Thief Bug Gem | **1% chance to cast Increase Agility Lv.1 when hit by physical attacks**.                                      |
 | Jing Guzi Gem        | **When dealing physical attacks, 40% chance to remove \[Chaos] from the attacker**.                            |
 
-## **Mixed Defense**
+### **Mixed Defense**
 
 | Monster       | Effect                           |
 | ------------- | -------------------------------- |
 | Metalling Gem | +3 physical and magical defense. |
 
-## **HP Effects**
+### **HP Effects**
 
 | Monster             | Effect                                                                                                                     |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -306,56 +306,56 @@ description: >-
 {% endtab %}
 
 {% tab title="INT" %}
-## Attributes
+### Attributes
 
-| Monster	          | Effect      |
+| Monster           | Effect      |
 | ----------------- | ----------- |
 | Ancient Gem       | **+3 INT**. |
 | Wise Worm Gem     | **+3 INT**. |
 | Ancient Mummy Gem | **+3 INT**. |
 | Vitata Gem        | **+3 INT**. |
 
-## **Magic Attack**
+### **Magic Attack**
 
-| Monster	       | Effect                                                                                |
+| Monster        | Effect                                                                                |
 | -------------- | ------------------------------------------------------------------------------------- |
 | Isis Gem       | **+3 Magic Attack**.                                                                  |
 | Dark Elf Gem   | A**MATK +30. Casting cannot be interrupted**.                                         |
 | Elf Shaman Gem | **MATK +30. When using a two-handed staff: +10% resistance to the Neutral property**. |
 
-## SP (Max SP Boost)
+### SP (Max SP Boost)
 
-| Monster	         | Effect                                         |
+| Monster          | Effect                                         |
 | ---------------- | ---------------------------------------------- |
 | Medusa Gem       | **+290 Max SP**.                               |
 | Sohee Gem        | **+4% Max SP**.                                |
 | Rodda Frog Gem   | **+10 Max SP**.                                |
 | Golden Novus Gem | **+250 Max SP. +10% natural SP regeneration**. |
 
-## **SP Recovery**
+### **SP Recovery**
 
-| Monster	   | Effect                                     |
+| Monster    | Effect                                     |
 | ---------- | ------------------------------------------ |
 | Marina Gem | **Restores 1% of max SP every 5 seconds**. |
 
-## **Magic Attack & SP Effects**
+### **Magic Attack & SP Effects**
 
-| Monster	          | Effect                                                                             |
+| Monster           | Effect                                                                             |
 | ----------------- | ---------------------------------------------------------------------------------- |
 | Anolian Gem       | **Drains 3 SP from the target with each basic attack**.                            |
 | Mummy Gem         | **Restores 7 HP when killing monsters with magic attacks**.                        |
 | Drainliar Gem     | **Recovers 2 SP when attacking**.                                                  |
 | Ancient Mimic Gem | **When defeating monsters with any physical attack, restores 10 SP. Max HP -100**. |
 
-## **Mixed Effects**
+### **Mixed Effects**
 
-| Monster	        | Effect                                |
+| Monster         | Effect                                |
 | --------------- | ------------------------------------- |
 | Blue Acidus Gem | **+180 Max SP. +2 INT. -100 Max HP**. |
 {% endtab %}
 
 {% tab title="DEX" %}
-## Attribute
+### Attribute
 
 | Monster             | Effect                                                                        |
 | ------------------- | ----------------------------------------------------------------------------- |
@@ -364,20 +364,20 @@ description: >-
 | Rocker Gem          | **+1 Dexterity. If used by Bard or Odalisques, grants +5 Dexterity instead**. |
 | Zerom Gem           | **+1 Dexterity**.                                                             |
 
-## Casting
+### Casting
 
 | Monster     | Effect                                                            |
 | ----------- | ----------------------------------------------------------------- |
 | Fen Gem     | **-3% Cast Time**.                                                |
 | Bathory Gem | **Reduces variable cast time of all skills by 300ms. -10% Mana**. |
 
-## **Effects Against Dodge**
+### **Effects Against Dodge**
 
 | Monster    | Effect                                        |
 | ---------- | --------------------------------------------- |
 | Hornet Gem | **Ignores 5% of the target's perfect dodge**. |
 
-## **Hit & Accuracy Bonus**
+### **Hit & Accuracy Bonus**
 
 | Monster                 | Effect                                  |
 | ----------------------- | --------------------------------------- |
@@ -388,7 +388,7 @@ description: >-
 | Tin Soldier Gem         | **+15 Hit. +10 Perfect Hit**.           |
 | Elfkid Gem              | **+15 Perfect Hit. -15 Critical**.      |
 
-## **Ranged Damage**
+### **Ranged Damage**
 
 | Monster             | Effect                                     |
 | ------------------- | ------------------------------------------ |
@@ -400,7 +400,7 @@ description: >-
 {% endtab %}
 
 {% tab title="LUK" %}
-## **Attributes**
+### **Attributes**
 
 | Monster          | Effect                                          |
 | ---------------- | ----------------------------------------------- |
@@ -412,7 +412,7 @@ description: >-
 | Lunatic Gem      | **+1 Luck**.                                    |
 | Condor Gem       | **+1 Luck**.                                    |
 
-## Critical
+### Critical
 
 | Monster              | Effect                                             |
 | -------------------- | -------------------------------------------------- |
@@ -424,7 +424,7 @@ description: >-
 {% endtab %}
 
 {% tab title="EXTRA" %}
-## Elemental Damage
+### Elemental Damage
 
 | Monster            | Effect                                                                 |
 | ------------------ | ---------------------------------------------------------------------- |
@@ -453,7 +453,7 @@ description: >-
 | Ancient Willow Gem | **+4% Physical & Magical Damage against Fire property**.               |
 | Willow Gem         | **+4% Physical & Magical Damage against Earth property**.              |
 
-## Skills
+### Skills
 
 | Monster               | Effect                                                                                    |
 | --------------------- | ----------------------------------------------------------------------------------------- |
@@ -488,7 +488,7 @@ description: >-
 | Frilldora Gem         | 0**0.1% chance to auto-cast \[Stealth] level 10 when hit**.                               |
 | Horong Gem            | **Enables use of \[Supernova] at level 1**.                                               |
 
-## **Size-Based Damage**
+### **Size-Based Damage**
 
 | Monster           | Effect                                                           |
 | ----------------- | ---------------------------------------------------------------- |
@@ -497,7 +497,7 @@ description: >-
 | Flora Gem         | **+2% physical damage against small-sized monsters**.            |
 | Golden Acidus Gem | **+7% physical & magical damage against large-sized opponents**. |
 
-## Races & Elemental Effects
+### Races & Elemental Effects
 
 | Monster            | Effect                                                                        |
 | ------------------ | ----------------------------------------------------------------------------- |
@@ -527,7 +527,7 @@ description: >-
 | Mantis Gem         | **Ignores 10% of the defense of Insect race monsters**.                       |
 | Giearth Gem        | **Ignores 3% of the defense of Insect race monsters**.                        |
 
-## **XP Bonus & Zeny Drop**
+### **XP Bonus & Zeny Drop**
 
 | Monster             | Effect                                                                    |
 | ------------------- | ------------------------------------------------------------------------- |
@@ -540,20 +540,20 @@ description: >-
 | Drops Gem           | **+1% item drop rate**.                                                   |
 | Dragon Egg Gem      | **+10% experience from Large-sized monsters, but reduces Max HP by 20%**. |
 
-## **Weight Capacity**
+### **Weight Capacity**
 
 | Monster      | Effect                               |
 | ------------ | ------------------------------------ |
 | Grizzly Gem  | **+1000 Maximum Weight Capacity**.   |
 | Magnolia Gem | **+1000 Maximum Carrying Capacity**. |
 
-## **All Attributes**
+### **All Attributes**
 
 | Monster         | Effect                    |
 | --------------- | ------------------------- |
 | Khalitzburg Gem | **+1 to all attributes**. |
 
-## **Mixed Attributes**
+### **Mixed Attributes**
 
 | Monster           | Effect                                                                         |
 | ----------------- | ------------------------------------------------------------------------------ |
@@ -562,12 +562,12 @@ description: >-
 {% endtab %}
 
 {% tab title="BOSS" %}
-## MVPS
+### MVPS
 
-<table><thead><tr><th width="153">Gem</th><th width="280">Monster	</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1059 (1).png" alt=""></td><td>Queen Bee Gem</td><td>+35 Physical &#x26; Magical Damage against Insect Race. Grants use of [Rescue Teleport] at level 1.</td></tr><tr><td><img src="../.gitbook/assets/1511 (1).png" alt=""></td><td>Amon Ra Gem</td><td>Spotting an enemy automatically casts [Decrease Agility] level 10. Has a 10-minute cooldown before it can affect the same target again.</td></tr><tr><td><img src="../.gitbook/assets/1039 (1).png" alt=""></td><td>Baphomet Gem</td><td>+35% Physical &#x26; Magical Damage against Demon Race. If used together with Baphomet Jr. Gem: ATK &#x26; MATK +15, Critical -5.</td></tr><tr><td><img src="../.gitbook/assets/1086 (1).png" alt=""></td><td>Golden Thief Bug Gem</td><td>90% chance to ignore the effect of [Golden Thief Bug Card] on the target.</td></tr><tr><td><img src="../.gitbook/assets/1046 (1).png" alt=""></td><td>Doppelganger Gem</td><td>Enables Block Level 3. 5% chance to reflect any single-target skill back to the caster.</td></tr><tr><td><img src="../.gitbook/assets/1389 (1).png" alt=""></td><td>Dracula Gem</td><td>-20% Max HP &#x26; +90% Fire Element damage taken. Changes your race to Undead.</td></tr><tr><td><img src="../.gitbook/assets/1112 (1).png" alt=""></td><td>Drake Gem</td><td>Enables Power Amplifier (Removing the gem disables the effect). Increases Magic Damage against Shadow property by +15%.</td></tr><tr><td><img src="../.gitbook/assets/1115 (1).png" alt=""></td><td>Eddga Gem</td><td>+70% Damage to Stunned Targets.</td></tr><tr><td><img src="../.gitbook/assets/1157 (1).png" alt=""></td><td>Pharaoh Gem</td><td>Positive buffs persist after death. +7% Magic Damage across all properties.</td></tr><tr><td><img src="../.gitbook/assets/1150 (1).png" alt=""></td><td>Lunar Flower Gem</td><td>Monsters cannot initiate attacks on you directly but will retaliate.</td></tr><tr><td><img src="../.gitbook/assets/1159 (1).png" alt=""></td><td>Freeoni Gem</td><td>+50 Perfect Hit.</td></tr><tr><td><img src="../.gitbook/assets/1312 (1).png" alt=""></td><td>General Tartaruga Gem</td><td>Reduces Critical Damage received by 30%. Adds 7% chance to dodge an incoming Critical Attack.</td></tr><tr><td><img src="../.gitbook/assets/2202 (1).png" alt=""></td><td>Kraken Gem</td><td>+12% Max HP. Changes your size to Large.</td></tr><tr><td><img src="../.gitbook/assets/1688 (1).png" alt=""></td><td>Lady Tanee Gem</td><td>+5 Vitality. HP recovery items also restore SP in equal amounts. If unequipped, SP decay is set to 1 per second.</td></tr><tr><td><img src="../.gitbook/assets/1147 (1).png" alt=""></td><td>Maya Gem</td><td>Reduces single-target Magic Damage received by 10%.</td></tr><tr><td><img src="../.gitbook/assets/1087.png" alt=""></td><td>Orc Hero Gem</td><td>If your Strength is higher than your target’s, deal +15% Damage.</td></tr><tr><td><img src="../.gitbook/assets/1038 (1).png" alt=""></td><td>Osiris Gem</td><td>+3 to All Stats. Increases damage dealt by 10% to players with a different crest from yours. Deals extra damage to Protectors with the Courage crest.</td></tr><tr><td><img src="../.gitbook/assets/2194 (1).png" alt=""></td><td>Giant Octopus Gem</td><td>Increases Physical and Magic Damage by 35% when standing in a Water cell. (Works with [Deluge]).</td></tr><tr><td><img src="../.gitbook/assets/1623 (1).png" alt=""></td><td>RSX 0806 Gem</td><td>+10% Max HP. If used by a Protector with the Hope crest: Equipment cannot be broken or removed by skills while targeting an enemy.</td></tr><tr><td><img src="../.gitbook/assets/1373 (1).png" alt=""></td><td>Lord of the Dead Gem</td><td>Deals +30% Damage to Undead race. Has a 5% chance to completely ignore received damage when HP is below 15%.</td></tr><tr><td><img src="../.gitbook/assets/1190.png" alt=""></td><td>Orc Lord Gem</td><td>+3 Strength. If used by a Protector with the Friendship crest: Grants immunity to Freeze.</td></tr><tr><td><img src="../.gitbook/assets/1583 (1).png" alt=""></td><td>Tao Gunka Gem</td><td>+50 DEF and +25 MDEF. If the user also has a Tao Gunka card, the received damage is doubled.</td></tr><tr><td><img src="../.gitbook/assets/1916.png" alt=""></td><td>Morroc Emperor Gem</td><td>No information is available about this type of gem. It is extremely rare.</td></tr><tr><td><img src="../.gitbook/assets/10309.png" alt=""></td><td>Atroce Gem</td><td>+35% Physical and Magical Damage against Brute race. Set Bonus with Wolf Gem: ATK &#x26; MATK +15, AGI -5.</td></tr><tr><td><img src="../.gitbook/assets/10299.png" alt=""></td><td>Detardeurus Gem</td><td>+35% Physical and Magical Damage against Dragon race. Set Bonus with Hydrolancer Gem: ATK &#x26; MATK +15, STR -5.</td></tr><tr><td><img src="../.gitbook/assets/10300.png" alt=""></td><td>Vesper Gem</td><td>+35% Physical and Magical Damage against Formless race. Set Bonus with Apocalypse Gem: ATK &#x26; MATK +15, Max HP -500.</td></tr><tr><td><img src="../.gitbook/assets/10301.png" alt=""></td><td>Motaro Gem</td><td>Max HP +3000, Max SP -15%.</td></tr><tr><td><img src="../.gitbook/assets/10302.png" alt=""></td><td>Ainz Ooal Gown Gem</td><td>Ignores 70% of the DEF of normal monsters and players.</td></tr></tbody></table>
+<table><thead><tr><th width="153">Gem</th><th width="280">Monster</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1059 (1) (1).png" alt=""></td><td>Queen Bee Gem</td><td>+35 Physical &#x26; Magical Damage against Insect Race. Grants use of [Rescue Teleport] at level 1.</td></tr><tr><td><img src="../.gitbook/assets/1511 (1) (1).png" alt=""></td><td>Amon Ra Gem</td><td>Spotting an enemy automatically casts [Decrease Agility] level 10. Has a 10-minute cooldown before it can affect the same target again.</td></tr><tr><td><img src="../.gitbook/assets/1039 (1) (1).png" alt=""></td><td>Baphomet Gem</td><td>+35% Physical &#x26; Magical Damage against Demon Race. If used together with Baphomet Jr. Gem: ATK &#x26; MATK +15, Critical -5.</td></tr><tr><td><img src="../.gitbook/assets/1086 (1) (1).png" alt=""></td><td>Golden Thief Bug Gem</td><td>90% chance to ignore the effect of [Golden Thief Bug Card] on the target.</td></tr><tr><td><img src="../.gitbook/assets/1046 (1) (1).png" alt=""></td><td>Doppelganger Gem</td><td>Enables Block Level 3. 5% chance to reflect any single-target skill back to the caster.</td></tr><tr><td><img src="../.gitbook/assets/1389 (1) (1).png" alt=""></td><td>Dracula Gem</td><td>-20% Max HP &#x26; +90% Fire Element damage taken. Changes your race to Undead.</td></tr><tr><td><img src="../.gitbook/assets/1112 (1) (1).png" alt=""></td><td>Drake Gem</td><td>Enables Power Amplifier (Removing the gem disables the effect). Increases Magic Damage against Shadow property by +15%.</td></tr><tr><td><img src="../.gitbook/assets/1115 (1) (1).png" alt=""></td><td>Eddga Gem</td><td>+70% Damage to Stunned Targets.</td></tr><tr><td><img src="../.gitbook/assets/1157 (1) (1).png" alt=""></td><td>Pharaoh Gem</td><td>Positive buffs persist after death. +7% Magic Damage across all properties.</td></tr><tr><td><img src="../.gitbook/assets/1150 (1) (1).png" alt=""></td><td>Lunar Flower Gem</td><td>Monsters cannot initiate attacks on you directly but will retaliate.</td></tr><tr><td><img src="../.gitbook/assets/1159 (1) (1).png" alt=""></td><td>Freeoni Gem</td><td>+50 Perfect Hit.</td></tr><tr><td><img src="../.gitbook/assets/1312 (1) (1).png" alt=""></td><td>General Tartaruga Gem</td><td>Reduces Critical Damage received by 30%. Adds 7% chance to dodge an incoming Critical Attack.</td></tr><tr><td><img src="../.gitbook/assets/2202 (1) (1).png" alt=""></td><td>Kraken Gem</td><td>+12% Max HP. Changes your size to Large.</td></tr><tr><td><img src="../.gitbook/assets/1688 (1) (1).png" alt=""></td><td>Lady Tanee Gem</td><td>+5 Vitality. HP recovery items also restore SP in equal amounts. If unequipped, SP decay is set to 1 per second.</td></tr><tr><td><img src="../.gitbook/assets/1147 (1) (1).png" alt=""></td><td>Maya Gem</td><td>Reduces single-target Magic Damage received by 10%.</td></tr><tr><td><img src="../.gitbook/assets/1087.png" alt=""></td><td>Orc Hero Gem</td><td>If your Strength is higher than your target’s, deal +15% Damage.</td></tr><tr><td><img src="../.gitbook/assets/1038 (1) (1).png" alt=""></td><td>Osiris Gem</td><td>+3 to All Stats. Increases damage dealt by 10% to players with a different crest from yours. Deals extra damage to Protectors with the Courage crest.</td></tr><tr><td><img src="../.gitbook/assets/2194 (1) (1).png" alt=""></td><td>Giant Octopus Gem</td><td>Increases Physical and Magic Damage by 35% when standing in a Water cell. (Works with [Deluge]).</td></tr><tr><td><img src="../.gitbook/assets/1623 (1) (1).png" alt=""></td><td>RSX 0806 Gem</td><td>+10% Max HP. If used by a Protector with the Hope crest: Equipment cannot be broken or removed by skills while targeting an enemy.</td></tr><tr><td><img src="../.gitbook/assets/1373 (1) (1).png" alt=""></td><td>Lord of the Dead Gem</td><td>Deals +30% Damage to Undead race. Has a 5% chance to completely ignore received damage when HP is below 15%.</td></tr><tr><td><img src="../.gitbook/assets/1190.png" alt=""></td><td>Orc Lord Gem</td><td>+3 Strength. If used by a Protector with the Friendship crest: Grants immunity to Freeze.</td></tr><tr><td><img src="../.gitbook/assets/1583 (1) (1).png" alt=""></td><td>Tao Gunka Gem</td><td>+50 DEF and +25 MDEF. If the user also has a Tao Gunka card, the received damage is doubled.</td></tr><tr><td><img src="../.gitbook/assets/1916.png" alt=""></td><td>Morroc Emperor Gem</td><td>No information is available about this type of gem. It is extremely rare.</td></tr><tr><td><img src="../.gitbook/assets/10309.png" alt=""></td><td>Atroce Gem</td><td>+35% Physical and Magical Damage against Brute race. Set Bonus with Wolf Gem: ATK &#x26; MATK +15, AGI -5.</td></tr><tr><td><img src="../.gitbook/assets/10299.png" alt=""></td><td>Detardeurus Gem</td><td>+35% Physical and Magical Damage against Dragon race. Set Bonus with Hydrolancer Gem: ATK &#x26; MATK +15, STR -5.</td></tr><tr><td><img src="../.gitbook/assets/10300.png" alt=""></td><td>Vesper Gem</td><td>+35% Physical and Magical Damage against Formless race. Set Bonus with Apocalypse Gem: ATK &#x26; MATK +15, Max HP -500.</td></tr><tr><td><img src="../.gitbook/assets/10301.png" alt=""></td><td>Motaro Gem</td><td>Max HP +3000, Max SP -15%.</td></tr><tr><td><img src="../.gitbook/assets/10302.png" alt=""></td><td>Ainz Ooal Gown Gem</td><td>Ignores 70% of the DEF of normal monsters and players.</td></tr></tbody></table>
 
-## MINI-BOSS
+### MINI-BOSS
 
-<table><thead><tr><th width="158">Gem</th><th width="284">Monster</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1091 (1).png" alt=""></td><td>Dragonfly Gem</td><td>Perfect Dodge +10.</td></tr><tr><td><img src="../.gitbook/assets/1092 (1).png" alt=""></td><td>Wandering Wolf Gem</td><td>STR +10.</td></tr><tr><td><img src="../.gitbook/assets/1093 (1).png" alt=""></td><td>Eclipse Gem</td><td>VIT +10.</td></tr><tr><td><img src="../.gitbook/assets/1090.png" alt="" data-size="original"></td><td>Mastering Gem</td><td>LUK +3. Increases drop rate by +6%.</td></tr><tr><td><img src="../.gitbook/assets/1096 (1).png" alt=""></td><td>Angeling Gem</td><td>Unlocks Resurrection Lv.1. Increases Physical &#x26; Magical Damage against Holy property enemies by 10%.</td></tr><tr><td><img src="../.gitbook/assets/1120 (1).png" alt=""></td><td>Ghostring Gem</td><td>Increases Physical Damage against Shadow property enemies by +15%.</td></tr><tr><td><img src="../.gitbook/assets/1203.png" alt=""></td><td>Mysteltainn Gem</td><td>Increases Physical Damage against Small-sized enemies by +12%..</td></tr><tr><td><img src="../.gitbook/assets/1204 (1).png" alt=""></td><td>Tirfing Gem</td><td>Increases Physical Damage against Medium-sized enemies by +12%.</td></tr><tr><td><img src="../.gitbook/assets/1205 (1).png" alt=""></td><td>Executor Gem</td><td>Increases Physical Damage against Large-sized enemies by +12%.</td></tr><tr><td><img src="../.gitbook/assets/1259 (1).png" alt=""></td><td>Griffon Gem</td><td>When performing physical attacks, 5% chance to auto-cast [Tyr's Impact] Lv. 5.</td></tr><tr><td><img src="../.gitbook/assets/1262 (1).png" alt=""></td><td>Mutant Dragon Gem</td><td>ATK +40.</td></tr><tr><td><img src="../.gitbook/assets/1289 (1).png" alt=""></td><td>Maya Macho Gem</td><td>Aproximar-se de um alvo Approaching an enemy will automatically cast [Stone Column] Lv. 1, revealing hidden or cloaked enemies.</td></tr><tr><td><img src="../.gitbook/assets/1302 (1).png" alt=""></td><td>Dark Illusion Gem</td><td>Variable cast time -30%. Max HP/SP +10%.</td></tr><tr><td><img src="../.gitbook/assets/1307 (1).png" alt=""></td><td>Nine-Tailed Cat Gem</td><td>INT +15</td></tr><tr><td><img src="../.gitbook/assets/1388 (1).png" alt=""></td><td>ArchAngeling Gem</td><td>Recovers 500 HP every 5 seconds. Grants +5% Max HP.</td></tr><tr><td><img src="../.gitbook/assets/1582.png" alt=""></td><td>Deviling Gem</td><td>Resistance to all elements +10%.</td></tr><tr><td><img src="../.gitbook/assets/1089.png" alt=""></td><td>Sapo Cururu Gem</td><td>Perfect Dodge +10.</td></tr><tr><td><img src="../.gitbook/assets/10297.png" alt=""></td><td>Hydrolancer Gem</td><td>Magic damage of Wind and Earth +8%. -4% damage received from Wind and Earth.</td></tr><tr><td><img src="../.gitbook/assets/10298.png" alt=""></td><td>Momon Gem</td><td>Critical Damage +10%. Accuracy -150.</td></tr></tbody></table>
+<table><thead><tr><th width="158">Gem</th><th width="284">Monster</th><th>Effect</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/1091 (1) (1).png" alt=""></td><td>Dragonfly Gem</td><td>Perfect Dodge +10.</td></tr><tr><td><img src="../.gitbook/assets/1092 (1) (1).png" alt=""></td><td>Wandering Wolf Gem</td><td>STR +10.</td></tr><tr><td><img src="../.gitbook/assets/1093 (1) (1).png" alt=""></td><td>Eclipse Gem</td><td>VIT +10.</td></tr><tr><td><img src="../.gitbook/assets/1090.png" alt="" data-size="original"></td><td>Mastering Gem</td><td>LUK +3. Increases drop rate by +6%.</td></tr><tr><td><img src="../.gitbook/assets/1096 (1) (1).png" alt=""></td><td>Angeling Gem</td><td>Unlocks Resurrection Lv.1. Increases Physical &#x26; Magical Damage against Holy property enemies by 10%.</td></tr><tr><td><img src="../.gitbook/assets/1120 (1) (1).png" alt=""></td><td>Ghostring Gem</td><td>Increases Physical Damage against Shadow property enemies by +15%.</td></tr><tr><td><img src="../.gitbook/assets/1203.png" alt=""></td><td>Mysteltainn Gem</td><td>Increases Physical Damage against Small-sized enemies by +12%..</td></tr><tr><td><img src="../.gitbook/assets/1204 (1) (1).png" alt=""></td><td>Tirfing Gem</td><td>Increases Physical Damage against Medium-sized enemies by +12%.</td></tr><tr><td><img src="../.gitbook/assets/1205 (1) (1).png" alt=""></td><td>Executor Gem</td><td>Increases Physical Damage against Large-sized enemies by +12%.</td></tr><tr><td><img src="../.gitbook/assets/1259 (1) (1).png" alt=""></td><td>Griffon Gem</td><td>When performing physical attacks, 5% chance to auto-cast [Tyr's Impact] Lv. 5.</td></tr><tr><td><img src="../.gitbook/assets/1262 (1) (1).png" alt=""></td><td>Mutant Dragon Gem</td><td>ATK +40.</td></tr><tr><td><img src="../.gitbook/assets/1289 (1) (1).png" alt=""></td><td>Maya Macho Gem</td><td>Aproximar-se de um alvo Approaching an enemy will automatically cast [Stone Column] Lv. 1, revealing hidden or cloaked enemies.</td></tr><tr><td><img src="../.gitbook/assets/1302 (1) (1).png" alt=""></td><td>Dark Illusion Gem</td><td>Variable cast time -30%. Max HP/SP +10%.</td></tr><tr><td><img src="../.gitbook/assets/1307 (1) (1).png" alt=""></td><td>Nine-Tailed Cat Gem</td><td>INT +15</td></tr><tr><td><img src="../.gitbook/assets/1388 (1) (1).png" alt=""></td><td>ArchAngeling Gem</td><td>Recovers 500 HP every 5 seconds. Grants +5% Max HP.</td></tr><tr><td><img src="../.gitbook/assets/1582.png" alt=""></td><td>Deviling Gem</td><td>Resistance to all elements +10%.</td></tr><tr><td><img src="../.gitbook/assets/1089.png" alt=""></td><td>Sapo Cururu Gem</td><td>Perfect Dodge +10.</td></tr><tr><td><img src="../.gitbook/assets/10297.png" alt=""></td><td>Hydrolancer Gem</td><td>Magic damage of Wind and Earth +8%. -4% damage received from Wind and Earth.</td></tr><tr><td><img src="../.gitbook/assets/10298.png" alt=""></td><td>Momon Gem</td><td>Critical Damage +10%. Accuracy -150.</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

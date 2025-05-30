@@ -13,58 +13,58 @@ description: >-
 * After completing your first job change, you will be ready to begin your journey to <mark style="color:red;">**Eldoria**</mark>.
 * In any city, go to a <mark style="color:red;">**Kafra**</mark>, click on her, select the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and choose the city of **"**<mark style="color:red;">**Zero**</mark>**"**. Then, go to the NPC **"**<mark style="color:red;">**Joshua**</mark>**"** to start the main quest.
 
-<figure><img src="../.gitbook/assets/12333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Quest start for access to "Eldoria</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12333 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Quest start for access to "Eldoria</strong></mark></p></figcaption></figure>
 
 ## Main Quest
 
 {% tabs %}
 {% tab title="Part 1" %}
-## **1.0 \[ Learn About the Bestiary with Joshua Lv 0 ]**
+### **1.0 \[ Learn About the Bestiary with Joshua Lv 0 ]**
 
 * Talk to <mark style="color:red;">**Joshua**</mark> in the city of **Zero** to start your first mission.
 * He will teach you about the bestiary using **"**<mark style="color:red;">**ALT+B**</mark>**"** to view monster information.
 
-<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>The beginning of everything Joshua.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>The beginning of everything Joshua.</strong></mark></p></figcaption></figure>
 
-## **1.1 \[ Talk to the General Guide ]**
+### **1.1 \[ Talk to the General Guide ]**
 
 * Joshua will ask you to meet the NPC **"General Guide"**, located in the **South** of **Zero** city.
 * Talk to the NPC **twice** and select the option **"**<mark style="color:red;">**About Item/Monster**</mark>**"**.
-* You will receive <mark style="color:blue;">**\[ 10x**</mark> ![](<../.gitbook/assets/image (410).png>)<mark style="color:blue;">**Ervas Azuis  ]**</mark> as a reward.
+* You will receive <mark style="color:blue;">**\[ 10x**</mark> ![](<../.gitbook/assets/image (410).png>)<mark style="color:blue;">**Ervas Azuis ]**</mark> as a reward.
 * After that, return to **"**<mark style="color:red;">**Joshua**</mark>**"**.
 
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption><p><mark style="color:red;"><strong>Following the General Guide's Steps.</strong></mark></p></figcaption></figure>
 
-## **1.2 \[ Report Your Learning to Joshua ]**
+### **1.2 \[ Report Your Learning to Joshua ]**
 
 * After talking to <mark style="color:red;">**Joshua**</mark>, he will congratulate you on your achievement.
 * You will receive <mark style="color:blue;">**\[20x**</mark> ![](<../.gitbook/assets/image (411).png>) <mark style="color:blue;">**Blue Herbs]**</mark> as a reward.
 
 <figure><img src="../.gitbook/assets/3.png" alt=""><figcaption><p><mark style="color:red;"><strong>Breaking Your Limit Lv.30</strong></mark></p></figcaption></figure>
 
-## **1.3 \[ Get Stronger ]**
+### **1.3 \[ Get Stronger ]**
 
 * Next, he will ask you to **reach Level 30** to proceed.
 * You can reach **Level 30** by going to the **"**<mark style="color:red;">**Payon Cave**</mark>**"**, in the city of **Payon**.
 * **After reaching Level 30, return to&#x20;**<mark style="color:red;">**Joshua**</mark>.
 * You will receive <mark style="color:blue;">**\[50x**</mark> ![](<../.gitbook/assets/image (412).png>) <mark style="color:blue;">**Blue Herbs]**</mark> as a reward.
 
-<table><thead><tr><th width="365">Joshua</th><th>Payon Cave</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/3 (1).png" alt="" data-size="original"><br></p><p><mark style="color:red;"><strong>Breaking Limit Lv.30</strong></mark></p></td><td><p><img src="../.gitbook/assets/4.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Recommended Area for Lv.30</strong></mark></p></td></tr></tbody></table>
+<table><thead><tr><th width="365">Joshua</th><th>Payon Cave</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/3 (1).png" alt="" data-size="original"><br></p><p><mark style="color:red;"><strong>Breaking Limit Lv.30</strong></mark></p></td><td><p><img src="../.gitbook/assets/4.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Recommended Area for Lv.30</strong></mark></p></td></tr></tbody></table>
 
-## **1.4 \[ Horde Control ]**
+### **1.4 \[ Horde Control ]**
 
 * Joshua will then ask you to go to the **"Payon Cave"**.
 * Inside the cave, **defeat&#x20;**<mark style="color:red;">**200 Skeletons**</mark>.
 * After defeating the monsters, return to Joshua, and he will congratulate you.
 * You will receive <mark style="color:blue;">**\[2x**</mark> ![](<../.gitbook/assets/image (413).png>) <mark style="color:blue;">**Yggdrasil Leaf]**</mark> as a reward.
 
-| Entrance to Payon Cave                                                                                                                                                                     | Payon Cave                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><img src="../.gitbook/assets/4 (1).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>Location of the entrance to Payon Cave.</strong></mark></em></p> | <p><img src="../.gitbook/assets/image (414).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>Skeleton inside Payon Cave.</strong></mark></em></p> |
+| Entrance to Payon Cave                                                                                                                                                              | Payon Cave                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/4 (1).png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>Location of the entrance to Payon Cave.</strong></mark></em></p> | <p><img src="../.gitbook/assets/image (414).png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>Skeleton inside Payon Cave.</strong></mark></em></p> |
 
 <figure><img src="../.gitbook/assets/image (415).png" alt=""><figcaption><p><mark style="color:red;"><strong>Finishing the 200 Skeletons</strong></mark></p></figcaption></figure>
 
-## **1.5 \[ Find King Zell II ]**
+### **1.5 \[ Find King Zell II ]**
 
 * Joshua will ask you to find **"Lupina"** to learn more about King Zell II.
 * Head south of **Zero** city, near the bridge.
@@ -73,16 +73,16 @@ description: >-
 
 <figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of Lupina for information about King Zell II.</strong></mark></p></figcaption></figure>
 
-## **1.6 \[ Help Lupina ] Part 1/2**
+### **1.6 \[ Help Lupina ] Part 1/2**
 
 * When speaking with **"Lupina"** again, she will ask you to bring a **"**<mark style="color:red;">**Gem**</mark>**"** from any monster in the **"Zero Sewer"**.
 * To obtain the **Gem**, talk to the **"**<mark style="color:red;">**Sewer Recruiter**</mark>**"**.
 * After obtaining a **"Gem"** from any sewer monster, return to **Lupina** to deliver it.
 * You will receive <mark style="color:blue;">**\[1x**</mark> ![](<../.gitbook/assets/image (417).png>) <mark style="color:blue;">**Polishing Gem]**</mark> as a reward.
 
-<table><thead><tr><th width="374">Sewer Recruiter</th><th>Zero Sewer</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/6.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Location where Lupina asks you to go.</strong></mark></p></td><td><p><img src="../.gitbook/assets/7.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Location to obtain the Gem.</strong></mark></p></td></tr></tbody></table>
+<table><thead><tr><th width="374">Sewer Recruiter</th><th>Zero Sewer</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/6.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Location where Lupina asks you to go.</strong></mark></p></td><td><p><img src="../.gitbook/assets/7.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Location to obtain the Gem.</strong></mark></p></td></tr></tbody></table>
 
-## **1.7 \[ Help Lupina ] Part 2/2**
+### **1.7 \[ Help Lupina ] Part 2/2**
 
 * After receiving your reward, talk to **"Lupina"** again.
 * <mark style="color:red;">**You will notice that no quest will appear, and that's okay.**</mark>
@@ -92,7 +92,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/8.png" alt=""><figcaption><p><mark style="color:red;"><strong>Second part "Preparatory for the next mission".</strong></mark></p></figcaption></figure>
 
-## **1.7 \[ The Mystery of Morroc ]**
+### **1.7 \[ The Mystery of Morroc ]**
 
 * Now that you have heard <mark style="color:red;">**Shenya**</mark><mark style="color:red;">'s</mark> complaints, she will ask you to request explanations from **King Zell II**.
 * Find him in the upper corner of **Morroc**, where several guards will be at the gate.
@@ -101,21 +101,21 @@ description: >-
 * He will explain some things, and then you will be **teleported to the "**<mark style="color:red;">**Inside of Morroc"**</mark>.
 * Speak with **King Zell II** again, and he will ask you to return to <mark style="color:red;">**Shenya**</mark> and talk to her.
 * Upon speaking with <mark style="color:red;">**Shenya**</mark>, she will understand what happened to the city.
-* You will receive <mark style="color:blue;">**\[50x**</mark> ![](<../.gitbook/assets/image (419).png>) <mark style="color:blue;">**Blue Herb]**</mark>  as a reward.
+* You will receive <mark style="color:blue;">**\[50x**</mark> ![](<../.gitbook/assets/image (419).png>) <mark style="color:blue;">**Blue Herb]**</mark> as a reward.
 
-| Guard's Location                                                                                                                                                  | Inside of Morroc                                                                                                                                            | Shenya                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/10.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Location of Zell's Guards.</strong></mark></p> | <p><img src="../.gitbook/assets/11.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Zell's Private Room.</strong></mark></p> | <p><img src="../.gitbook/assets/8 (1).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Shenya's Explanation.</strong></mark></p> |
+| Guard's Location                                                                                                                                           | Inside of Morroc                                                                                                                                     | Shenya                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/10.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Location of Zell's Guards.</strong></mark></p> | <p><img src="../.gitbook/assets/11.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Zell's Private Room.</strong></mark></p> | <p><img src="../.gitbook/assets/8 (1).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Shenya's Explanation.</strong></mark></p> |
 
-## **1.8 \[ Calmed Population ]**
+### **1.8 \[ Calmed Population ]**
 
 * Return to the **"**<mark style="color:red;">**New Location**</mark>**"** where **King Zell II** is.
 * Talk to **King Zell II** about what happened to the villagers.
 * You will receive <mark style="color:blue;">**\[100x**</mark> ![](<../.gitbook/assets/image (419).png>) <mark style="color:blue;">**Blue Herb]**</mark> as a reward.
 
-<table><thead><tr><th width="376">King Zell II's Quarters</th><th>Inside  of Morroc</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/12.png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>New location where King Zell II is found.</strong></mark></em></p></td><td><p><img src="../.gitbook/assets/11 (1).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>King Zell II.</strong></mark></p></td></tr></tbody></table>
+<table><thead><tr><th width="376">King Zell II's Quarters</th><th>Inside of Morroc</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/12.png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>New location where King Zell II is found.</strong></mark></em></p></td><td><p><img src="../.gitbook/assets/11 (1).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>King Zell II.</strong></mark></p></td></tr></tbody></table>
 
-## **1.9 \[ Report to the King ]**
+### **1.9 \[ Report to the King ]**
 
 * Return to **Zero City**, where **"Lupina"** is located.
 * **King Zell II** will be beside her, <mark style="color:red;">**talk to him**</mark> about the city of **"Prontera"**.
@@ -125,7 +125,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Part 2" %}
-## **2.0 \[ Find the Collector ]**
+### **2.0 \[ Find the Collector ]**
 
 * Go to **Geffen City** and talk to **"The Great Collector"**.
 * **Harald** is the NPC known by this title.
@@ -134,16 +134,16 @@ description: >-
 
 <figure><img src="../.gitbook/assets/14 (1).png" alt=""><figcaption><p><em><mark style="color:red;"><strong>Harald is known as "The Great Collector".</strong></mark></em></p></figcaption></figure>
 
-## **2.1 \[ Complete a Collection ]**
+### **2.1 \[ Complete a Collection ]**
 
 * **Harald** will ask you to complete one of the collections.
-* <mark style="color:red;">**Payon Cave A2**</mark> <mark style="color:red;"></mark><mark style="color:red;">or</mark> <mark style="color:red;"></mark><mark style="color:red;">**Geffen Surroundings 10**</mark><mark style="color:red;">.</mark>
+* <mark style="color:red;">**Payon Cave A2**</mark> <mark style="color:red;">or</mark> <mark style="color:red;">**Geffen Surroundings 10**</mark><mark style="color:red;">.</mark>
 * After completing one of the collections on the map using **"ALT+C"**, return to <mark style="color:red;">**Harald**</mark>.
 * You will receive <mark style="color:blue;">**\[1x**</mark> ![](<../.gitbook/assets/image (422).png>) <mark style="color:blue;">**Reset Stone]**</mark> as a reward.
 
-<table><thead><tr><th width="373">Pay_dun01</th><th>Gef_fild10</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/image (423).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>Cave of Payon (A2) - Example of a Complete Collection.</strong></mark></em></p></td><td><p><img src="../.gitbook/assets/image (424).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>Geffen Surroundings (10) - Optional Map.</strong></mark></em></p></td></tr></tbody></table>
+<table><thead><tr><th width="373">Pay_dun01</th><th>Gef_fild10</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/image (423).png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>Cave of Payon (A2) - Example of a Complete Collection.</strong></mark></em></p></td><td><p><img src="../.gitbook/assets/image (424).png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>Geffen Surroundings (10) - Optional Map.</strong></mark></em></p></td></tr></tbody></table>
 
-## **2.2 \[ Increasing Masteries ]**
+### **2.2 \[ Increasing Masteries ]**
 
 * **Harald** asks you to go to **"Zero"** city and obtain at least **70 Mastery Points**.
 * Upon arriving in **Zero**, talk to the **"**<mark style="color:red;">**Mastery Academic**</mark>**"**.
@@ -156,7 +156,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/15 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Mastery Academic in Zero.</strong></mark></p></figcaption></figure>
 
-## **2.3 \[ Find Vivus in Payon ]**
+### **2.3 \[ Find Vivus in Payon ]**
 
 * Go to **Payon City** and look for the NPC named **"**<mark style="color:red;">**Vivus**</mark>**"**.
 * When you find **Vivus**, talk to him, as he will ask you to defeat some monsters.
@@ -164,7 +164,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/16 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Vivus in Payon</strong></mark></p></figcaption></figure>
 
-## **2.4 \[ Restricted Combat ]**
+### **2.4 \[ Restricted Combat ]**
 
 * **Vivus** will ask you to go to **"**<mark style="color:red;">**Payon Cave A2**</mark>**"** and defeat some monsters.
 * You need to eliminate <mark style="color:red;">**80 Archer Skeletons**</mark> and <mark style="color:red;">**100 Soldier Skeletons**</mark>.
@@ -174,7 +174,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (427).png" alt=""><figcaption><p><mark style="color:red;"><strong>Cave of Payon A2 (Pay_dun01).</strong></mark></p></figcaption></figure>
 
-## **2.5 \[ Return to Joshua ] Part 1/2**
+### **2.5 \[ Return to Joshua ] Part 1/2**
 
 * **Vivus** will ask you to go to **Joshua** to report your progress.
 * Upon arriving in **Zero City**, **talk to&#x20;**<mark style="color:red;">**Joshua**</mark>, and he will explain the next mission.
@@ -182,7 +182,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/17 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Reporting Vivus' information to Joshua.</strong></mark></p></figcaption></figure>
 
-## **2.6 \[ Return to Joshua ] Part 2/2**
+### **2.6 \[ Return to Joshua ] Part 2/2**
 
 * **Joshua** says that you’ve had a long journey so far and asks you to rest.
 * Go to the **inn** in **Zero City** and **rest**.
@@ -192,9 +192,9 @@ description: >-
 * Return to **Joshua** and talk to him.
 * You will receive <mark style="color:blue;">**\[50x**</mark> ![](<../.gitbook/assets/image (428).png>) <mark style="color:blue;">**White Potion]**</mark> as a reward.
 
-<table><thead><tr><th width="343">Inn Location</th><th>Sleeping Room</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/18 (1).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;">Location of the inn icon.</mark></em> <img src="../.gitbook/assets/image (429).png" alt=""></p></td><td><p><img src="../.gitbook/assets/19.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Click on the bed to "Sleep".</strong></mark></p></td></tr></tbody></table>
+<table><thead><tr><th width="343">Inn Location</th><th>Sleeping Room</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/18 (1).png" alt="" data-size="original"></p><p><em><mark style="color:red;">Location of the inn icon.</mark></em> <img src="../.gitbook/assets/image (429).png" alt=""></p></td><td><p><img src="../.gitbook/assets/19.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Click on the bed to "Sleep".</strong></mark></p></td></tr></tbody></table>
 
-## **2.7 \[ Find the Engineer ]**
+### **2.7 \[ Find the Engineer ]**
 
 * **Joshua** asks you to find the **Engineer of Morroc**.
 * To do this, go to the **"**<mark style="color:red;">**Ship Captain**</mark>**"** in **Zero City**.
@@ -205,42 +205,42 @@ description: >-
 * After that, talk to the <mark style="color:red;">**Engineer**</mark> and select the first option.
 * You will receive <mark style="color:red;">**\[2x**</mark> ![](<../.gitbook/assets/image (413).png>) <mark style="color:red;">**Yggdrasil Leaf]**</mark> as a reward.
 
-| Ship Captain                                                                                                                                                          | Engineer of Morroc                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><img src="../.gitbook/assets/20.png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>Ship Captain of Zero.</strong></mark></em></p> | <p><img src="../.gitbook/assets/21 (1).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>Engineer’s Location.</strong></mark></em></p> |
+| Ship Captain                                                                                                                                                   | Engineer of Morroc                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/20.png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>Ship Captain of Zero.</strong></mark></em></p> | <p><img src="../.gitbook/assets/21 (1).png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>Engineer’s Location.</strong></mark></em></p> |
 
-## **2.8 \[ Gather the Materials ]**
+### **2.8 \[ Gather the Materials ]**
 
 * The **Engineer** will ask you to bring him some items.
 * **30x** ![](<../.gitbook/assets/image (430).png>)**Steel**
 * **20x** ![](<../.gitbook/assets/image (431).png>)**Coal**
-* **25x**  ![](<../.gitbook/assets/image (432).png>) **Solid Log**
-* **80k  Zeny**
+* **25x** ![](<../.gitbook/assets/image (432).png>) **Solid Log**
+* **80k Zeny**
 * After gathering all the items, return to the **Engineer** and talk to him again.
 * You will receive <mark style="color:blue;">**\[1x**</mark> ![](<../.gitbook/assets/image (426).png>) <mark style="color:blue;">**Small Mastery Pouch]**</mark> as a reward.
 
 <figure><img src="../.gitbook/assets/21 (2).png" alt=""><figcaption><p><mark style="color:red;"><strong>Engineer - Island of the Transcendental Heritage Academy.</strong></mark></p></figcaption></figure>
 
-## **2.9 \[ Return to Joshua ]**
+### **2.9 \[ Return to Joshua ]**
 
 * After that, return to NPC **"**<mark style="color:red;">**Joshua**</mark>**"** in **Zero City** and report your progress to him.
 
-<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption><p><em><mark style="color:red;"><strong>Passed the Engineer's information to Joshua.</strong></mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (2) (1).png" alt=""><figcaption><p><em><mark style="color:red;"><strong>Passed the Engineer's information to Joshua.</strong></mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Part 3" %}
-## **3.0 \[ Find Tomoe ] Part 1/2**
+### **3.0 \[ Find Tomoe ] Part 1/2**
 
 * **Joshua** asks you to go to **Niflheim** and find NPC **"**<mark style="color:red;">**Tomoe**</mark>**"**.
 * Inside the city, go to the **house** next to it, and upon entering, you will find him.
 * Talk to **Tomoe**, and he will ask for **2x** ![](<../.gitbook/assets/image (433).png>) **Hot Tea**.
 * You will receive <mark style="color:blue;">**\[2x**</mark> ![](<../.gitbook/assets/image (434).png>) <mark style="color:blue;">**Repair Scroll]**</mark> as a reward.
 
-| Location in Niflheim                                                                                                                                 | Tomoe                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/22.png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;">Where Tomoe is found.</mark></em></p> | <p><img src="../.gitbook/assets/23 (1).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;">Tomoe inside the house.</mark></em></p> |
+| Location in Niflheim                                                                                                                          | Tomoe                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/22.png" alt="" data-size="original"></p><p><em><mark style="color:red;">Where Tomoe is found.</mark></em></p> | <p><img src="../.gitbook/assets/23 (1) (1).png" alt="" data-size="original"></p><p><em><mark style="color:red;">Tomoe inside the house.</mark></em></p> |
 
-## **3.1 \[ Find Tomoe ] Part 2/2**
+### **3.1 \[ Find Tomoe ] Part 2/2**
 
 * After delivering **2x** ![](<../.gitbook/assets/image (435).png>) **Hot Tea** to **Tomoe**, he will ask you to find **King Zell II**.
 * **King Zell II** is now in the new city of **Prontera**. Go to a **Kafra** and choose the city.
@@ -248,7 +248,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/3 (2).png" alt=""><figcaption><p><mark style="color:red;"><strong>King Zell in the new Prontera.</strong></mark></p></figcaption></figure>
 
-## **3.2 \[ Unlock Aura ]**
+### **3.2 \[ Unlock Aura ]**
 
 * After talking to **King Zell II**, he will ask you to go to **Payon City**.
 * In the city, find the NPC **"**<mark style="color:red;">**Aura Master**</mark>**"**.
@@ -259,21 +259,21 @@ description: >-
 
 <figure><img src="../.gitbook/assets/25.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC "Mestre da Aura".</strong></mark></p></figcaption></figure>
 
-## **3.3 \[ NAMELESS Mission ]**
+### **3.3 \[ NAMELESS Mission ]**
 
-* <mark style="color:red;">This mission</mark> <mark style="color:red;"></mark><mark style="color:red;">**will not initially appear in the log**</mark><mark style="color:red;">.</mark>
+* <mark style="color:red;">This mission</mark> <mark style="color:red;">**will not initially appear in the log**</mark><mark style="color:red;">.</mark>
 * Go to **Niflheim** and find **Tomoe** again.
 * When talking to **Tomoe**, choose the option **"I'm Ready!"**.
-* He will request **2x**  ![](<../.gitbook/assets/image (436).png>) <mark style="color:red;">**Colossal Spear Blade**</mark> (The Blade is **not consumed** after delivery).
+* He will request **2x** ![](<../.gitbook/assets/image (436).png>) <mark style="color:red;">**Colossal Spear Blade**</mark> (The Blade is **not consumed** after delivery).
 * The **Blade** can be **purchased** in the Global Market between players.
 * The **Blade** can also be obtained by defeating the <mark style="color:red;">**MVP Lord of the Dead**</mark> (**Group Recommended**).
 * After obtaining the **2 Blades**, return to **Tomoe**.
 
-| Tomoe                                                                                                                                                                              | Lâmina de Lança Colossal                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/23 (2).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>Talk to Tomoe about the Blade.</strong></mark></em></p> | <p><img src="../.gitbook/assets/26.png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>MVP Lord of the Dead (Spear Blade).</strong></mark></em></p> |
+| Tomoe                                                                                                                                                                       | Lâmina de Lança Colossal                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/23 (2).png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>Talk to Tomoe about the Blade.</strong></mark></em></p> | <p><img src="../.gitbook/assets/26.png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>MVP Lord of the Dead (Spear Blade).</strong></mark></em></p> |
 
-## **3.4 \[ Deliver the Blade to the Scientist ] Part 1/2**
+### **3.4 \[ Deliver the Blade to the Scientist ] Part 1/2**
 
 * Go to **Prontera City**, head to the **lower right part** of the city, and you will find the <mark style="color:red;">**Scientist**</mark>.
 * Talk to the **Scientist** and select the option **"Tomoe sent me."**, then choose **"Really?"**.
@@ -281,11 +281,11 @@ description: >-
 
 <figure><img src="../.gitbook/assets/4 (3).png" alt=""><figcaption><p><em><mark style="color:red;"><strong>Talk to the scientist about the Colossal Spear Blade.</strong></mark></em></p></figcaption></figure>
 
-## **3.5 \[ Deliver the Blade to the Scientist ] Part 2/2**
+### **3.5 \[ Deliver the Blade to the Scientist ] Part 2/2**
 
 * Next, the **Scientist** will ask you to bring him some items:
-  * 5x  ![](<../.gitbook/assets/image (437).png>) Fabric
-  * 10x  ![](<../.gitbook/assets/image (438).png>)Alcohol
+  * 5x ![](<../.gitbook/assets/image (437).png>) Fabric
+  * 10x ![](<../.gitbook/assets/image (438).png>)Alcohol
   * 20x ![](<../.gitbook/assets/image (439).png>) Meat
 * After gathering all the items, <mark style="color:red;">**deliver them to the Scientist**</mark>.
 * He will then ask you to talk to **Tomoe**.
@@ -293,15 +293,15 @@ description: >-
 
 <figure><img src="../.gitbook/assets/4 (3).png" alt=""><figcaption><p><em><mark style="color:red;"><strong>Gather all the items and deliver them to the Scientist.</strong></mark></em></p></figcaption></figure>
 
-## **3.6 \[ Complete the Niflheim Collection ]**
+### **3.6 \[ Complete the Niflheim Collection ]**
 
 * When speaking with **Tomoe**, he will ask you to complete the **"Collection"** of <mark style="color:red;">**Niflheim City**</mark> (ALT+C).
 * After completing the **Map Collection**, return to **Tomoe**.
 * You will receive <mark style="color:blue;">**\[5x**</mark> ![](<../.gitbook/assets/image (434).png>) <mark style="color:blue;">**Blessing Scroll]**</mark> as a reward.
 
-<table><thead><tr><th width="368">Tomoe</th><th>Collection of Niflheim</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/23 (3).png" alt="" data-size="original"></p><p></p><p><em><mark style="color:red;"><strong>Talk to Tomoe about the Map Collection.</strong></mark></em></p></td><td><p><img src="../.gitbook/assets/image (441).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Collection completed for the City of Niflheim.</strong></mark></p></td></tr></tbody></table>
+<table><thead><tr><th width="368">Tomoe</th><th>Collection of Niflheim</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/23 (3).png" alt="" data-size="original"></p><p><em><mark style="color:red;"><strong>Talk to Tomoe about the Map Collection.</strong></mark></em></p></td><td><p><img src="../.gitbook/assets/image (441).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Collection completed for the City of Niflheim.</strong></mark></p></td></tr></tbody></table>
 
-## **3.7 \[ Find Zukko ]**
+### **3.7 \[ Find Zukko ]**
 
 * Tomoe asks you to go to the city of **Glast Heim** and find the NPC <mark style="color:red;">**Zukko**</mark>.
 * Upon finding **Zukko** south of the city of **Glast Heim**, talk to him.
@@ -309,18 +309,18 @@ description: >-
 
 <figure><img src="../.gitbook/assets/28.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Zukko south of the city of Glast Heim.</strong></mark></p></figcaption></figure>
 
-## **3.8 \[ Eliminate Abyss Knight ]**
+### **3.8 \[ Eliminate Abyss Knight ]**
 
 * **Zukko** asks you to go to the **Cavalry of Glast Heim**.
 * <mark style="color:red;">**Eliminate 50x Abyss Knights**</mark>.
 * After **defeating** all the knights, return to **NPC Zukko**.
 * You will receive as a reward **\[4x** ![](<../.gitbook/assets/image (443).png>) **Elunium]**.
 
-<table><thead><tr><th width="348">Zukko</th><th>Cavalry of Glast Heim (gl_knt01)</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/28 (1).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>NPC Zukko talking about the Knights.</strong></mark></p></td><td><p><img src="../.gitbook/assets/29.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Abyss Knight Cavalry</strong></mark></p></td></tr></tbody></table>
+<table><thead><tr><th width="348">Zukko</th><th>Cavalry of Glast Heim (gl_knt01)</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/28 (1).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>NPC Zukko talking about the Knights.</strong></mark></p></td><td><p><img src="../.gitbook/assets/29.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Abyss Knight Cavalry</strong></mark></p></td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/image (444).png" alt=""><figcaption><p><mark style="color:red;"><strong>After defeating all the Abyss Knights.</strong></mark></p></figcaption></figure>
 
-## **3.9 \[NAMELESS QUEST]**
+### **3.9 \[NAMELESS QUEST]**
 
 * <mark style="color:red;">**This quest will initially not appear in the log**</mark>**.**
 * **Zukko** asks you to find your father, you can find him on the map to the right of **Glast Heim**.
@@ -329,43 +329,43 @@ description: >-
 * Talk to **Lucius**, he will **argue** with you and fight.
 * Return and report what happened to NPC <mark style="color:red;">**Zukko**</mark>.
 
-| Entry Location to Find Your Father	                                                                                                                                    | Lucius                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/30.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Entrance to Geffen 6 Outskirts.</strong></mark></p> | <p><img src="../.gitbook/assets/31.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Location where NPC Lucius is found.</strong></mark></p> |
+| Entry Location to Find Your Father                                                                                                                              | Lucius                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/30.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Entrance to Geffen 6 Outskirts.</strong></mark></p> | <p><img src="../.gitbook/assets/31.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Location where NPC Lucius is found.</strong></mark></p> |
 {% endtab %}
 
 {% tab title="Part 4" %}
-## **4.0 \[Lucius' Report]**
+### **4.0 \[Lucius' Report]**
 
 * When talking to <mark style="color:red;">**Zukko**</mark>, he will explain some things and ask you to go to **Tomoe**.
 * You will receive a reward <mark style="color:blue;">**\[5x**</mark> ![](<../.gitbook/assets/image (445).png>) <mark style="color:blue;">**Guarana Candy]**</mark>.
 
 <figure><img src="../.gitbook/assets/28 (2).png" alt=""><figcaption><p><mark style="color:red;"><strong>Caption: Lucius' report to Zukko.</strong></mark></p></figcaption></figure>
 
-## **4.1 \[Ask the Scientist for Help]**
+### **4.1 \[Ask the Scientist for Help]**
 
 * When talking to **Tomoe**, he asks you to go to the **scientist** in **Prontera**.
 * You will receive a reward <mark style="color:blue;">**\[5x**</mark> ![](<../.gitbook/assets/image (446).png>) <mark style="color:blue;">**Tropical Fruit Salad]**</mark>.
 * **He will explain some things and request a list of items:**
-  * 2x  ![](<../.gitbook/assets/image (489).png>)Dullahan's Eye
-  * 150x  ![](<../.gitbook/assets/image (490).png>)Venomous Canine
-  * 1x  ![](<../.gitbook/assets/image (491).png>)Empty Bottle
-  * 30x  ![](<../.gitbook/assets/image (493).png>)Bee Sting
-  * 20x  ![](<../.gitbook/assets/image (494).png>)Horrendous Hair
-  * 10x  ![](<../.gitbook/assets/image (495).png>)Yggdrasil Fruit
-  * 10x  ![](<../.gitbook/assets/image (496).png>)Mastela
-  * 10x  ![](<../.gitbook/assets/image (497).png>)White Dye
+  * 2x ![](<../.gitbook/assets/image (489).png>)Dullahan's Eye
+  * 150x ![](<../.gitbook/assets/image (490).png>)Venomous Canine
+  * 1x ![](<../.gitbook/assets/image (491).png>)Empty Bottle
+  * 30x ![](<../.gitbook/assets/image (493).png>)Bee Sting
+  * 20x ![](<../.gitbook/assets/image (494).png>)Horrendous Hair
+  * 10x ![](<../.gitbook/assets/image (495).png>)Yggdrasil Fruit
+  * 10x ![](<../.gitbook/assets/image (496).png>)Mastela
+  * 10x ![](<../.gitbook/assets/image (497).png>)White Dye
   * 10x ![](<../.gitbook/assets/image (498).png>)Black Dye
-  * 10x  ![](<../.gitbook/assets/image (499).png>)Red Dye
-  * 10x  ![](<../.gitbook/assets/image (500).png>)Green Dye
-  * 10x  ![](<../.gitbook/assets/image (501).png>)Yellow Dye
+  * 10x ![](<../.gitbook/assets/image (499).png>)Red Dye
+  * 10x ![](<../.gitbook/assets/image (500).png>)Green Dye
+  * 10x ![](<../.gitbook/assets/image (501).png>)Yellow Dye
 * After delivering all the items, he will ask you to **go back to Tomoe** to report.
 
-| Talk to Tomoe first                                                                                                                                                                    | Then talk to the scientist                                                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><img src="../.gitbook/assets/23 (4).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Talk to Tomoe first to get the information.</strong></mark></p> | <p><img src="../.gitbook/assets/4 (2).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>The scientist will explain about the cure.</strong></mark></p> |
+| Talk to Tomoe first                                                                                                                                                             | Then talk to the scientist                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/23 (4).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Talk to Tomoe first to get the information.</strong></mark></p> | <p><img src="../.gitbook/assets/4 (2).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>The scientist will explain about the cure.</strong></mark></p> |
 
-## **4.2 \[Assemble the Elite Battalion]**
+### **4.2 \[Assemble the Elite Battalion]**
 
 * **Tomoe** asks you to convince **Vivus** and **Harald**.
 * **Talk to each of them.**
@@ -374,11 +374,11 @@ description: >-
   * <mark style="color:blue;">**\[1x**</mark> ![](<../.gitbook/assets/image (461).png>) <mark style="color:blue;">**Precious Stones Box Lv.1]**</mark>.
   * <mark style="color:blue;">**\[2x**</mark> ![](<../.gitbook/assets/image (462).png>) <mark style="color:blue;">**Small Mastery Pouch]**</mark>.
 
-| Talk to Vivus first.                                                                                                                                            | Talk to Harald                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/16 (2).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Talk to Vivus first.</strong></mark></p> | <p><img src="../.gitbook/assets/14 (2).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Talk to Harald (He will ask you for items).</strong></mark></p> |
+| Talk to Vivus first.                                                                                                                                     | Talk to Harald                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/16 (2).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Talk to Vivus first.</strong></mark></p> | <p><img src="../.gitbook/assets/14 (2).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Talk to Harald (He will ask you for items).</strong></mark></p> |
 
-## **4.3 \[Use the Dagger]**
+### **4.3 \[Use the Dagger]**
 
 * **Tomoe** asks you to go to <mark style="color:red;">**Lucius**</mark> and use the dagger on him.
 * You must use the dagger on his **"Leg"**.
@@ -387,7 +387,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/31 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Use the dagger on Lucius' leg. </strong></mark><em><mark style="color:red;"><strong>(If you miss, you will die and have to return.)</strong></mark></em></p></figcaption></figure>
 
-## **4.4 \[Report to Tomoe]**
+### **4.4 \[Report to Tomoe]**
 
 * After recovering **Lucius'** memory, go to <mark style="color:red;">**Tomoe**</mark> and report what happened.
 * You will receive the following reward:
@@ -395,15 +395,15 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (465).png" alt=""><figcaption><p><mark style="color:red;"><strong>After using the knife on Lucius, talk to Tomoe.</strong></mark></p></figcaption></figure>
 
-## **4.5 \[New Directives with Zell]**
+### **4.5 \[New Directives with Zell]**
 
 * **Tomoe** asks you to go to the city of Prontera and speak with <mark style="color:red;">**Rei Zell II**</mark>.
 * You will receive the following reward:
-  * <mark style="color:blue;">**\[3x**</mark>  ![](<../.gitbook/assets/image (502).png>)<mark style="color:blue;">**Attack Card]**</mark>.
+  * <mark style="color:blue;">**\[3x**</mark> ![](<../.gitbook/assets/image (502).png>)<mark style="color:blue;">**Attack Card]**</mark>.
 
 <figure><img src="../.gitbook/assets/3 (2).png" alt=""><figcaption><p><mark style="color:red;"><strong>Talk to Rei Zell II.</strong></mark></p></figcaption></figure>
 
-## **4.6 \[Eliminate Lava Golem]**
+### **4.6 \[Eliminate Lava Golem]**
 
 * Rei Zell II asks you to defeat <mark style="color:red;">**150x**</mark> <mark style="color:red;">**Lava Golem**</mark>.
 * After that, Rei Zell II asks you to defeat <mark style="color:red;">**200x Apocalypse**</mark>.
@@ -415,9 +415,9 @@ description: >-
   * \[150x ![](<../.gitbook/assets/image (503).png>) **Contribution Coin**].
   * \[1x ![](<../.gitbook/assets/image (504).png>) **Enriched Oridecon**].
 
-| mag\_dun01                                                                                                                                                                          | juperos\_02                                                                                                                                                                         | sphinx4                                                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/image (469).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Defeat 150 Lava Golems</strong> (mag_dun01).</mark></p> | <p><img src="../.gitbook/assets/image (470).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Defeat 200 Apocalypse</strong> (juperos_02).</mark></p> | <p><img src="../.gitbook/assets/image (471).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Defeat 200 Anubis</strong> (in_sphinx4).</mark></p> |
+| mag\_dun01                                                                                                                                                                   | juperos\_02                                                                                                                                                                  | sphinx4                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><img src="../.gitbook/assets/image (469).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Defeat 150 Lava Golems</strong> (mag_dun01).</mark></p> | <p><img src="../.gitbook/assets/image (470).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Defeat 200 Apocalypse</strong> (juperos_02).</mark></p> | <p><img src="../.gitbook/assets/image (471).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Defeat 200 Anubis</strong> (in_sphinx4).</mark></p> |
 
 <figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption><p><mark style="color:red;"><strong>All Lava Golems defeated.</strong></mark></p></figcaption></figure>
 
@@ -425,7 +425,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (474).png" alt=""><figcaption><p><mark style="color:red;"><strong>All Anubis defeated.</strong></mark></p></figcaption></figure>
 
-## **4.7 \[Find Sarina]**
+### **4.7 \[Find Sarina]**
 
 * After defeating all the monsters, talk to **Rei Zell II**, he will tell you about **Sarina**.
 * You will receive the reward:
@@ -434,7 +434,7 @@ description: >-
 * **After reading the letter, you will have a challenge to complete.**
 * <mark style="color:red;">**For each completed challenge, you must read the letter again.**</mark>
 
-### Challenge List:
+#### Challenge List:
 
 1. **First Challenge** – Go to the **Sanctuary** in the north of **Payon**.
 2. **Second Challenge** – Go to the **tree** in the center of **Prontera**.
@@ -445,16 +445,16 @@ description: >-
 7. After arriving at each location, **click again on the letter**, and the **"**<mark style="color:red;">**Teleport**</mark>**"** option will appear.
 8. Upon teleporting, you will be sent to the **"Monte Mjolnir"** map, with a <mark style="color:red;">**portal in front of you**</mark>.
 
-| Challenges from Sarina's Letter                 | Challenge Locations                                                                                                                                                         |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **First Challenge**                             | <p><img src="../.gitbook/assets/1 (3).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Sanctuary of Payon.</strong></mark></p>               |
-| **Second Challenge**                            | <p><img src="../.gitbook/assets/2 (1).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Tree of Prontera.</strong></mark></p>                 |
-| <p><strong>Third Challenge</strong><br><br></p> | <p><img src="../.gitbook/assets/35.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Well in the Orc Dungeon (A1).</strong></mark></p>        |
-| **Fourth Challenge**                            | <p><img src="../.gitbook/assets/36.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Skull on the rock in Orc Village.</strong></mark></p>    |
-| **Fifth Challenge**                             | <p><img src="../.gitbook/assets/37.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Skull in the Infernal Ant Nest (T1).</strong></mark></p> |
-| **Sixth Challenge**                             | <p><img src="../.gitbook/assets/38.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Clock Hand in the Clock Tower (A1).</strong></mark></p>  |
+| Challenges from Sarina's Letter                 | Challenge Locations                                                                                                                                                  |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **First Challenge**                             | <p><img src="../.gitbook/assets/1 (3).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Sanctuary of Payon.</strong></mark></p>               |
+| **Second Challenge**                            | <p><img src="../.gitbook/assets/2 (1).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Tree of Prontera.</strong></mark></p>                 |
+| <p><strong>Third Challenge</strong><br><br></p> | <p><img src="../.gitbook/assets/35.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Well in the Orc Dungeon (A1).</strong></mark></p>        |
+| **Fourth Challenge**                            | <p><img src="../.gitbook/assets/36.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Skull on the rock in Orc Village.</strong></mark></p>    |
+| **Fifth Challenge**                             | <p><img src="../.gitbook/assets/37.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Skull in the Infernal Ant Nest (T1).</strong></mark></p> |
+| **Sixth Challenge**                             | <p><img src="../.gitbook/assets/38.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Clock Hand in the Clock Tower (A1).</strong></mark></p>  |
 
-## **4.8 \[ The Final Challenge - Path to Eldoria ]**
+### **4.8 \[ The Final Challenge - Path to Eldoria ]**
 
 * When you **teleport** to _Monte Mjolnir_, you must <mark style="color:red;">**enter the portal**</mark> in front of you.
 * Upon entering the portal, you will be **teleported** to a small room.
@@ -465,11 +465,11 @@ description: >-
 * **Enter the portal again**, now you will go to <mark style="color:red;">**Eldoria**</mark>.
 * You will receive the following reward: <mark style="color:blue;">**\[1x**</mark> ![](<../.gitbook/assets/image (506).png>) <mark style="color:blue;">**Potential Restorer]**</mark>.
 
-| Access to Eldoria.                                                                                                                                                | Protector of Eldoria - Final Challenge                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../.gitbook/assets/39.png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Teleport to the challenge.</strong></mark></p> | <p><img src="../.gitbook/assets/image (477).png" alt="" data-size="original"></p><p></p><p><mark style="color:red;"><strong>Final challenge - You.</strong></mark></p> |
+| Access to Eldoria.                                                                                                                                         | Protector of Eldoria - Final Challenge                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../.gitbook/assets/39.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Teleport to the challenge.</strong></mark></p> | <p><img src="../.gitbook/assets/image (477).png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Final challenge - You.</strong></mark></p> |
 
-## **Welcome to Eldoria**
+### **Welcome to Eldoria**
 
 * Congratulations! You now have access to <mark style="color:red;">**Eldoria**</mark>.
 
@@ -492,8 +492,6 @@ description: >-
 {% embed url="https://www.youtube.com/watch?t=3s&v=Lis9cYl4lfU" %}
 <mark style="color:red;">**Parte 4**</mark>
 {% endembed %}
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -546,15 +544,15 @@ description: >-
 
 * Some new <mark style="color:red;">**Gems**</mark> were also added with the arrival of **Eldoria**.
 
-| Gem                                                                                      | Effect                                                                     |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img src="../.gitbook/assets/10311.png" alt="" data-size="original">  Elf Shaman         | MATK +30. When using a two-handed staff: Neutral property resistance +10%. |
-| <img src="../.gitbook/assets/10310.png" alt="" data-size="original">  Dark Elf           | MATK +30. Casting cannot be interrupted.                                   |
-| <img src="../.gitbook/assets/10312.png" alt="" data-size="original"> Elfykid             | Perfect Hit +15. CRIT -15.                                                 |
-| <img src="../.gitbook/assets/10313.png" alt="" data-size="original">  MechaTree          | Reduces damage received from large-size monsters by 7%. Max HP +170.       |
-| <img src="../.gitbook/assets/10298 (1).png" alt="" data-size="original"> Momon           | Critical Damage +10%. Hit -150.                                            |
-| <img src="../.gitbook/assets/10301 (1).png" alt="" data-size="original"> Motaro          | Max HP +3000. Max SP -15%.                                                 |
-| <img src="../.gitbook/assets/10302 (1).png" alt="" data-size="original">  Ainz Ooal Gown | Ignores 70% of the DEF of normal monsters and players.                     |
+| Gem                                                                                     | Effect                                                                     |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/10311.png" alt="" data-size="original"> Elf Shaman         | MATK +30. When using a two-handed staff: Neutral property resistance +10%. |
+| <img src="../.gitbook/assets/10310.png" alt="" data-size="original"> Dark Elf           | MATK +30. Casting cannot be interrupted.                                   |
+| <img src="../.gitbook/assets/10312.png" alt="" data-size="original"> Elfykid            | Perfect Hit +15. CRIT -15.                                                 |
+| <img src="../.gitbook/assets/10313.png" alt="" data-size="original"> MechaTree          | Reduces damage received from large-size monsters by 7%. Max HP +170.       |
+| <img src="../.gitbook/assets/10298 (1).png" alt="" data-size="original"> Momon          | Critical Damage +10%. Hit -150.                                            |
+| <img src="../.gitbook/assets/10301 (1).png" alt="" data-size="original"> Motaro         | Max HP +3000. Max SP -15%.                                                 |
+| <img src="../.gitbook/assets/10302 (1).png" alt="" data-size="original"> Ainz Ooal Gown | Ignores 70% of the DEF of normal monsters and players.                     |
 
 ## **New Items**
 

@@ -4,21 +4,17 @@
 
 * [🖥️ Server Information](README.md)
 * [📘 Arkaik Introduction Guide](basics/arkaik-introduction-guide.md)
-* [🔝 Vote Points](basics/vote-points.md)
 * [👑 VIP (PREMIUM) System](basics/vip-premium-system.md)
-* [✅ Become a PARTNER](basics/become-a-partner.md)
 * [🖱️ HUD & Interface](basics/hud-and-interface.md)
-* [⚠️ RMT RULES](basics/rmt-rules.md)
 * [📜 In-Game Rules](basics/in-game-rules.md)
-* [📩 How to Open a Ticket](basics/how-to-open-a-ticket.md)
 * [🆘 Support and Help](basics/support-and-help/README.md)
-  * [🪛 Common Issues (Client)Problemas Comuns (Client)](basics/support-and-help/common-issues-client-problemas-comuns-client.md)
+  * [🪛 Common Issues (Client)](basics/support-and-help/common-issues-client-problemas-comuns-client.md)
   * [Various Issues](basics/support-and-help/various-issues.md)
   * [🚧 How to Install Arkaik Online](basics/support-and-help/how-to-install-arkaik-online.md)
 
 ## EVENTS
 
-* [Waiting EVENT (ASIAN)](events/waiting-event-asian.md)
+* [🏇 Race to 99](events/waiting-event-asian.md)
 
 ## INSTANCES
 
@@ -27,6 +23,10 @@
 * [♾️ 100% Infinite Tower](instances/100-infinite-tower.md)
 * [🐲 Boss Arena](instances/boss-arena.md)
 * [😈 MVP Battle](instances/mvp-battle.md)
+
+***
+
+* [❄️ Ice Arena 3v3](ice-arena-3v3.md)
 
 ## SYSTEMS
 

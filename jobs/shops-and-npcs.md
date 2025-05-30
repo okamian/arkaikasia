@@ -26,12 +26,10 @@ description: >-
 {% tabs %}
 {% tab title="Prontera" %}
 <figure><img src="../.gitbook/assets/Prontera11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Prontera</strong></mark></p></figcaption></figure>
-
-
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/pr1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de Armas</strong></mark> <br><mark style="color:red;"><strong>(Adagas,Espada,Arcos,Lanças,Machado,Maças)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/pr1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de Armas</strong></mark><br><mark style="color:red;"><strong>(Adagas,Espada,Arcos,Lanças,Machado,Maças)</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
@@ -45,9 +43,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/a1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Spears, Axes, Maces)</mark></em><mark style="color:red;"><strong>)</strong></mark></p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/a1 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Spears, Axes, Maces)</mark></em><mark style="color:red;"><strong>)</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
@@ -79,7 +75,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/iz2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de armaduras.</strong></mark> <br><mark style="color:red;"><strong>(Equipamentos Gerais)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/iz2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de armaduras.</strong></mark><br><mark style="color:red;"><strong>(Equipamentos Gerais)</strong></mark></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -117,11 +113,11 @@ description: >-
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/a1 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Axe)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/a1 (1) (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Axe)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/a2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/a2 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

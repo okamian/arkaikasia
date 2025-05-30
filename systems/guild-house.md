@@ -36,7 +36,7 @@ description: >-
 
 {% tabs %}
 {% tab title="BLESSING" %}
-## <mark style="color:red;">Blessing Bonuses</mark>
+### <mark style="color:red;">Blessing Bonuses</mark>
 
 * ATK 0/100
 * MATK 0/100
@@ -46,7 +46,7 @@ description: >-
 {% endtab %}
 
 {% tab title="ATTACK" %}
-## <mark style="color:red;">**Blessing Bonuses (ATTACK)**</mark>
+### <mark style="color:red;">**Blessing Bonuses (ATTACK)**</mark>
 
 * ATK 0/30 - 30ATK
 * MATK 0/30 - 30MATK
@@ -60,7 +60,7 @@ description: >-
 {% endtab %}
 
 {% tab title="DEFENSE" %}
-## <mark style="color:red;">**Blessing Bonuses (DEFENSE)**</mark>
+### <mark style="color:red;">**Blessing Bonuses (DEFENSE)**</mark>
 
 * Max HP 0/30 (100 \~ 3000)
 * Neutral Damage Reduction 0/30 (0.5% \~ 15%)
@@ -71,12 +71,10 @@ description: >-
 * MDEF 0/30 (0.5% \~ 15%)
 * Ignore MDEF. Non-Boss 0/30 (0.5% \~ 15%)
 * Ignore MDEF. Boss 0/30 (0.5% \~ 15%)
-
-
 {% endtab %}
 
 {% tab title="ELEMENT" %}
-## <mark style="color:red;">**Blessing Bonuses (ELEMENT)**</mark>
+### <mark style="color:red;">**Blessing Bonuses (ELEMENT)**</mark>
 
 * Fire Damage (0.5% \~ 15%)
 * Earth Damage (0.5% \~ 15%)
@@ -90,7 +88,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Accumulated " %}
-## <mark style="color:red;">**Accumulated Status:**</mark>
+### <mark style="color:red;">**Accumulated Status:**</mark>
 
 * ATK 130
 * MATK 130

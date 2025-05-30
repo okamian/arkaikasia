@@ -56,15 +56,15 @@ description: >-
 
 {% tabs %}
 {% tab title="Louyang Fields" %}
-| Monster                                        | Race      | Size   | Element  |
-| ---------------------------------------------- | --------- | ------ | -------- |
-| ![](<../.gitbook/assets/0-0 (15).png>)         | Plant     | Small  | Earth 1  |
-| ![](../.gitbook/assets/0.png)                  | Plant     | Small  | Earth 1  |
-| ![](<../.gitbook/assets/0-0 (1) (2).png>)      | Insect    | Medium | Earth 1  |
-| ![](<../.gitbook/assets/0-0 (3) (2).png>)      | Amorphous | Medium | Earth 3  |
-| ![](<../.gitbook/assets/download (2).png>)     | Brute     | Large  | Earth 1  |
-| ![](<../.gitbook/assets/download (1).png>)     | Brute     | Medium | Poison 1 |
-| ![](<../.gitbook/assets/download (1) (1).png>) | Brute     | Small  | Earth 1  |
+| Monster                                            | Race      | Size   | Element  |
+| -------------------------------------------------- | --------- | ------ | -------- |
+| ![](<../.gitbook/assets/0-0 (15).png>)             | Plant     | Small  | Earth 1  |
+| ![](../.gitbook/assets/0.png)                      | Plant     | Small  | Earth 1  |
+| ![](<../.gitbook/assets/0-0 (1) (2).png>)          | Insect    | Medium | Earth 1  |
+| ![](<../.gitbook/assets/0-0 (3) (2).png>)          | Amorphous | Medium | Earth 3  |
+| ![](<../.gitbook/assets/download (2).png>)         | Brute     | Large  | Earth 1  |
+| ![](<../.gitbook/assets/download (1) (1).png>)     | Brute     | Medium | Poison 1 |
+| ![](<../.gitbook/assets/download (1) (1) (1).png>) | Brute     | Small  | Earth 1  |
 {% endtab %}
 
 {% tab title="Royal Tomb " %}
@@ -79,8 +79,6 @@ description: >-
 | ![](<../.gitbook/assets/0-0 (7) (3).png>) | Dragon    | Medium  | Wind 2   |
 | ![](<../.gitbook/assets/0-0 (3) (3).png>) | Brute     | Large   | Fire 3   |
 | ![](<../.gitbook/assets/0-0 (5) (3).png>) | Brute     | Large   | Earth 1  |
-
-
 {% endtab %}
 
 {% tab title="Inside of the Royal Tomb" %}
@@ -100,8 +98,6 @@ description: >-
 | ![](<../.gitbook/assets/0-0 (1) (5).png>) | Dragão     | Médio   | Vento 2   |
 | ![](<../.gitbook/assets/0-0 (4) (3).png>) | Humanoide  | Médio   | Vento 2   |
 | ![](<../.gitbook/assets/0-0 (2) (5).png>) | Humanoide  | Grande  | Vento 3   |
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -109,15 +105,15 @@ description: >-
 
 * Some new <mark style="color:red;">**Cards**</mark> have also been added with the arrival of <mark style="color:red;">**Louyang**</mark>.
 
-| Card                                               | Effect                                                                                                                                                                                                         |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/4328.webp)Yao Jun Card      | <p>CRIT +1. Flee +15. </p><p>Type: Card </p><p>Equipped on: Garment </p><p>Weight: 1</p>                                                                                                                       |
-| ![](../.gitbook/assets/4328.webp)Zhu Po Long Card  | <p>AGI +1. CRIT +3. </p><p>TipAGI +1. CRIT +3. </p><p>Type: Card </p><p>Equipped on: Accessory </p><p>Weight: 1</p>                                                                                            |
-| ![](../.gitbook/assets/4328.webp)Mao Guai Card     | <p>Physical damage against Ghost property +20%. Combine with an item to use its property. </p><p>Class: Card </p><p>Usage: Weapon </p><p>Weight: 1</p>                                                         |
-| ![](../.gitbook/assets/4328.webp)Mi Gao Card       | <p>Resistance to Guardians +50%. Affects the Guardians from War of Emperium: Archer Guardian, Knight Guardian, and Soldier Guardian. </p><p>Type: Card </p><p>Equipped on: Shield </p><p>Weight: 1</p>         |
-| ![](../.gitbook/assets/4328.webp)Green Maiden Card | <p>STR -5. For each refine up to +10: STR +1. CRIT +1. </p><p>Type: Card </p><p>Equipped on: Garment</p><p>Weight: 1</p>                                                                                       |
-| ![](../.gitbook/assets/4328.webp)Jing Guai Card    | <p>When defeating Angel race monsters: 1% chance to drop Box of Sunlight. </p><p>Type: Card </p><p>Equipped on: Accessory </p><p>Weight: 1</p>                                                                 |
-| ![](../.gitbook/assets/4328.webp)Lady Branca Card  | <p>Efetividade de cura +30%. Custo de SP das habilidades +15%. </p><p>TipHealing effectiveness +30%. SP skill cost +15%. Item </p><p>Type: Card </p><p>Equipped on: Accessory or Headgear </p><p>Weight: 1</p> |
+| Card                                               | Effect                                                                                                                                                                                                     |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../.gitbook/assets/4328.webp)Yao Jun Card      | <p>CRIT +1. Flee +15.</p><p>Type: Card</p><p>Equipped on: Garment</p><p>Weight: 1</p>                                                                                                                      |
+| ![](../.gitbook/assets/4328.webp)Zhu Po Long Card  | <p>AGI +1. CRIT +3.</p><p>TipAGI +1. CRIT +3.</p><p>Type: Card</p><p>Equipped on: Accessory</p><p>Weight: 1</p>                                                                                            |
+| ![](../.gitbook/assets/4328.webp)Mao Guai Card     | <p>Physical damage against Ghost property +20%. Combine with an item to use its property.</p><p>Class: Card</p><p>Usage: Weapon</p><p>Weight: 1</p>                                                        |
+| ![](../.gitbook/assets/4328.webp)Mi Gao Card       | <p>Resistance to Guardians +50%. Affects the Guardians from War of Emperium: Archer Guardian, Knight Guardian, and Soldier Guardian.</p><p>Type: Card</p><p>Equipped on: Shield</p><p>Weight: 1</p>        |
+| ![](../.gitbook/assets/4328.webp)Green Maiden Card | <p>STR -5. For each refine up to +10: STR +1. CRIT +1.</p><p>Type: Card</p><p>Equipped on: Garment</p><p>Weight: 1</p>                                                                                     |
+| ![](../.gitbook/assets/4328.webp)Jing Guai Card    | <p>When defeating Angel race monsters: 1% chance to drop Box of Sunlight.</p><p>Type: Card</p><p>Equipped on: Accessory</p><p>Weight: 1</p>                                                                |
+| ![](../.gitbook/assets/4328.webp)Lady Branca Card  | <p>Efetividade de cura +30%. Custo de SP das habilidades +15%.</p><p>TipHealing effectiveness +30%. SP skill cost +15%. Item</p><p>Type: Card</p><p>Equipped on: Accessory or Headgear</p><p>Weight: 1</p> |
 
 ## Gems
 
