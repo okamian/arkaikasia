@@ -12,7 +12,11 @@ We know that many players no longer have as much time as before, so our proposal
 
 This system allows you to carry out your daily tasks while your character plays automatically for you.
 
-<table><thead><tr><th width="114">Img</th><th>Name</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/29727.png" alt="" data-size="original"></td><td><strong>30D Stamina:</strong> Allows you to gain 240 minutes (4 hours) of auto-combat per day for 30 days. <br>Every day at 00:00, the 240 minutes will reset to 0/720.</td></tr><tr><td><img src="../.gitbook/assets/29728.png" alt="" data-size="original"></td><td><strong>1D Stamina:</strong> Allows you to gain 360 minutes (6 hours) of auto-combat immediately. Every day at 00:00, the 360 minutes will reset to 0/720.</td></tr></tbody></table>
+## @akfcombat
+
+VIPs who have an active battle pass and stamina can now use the @afkcombat command, which allows the character to continue auto-combat even when the game is closed (fly wings will not be used when in offline mode).
+
+<table><thead><tr><th width="114">Img</th><th>Name</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/29727 (1).png" alt="" data-size="original"></td><td><strong>30D Stamina:</strong> Allows you to gain 240 minutes (4 hours) of auto-combat per day for 30 days. <br>Every day at 00:00, the 240 minutes will reset to 0/720.</td></tr><tr><td><img src="../.gitbook/assets/29728 (1).png" alt="" data-size="original"></td><td><strong>1D Stamina:</strong> Allows you to gain 360 minutes (6 hours) of auto-combat immediately. Every day at 00:00, the 360 minutes will reset to 0/720.</td></tr></tbody></table>
 
 ## <mark style="color:red;">**Rules**</mark>
 
@@ -39,7 +43,7 @@ To avoid penalties, play fairly and use only the resources provided by the offic
 
 ## **Basic Functions**
 
-<figure><img src="../.gitbook/assets/autopot.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/112.png" alt=""><figcaption></figcaption></figure>
 
 ## **Setting Up Auto-Combat in Hotkeys**
 
@@ -48,26 +52,26 @@ To avoid penalties, play fairly and use only the resources provided by the offic
   &#xNAN;_(Golden Fly Wing does not need to be in these slots to be used.)_
 * _List of allowed items for F6 to F10._
 
-<figure><img src="../.gitbook/assets/ps2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3444.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th>ID</th><th width="660">Nome do Consumível</th></tr></thead><tbody><tr><td>501</td><td><img src="../.gitbook/assets/501.png" alt="" data-size="line"> Red Potion</td></tr><tr><td>502</td><td><img src="../.gitbook/assets/502.png" alt="" data-size="line"> Orange Potion</td></tr><tr><td>503</td><td><img src="../.gitbook/assets/503.png" alt="" data-size="line"> Yellow Potion</td></tr><tr><td>504</td><td><img src="../.gitbook/assets/504.png" alt="" data-size="line"> White Potion</td></tr><tr><td>507</td><td><img src="../.gitbook/assets/507.png" alt="" data-size="line"> Red Herb</td></tr><tr><td>508</td><td><img src="../.gitbook/assets/508.png" alt="" data-size="line"> Yellow Herb</td></tr><tr><td>509</td><td><img src="../.gitbook/assets/509.png" alt="" data-size="line"> White Herb</td></tr><tr><td>569</td><td><img src="../.gitbook/assets/569.png" alt="" data-size="line"> Novice Potion</td></tr><tr><td>547</td><td><img src="../.gitbook/assets/547.png" alt="" data-size="line"> Compact White Potion</td></tr><tr><td>546</td><td><img src="../.gitbook/assets/546.png" alt="" data-size="line"> Compact Yellow Potion</td></tr><tr><td>545</td><td><img src="../.gitbook/assets/545.png" alt="" data-size="line"> Compact Red Potion</td></tr><tr><td>505</td><td><img src="../.gitbook/assets/505.png" alt="" data-size="line"> Blue Potion</td></tr><tr><td>578</td><td><img src="../.gitbook/assets/578.png" alt="" data-size="line"> Strawberry</td></tr><tr><td>568</td><td><img src="../.gitbook/assets/568.png" alt="" data-size="line"> Lemon</td></tr><tr><td>510</td><td><img src="../.gitbook/assets/510.png" alt="" data-size="line"> Blue Herb</td></tr><tr><td>11563</td><td><img src="../.gitbook/assets/11563.png" alt="" data-size="line"> Hot Tea</td></tr><tr><td>29732</td><td><img src="../.gitbook/assets/505 (1).png" alt="" data-size="line"> Reformulated Blue Potion</td></tr></tbody></table>
+<table><thead><tr><th>ID</th><th width="660">Consumable name</th></tr></thead><tbody><tr><td>501</td><td><img src="../.gitbook/assets/501 (1).png" alt="" data-size="line"> Red Potion</td></tr><tr><td>502</td><td><img src="../.gitbook/assets/502 (1).png" alt="" data-size="line"> Orange Potion</td></tr><tr><td>503</td><td><img src="../.gitbook/assets/503 (1).png" alt="" data-size="line"> Yellow Potion</td></tr><tr><td>504</td><td><img src="../.gitbook/assets/504 (1).png" alt="" data-size="line"> White Potion</td></tr><tr><td>507</td><td><img src="../.gitbook/assets/507 (1).png" alt="" data-size="line"> Red Herb</td></tr><tr><td>508</td><td><img src="../.gitbook/assets/508 (1).png" alt="" data-size="line"> Yellow Herb</td></tr><tr><td>509</td><td><img src="../.gitbook/assets/509 (1).png" alt="" data-size="line"> White Herb</td></tr><tr><td>569</td><td><img src="../.gitbook/assets/569 (1).png" alt="" data-size="line"> Novice Potion</td></tr><tr><td>547</td><td><img src="../.gitbook/assets/547 (3).png" alt="" data-size="line"> Compact White Potion</td></tr><tr><td>546</td><td><img src="../.gitbook/assets/546 (1).png" alt="" data-size="line"> Compact Yellow Potion</td></tr><tr><td>545</td><td><img src="../.gitbook/assets/545 (1).png" alt="" data-size="line"> Compact Red Potion</td></tr><tr><td>505</td><td><img src="../.gitbook/assets/505 (2).png" alt="" data-size="line"> Blue Potion</td></tr><tr><td>578</td><td><img src="../.gitbook/assets/578 (2).png" alt="" data-size="line"> Strawberry</td></tr><tr><td>568</td><td><img src="../.gitbook/assets/568 (1).png" alt="" data-size="line"> Lemon</td></tr><tr><td>510</td><td><img src="../.gitbook/assets/510 (1).png" alt="" data-size="line"> Blue Herb</td></tr><tr><td>11563</td><td><img src="../.gitbook/assets/11563 (1).png" alt="" data-size="line"> Hot Tea</td></tr><tr><td>29732</td><td><img src="../.gitbook/assets/505 (3).png" alt="" data-size="line"> Reformulated Blue Potion</td></tr></tbody></table>
 
 ## **How to know if it is active?**
 
 When using **auto-combat**, an icon will appear above your character, and it will disappear when using **/effect**.
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 ## **Every time I restart the game, my daily limit decreases**
 
 Yes, every time you use **stamina** and **relog**, the system recalculates the remaining stamina for the day.\
-For example, if your stamina was <mark style="color:red;">**0/600**</mark> and you used 5 minutes, it would become <mark style="color:red;">**5/600**</mark>, and after relogging, it would be <mark style="color:red;">**0/595**</mark>.\
+For example, if your stamina was <mark style="color:red;">**0/1079**</mark> and you used 5 minutes, it would become <mark style="color:red;">**10/1079**</mark>, and after relogging, it would be <mark style="color:red;">**0/1069**</mark>.\
 \
 **See the examples below:**
 
-<figure><img src="../.gitbook/assets/Arkaik_yUBLUV44PG.png" alt="" width="272"><figcaption><p><mark style="color:red;"><strong>After spending 5 minutes.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (418).png" alt=""><figcaption><p><mark style="color:red;"><strong>After spending 5 minutes.</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Arkaik_HT3kaWKVym.png" alt="" width="286"><figcaption><p><mark style="color:red;"><strong>After relogging.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (440).png" alt=""><figcaption><p><mark style="color:red;"><strong>After relogging.</strong></mark></p></figcaption></figure>
 
 ## <mark style="color:red;">**FAQ**</mark>
 
