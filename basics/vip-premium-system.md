@@ -1,9 +1,3 @@
----
-description: >-
-  Hệ thống VIP mang đến cho người chơi một số lợi thế nhỏ để giúp tăng tốc và hỗ
-  trợ cho quá trình chơi game của họ.
----
-
 # 👑 Hệ Thống VIP (PREMIUM)
 
 <figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
