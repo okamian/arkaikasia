@@ -1,9 +1,3 @@
----
-description: >-
-  The VIP system gives players a few small advantages to help speed up and
-  assist with their gameplay.
----
-
 # 👑 VIP (PREMIUM) System
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
