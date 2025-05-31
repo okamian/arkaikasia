@@ -1,4 +1,4 @@
-# Daftar Isi
+# Table of contents
 
 ## DASAR
 
@@ -89,5 +89,5 @@
 
 ## EPISODE BARU
 
-* [🌄 EP. Louyang](new-episodes/ep.-louyang.md)* [🌃 EP. Lutie](new-episodes/ep.-lutie.md)
+* [🌄 EP. Louyang](new-episodes/ep.-louyang.md)
 * [🏞️ EP. Eldoria](new-episodes/ep.-eldoria.md)
