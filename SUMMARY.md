@@ -4,7 +4,6 @@
 
 * [🖥️ Thông Tin Máy Chủ](README.md)
 * [📘 Hướng Dẫn Giới Thiệu Arkaik](basics/arkaik-introduction-guide.md)
-* [🔝 Điểm Bầu Chọn](basics/vote-points.md)
 * [👑 Hệ Thống VIP (PREMIUM)](basics/vip-premium-system.md)
 * [✅ Trở Thành ĐỐI TÁC](basics/become-a-partner.md)
 * [🖱️ HUD & Giao Diện](basics/hud-and-interface.md)
