@@ -18,17 +18,17 @@ description: >-
 * **Cung thủ** có thể tạo ra nhiều loại **mũi tên**, mỗi loại có các thuộc tính **nguyên tố** và hiệu ứng trạng thái khác nhau.
 * Để chế tạo mũi tên, chỉ cần mở **ALT+S** và chọn kỹ năng **"Làm Mũi Tên"**.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về một "Cung Thủ"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về một "Cung Thủ"</strong></mark></p></figcaption></figure>
 
 #### Mũi Tên### **Mũi Tên Sắt**
 
-<table><thead><tr><th width="213">Vật phẩm</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Móng Vuốt Sói</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Đèn Lồng</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1) (1).png" alt="" data-size="original"> Quặng Sắt</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="original"> Sắt</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="213">Vật phẩm</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Móng Vuốt Sói</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Đèn Lồng</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt="" data-size="original"> Quặng Sắt</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt="" data-size="original"> Sắt</td><td>500</td></tr></tbody></table>
 
 #### **Mũi Tên Gió**
 
 #### Mũi Tên Oridecon
 
-<table><thead><tr><th width="305">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1).png" alt="" data-size="original"> Quặng Oridecon</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="original"> Chìa Khóa Tháp Đồng Hồ</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="305">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1) (1).png" alt="" data-size="original"> Quặng Oridecon</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1) (1).png" alt="" data-size="original"> Chìa Khóa Tháp Đồng Hồ</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
 
 #### Mũi Tên Thép
 

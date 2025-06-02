@@ -24,6 +24,10 @@
 * [🐲 Boss Arena](instances/boss-arena.md)
 * [😈 MVP Battle](instances/mvp-battle.md)
 
+***
+
+* [❄️ Ice Arena 3v3](ice-arena-3v3.md)
+
 ## HỆ THỐNG
 
 * [🤖 Tự Động Chiến Đấu](systems/auto-combat.md)
