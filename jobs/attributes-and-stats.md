@@ -10,13 +10,13 @@ description: >-
 * Each level you gain grants you some points to distribute.
 * Every point allocated in the attribute list provides you with some bonuses.
 
-<figure><img src="../.gitbook/assets/44111.png" alt="" width="223"><figcaption><p><mark style="color:red;"><strong>ALT+E (Attributes)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="234"><figcaption><p><mark style="color:red;"><strong>ALT+E (Attributes)</strong></mark></p></figcaption></figure>
 
 ## **Attribute List**
 
 * To navigate through the list, simply follow the example of the **"**<mark style="color:red;">**GIF below**</mark>**"**.
 
-<figure><img src="../.gitbook/assets/4441111 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Example of Navigation</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/988 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Example of Navigation</strong></mark></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="STR" %}
