@@ -5,11 +5,8 @@
 * [🖥️ Thông Tin Máy Chủ](README.md)
 * [📘 Hướng Dẫn Giới Thiệu Arkaik](basics/arkaik-introduction-guide.md)
 * [👑 Hệ Thống VIP (PREMIUM)](basics/vip-premium-system.md)
-* [✅ Trở Thành ĐỐI TÁC](basics/become-a-partner.md)
 * [🖱️ HUD & Giao Diện](basics/hud-and-interface.md)
-* [⚠️ QUY TẮC RMT](basics/rmt-rules.md)
 * [📜 Quy Tắc Trong Trò Chơi](basics/in-game-rules.md)
-* [📩 Cách Mở Vé](basics/how-to-open-a-ticket.md)
 * [🆘 Hỗ Trợ Và Trợ Giúp](basics/support-and-help/README.md)
   * [🪛 Các vấn đề chung (Khách hàng)](basics/support-and-help/common-issues-client-problemas-comuns-client.md)
   * [Các vấn đề khác nhau](basics/support-and-help/various-issues.md)
@@ -17,7 +14,7 @@
 
 ## SỰ KIỆN
 
-* [Sự kiện đang chờ (Châu Á)](events/waiting-event-asian.md)
+* [🏇 Cuộc đua đến 99](events/waiting-event-asian.md)
 
 ## THỬ THÁCH
 
