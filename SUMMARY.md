@@ -76,7 +76,7 @@
   * [\[Alchemist\]](jobs/class-guides/alchemist.md)
 * [📊 Attributes & Stats](jobs/attributes-and-stats.md)
 * [🔥 Element Guide](jobs/element-guide.md)
-* [💰 Daily/Guild Mission Guide \[Farm\]](jobs/daily-guild-mission-guide-farm.md)
+* [💰 Daily/Guild Quest Guide \[Farm\]](jobs/daily-guild-mission-guide-farm.md)
 * [🛒 Shops and NPCs](jobs/shops-and-npcs.md)
 * [🏦 Banker](jobs/banker.md)
 * [🚧 Item Crafting](jobs/item-crafting.md)

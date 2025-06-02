@@ -1,11 +1,11 @@
 ---
-description: A location designed for daily missions and Guild missions.
+description: A location designed for daily missions and Guild quest.
 ---
 
-# 💰 Daily/Guild Mission Guide \[Farm]
+# 💰 Daily/Guild Quest Guide \[Farm]
 
 * In this location, you will find where to access the list and the necessary items to complete your missions.
-* The list will include items from <mark style="color:red;">**Daily Quest**</mark> and <mark style="color:red;">**Guild Missions**</mark>.
+* The list will include items from <mark style="color:red;">**Daily Quest**</mark> and <mark style="color:red;">**Guild Quest**</mark>.
 * It will also display the commonly used **SELL** value in the global market **\[Farm]**.
 
 ## **Daily Quest**
