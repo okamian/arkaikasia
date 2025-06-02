@@ -20,9 +20,9 @@ Go to:\
 
 Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="410"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="410"><figcaption></figcaption></figure>
 
 ## **Arkaik.exe does not open, is not in the task manager, and no error appears**
 
@@ -47,7 +47,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 * When running `Client.exe`, after selecting a character, the game displays special characters as `???`, causing it to **crash**.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Cause:**
 
@@ -58,7 +58,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 🔹 **Uncheck** the **UNICODE UTF-8** box if it is enabled, restart, and test the game.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="329"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="329"><figcaption></figcaption></figure>
 
 ## **Error in Client.exe: "Cannot init d3d OR grf file has problem" or White Screen**
 
@@ -101,7 +101,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 If the game **runs but has errors** (_like missing textures or incorrect visuals_), proceed to the **next solution**.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="387"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="387"><figcaption></figcaption></figure>
 
 \
 **Additional Solution: "Cannot init d3d OR grf file has problem"**
@@ -120,7 +120,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 [<mark style="color:purple;">Link do Video Tutorial</mark>](https://www.youtube.com/watch?v=2dStctdLMeE)
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Error Loading Arkaik.exe Modules Before the Login Screen (Date & Time)**
 
@@ -131,7 +131,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 * When opening **Arkaik.exe**, during the module loading process, a **red error** appears stating:\
   &#xNAN;**"Server failed to authenticate the request"**.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Cause:**
 
@@ -142,7 +142,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 1. **Go to:**
    * **Control Panel** > **Date & Time** > **Sync Now**
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="332"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="332"><figcaption></figcaption></figure>
 
 1. Open the **classic Date & Time settings** in Windows.
 2. **Manually adjust** the date and time.
@@ -153,11 +153,11 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 **If the Problem Persists:**
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p><mark style="color:red;"><strong>Click on Internet Time</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Click on Internet Time</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p><mark style="color:red;"><strong>Change Time Zone</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Change Time Zone</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Error: Failed to get updates URL (when opening arkaik.exe)**
 
@@ -167,7 +167,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 **Solution:** Download **https://1.1.1.1**. If the issue persists, **Cloudflare** can optimize the best route for your internet.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Colored Squares Screen When Running Client.exe**
 

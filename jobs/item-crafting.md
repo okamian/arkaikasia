@@ -18,7 +18,7 @@ description: >-
 * **Archers** can create various types of **arrows**, each with different **elemental** properties and status effects.
 * To craft arrows, simply open **ALT+S** and select the **"Make Arrow"** skill.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of an "Archer"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of an "Archer"</strong></mark></p></figcaption></figure>
 
 #### Arrow
 
@@ -26,39 +26,39 @@ description: >-
 
 #### **Iron Arrow**
 
-<table><thead><tr><th width="213">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Wolf Claw</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Lantern</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="original"> Iron Ore</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="original">Iron</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="213">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Wolf Claw</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Lantern</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1) (1).png" alt="" data-size="original"> Iron Ore</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="original">Iron</td><td>500</td></tr></tbody></table>
 
 #### **Wind Arrow**
 
-<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="original"> Harpie Feather</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="original"> Breeze of Wind</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (13) (1).png" alt="" data-size="original"> Rough Wind</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="original"> Harpie Feather</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="original"> Breeze of Wind</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (13) (1) (1).png" alt="" data-size="original"> Rough Wind</td><td>1500</td></tr></tbody></table>
 
 #### Oridecon Arrow
 
-<table><thead><tr><th width="305">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1).png" alt="" data-size="original"> Oridecon Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="original"> Clock Tower Key</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="305">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1) (1).png" alt="" data-size="original"> Oridecon Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1) (1).png" alt="" data-size="original"> Clock Tower Key</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
 
 #### Steel Arrow
 
-<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="original"> Steel</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="original"> Elunium Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="original"> Elunium</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (17) (1) (1).png" alt="" data-size="original"> Steel</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (18) (1) (1).png" alt="" data-size="original"> Elunium Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (19) (1) (1).png" alt="" data-size="original"> Elunium</td><td>1500</td></tr></tbody></table>
 
 #### Crystal Arrow
 
-<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1).png" alt="" data-size="original"> Gill</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (21) (1).png" alt="" data-size="original"> Blue Crystal</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (22) (1).png" alt="" data-size="original"> Mystic Frozen</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1) (1).png" alt="" data-size="original"> Gill</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (21) (1) (1).png" alt="" data-size="original"> Blue Crystal</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (22) (1) (1).png" alt="" data-size="original"> Mystic Frozen</td><td>1500</td></tr></tbody></table>
 
 #### Rusty Arrow
 
-<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (23) (1).png" alt="" data-size="original"> Bee Sting</td><td>30</td></tr><tr><td><img src="../.gitbook/assets/image (24) (1).png" alt="" data-size="original"> Zenorc Fang</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (25) (1).png" alt="" data-size="original"> Old Pick</td><td>200</td></tr></tbody></table>
+<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (23) (1) (1).png" alt="" data-size="original"> Bee Sting</td><td>30</td></tr><tr><td><img src="../.gitbook/assets/image (24) (1) (1).png" alt="" data-size="original"> Zenorc Fang</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (25) (1) (1).png" alt="" data-size="original"> Old Pick</td><td>200</td></tr></tbody></table>
 
 #### Fire Arrow
 
-<table><thead><tr><th width="256">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (26) (1).png" alt="" data-size="original"> Burning Heart</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (27) (1).png" alt="" data-size="original"> Scarlet Blood</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="original"> CoraFlame Heart</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="256">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (26) (1) (1).png" alt="" data-size="original"> Burning Heart</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (27) (1) (1).png" alt="" data-size="original"> Scarlet Blood</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (28) (1) (1).png" alt="" data-size="original"> CoraFlame Heart</td><td>1500</td></tr></tbody></table>
 
 #### Immaterial Arrow
 
-<table><thead><tr><th width="259">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (29) (1).png" alt="" data-size="original"> Star Dust</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/image (30) (1).png" alt="" data-size="original">Star Fragment</td><td>200</td></tr><tr><td><img src="../.gitbook/assets/image (31) (1).png" alt="" data-size="original"> Emperium</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="259">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (29) (1) (1).png" alt="" data-size="original"> Star Dust</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/image (30) (1) (1).png" alt="" data-size="original">Star Fragment</td><td>200</td></tr><tr><td><img src="../.gitbook/assets/image (31) (1) (1).png" alt="" data-size="original"> Emperium</td><td>500</td></tr></tbody></table>
 
 #### Stone Arrow
 
-<table><thead><tr><th width="261">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (32) (1).png" alt="" data-size="original"> Goat Horn</td><td>450</td></tr><tr><td><img src="../.gitbook/assets/image (33) (1).png" alt="" data-size="original"> Green Live</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (34) (1).png" alt="" data-size="original"> Great Nature</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="261">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (32) (1) (1).png" alt="" data-size="original"> Goat Horn</td><td>450</td></tr><tr><td><img src="../.gitbook/assets/image (33) (1).png" alt="" data-size="original"> Green Live</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (34) (1).png" alt="" data-size="original"> Great Nature</td><td>1500</td></tr></tbody></table>
 
 #### Silver Arrow
 
