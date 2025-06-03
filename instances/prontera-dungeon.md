@@ -6,11 +6,11 @@ description: >-
 
 # ⚔️ Prontera Dungeon
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **Ngục Tối Prontera là gì?**
 
 * **Ngục Tối Prontera** là một trong những **instance hoàn toàn đổi mới** và độc đáo trong **Arkaik**, với các cơ chế và vật phẩm độc quyền riêng.
-
-### <mark style="color:red;">(ĐANG CHỜ VIDEO CHÂU Á)</mark>
 
 ## Nơi Tìm Thấy Trên Bản Đồ
 
@@ -20,16 +20,17 @@ description: >-
 
 <figure><img src="../.gitbook/assets/213.png" alt=""><figcaption><p><mark style="color:red;"><strong>Vị trí trên "Bản Đồ Nhỏ" của Prontera</strong></mark></p></figcaption></figure>
 
-## **Cách Truy Cập Vị Trí**\* Đi đến <mark style="color:red;">**Kafra**</mark> gần nhất trong thành phố của bạn, nhấp vào tùy chọn **"**<mark style="color:red;">**Teleport**</mark>**"** và chọn thành phố.
+## **Cách Truy Cập Vị Trí**
 
-* <mark style="color:red;">**Đi đến Prontera**</mark>**.**
+* ## &#x20;<sup><sub>Đi đến<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:red;">**Kafra**<mark style="color:red;"><sub></sup> <sup><sub> </sup><sup><sub>gần nhất trong thành phố của bạn, nhấp vào tùy chọn<sub></sup> <sup><sub> </sup><sup><sub>**"**<sub></sup><sup><sub><mark style="color:red;">**Teleport**<mark style="color:red;"><sub></sup><sup><sub>**"**<sub></sup> <sup><sub> </sup><sup><sub>và chọn thành phố.<sub></sup>
+*   <mark style="color:red;">**Đi đến Prontera**</mark>**.**
 
-<figure><img src="../.gitbook/assets/bb1.gif" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2FFwoNFld8H6GblPkAA9w6%2F878.gif" alt=""><figcaption></figcaption></figure>
 * Sau đó, đi <mark style="color:red;">**phía bắc của Prontera**</mark> cho đến khi bạn tìm thấy <mark style="color:red;">**các lính gác và một cổng**</mark>.
-* Sau đó, chỉ cần bước vào <mark style="color:red;">**cổng**</mark>.
+*   Sau đó, chỉ cần bước vào <mark style="color:red;">**cổng**</mark>.\
 
-<figure><img src="../.gitbook/assets/bb2.gif" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2F3ZYsXrQHAu3exHrJAiXy%2F0999.webp" alt=""><figcaption></figcaption></figure>
 
 ## **Có những NPC nào bên trong?**
 
