@@ -1,3 +1,9 @@
+---
+description: >-
+  Bạn đã sẵn sàng cho ARENA 3v3 mới chưa? Rất nhiều thử thách và giải thưởng lớn
+  dành cho người chiến thắng, hãy tham gia ngay.
+---
+
 # ❄️ Ice Arena 3v3
 
 **Về Giải đấu 3v3**
