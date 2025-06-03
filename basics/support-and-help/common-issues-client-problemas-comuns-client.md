@@ -4,36 +4,21 @@ description: >-
   trợ của chúng tôi trên Discord hoặc WhatsApp.
 ---
 
-# 🪛 Common Issues (Client)Problemas Comuns (Client)
+# 🪛 Các vấn đề chung (Khách hàng)
 
 ## Arkaik.exe mở lên, nhưng khi nhấn "Chơi", không có gì xảy ra và nó đóng lại
 
-**Nguyên nhân:**
+{% embed url="https://youtu.be/alrPDAo3cx0" %}
 
-* **Phần mềm diệt virus** hoặc **bảo vệ khai thác** của bạn có thể đang chặn tệp `.exe` của khách hàng.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**Giải pháp:**\
-Đi tới:\
-➡ **Bảo mật Windows** > **Kiểm soát Ứng dụng & Trình duyệt** > **Cài đặt Bảo vệ Khai thác** > **Cài đặt Chương trình (Tab trên cùng)** > **(+) Thêm một Chương trình để Tùy chỉnh**
-
-Gõ `Client.exe` và kích hoạt tất cả các quy trình. (Kiểm tra tất cả các ô chọn; một số có thể được kích hoạt theo mặc định - cũng tắt chúng nếu cần.)\\
-
-<figure><img src="../../.gitbook/assets/image (149).png" alt="" width="563"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (150).png" alt="" width="410"><figcaption></figcaption></figure>
-
-## **Arkaik.exe không mở, không có trong trình quản lý tác vụ và không có lỗi nào xuất hiện**
-
-**Nguyên nhân:**\* **Phần mềm diệt virus** hoặc **bảo vệ khai thác** của bạn có thể đang chặn tệp `exe` của **Arkaik**.
-
-**Giải pháp:**\
-➡ **Bảo mật Windows** > **Kiểm soát Ứng dụng & Trình duyệt** > **Cài đặt Bảo vệ Khai thác** > **Cài đặt Chương trình (Tab trên cùng)** > **(+) Thêm một Chương trình để Tùy chỉnh**
-
-Gõ **Arkaik.exe** và kích hoạt tất cả các quy trình. (Đánh dấu tất cả các ô lựa chọn; một số có thể đã được kích hoạt mặc định - hãy tắt chúng nếu cần thiết.)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 📌 **Hình ảnh:** Quy trình giống như trên!
 
 ## **Lỗi: Không thể tìm thấy Tệp với ký tự đặc biệt "????"**
+
+{% embed url="https://youtu.be/7MElYRZ4p8w" %}
 
 **Vấn đề:**
 
@@ -53,6 +38,8 @@ Gõ **Arkaik.exe** và kích hoạt tất cả các quy trình. (Đánh dấu t�
 <figure><img src="../../.gitbook/assets/image (152).png" alt="" width="329"><figcaption></figcaption></figure>
 
 ## **Lỗi trong Client.exe: "Không thể khởi tạo d3d HOẶC tệp grf có vấn đề" hoặc Màn hình trắng**
+
+{% embed url="https://youtu.be/Spq8HxAYCW0" %}
 
 <figure><img src="../../.gitbook/assets/Cannot_init_d3d_or_grf_file_has_problem.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -107,6 +94,8 @@ Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc h
 
 ## **Lỗi Tải Các Mô-đun Arkaik.exe Trước Màn Hình Đăng Nhập (Ngày & Giờ)**
 
+{% embed url="https://youtu.be/_AesF-DFHbs" %}
+
 **Vấn đề:**
 
 * Khi mở **Arkaik.exe**, trong quá trình tải mô-đun, một **lỗi đỏ** xuất hiện với thông báo:\
@@ -139,7 +128,10 @@ Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc h
 
 <figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
-\## \*\*Lỗi: Không thể lấy URL cập nhật (khi mở arkaik.exe)\*\*
+**Lỗi: Không thể lấy URL cập nhật (khi mở arkaik.exe)**\
+
+
+{% embed url="https://youtu.be/zMdliegZya8" %}
 
 **Vấn đề:** Khi chạy **arkaik.exe**, xuất hiện lỗi cập nhật: **"Không thể lấy URL cập nhật"**, có nghĩa là máy chủ cập nhật đã từ chối kết nối.
 
@@ -148,6 +140,8 @@ Nếu trò chơi **chạy nhưng có lỗi** (_như thiếu kết cấu hoặc h
 <figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 ## **Màn hình ô vuông màu khi chạy Client.exe**
+
+{% embed url="https://youtu.be/b4LLXuUrKoc" %}
 
 <figure><img src="../../.gitbook/assets/800px-Tela_com_quadrados_coloridos_arkaik_online.png" alt="" width="563"><figcaption></figcaption></figure>
 
