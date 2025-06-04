@@ -188,3 +188,10 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 3. If the issue persists, return to the same location and:
    * **Add a graphics card**
    * **Set a resolution lower than 1366x768**
+
+## **STREAM MODE ARKAIK**
+
+* How to resolve problem stream arkaik OBS STUDIO.
+
+{% embed url="https://www.youtube.com/watch?v=8pDiiHR3d3M" %}
+
