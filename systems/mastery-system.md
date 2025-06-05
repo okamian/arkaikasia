@@ -6,7 +6,7 @@ description: >-
 
 # 🏆 Mastery System
 
-<figure><img src="../.gitbook/assets/11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>Mastery Academic NPC</strong> – Responsible for purchasing new points.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><mark style="color:red;"><strong>Mastery Academic NPC</strong> – Responsible for purchasing new points.</mark></p></figcaption></figure>
 
 ## **Mastery System**
 
@@ -25,28 +25,28 @@ description: >-
 * The more points you purchase, the more expensive they become.
 * You can **"Reset"** the tax counter for a certain amount of **Zeny**.
 
-<figure><img src="../.gitbook/assets/11123333333333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Mastery Academic in Zero City</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1444.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Mastery Academic in Zero City</strong></mark></p></figcaption></figure>
 
 ## **Daily Mission Shop**
 
 * By completing <mark style="color:red;">**daily missions**</mark> in cities, you earn points and can exchange them for **"**<mark style="color:red;">**Mastery Bags**</mark>**"**.
 * Next to the NPC, there will be a **stone mural**. Simply click on the **"**<mark style="color:red;">**Mural**</mark>**"** and choose a mission.
 
-<figure><img src="../.gitbook/assets/44444 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC das Trocas de missões diárias.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/122222.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC das Trocas de missões diárias.</strong></mark></p></figcaption></figure>
 
 ### MVPS
 
 * Defeating **MVPs** also grants a chance to drop **"**<mark style="color:red;">**Mastery Bags**</mark>**"**.
 
-<figure><img src="../.gitbook/assets/aa23.png" alt=""><figcaption><p><mark style="color:red;"><strong>Each MVP has a chance to drop "Mastery Bags".</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3334.png" alt=""><figcaption><p><mark style="color:red;"><strong>Each MVP has a chance to drop "Mastery Bags".</strong></mark></p></figcaption></figure>
 
 ## **Just by Playing**
 
 * <mark style="color:red;">**Every two hours**</mark>, you **passively** receive **1 mastery point for free**.
-* You can collect your points by typing <mark style="color:red;">**@mastery**</mark> in the chat.
+* You can collect your points by typing <mark style="color:red;">**@maestria**</mark> in the chat.
 * <mark style="color:red;">**The timer does not reset if you log out**</mark>, as it is cumulative.
 
-<figure><img src="../.gitbook/assets/cca643.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Utilizando o comando @maestria para verificar receber seu pontos.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/009.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using the @maestria command to check if you received your points.</strong></mark></p></figcaption></figure>
 
 ## **About Point Cost**
 
@@ -68,4 +68,4 @@ description: >-
 * To use your **Mastery Points**, simply press <mark style="color:red;">**(ALT + S)**</mark> and go to the **"Mastery"** tab.
 * All your **Mastery Points** will be listed below, and you can **spend them freely**.
 
-<figure><img src="../.gitbook/assets/cca64355.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using Mastery Points in the Skill Tree.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/990.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using Mastery Points in the Skill Tree.</strong></mark></p></figcaption></figure>
