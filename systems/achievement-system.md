@@ -12,4 +12,5 @@ description: >-
 * These are **"**<mark style="color:red;">**visual titles**</mark>**"** given to characters upon meeting certain requirements.
 * Titles appear next to your character's name.
 
-<figure><img src="../.gitbook/assets/cca.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure>
+
