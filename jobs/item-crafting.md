@@ -18,7 +18,7 @@ description: >-
 * **Archers** can create various types of **arrows**, each with different **elemental** properties and status effects.
 * To craft arrows, simply open **ALT+S** and select the **"Make Arrow"** skill.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of an "Archer"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of an "Archer"</strong></mark></p></figcaption></figure>
 
 #### Arrow
 
@@ -26,83 +26,83 @@ description: >-
 
 #### **Iron Arrow**
 
-<table><thead><tr><th width="213">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Wolf Claw</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Lantern</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt="" data-size="original"> Iron Ore</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt="" data-size="original">Iron</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="213">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Wolf Claw</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Lantern</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt="" data-size="original"> Iron Ore</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original">Iron</td><td>500</td></tr></tbody></table>
 
 #### **Wind Arrow**
 
-<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt="" data-size="original"> Harpie Feather</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt="" data-size="original"> Breeze of Wind</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt="" data-size="original"> Rough Wind</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt="" data-size="original"> Harpie Feather</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" data-size="original"> Breeze of Wind</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt="" data-size="original"> Rough Wind</td><td>1500</td></tr></tbody></table>
 
 #### Oridecon Arrow
 
-<table><thead><tr><th width="305">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1) (1) (1).png" alt="" data-size="original"> Oridecon Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1) (1) (1).png" alt="" data-size="original"> Clock Tower Key</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1) (1) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="305">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt="" data-size="original"> Oridecon Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt="" data-size="original"> Clock Tower Key</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
 
 #### Steel Arrow
 
-<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (17) (1) (1) (1).png" alt="" data-size="original"> Steel</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (18) (1) (1) (1).png" alt="" data-size="original"> Elunium Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (19) (1) (1) (1).png" alt="" data-size="original"> Elunium</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt="" data-size="original"> Steel</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (18) (1) (1) (1) (1).png" alt="" data-size="original"> Elunium Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (19) (1) (1) (1) (1).png" alt="" data-size="original"> Elunium</td><td>1500</td></tr></tbody></table>
 
 #### Crystal Arrow
 
-<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1) (1) (1).png" alt="" data-size="original"> Gill</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (21) (1) (1) (1).png" alt="" data-size="original"> Blue Crystal</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (22) (1) (1) (1).png" alt="" data-size="original"> Mystic Frozen</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt="" data-size="original"> Gill</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (21) (1) (1) (1) (1).png" alt="" data-size="original"> Blue Crystal</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (22) (1) (1) (1) (1).png" alt="" data-size="original"> Mystic Frozen</td><td>1500</td></tr></tbody></table>
 
 #### Rusty Arrow
 
-<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (23) (1) (1) (1).png" alt="" data-size="original"> Bee Sting</td><td>30</td></tr><tr><td><img src="../.gitbook/assets/image (24) (1) (1) (1).png" alt="" data-size="original"> Zenorc Fang</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (25) (1) (1) (1).png" alt="" data-size="original"> Old Pick</td><td>200</td></tr></tbody></table>
+<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (23) (1) (1) (1) (1).png" alt="" data-size="original"> Bee Sting</td><td>30</td></tr><tr><td><img src="../.gitbook/assets/image (24) (1) (1) (1) (1).png" alt="" data-size="original"> Zenorc Fang</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (25) (1) (1) (1) (1).png" alt="" data-size="original"> Old Pick</td><td>200</td></tr></tbody></table>
 
 #### Fire Arrow
 
-<table><thead><tr><th width="256">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (26) (1) (1) (1).png" alt="" data-size="original"> Burning Heart</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (27) (1) (1) (1).png" alt="" data-size="original"> Scarlet Blood</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (28) (1) (1) (1).png" alt="" data-size="original"> CoraFlame Heart</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="256">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (26) (1) (1) (1) (1).png" alt="" data-size="original"> Burning Heart</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (27) (1) (1) (1) (1).png" alt="" data-size="original"> Scarlet Blood</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (28) (1) (1) (1) (1).png" alt="" data-size="original"> CoraFlame Heart</td><td>1500</td></tr></tbody></table>
 
 #### Immaterial Arrow
 
-<table><thead><tr><th width="259">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (29) (1) (1).png" alt="" data-size="original"> Star Dust</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/image (30) (1) (1).png" alt="" data-size="original">Star Fragment</td><td>200</td></tr><tr><td><img src="../.gitbook/assets/image (31) (1) (1).png" alt="" data-size="original"> Emperium</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="259">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (29) (1) (1) (1).png" alt="" data-size="original"> Star Dust</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/image (30) (1) (1) (1).png" alt="" data-size="original">Star Fragment</td><td>200</td></tr><tr><td><img src="../.gitbook/assets/image (31) (1) (1) (1).png" alt="" data-size="original"> Emperium</td><td>500</td></tr></tbody></table>
 
 #### Stone Arrow
 
-<table><thead><tr><th width="261">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (32) (1) (1).png" alt="" data-size="original"> Goat Horn</td><td>450</td></tr><tr><td><img src="../.gitbook/assets/image (33) (1).png" alt="" data-size="original"> Green Live</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (34) (1).png" alt="" data-size="original"> Great Nature</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="261">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (32) (1) (1) (1).png" alt="" data-size="original"> Goat Horn</td><td>450</td></tr><tr><td><img src="../.gitbook/assets/image (33) (1) (1).png" alt="" data-size="original"> Green Live</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (34) (1) (1).png" alt="" data-size="original"> Great Nature</td><td>1500</td></tr></tbody></table>
 
 #### Silver Arrow
 
-<table><thead><tr><th width="263">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (35) (1).png" alt="" data-size="original"> Holy Water</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/image (36) (1).png" alt="" data-size="original"> Shaman Staff</td><td>300</td></tr></tbody></table>
+<table><thead><tr><th width="263">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (35) (1) (1).png" alt="" data-size="original"> Holy Water</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/image (36) (1) (1).png" alt="" data-size="original"> Shaman Staff</td><td>300</td></tr></tbody></table>
 
 #### Sacred Arrow
 
-<table><thead><tr><th width="260">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (37) (1).png" alt="" data-size="original"> Rosary</td><td>300</td></tr><tr><td><img src="../.gitbook/assets/image (38) (1).png" alt="" data-size="original"> Yggdrasil Fruit</td><td>900</td></tr></tbody></table>
+<table><thead><tr><th width="260">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (37) (1) (1).png" alt="" data-size="original"> Rosary</td><td>300</td></tr><tr><td><img src="../.gitbook/assets/image (38) (1) (1).png" alt="" data-size="original"> Yggdrasil Fruit</td><td>900</td></tr></tbody></table>
 
 #### Shadow Arrow
 
-<table><thead><tr><th width="264">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (39) (1).png" alt="" data-size="original"> Bat Tooth</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/image (40) (1).png" alt="" data-size="original"> Dullahan Armor</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (41) (1).png" alt="" data-size="original"> Loki's Whispers</td><td>900</td></tr></tbody></table>
+<table><thead><tr><th width="264">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (39) (1) (1).png" alt="" data-size="original"> Bat Tooth</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/image (40) (1) (1).png" alt="" data-size="original"> Dullahan Armor</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (41) (1) (1).png" alt="" data-size="original"> Loki's Whispers</td><td>900</td></tr></tbody></table>
 
 #### Sharp Arrow
 
-<table><thead><tr><th width="269">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (42) (1).png" alt="" data-size="original"> Sharp Leaf</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (43) (1).png" alt="" data-size="original">Insect Leg</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="269">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (42) (1) (1).png" alt="" data-size="original"> Sharp Leaf</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (43) (1) (1).png" alt="" data-size="original">Insect Leg</td><td>500</td></tr></tbody></table>
 
 #### Cursed Arrow
 
-<table><thead><tr><th width="268">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (44) (1).png" alt="" data-size="original"> Amulet</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (45) (1).png" alt="" data-size="original"> Cursed Ruby</td><td>600</td></tr></tbody></table>
+<table><thead><tr><th width="268">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (44) (1) (1).png" alt="" data-size="original"> Amulet</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (45) (1) (1).png" alt="" data-size="original"> Cursed Ruby</td><td>600</td></tr></tbody></table>
 
 #### Luminous Arrow
 
-<table><thead><tr><th width="268">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (46) (1).png" alt="" data-size="original"> Tear Gas</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (47) (1).png" alt="" data-size="original"> Blind Man's Folly</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="268">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (46) (1) (1).png" alt="" data-size="original"> Tear Gas</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (47) (1) (1).png" alt="" data-size="original"> Blind Man's Folly</td><td>1500</td></tr></tbody></table>
 
 #### Freezing Arrow
 
-<table><thead><tr><th width="269">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (48) (1).png" alt="" data-size="original"> Blue Crystal</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (49) (1).png" alt="" data-size="original"> Mystic Frozen</td><td>300</td></tr></tbody></table>
+<table><thead><tr><th width="269">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (48) (1) (1).png" alt="" data-size="original"> Blue Crystal</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (49) (1) (1).png" alt="" data-size="original"> Mystic Frozen</td><td>300</td></tr></tbody></table>
 
 #### Silencing Arrow
 
-<table><thead><tr><th width="269">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (50) (1).png" alt="" data-size="original"> Stone Heart</td><td>75</td></tr><tr><td><img src="../.gitbook/assets/image (51) (1).png" alt="" data-size="original"> Crystal Fragment</td><td>450</td></tr></tbody></table>
+<table><thead><tr><th width="269">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (50) (1) (1).png" alt="" data-size="original"> Stone Heart</td><td>75</td></tr><tr><td><img src="../.gitbook/assets/image (51) (1) (1).png" alt="" data-size="original"> Crystal Fragment</td><td>450</td></tr></tbody></table>
 
 #### Poisoned Arrow
 
-<table><thead><tr><th width="272">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (52) (1).png" alt="" data-size="original"> Poison Spore</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (53) (1).png" alt="" data-size="original"> Poisonous Fang</td><td>300</td></tr></tbody></table>
+<table><thead><tr><th width="272">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (52) (1) (1).png" alt="" data-size="original"> Poison Spore</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (53) (1) (1).png" alt="" data-size="original"> Poisonous Fang</td><td>300</td></tr></tbody></table>
 
 #### Sleep Arrow
 
-<table><thead><tr><th width="272">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (54) (1).png" alt="" data-size="original"> Aloe</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (55) (1).png" alt="" data-size="original"> Toxic Gas</td><td>400</td></tr></tbody></table>
+<table><thead><tr><th width="272">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (54) (1) (1).png" alt="" data-size="original"> Aloe</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (55) (1) (1).png" alt="" data-size="original"> Toxic Gas</td><td>400</td></tr></tbody></table>
 
 #### Stunning Arrow
 
-<table><thead><tr><th width="275">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (56) (1).png" alt="" data-size="original"> Stone Piece</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (57) (1).png" alt="" data-size="original"> Pumice Stone</td><td>400</td></tr></tbody></table>
+<table><thead><tr><th width="275">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (56) (1) (1).png" alt="" data-size="original"> Stone Piece</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (57) (1) (1).png" alt="" data-size="original"> Pumice Stone</td><td>400</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Acolyte" %}
@@ -125,7 +125,7 @@ description: >-
 * They can craft **repair scrolls**.
 * They can craft **fundamental stones**.
 
-<figure><img src="../.gitbook/assets/image (58) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of "Blacksmith"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of "Blacksmith"</strong></mark></p></figcaption></figure>
 
 ### **Refinement Scroll**
 
@@ -133,11 +133,11 @@ description: >-
 * Select the weapon that matches your **level**, then click to **refine**.
 * Always keep an eye on your **"Potential"**—if it reaches **0**, the item will <mark style="color:red;">**break**</mark>.
 
-<table><thead><tr><th>Item</th><th width="257" align="center">Scroll</th><th align="center">Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (59) (1).png" alt="" data-size="original"> Fracon</td><td align="center">Weapon Refinement Lv 1</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (60) (1).png" alt="" data-size="original"> Emveretarcon</td><td align="center">Weapon Refinement Lv 2</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (61) (1).png" alt="" data-size="original"> Oridecon</td><td align="center">Weapon Refinement Lv 3</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (62) (1).png" alt="" data-size="original"> Gold Bar</td><td align="center">Weapon Refinement Lv 4</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (63) (1).png" alt="" data-size="original"> Elunium</td><td align="center">Equipment Refinement</td><td align="center">1</td></tr></tbody></table>
+<table><thead><tr><th>Item</th><th width="257" align="center">Scroll</th><th align="center">Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (59) (1) (1).png" alt="" data-size="original"> Fracon</td><td align="center">Weapon Refinement Lv 1</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (60) (1) (1).png" alt="" data-size="original"> Emveretarcon</td><td align="center">Weapon Refinement Lv 2</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (61) (1) (1).png" alt="" data-size="original"> Oridecon</td><td align="center">Weapon Refinement Lv 3</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (62) (1) (1).png" alt="" data-size="original"> Gold Bar</td><td align="center">Weapon Refinement Lv 4</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (63) (1) (1).png" alt="" data-size="original"> Elunium</td><td align="center">Equipment Refinement</td><td align="center">1</td></tr></tbody></table>
 
 ### **Repair Scroll**
 
-<table><thead><tr><th width="269">Item</th><th align="center">Scroll</th><th align="center">Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (64) (1).png" alt="" data-size="original">Worn Scroll</td><td align="center">Repair Scroll</td><td align="center">1</td></tr></tbody></table>
+<table><thead><tr><th width="269">Item</th><th align="center">Scroll</th><th align="center">Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (64) (1) (1).png" alt="" data-size="original">Worn Scroll</td><td align="center">Repair Scroll</td><td align="center">1</td></tr></tbody></table>
 
 ### Pedras Fundamentais
 
@@ -148,15 +148,15 @@ description: >-
 * **Alchemists** can create various types of **potions**.
 * You can create potions by opening **ALT+S** and using the **"Pharmacy"** skill.
 
-<figure><img src="../.gitbook/assets/image (65) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of "Alchemist"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of "Alchemist"</strong></mark></p></figcaption></figure>
 
 ### HP/SP Potions
 
-<table><thead><tr><th>Required Items</th><th width="194">Quantity</th><th>Produced Item</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (66) (1).png" alt="" data-size="original"> Red Herb<br><img src="../.gitbook/assets/image (67) (1).png" alt=""> Potion Bottle</td><td>1</td><td><img src="../.gitbook/assets/image (68) (1).png" alt=""> Red Potion</td></tr><tr><td><img src="../.gitbook/assets/image (69) (1).png" alt="" data-size="original"> Yellow Herb<br><img src="../.gitbook/assets/image (70) (1).png" alt=""> Potion Bottle</td><td>1</td><td><img src="../.gitbook/assets/image (71) (1).png" alt=""> Yellow Potion</td></tr><tr><td><img src="../.gitbook/assets/image (75) (1).png" alt="" data-size="original"> White Herb<br><img src="../.gitbook/assets/image (76) (1).png" alt=""> Potion Bottle</td><td>1</td><td><img src="../.gitbook/assets/image (77) (1).png" alt="" data-size="original"> White Potion</td></tr><tr><td><img src="../.gitbook/assets/image (72) (1).png" alt="" data-size="original"> Blue Herb<br><img src="../.gitbook/assets/image (73) (1).png" alt=""> Scell<br><img src="../.gitbook/assets/image (74) (1).png" alt=""> Potion Bottle</td><td>1</td><td><a href="https://ragnaplace.com/pt/bro/item/505/pocao-azul"><img src="https://game.ragnaplace.com/ro/bro/item/505.webp" alt="Poção Azul"></a> Blue Potion</td></tr></tbody></table>
+<table><thead><tr><th>Required Items</th><th width="194">Quantity</th><th>Produced Item</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (66) (1) (1).png" alt="" data-size="original"> Red Herb<br><img src="../.gitbook/assets/image (67) (1) (1).png" alt=""> Potion Bottle</td><td>1</td><td><img src="../.gitbook/assets/image (68) (1) (1).png" alt=""> Red Potion</td></tr><tr><td><img src="../.gitbook/assets/image (69) (1) (1).png" alt="" data-size="original"> Yellow Herb<br><img src="../.gitbook/assets/image (70) (1) (1).png" alt=""> Potion Bottle</td><td>1</td><td><img src="../.gitbook/assets/image (71) (1) (1).png" alt=""> Yellow Potion</td></tr><tr><td><img src="../.gitbook/assets/image (75) (1) (1).png" alt="" data-size="original"> White Herb<br><img src="../.gitbook/assets/image (76) (1) (1).png" alt=""> Potion Bottle</td><td>1</td><td><img src="../.gitbook/assets/image (77) (1) (1).png" alt="" data-size="original"> White Potion</td></tr><tr><td><img src="../.gitbook/assets/image (72) (1) (1).png" alt="" data-size="original"> Blue Herb<br><img src="../.gitbook/assets/image (73) (1) (1).png" alt=""> Scell<br><img src="../.gitbook/assets/image (74) (1) (1).png" alt=""> Potion Bottle</td><td>1</td><td><a href="https://ragnaplace.com/pt/bro/item/505/pocao-azul"><img src="https://game.ragnaplace.com/ro/bro/item/505.webp" alt="Poção Azul"></a> Blue Potion</td></tr></tbody></table>
 
 ### Compact HP Potions
 
-<table><thead><tr><th width="273">Required Items</th><th width="129">Quantity</th><th>Produced Item</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (78) (1).png" alt="" data-size="original"> Test Tube<br><img src="../.gitbook/assets/image (79) (1).png" alt=""> Red Potion<br><img src="../.gitbook/assets/image (80) (1).png" alt=""> Cactus Needle</td><td>1</td><td><a href="https://ragnaplace.com/en/bro/item/545/pocao-vermelha-compacta"><img src="https://game.ragnaplace.com/ro/bro/item/545.webp" alt="Poção Vermelha Compacta"></a> Compact Red Potion</td></tr><tr><td><img src="../.gitbook/assets/image (81) (1).png" alt="" data-size="original"> Test Tube<br><img src="../.gitbook/assets/image (82) (1).png" alt=""> Yellow Potion<br><img src="../.gitbook/assets/image (83) (1).png" alt=""> Mole Whiske<strong>rs</strong></td><td>1</td><td><a href="https://ragnaplace.com/pt/bro/item/546/pocao-amarela-compacta"><img src="https://game.ragnaplace.com/ro/bro/item/546.webp" alt="Poção Amarela Compacta"></a> Compact Yellow Potion</td></tr><tr><td><img src="../.gitbook/assets/image (84) (1).png" alt="" data-size="original"> Test Tube<br><img src="../.gitbook/assets/image (85) (1).png" alt=""> White Potion<br><img src="../.gitbook/assets/image (86) (1).png" alt=""> Witch’s Stardust</td><td>1</td><td><a href="https://ragnaplace.com/pt/bro/item/547/pocao-branca-compacta"><img src="https://game.ragnaplace.com/ro/bro/item/547.webp" alt="Poção Branca Compacta"></a> Compact White Potion</td></tr></tbody></table>
+<table><thead><tr><th width="273">Required Items</th><th width="129">Quantity</th><th>Produced Item</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (78) (1) (1).png" alt="" data-size="original"> Test Tube<br><img src="../.gitbook/assets/image (79) (1) (1).png" alt=""> Red Potion<br><img src="../.gitbook/assets/image (80) (1) (1).png" alt=""> Cactus Needle</td><td>1</td><td><a href="https://ragnaplace.com/en/bro/item/545/pocao-vermelha-compacta"><img src="https://game.ragnaplace.com/ro/bro/item/545.webp" alt="Poção Vermelha Compacta"></a> Compact Red Potion</td></tr><tr><td><img src="../.gitbook/assets/image (81) (1) (1).png" alt="" data-size="original"> Test Tube<br><img src="../.gitbook/assets/image (82) (1).png" alt=""> Yellow Potion<br><img src="../.gitbook/assets/image (83) (1).png" alt=""> Mole Whiske<strong>rs</strong></td><td>1</td><td><a href="https://ragnaplace.com/pt/bro/item/546/pocao-amarela-compacta"><img src="https://game.ragnaplace.com/ro/bro/item/546.webp" alt="Poção Amarela Compacta"></a> Compact Yellow Potion</td></tr><tr><td><img src="../.gitbook/assets/image (84) (1).png" alt="" data-size="original"> Test Tube<br><img src="../.gitbook/assets/image (85) (1).png" alt=""> White Potion<br><img src="../.gitbook/assets/image (86) (1).png" alt=""> Witch’s Stardust</td><td>1</td><td><a href="https://ragnaplace.com/pt/bro/item/547/pocao-branca-compacta"><img src="https://game.ragnaplace.com/ro/bro/item/547.webp" alt="Poção Branca Compacta"></a> Compact White Potion</td></tr></tbody></table>
 
 ### **Coating Items**
 
