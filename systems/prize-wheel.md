@@ -4,6 +4,8 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 
 # 🎰 Prize Wheel
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **About the Prize Roulette**
 
 * **Mechanics:** Players spend <mark style="color:red;">**250k zeny**</mark>**&#x20;per spin**, receiving random items.
@@ -17,20 +19,20 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 
 * The **"**<mark style="color:red;">**Prize Roulette**</mark>**" NPC** can be found in **all cities**.
 
-<figure><img src="../.gitbook/assets/12312.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cgaaa.png" alt=""><figcaption><p><mark style="color:red;"><strong>Gacha in Payon City</strong></mark></p></figcaption></figure>
 
 ## **List of Obtainable Items**
 
 ### <mark style="background-color:blue;">**Common**</mark>
 
-| Item                                                       | Quantity |
-| ---------------------------------------------------------- | -------- |
-| ![](../.gitbook/assets/601.png) Fly Wing                   | 40       |
-| ![](../.gitbook/assets/7433.png) Blank Scroll              | 10       |
-| ![](<../.gitbook/assets/547 (1).png>) Compact White Potion | 10       |
-| ![](<../.gitbook/assets/578 (1).png>) Strawberry           | 10       |
-| ![](../.gitbook/assets/605.png) Painkiller                 | 2        |
-| ![](../.gitbook/assets/12216.png) Repair Scroll            | 1        |
+| Item                                                 | Quantity |
+| ---------------------------------------------------- | -------- |
+| ![](../.gitbook/assets/601.png) Fly Wing             | 40       |
+| ![](../.gitbook/assets/7433.png) Blank Scroll        | 10       |
+| ![](../.gitbook/assets/547.png) Compact White Potion | 10       |
+| ![](../.gitbook/assets/578.png) Strawberry           | 10       |
+| ![](../.gitbook/assets/605.png) Painkiller           | 2        |
+| ![](../.gitbook/assets/12216.png) Repair Scroll      | 1        |
 
 ### <mark style="background-color:purple;">Uncommon</mark>
 
@@ -49,7 +51,7 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 | Item                                                       | Quantity |
 | ---------------------------------------------------------- | -------- |
 | ![](../.gitbook/assets/7621.png) Ziegfried's Amulet        | 10       |
-| ![](<../.gitbook/assets/547 (2).png>) Compact White Potion | 50       |
+| ![](<../.gitbook/assets/547 (1).png>) Compact White Potion | 50       |
 | ![](../.gitbook/assets/657.png) Berserk Potion             | 5        |
 | ![](<../.gitbook/assets/12216 (1).png>) Agility Scroll     | 10       |
 | ![](../.gitbook/assets/606.png) Aloe Vera                  | 2        |

@@ -10,7 +10,7 @@ description: >-
 * Each level you gain grants you some points to distribute.
 * Every point allocated in the attribute list provides you with some bonuses.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption><p><mark style="color:red;"><strong>ALT+E (Attributes)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption><p><mark style="color:red;"><strong>ALT+E (Attributes)</strong></mark></p></figcaption></figure>
 
 ## **Attribute List**
 
