@@ -192,6 +192,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 ## **STREAM MODE ARKAIK**
 
 * How to resolve problem stream arkaik OBS STUDIO.
+* If you are "<mark style="color:red;">**Streamer**</mark>" this season it's for you.
 
 {% embed url="https://www.youtube.com/watch?v=8pDiiHR3d3M" %}
 

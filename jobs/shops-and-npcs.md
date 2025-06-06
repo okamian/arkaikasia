@@ -38,7 +38,7 @@ description: >-
 <figure><img src="../.gitbook/assets/a2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Potions" %}
+{% tab title="Items" %}
 <figure><img src="../.gitbook/assets/a1 (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
