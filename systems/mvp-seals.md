@@ -9,7 +9,7 @@ description: More powerful than ever, yet sealed—would you dare to break this 
 * When a character capable of breaking the seal begins the summoning, they will recite a poem, and at the end of the poem, the <mark style="color:red;">**epic monster will be summoned**</mark>.
 * The **epic monster’s HP bar** remains visible to all players nearby, and **the game’s music changes accordingly**.
 
-<figure><img src="../.gitbook/assets/21.png" alt=""><figcaption><p><mark style="color:red;"><strong>MVP HP Bar</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (517).png" alt=""><figcaption><p><mark style="color:red;"><strong>MVP HP Bar</strong></mark></p></figcaption></figure>
 
 ## **How to Find a Sealed MVP?**
 
