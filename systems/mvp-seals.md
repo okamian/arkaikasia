@@ -17,7 +17,7 @@ description: More powerful than ever, yet sealed—would you dare to break this 
 * As long as the MVPs are **not revived**, they will appear as **petrified statues**.
 * To **release them**, simply call a <mark style="color:red;">**Priest**</mark>, who can break the seal and **set them free**.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **MVP Locations List**
 
@@ -33,7 +33,7 @@ description: More powerful than ever, yet sealed—would you dare to break this 
 
 {% tabs %}
 {% tab title="Top Damage" %}
-<figure><img src="../.gitbook/assets/x1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Information about the player who endured the most damage from the MVP in question.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/x1 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Information about the player who endured the most damage from the MVP in question.</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Top Heath" %}

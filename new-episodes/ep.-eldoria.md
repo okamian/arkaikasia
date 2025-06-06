@@ -132,7 +132,7 @@ description: >-
 * Talk to him and choose the option **"Hello, Great Collector"**.
 * You will receive <mark style="color:blue;">**\[2x**</mark> ![](<../.gitbook/assets/image (421).png>) <mark style="color:blue;">**Yggdrasil Fruits]**</mark> as a reward.
 
-<figure><img src="../.gitbook/assets/14 (1).png" alt=""><figcaption><p><em><mark style="color:red;"><strong>Harald is known as "The Great Collector".</strong></mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (1) (1).png" alt=""><figcaption><p><em><mark style="color:red;"><strong>Harald is known as "The Great Collector".</strong></mark></em></p></figcaption></figure>
 
 ### **2.1 \[ Complete a Collection ]**
 
@@ -154,7 +154,7 @@ description: >-
 * Talk to **Harald** and choose the option **"**<mark style="color:red;">**What’s the next step?**</mark>**"**.
 * You will receive <mark style="color:blue;">**\[1x**</mark> ![](<../.gitbook/assets/image (425).png>) <mark style="color:blue;">**Neuralizer]**</mark> as a reward.
 
-<figure><img src="../.gitbook/assets/15 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Mastery Academic in Zero.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15 (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Mastery Academic in Zero.</strong></mark></p></figcaption></figure>
 
 ### **2.3 \[ Find Vivus in Payon ]**
 
@@ -162,7 +162,7 @@ description: >-
 * When you find **Vivus**, talk to him, as he will ask you to defeat some monsters.
 * You will receive <mark style="color:blue;">**\[4x**</mark> ![](<../.gitbook/assets/image (421).png>) <mark style="color:blue;">**Yggdrasil Fruits]**</mark> as a reward.
 
-<figure><img src="../.gitbook/assets/16 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Vivus in Payon</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Vivus in Payon</strong></mark></p></figcaption></figure>
 
 ### **2.4 \[ Restricted Combat ]**
 
@@ -180,7 +180,7 @@ description: >-
 * Upon arriving in **Zero City**, **talk to&#x20;**<mark style="color:red;">**Joshua**</mark>, and he will explain the next mission.
 * You will receive <mark style="color:blue;">**\[4x**</mark> ![](<../.gitbook/assets/image (421).png>) <mark style="color:blue;">**Yggdrasil Fruits]**</mark> as a reward.
 
-<figure><img src="../.gitbook/assets/17 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Reporting Vivus' information to Joshua.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/17 (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Reporting Vivus' information to Joshua.</strong></mark></p></figcaption></figure>
 
 ### **2.6 \[ Return to Joshua ] Part 2/2**
 
@@ -192,7 +192,7 @@ description: >-
 * Return to **Joshua** and talk to him.
 * You will receive <mark style="color:blue;">**\[50x**</mark> ![](<../.gitbook/assets/image (428).png>) <mark style="color:blue;">**White Potion]**</mark> as a reward.
 
-<table><thead><tr><th width="343">Inn Location</th><th>Sleeping Room</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/18 (1).png" alt="" data-size="original"></p><p><em><mark style="color:red;">Location of the inn icon.</mark></em> <img src="../.gitbook/assets/image (429).png" alt=""></p></td><td><p><img src="../.gitbook/assets/19.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Click on the bed to "Sleep".</strong></mark></p></td></tr></tbody></table>
+<table><thead><tr><th width="343">Inn Location</th><th>Sleeping Room</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/18 (1) (1).png" alt="" data-size="original"></p><p><em><mark style="color:red;">Location of the inn icon.</mark></em> <img src="../.gitbook/assets/image (429).png" alt=""></p></td><td><p><img src="../.gitbook/assets/19.png" alt="" data-size="original"></p><p><mark style="color:red;"><strong>Click on the bed to "Sleep".</strong></mark></p></td></tr></tbody></table>
 
 ### **2.7 \[ Find the Engineer ]**
 

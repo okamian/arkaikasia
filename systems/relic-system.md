@@ -6,9 +6,7 @@ description: >-
 
 # 📜 Relic System
 
-<figure><img src="../.gitbook/assets/Reliquias.png" alt=""><figcaption></figcaption></figure>
-
-## **Relic Acquisition**
+**Relic Acquisition**
 
 * The journey in search of the Relics begins in the **Zero&#x20;**<mark style="color:red;">**Forest to the North**</mark>, at the <mark style="color:red;">**Observatory**</mark>.
 * **(**_**You must be LEVEL 90 to start the quest.**_**)**
@@ -34,11 +32,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/s11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/s2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -48,11 +46,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -62,11 +60,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -76,11 +74,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -90,11 +88,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -104,11 +102,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -118,11 +116,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -132,11 +130,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -146,11 +144,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -160,11 +158,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -174,11 +172,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -188,11 +186,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -202,11 +200,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -216,11 +214,11 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/c25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/c26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -230,19 +228,19 @@ description: >-
 * These locations are important so that players can begin their journeys in search of Relics.
 * **Each NPC** offers a <mark style="color:red;">**unique quest for each class**</mark>.
 
-| Class                                          | NPC                | Location               |
-| ---------------------------------------------- | ------------------ | ---------------------- |
-| ![](<../.gitbook/assets/x1 (1).png>)**Priest** | Sister             | prt\_church (83, 122)  |
-| ![](../.gitbook/assets/x2.png)**Hunter**       | Huntress           | hu\_in01 (386, 373)    |
-| ![](../.gitbook/assets/x3.png)**Bard**         | Wandering Bard     | payon (161, 178)       |
-| ![](../.gitbook/assets/x4.png)**Dancer**       | Talent Seeker      | comodo (189, 163)      |
-| ![](../.gitbook/assets/x6.png)**Alchemist**    | Fay                | ein\_in01 (257, 26)    |
-| ![](../.gitbook/assets/x7.png)**Assasin**      | Lars               | in\_moc\_16 (19, 33)   |
-| ![](../.gitbook/assets/x8.png)**Knight**       | Saibah             | iz\_ac01 (99, 150)     |
-| ![](../.gitbook/assets/x9.png)**Rogue**        | Kel                | in\_rogue (363, 122)   |
-| ![](../.gitbook/assets/x10.png)**Crusader**    | Crusader           | prt\_church (115, 122) |
-| ![](../.gitbook/assets/x11.png)**Sage**        | Oberin             | yuno\_in02 (93, 203)   |
-| ![](../.gitbook/assets/x12.png)**Wizard**      | Guild Receptionist | gef\_tower (111, 37)   |
-| ![](../.gitbook/assets/x13.png)**Monk**        | Last Monk          | prt\_monk (246, 79)    |
-| ![](../.gitbook/assets/x14.png)**Blacksmith**  | Claus              | ein\_in01 (22, 151)    |
-| ![](../.gitbook/assets/c15.png)**Taekwon**     | Leonor             | louyang (151, 59)      |
+| Class                                         | NPC                | Location               |
+| --------------------------------------------- | ------------------ | ---------------------- |
+| ![](../.gitbook/assets/x1.png)**Priest**      | Sister             | prt\_church (83, 122)  |
+| ![](../.gitbook/assets/x2.png)**Hunter**      | Huntress           | hu\_in01 (386, 373)    |
+| ![](../.gitbook/assets/x3.png)**Bard**        | Wandering Bard     | payon (161, 178)       |
+| ![](../.gitbook/assets/x4.png)**Dancer**      | Talent Seeker      | comodo (189, 163)      |
+| ![](../.gitbook/assets/x6.png)**Alchemist**   | Fay                | ein\_in01 (257, 26)    |
+| ![](../.gitbook/assets/x7.png)**Assasin**     | Lars               | in\_moc\_16 (19, 33)   |
+| ![](../.gitbook/assets/x8.png)**Knight**      | Saibah             | iz\_ac01 (99, 150)     |
+| ![](../.gitbook/assets/x9.png)**Rogue**       | Kel                | in\_rogue (363, 122)   |
+| ![](../.gitbook/assets/x10.png)**Crusader**   | Crusader           | prt\_church (115, 122) |
+| ![](../.gitbook/assets/x11.png)**Sage**       | Oberin             | yuno\_in02 (93, 203)   |
+| ![](../.gitbook/assets/x12.png)**Wizard**     | Guild Receptionist | gef\_tower (111, 37)   |
+| ![](../.gitbook/assets/x13.png)**Monk**       | Last Monk          | prt\_monk (246, 79)    |
+| ![](../.gitbook/assets/x14.png)**Blacksmith** | Claus              | ein\_in01 (22, 151)    |
+| ![](../.gitbook/assets/c15.png)**Taekwon**    | Leonor             | louyang (151, 59)      |
