@@ -45,19 +45,19 @@ description: >-
 
 {% tabs %}
 {% tab title="Zero" %}
-<figure><img src="../.gitbook/assets/Zero11 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Zero</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/z1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Zero</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/a1 (1) (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Spears, Axes, Maces)</mark></em><mark style="color:red;"><strong>)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/z4.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Spears, Axes, Maces)</mark></em><mark style="color:red;"><strong>)</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/a11.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/z5.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Potions" %}
-
+<figure><img src="../.gitbook/assets/z3.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
