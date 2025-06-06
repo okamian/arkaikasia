@@ -6,7 +6,7 @@ description: >-
 
 # 🛒 Shops and NPCs
 
-<figure><img src="../.gitbook/assets/Lojaequi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **About "Equipment Shops"**
 
@@ -19,7 +19,7 @@ description: >-
 * To check the shops, <mark style="color:red;">**below there will be 3 BUTTONS**</mark> for you to see the stores. <mark style="color:green;">**CLICK THE NAME**</mark> to view the items.
 * **"**<mark style="color:red;">**City**</mark>**", "**<mark style="color:red;">**Weapons**</mark>**", "**<mark style="color:red;">**Armors**</mark>**".**
 
-<figure><img src="../.gitbook/assets/pr23.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/412312.gif" alt=""><figcaption><p><mark style="color:red;"><strong>All Categories</strong></mark></p></figcaption></figure>
 
 ## Cities
 
