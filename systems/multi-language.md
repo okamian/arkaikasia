@@ -37,7 +37,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Thailand" %}
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Thailand"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Thailand"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Vietnam" %}

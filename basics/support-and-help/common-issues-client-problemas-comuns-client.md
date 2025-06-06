@@ -20,7 +20,7 @@ Go to:\
 
 Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="410"><figcaption></figcaption></figure>
 
