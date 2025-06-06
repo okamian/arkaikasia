@@ -4,18 +4,20 @@ description: Every equipment has its potential and durability.
 
 # 💪 Potential System
 
+<figure><img src="../.gitbook/assets/image (526).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **About the Potential System**
 
 * <mark style="color:red;">**Equipment now has 2 new attributes**</mark> that may seem confusing at first, **but here we explain what each one does.**
 
-<figure><img src="../.gitbook/assets/Poten.png" alt=""><figcaption><p><mark style="color:red;"><strong>Como identificar o Potencial e a Durabilidade</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/441122.png" alt=""><figcaption><p><mark style="color:red;"><strong>How to Identify Potential and Durability</strong></mark></p></figcaption></figure>
 
 ## 📍 How to Identify Potential and Durability
 
-➡ **Attack +102**
+➡ **Attack +103**
 
-📌 <mark style="color:red;">**Potential:**</mark> <mark style="color:red;">**13/13**</mark>\
-📌 <mark style="color:green;">**Durability:**</mark> <mark style="color:green;">**1647/1647**</mark>
+📌 <mark style="color:red;">**Potential:**</mark> <mark style="color:red;"></mark><mark style="color:red;">5</mark><mark style="color:red;">**/5**</mark>\
+📌 <mark style="color:green;">**Durability:**</mark> <mark style="color:green;">**1517/1517**</mark>
 
 👐 **Two-Handed**
 
