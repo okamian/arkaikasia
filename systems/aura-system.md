@@ -6,7 +6,7 @@ description: >-
 
 # ✨ Aura System
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * It allows players to customize the appearance and abilities of their characters through special auras, which not only provide unique visual effects but can also impact attributes and game mechanics.
 * This system is designed to offer dynamic benefits in combat and social interactions, as well as highlight the player's individuality in the game world.
@@ -17,7 +17,7 @@ description: >-
 
 {% tabs %}
 {% tab title="NPC" %}
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Aura Master</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Aura Master</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Location" %}
@@ -36,11 +36,11 @@ description: >-
 {% tab title="STR" %}
 ## About the STR Aura
 
-<table><thead><tr><th width="199">Imagem</th><th width="98">Attribute</th><th>Bonus</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original"></td><td><strong>STR</strong></td><td><strong>[STR / @aurastr]</strong> = +1 / +2 / +3 / +4 / +5</td></tr></tbody></table>
+<table><thead><tr><th width="199">Imagem</th><th width="98">Attribute</th><th>Bonus</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="original"></td><td><strong>STR</strong></td><td><strong>[STR / @aurastr]</strong> = +1 / +2 / +3 / +4 / +5</td></tr></tbody></table>
 
 ## **Aura Level Quest**
 
-<table><thead><tr><th width="344">Level</th><th>Items &#x26; ID</th></tr></thead><tbody><tr><td>Level 1 (+1 Attribute)</td><td>Sleep 20 times at an inn in <mark style="color:red;"><strong>Zero</strong></mark>.</td></tr><tr><td>Level 2 (+2 Attribute)</td><td>100x <img src="../.gitbook/assets/image (3).png" alt=""> Stardust (1001) <br>150x <img src="../.gitbook/assets/image (4).png" alt=""> Jellopy (909) <br>2x <img src="../.gitbook/assets/image (5).png" alt=""> Emperium (714)</td></tr><tr><td>Level 3 (+3 Attribute)</td><td>230x <img src="../.gitbook/assets/image (6).png" alt=""> Feather (916) <br>200x <img src="../.gitbook/assets/image (7).png" alt=""> Sticky Webfoot (918) <br>4x <img src="../.gitbook/assets/image (8).png" alt=""> Grape Juice (533)</td></tr><tr><td>Level 4 (+4 Attribute)</td><td>150x <img src="../.gitbook/assets/image (9).png" alt=""> Honey (518) <br>150x <img src="../.gitbook/assets/image (10).png" alt=""> Zirgon (912) <br>6x <img src="../.gitbook/assets/image (11).png" alt=""> Amethyst (719)</td></tr><tr><td>Level 5 (+5 Attribute)</td><td>300x <img src="../.gitbook/assets/image (12).png" alt=""> White Herb (509) <br>300x <img src="../.gitbook/assets/image (13).png" alt=""> Skull (7005) <br>5x <img src="../.gitbook/assets/image (14).png" alt=""> Flogopita (7290)</td></tr></tbody></table>
+<table><thead><tr><th width="344">Level</th><th>Items &#x26; ID</th></tr></thead><tbody><tr><td>Level 1 (+1 Attribute)</td><td>Sleep 20 times at an inn in <mark style="color:red;"><strong>Zero</strong></mark>.</td></tr><tr><td>Level 2 (+2 Attribute)</td><td>100x <img src="../.gitbook/assets/image (3) (1).png" alt=""> Stardust (1001) <br>150x <img src="../.gitbook/assets/image (4) (1).png" alt=""> Jellopy (909) <br>2x <img src="../.gitbook/assets/image (5).png" alt=""> Emperium (714)</td></tr><tr><td>Level 3 (+3 Attribute)</td><td>230x <img src="../.gitbook/assets/image (6).png" alt=""> Feather (916) <br>200x <img src="../.gitbook/assets/image (7).png" alt=""> Sticky Webfoot (918) <br>4x <img src="../.gitbook/assets/image (8).png" alt=""> Grape Juice (533)</td></tr><tr><td>Level 4 (+4 Attribute)</td><td>150x <img src="../.gitbook/assets/image (9).png" alt=""> Honey (518) <br>150x <img src="../.gitbook/assets/image (10).png" alt=""> Zirgon (912) <br>6x <img src="../.gitbook/assets/image (11).png" alt=""> Amethyst (719)</td></tr><tr><td>Level 5 (+5 Attribute)</td><td>300x <img src="../.gitbook/assets/image (12).png" alt=""> White Herb (509) <br>300x <img src="../.gitbook/assets/image (13).png" alt=""> Skull (7005) <br>5x <img src="../.gitbook/assets/image (14).png" alt=""> Flogopita (7290)</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="AGI" %}
