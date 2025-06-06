@@ -24,7 +24,7 @@ description: >-
 * To check <mark style="color:red;">**Relic**</mark> details, click on the **buttons of each guide** in the video below.
 * Remember to defeat the <mark style="color:red;">**Guild Boss**</mark> to access the items. You can complete it on different characters.
 
-<figure><img src="../.gitbook/assets/seeee.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>(</strong><strong>Classe) - (TIER1) - (TIER2)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/778.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>(</strong><strong>Classe) - (TIER1) - (TIER2)</strong></mark></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Priest" %}
