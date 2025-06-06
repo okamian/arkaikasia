@@ -7,6 +7,8 @@ description: >-
 
 # 🌎 Multi-Language
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **About the Multi-Language System**
 
 * In **Arkaik: Tales of Sarina**, the **multi-language system** was introduced to solve an existing issue.
@@ -22,7 +24,7 @@ description: >-
 * Go to <mark style="color:red;">**Settings**</mark>.
 * Navigate to **"Sound & Language"** and **choose your preferred language**.
 
-<figure><img src="../.gitbook/assets/098.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using the Multi-Language System in the Launcher</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44434.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using the Multi-Language System in the Launcher</strong></mark></p></figcaption></figure>
 
 ## **How It Looks In-Game**
 
@@ -31,14 +33,14 @@ description: >-
 
 {% tabs %}
 {% tab title="English" %}
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "ENGLISH"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "ENGLISH"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Thailand" %}
-<mark style="color:red;">**(NEW GIF THAILAND)**</mark>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Thailand"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Vietnam" %}
-<mark style="color:red;">**(NEW GIF VIETNAM)**</mark>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Vietnam"</strong></mark></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

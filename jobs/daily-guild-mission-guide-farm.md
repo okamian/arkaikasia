@@ -12,7 +12,7 @@ description: A location designed for daily missions and Guild quest.
 
 * Below is the list of missions corresponding to each level and their required quantity.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Daily missions can be obtained from the "Board" in cities, next to the NPC "Daily Quest".</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Daily missions can be obtained from the "Board" in cities, next to the NPC "Daily Quest".</strong></mark></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Lv: 1~40" %}

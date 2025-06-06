@@ -20,9 +20,9 @@ Go to:\
 
 Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="410"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="410"><figcaption></figcaption></figure>
 
 ## **Arkaik.exe does not open, is not in the task manager, and no error appears**
 
@@ -47,7 +47,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 * When running `Client.exe`, after selecting a character, the game displays special characters as `???`, causing it to **crash**.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Cause:**
 
@@ -58,7 +58,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 🔹 **Uncheck** the **UNICODE UTF-8** box if it is enabled, restart, and test the game.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="329"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="329"><figcaption></figcaption></figure>
 
 ## **Error in Client.exe: "Cannot init d3d OR grf file has problem" or White Screen**
 
