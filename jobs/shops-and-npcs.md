@@ -25,29 +25,31 @@ description: >-
 
 {% tabs %}
 {% tab title="Prontera" %}
-<figure><img src="../.gitbook/assets/Prontera11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Prontera</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12a.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Prontera</strong></mark></p></figcaption></figure>
+
+
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/pr1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de Armas</strong></mark><br><mark style="color:red;"><strong>(Adagas,Espada,Arcos,Lanças,Machado,Maças)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/a3 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de Armas</strong></mark><br><mark style="color:red;"><strong>(Adagas,Espada,Arcos,Lanças,Machado,Maças)</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/pr2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/a2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Potions" %}
-
+<figure><img src="../.gitbook/assets/a1 (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="Zero" %}
-<figure><img src="../.gitbook/assets/Zero11 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Zero</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Zero11 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Zero</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/a1 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Spears, Axes, Maces)</mark></em><mark style="color:red;"><strong>)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/a1 (1) (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Spears, Axes, Maces)</mark></em><mark style="color:red;"><strong>)</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
@@ -61,7 +63,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Geffen" %}
-<figure><img src="../.gitbook/assets/Geffen11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Geffen</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Geffen11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Geffen</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -79,7 +81,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Izlude" %}
-<figure><img src="../.gitbook/assets/Izlude11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Izlude</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Izlude11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Izlude</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -97,7 +99,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Morroc" %}
-<figure><img src="../.gitbook/assets/Morroc11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Morroc</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Morroc11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Morroc</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -115,7 +117,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Payon" %}
-<figure><img src="../.gitbook/assets/Payon11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Payon</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Payon11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Payon</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -133,15 +135,15 @@ description: >-
 
 {% tabs %}
 {% tab title="Alberta" %}
-<figure><img src="../.gitbook/assets/Alberta11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Alberta</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Alberta11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Alberta</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/a1 (1) (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Axe)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/a1 (1) (1) (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Axe)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/a2 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/a2 (1) (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Potions" %}
@@ -151,7 +153,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Aldebaran" %}
-<figure><img src="../.gitbook/assets/Aldebaran11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Alderaban</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Aldebaran11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Alderaban</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -169,7 +171,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Ayothaya" %}
-<figure><img src="../.gitbook/assets/Ayothaya.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Ayothaya</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ayothaya.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Ayothaya</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -187,7 +189,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Hugel" %}
-<figure><img src="../.gitbook/assets/Hugel.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Hugel</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Hugel.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Hugel</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -205,7 +207,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Comodo" %}
-<figure><img src="../.gitbook/assets/comodoarmas.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Comodo</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/comodoarmas.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Comodo</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -223,7 +225,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Farol de Comodo" %}
-<figure><img src="../.gitbook/assets/farolcomodo.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Lighthouse of Comodo</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/farolcomodo.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Lighthouse of Comodo</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -237,7 +239,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Einbroch" %}
-<figure><img src="../.gitbook/assets/Einbroch.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Einbroch</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Einbroch.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Einbroch</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -251,7 +253,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Umbala" %}
-<figure><img src="../.gitbook/assets/Umbala11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Umbala</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Umbala11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Umbala</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -265,7 +267,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Niflheim" %}
-<figure><img src="../.gitbook/assets/Nilfheim11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Nifhleim</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nilfheim11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Nifhleim</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -283,7 +285,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Yuno" %}
-<figure><img src="../.gitbook/assets/Yuno11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop in the City of Yuno</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Yuno11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Yuno</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
