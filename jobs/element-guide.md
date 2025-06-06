@@ -4,13 +4,9 @@ description: Got questions about elemental damage? You're in the right place!
 
 # 🔥 Element Guide
 
-## **How to Navigate the Elements Tab**
-
-<table><thead><tr><th width="156">Siglas</th><th width="146"></th><th width="132"></th><th width="158"></th><th></th></tr></thead><tbody><tr><td><strong>NEU</strong> = Neutral</td><td><strong>WAT</strong>= Water</td><td><strong>EAR</strong>= Earth</td><td><strong>FIR</strong>= Fire</td><td><strong>WIN</strong>= Wind</td></tr><tr><td><strong>POI</strong>= Poison</td><td><strong>HOL</strong>= Holy</td><td><strong>DAR</strong>= Dark</td><td><strong>GOH</strong>= Ghost</td><td><strong>UND</strong>= Undead</td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/5123.gif" alt=""><figcaption><p><mark style="color:red;"><strong>How to Navigate the Elements Tab</strong></mark></p></figcaption></figure>
 
 ## Element Table
-
-<figure><img src="../.gitbook/assets/y6666.gif" alt=""><figcaption><p><mark style="color:red;"><strong>How to Navigate the Elements Tab</strong></mark></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Element Level 1" %}
