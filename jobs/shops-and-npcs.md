@@ -35,6 +35,10 @@ description: >-
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/pr2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potions" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
@@ -48,6 +52,10 @@ description: >-
 
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/a11.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Potions" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -63,6 +71,10 @@ description: >-
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/g2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potions" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
@@ -76,6 +88,10 @@ description: >-
 
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/iz2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de armaduras.</strong></mark><br><mark style="color:red;"><strong>(Equipamentos Gerais)</strong></mark></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Potions" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -91,6 +107,10 @@ description: >-
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/m2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potions" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
@@ -104,6 +124,10 @@ description: >-
 
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/p2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Potions" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -119,6 +143,10 @@ description: >-
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/a2 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potions" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
@@ -132,6 +160,10 @@ description: >-
 
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/ad2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Potions" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -147,6 +179,10 @@ description: >-
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/ay2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potions" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
@@ -161,6 +197,10 @@ description: >-
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/h2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potions" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
@@ -174,6 +214,10 @@ description: >-
 
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/c2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Potions" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -199,6 +243,10 @@ description: >-
 {% tab title="Weapons " %}
 <figure><img src="../.gitbook/assets/ein1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de ArmWeapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Katar, Spear, Mace, Hammer, Axe, Knuckles)</mark></em></p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potions" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
@@ -208,6 +256,10 @@ description: >-
 
 {% tab title="Weapons " %}
 <figure><img src="../.gitbook/assets/um1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Maces and Knuckles)</mark></em></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Potions" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -223,6 +275,10 @@ description: >-
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/nf2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potions" %}
+
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
@@ -236,5 +292,9 @@ description: >-
 
 {% tab title="Armors" %}
 <figure><img src="../.gitbook/assets/y2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Potions" %}
+
 {% endtab %}
 {% endtabs %}
