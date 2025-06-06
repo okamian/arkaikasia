@@ -56,7 +56,7 @@ description: >-
 <figure><img src="../.gitbook/assets/z5.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Potions" %}
+{% tab title="Items" %}
 <figure><img src="../.gitbook/assets/z3.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
@@ -81,19 +81,19 @@ description: >-
 
 {% tabs %}
 {% tab title="Izlude" %}
-<figure><img src="../.gitbook/assets/Izlude11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Izlude</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/iz1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Izlude</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/iz1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Dagger, Sword, Spear, Axe)</mark></em><mark style="color:red;"><strong>)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/iz4.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Dagger, Sword, Spear, Axe)</mark></em><mark style="color:red;"><strong>)</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/iz2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de armaduras.</strong></mark><br><mark style="color:red;"><strong>(Equipamentos Gerais)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/iz3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de armaduras.</strong></mark><br><mark style="color:red;"><strong>(Equipamentos Gerais)</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Potions" %}
-
+<figure><img src="../.gitbook/assets/iz2.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
