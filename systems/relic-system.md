@@ -6,6 +6,8 @@ description: >-
 
 # 📜 Relic System
 
+<figure><img src="../.gitbook/assets/image (524).png" alt="" width="375"><figcaption></figcaption></figure>
+
 **Relic Acquisition**
 
 * The journey in search of the Relics begins in the **Zero&#x20;**<mark style="color:red;">**Forest to the North**</mark>, at the <mark style="color:red;">**Observatory**</mark>.
@@ -17,7 +19,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-<table><thead><tr><th width="165">Information	</th><th>Description</th></tr></thead><tbody><tr><td>Observatory</td><td>ABefore starting the relic mission, talk to <mark style="color:red;"><strong>Lineker</strong></mark> at the Observatory to see the stars, then speak to him again to start your quest.</td></tr><tr><td>Guild</td><td>After speaking with <mark style="color:red;"><strong>Lineker</strong></mark>, you will be sent to your respective guild to <strong>talk to your class guild leader and proceed</strong>.</td></tr><tr><td>Crafting</td><td>After <strong>completing the guild quest</strong>, players will <strong>unlock the ability to craft their Relic</strong>.</td></tr><tr><td>Enhancement</td><td>Relics are designed as <mark style="color:red;"><strong>late-game items</strong></mark>, visually equipped with <strong>Garnet</strong>, and provide specific <strong>base attributes</strong> for each class.</td></tr></tbody></table>
+<table><thead><tr><th width="165">Information	</th><th>Description</th></tr></thead><tbody><tr><td>Observatory</td><td>Before starting the relic mission, talk to <mark style="color:red;"><strong>Lineker</strong></mark> at the Observatory to see the stars, then speak to him again to start your quest.</td></tr><tr><td>Guild</td><td>After speaking with <mark style="color:red;"><strong>Lineker</strong></mark>, you will be sent to your respective guild to <strong>talk to your class guild leader and proceed</strong>.</td></tr><tr><td>Crafting</td><td>After <strong>completing the guild quest</strong>, players will <strong>unlock the ability to craft their Relic</strong>.</td></tr><tr><td>Enhancement</td><td>Relics are designed as <mark style="color:red;"><strong>late-game items</strong></mark>, visually equipped with <strong>Garnet</strong>, and provide specific <strong>base attributes</strong> for each class.</td></tr></tbody></table>
 
 ## **Relic Advantages by Class**
 
