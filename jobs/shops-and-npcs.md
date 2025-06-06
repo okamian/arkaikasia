@@ -63,19 +63,19 @@ description: >-
 
 {% tabs %}
 {% tab title="Geffen" %}
-<figure><img src="../.gitbook/assets/Geffen11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Geffen</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/g1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Geffen</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/g1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Dagger, Bow, Staffs)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/g3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Dagger, Bow, Staffs)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/g2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/g4.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Potions" %}
-
+<figure><img src="../.gitbook/assets/g2.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
