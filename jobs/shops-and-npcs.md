@@ -275,18 +275,18 @@ description: >-
 
 {% tabs %}
 {% tab title="Yuno" %}
-<figure><img src="../.gitbook/assets/Yuno11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Yuno</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/yu1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Yuno</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/y1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Staffs)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/yu2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Staffs)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/y2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/yu3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Items " %}
-
+<figure><img src="../.gitbook/assets/yu4.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
