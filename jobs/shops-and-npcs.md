@@ -99,19 +99,19 @@ description: >-
 
 {% tabs %}
 {% tab title="Morroc" %}
-<figure><img src="../.gitbook/assets/Morroc11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Morroc</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/mo1 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Morroc</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/m1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Katar)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/mo2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Katar)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/m2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/mo3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Potions" %}
-
+<figure><img src="../.gitbook/assets/mo5.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
