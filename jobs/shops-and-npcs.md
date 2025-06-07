@@ -222,34 +222,26 @@ description: >-
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Comodo Lighthouse" %}
-<figure><img src="../.gitbook/assets/farolcomodo.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Lighthouse of Comodo</strong></mark></p></figcaption></figure>
+{% tab title="Lighthouse Island Pharos" %}
+<figure><img src="../.gitbook/assets/fm1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Lighthouse of Comodo</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/cf1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Spears)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/fm2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Spears)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/cf2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Items" %}
-
+<figure><img src="../.gitbook/assets/fm3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="Einbroch" %}
-<figure><img src="../.gitbook/assets/Einbroch.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Einbroch</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ein1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Einbroch</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/ein1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Katar, Spear, Mace, Hammer, Axe, Knuckles)</mark></em></p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Items" %}
-
+<figure><img src="../.gitbook/assets/ein2 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Katar, Spear, Mace, Hammer, Axe, Knuckles)</mark></em></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
