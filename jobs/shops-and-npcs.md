@@ -26,8 +26,6 @@ description: >-
 {% tabs %}
 {% tab title="Prontera" %}
 <figure><img src="../.gitbook/assets/12a.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Prontera</strong></mark></p></figcaption></figure>
-
-
 {% endtab %}
 
 {% tab title="Weapons " %}
@@ -89,7 +87,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/iz3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de armaduras.</strong></mark><br><mark style="color:red;"><strong>(Equipamentos Gerais)</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/iz3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Items" %}
@@ -224,7 +222,7 @@ description: >-
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Farol de Comodo" %}
+{% tab title="Comodo Lighthouse" %}
 <figure><img src="../.gitbook/assets/farolcomodo.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Lighthouse of Comodo</strong></mark></p></figcaption></figure>
 {% endtab %}
 
@@ -233,7 +231,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/cf2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>LArmor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/cf2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Items" %}
@@ -247,7 +245,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/ein1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Loja de ArmWeapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Katar, Spear, Mace, Hammer, Axe, Knuckles)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ein1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Katar, Spear, Mace, Hammer, Axe, Knuckles)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Items" %}
