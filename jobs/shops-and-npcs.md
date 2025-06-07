@@ -153,19 +153,19 @@ description: >-
 
 {% tabs %}
 {% tab title="Aldebaran" %}
-<figure><img src="../.gitbook/assets/Aldebaran11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Alderaban</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ad1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Alderaban</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/ad1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ad2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/ad2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ad3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Potions" %}
-
+<figure><img src="../.gitbook/assets/ad4.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
