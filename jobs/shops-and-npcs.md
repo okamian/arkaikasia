@@ -187,19 +187,19 @@ description: >-
 
 {% tabs %}
 {% tab title="Hugel" %}
-<figure><img src="../.gitbook/assets/Hugel.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Hugel</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Hu1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Hugel</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/h1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Swords, Bow, Mace)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hu2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Swords, Bow, Mace)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/h2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hu3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Items" %}
-
+<figure><img src="../.gitbook/assets/hu4.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
