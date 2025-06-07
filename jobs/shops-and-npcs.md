@@ -135,19 +135,19 @@ description: >-
 
 {% tabs %}
 {% tab title="Alberta" %}
-<figure><img src="../.gitbook/assets/Alberta11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Alberta</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/alb1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Potions in the City of Alberta</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/a1 (1) (1) (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Axe)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/alb2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Daggers, Swords, Bows, Axe)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/a2 (1) (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/alb3.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Potions" %}
-
+<figure><img src="../.gitbook/assets/alb4.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
