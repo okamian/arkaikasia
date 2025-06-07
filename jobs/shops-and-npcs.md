@@ -247,33 +247,29 @@ description: >-
 
 {% tabs %}
 {% tab title="Umbala" %}
-<figure><img src="../.gitbook/assets/Umbala11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Umbala</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/um1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Umbala</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/um1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Maces and Knuckles)</mark></em></p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Items" %}
-
+<figure><img src="../.gitbook/assets/um2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Maces and Knuckles)</mark></em></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="Niflheim" %}
-<figure><img src="../.gitbook/assets/Nilfheim11.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Nifhleim</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nif1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location of the Equipment Shop and Items in the City of Nifhleim</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Weapons " %}
-<figure><img src="../.gitbook/assets/nf1.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Axes, Hammer)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nif2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Weapon Shop</strong></mark> <em><mark style="color:red;">(Axes, Hammer)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Armors" %}
-<figure><img src="../.gitbook/assets/nf2.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nif5.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Armor Shop</strong></mark> <em><mark style="color:red;">(General Equipment)</mark></em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Items" %}
-
+<figure><img src="../.gitbook/assets/nif4.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
