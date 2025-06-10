@@ -1,9 +1,11 @@
 ---
 description: >-
-  Bạn đã chán với hệ thống kỹ năng hiện tại? Hãy thay đổi lối chơi của bạn với **Hệ Thống Thành Thạo**! Một meta mới, những build mới, và nhiều niềm vui hơn cho bạn!
+  Bạn đã chán với hệ thống kỹ năng hiện tại? Hãy thay đổi lối chơi của bạn với
+  **Hệ Thống Thành Thạo**! Một meta mới, những build mới, và nhiều niềm vui hơn
+  cho bạn!
 ---
 
-# 🏆 Hệ Thống Thành Thạo
+# 🏆 Hệ Thống Mastery
 
 <figure><img src="../.gitbook/assets/11112.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Học Viện Thành Thạo</strong> – Chịu trách nhiệm mua điểm mới.</mark></p></figcaption></figure>
 
@@ -19,20 +21,23 @@ description: >-
 
 **Học Viện Thành Thạo**
 
-* Mua trực tiếp từ NPC **"**<mark style="color:red;">**Học Viện Thành Thạo**</mark>**"**, có mặt ở tất cả các thành phố.* Khi tương tác với NPC, bạn có thể mua **Điểm Thành Thạo**.
+* Mua trực tiếp từ NPC **"**<mark style="color:red;">**Học Viện Thành Thạo**</mark>**"**, có mặt ở tất cả các thành phố.
+* Khi tương tác với NPC, bạn có thể mua **Điểm Thành Thạo**.
 * Càng mua nhiều điểm, giá của chúng càng tăng.
-* Bạn có thể **"Đặt lại"** bộ đếm thuế với một số lượng **Zeny** nhất định.
+*   Bạn có thể **"Đặt lại"** bộ đếm thuế với một số lượng **Zeny** nhất định.\
 
-<figure><img src="../.gitbook/assets/11123333333333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Vị trí của Học Viện Thành Thạo tại Thành Phố Zero</strong></mark></p></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (543).png" alt=""><figcaption><p>Vị trí của Mastery Academic tại Payon City</p></figcaption></figure>
 
 ## **Cửa Hàng Nhiệm Vụ Hàng Ngày**
 
 * Bằng cách hoàn thành <mark style="color:red;">**nhiệm vụ hàng ngày**</mark> trong các thành phố, bạn sẽ kiếm được điểm và có thể đổi chúng lấy **"**<mark style="color:red;">**Túi Thành Thạo**</mark>**"**.
-* Bên cạnh NPC, sẽ có một **bức phù điêu**. Chỉ cần nhấp vào **"**<mark style="color:red;">**Phù Điêu**</mark>**"** và chọn một nhiệm vụ.
+*   Bên cạnh NPC, sẽ có một **bức phù điêu**. Chỉ cần nhấp vào **"**<mark style="color:red;">**Phù Điêu**</mark>**"** và chọn một nhiệm vụ.\
 
-<figure><img src="../.gitbook/assets/44444.png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC cho việc đổi nhiệm vụ hàng ngày.</strong></mark></p></figcaption></figure>
 
-### MVPS* Việc đánh bại **MVPs** cũng mang lại cơ hội rơi ra **"**<mark style="color:red;">**Balo Kỹ Năng**</mark>**"**.
+    <figure><img src="../.gitbook/assets/image (544).png" alt=""><figcaption><p>NPC trao đổi nhiệm vụ hàng ngày.</p></figcaption></figure>
+
+### MVPS\* Việc đánh bại **MVPs** cũng mang lại cơ hội rơi ra **"**<mark style="color:red;">**Balo Kỹ Năng**</mark>**"**.
 
 <figure><img src="../.gitbook/assets/aa23.png" alt=""><figcaption><p><mark style="color:red;"><strong>Mỗi MVP có cơ hội rơi ra "Balo Kỹ Năng".</strong></mark></p></figcaption></figure>
 
@@ -44,7 +49,8 @@ description: >-
 
 <figure><img src="../.gitbook/assets/cca643.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử dụng lệnh @mastery để kiểm tra và nhận điểm của bạn.</strong></mark></p></figcaption></figure>
 
-## **Về Chi Phí Điểm*** **Lần đầu tiên** bạn nói chuyện với NPC bằng bất kỳ nhân vật nào, họ sẽ **cho bạn 7 điểm miễn phí** để giúp bạn hiểu cách hoạt động của hệ thống thành thạo.
+## **Về Chi Phí Điểm**\* **Lần đầu tiên** bạn nói chuyện với NPC bằng bất kỳ nhân vật nào, họ sẽ **cho bạn 7 điểm miễn phí** để giúp bạn hiểu cách hoạt động của hệ thống thành thạo.
+
 * Từ cuộc trò chuyện thứ hai trở đi, bạn có thể <mark style="color:red;">**mua điểm thành thạo**</mark>, nhưng **đối với mỗi điểm đã mua, chi phí Zeny sẽ tăng thêm 25 Zeny**.
 
 ### **Ví dụ:**
@@ -59,6 +65,6 @@ description: >-
 
 ## **Sử dụng Điểm Thành Thạo**
 
-* Để sử dụng **Điểm Thành Thạo** của bạn, chỉ cần nhấn <mark style="color:red;">**(ALT + S)**</mark> và vào tab **"Thành Thạo"**.* Tất cả **Điểm Thành Thạo** của bạn sẽ được liệt kê bên dưới, và bạn có thể **tiêu chúng một cách tự do**.
+* Để sử dụng **Điểm Thành Thạo** của bạn, chỉ cần nhấn <mark style="color:red;">**(ALT + S)**</mark> và vào tab **"Thành Thạo"**.\* Tất cả **Điểm Thành Thạo** của bạn sẽ được liệt kê bên dưới, và bạn có thể **tiêu chúng một cách tự do**.
 
 <figure><img src="../.gitbook/assets/cca64355.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử dụng Điểm Thành Thạo trong Cây Kỹ Năng.</strong></mark></p></figcaption></figure>

@@ -51,7 +51,8 @@ description: >-
 
 **3. Quy Tắc Cơ Bản**
 
-* **Thời gian giới hạn:** Instance kéo dài **4 giờ** từ thời điểm nó được tạo ra.\* **Tiến trình chia sẻ:** Nếu ai đó chết, họ có thể quay lại tháp **miễn là người lãnh đạo nhóm vẫn ở bên trong**.
+* **Thời gian giới hạn:** Instance kéo dài **4 giờ** từ thời điểm nó được tạo ra.
+* **Tiến trình chia sẻ:** Nếu ai đó chết, họ có thể quay lại tháp **miễn là người lãnh đạo nhóm vẫn ở bên trong**.
 * **Thử thách nhóm:** Chỉ **một nhóm** có thể vào instance tại một thời điểm.
 * **Tái sinh quái vật:** Quái vật xuất hiện **theo đợt hoặc theo nhóm**, tùy thuộc vào tầng.
 * **Phần thưởng:** Bạn nhận được **phần thưởng cho việc đánh bại MVP**.

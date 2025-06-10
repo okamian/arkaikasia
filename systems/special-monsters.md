@@ -1,11 +1,13 @@
 ---
 description: >-
   Các quái vật đặc biệt có hệ thống hồi sinh khác với quái vật thông thường. Một
-  số xuất hiện ở các bản đồ cụ thể vào những thời điểm nhất định trong ngày,
-  trong khi những quái vật khác phải được triệu
+  số xuất hiện ở các bản đồ cụ thể vào những thời điểm nhất định trong ngày, 1
+  số quái vật khác được người chơi triệu hồi
 ---
 
-# 👾 Special Monsters
+# 👾 Quái Vật Đặc Biệt
+
+
 
 <figure><img src="../.gitbook/assets/Monstrosespecial.png" alt=""><figcaption></figcaption></figure>
 
@@ -15,8 +17,9 @@ description: >-
 
 ***
 
-## **Kho Báu Hiếm**\* Ngoài **Quái vật độc đáo**, những người phiêu lưu trong **Arkaik** có thể thu thập **kho báu hiếm** ở nhiều khu vực khác nhau trong trò chơi.
+## **Kho Báu Hiếm**
 
+* Ngoài Quái vật độc đáo, những người phiêu lưu trong Arkaik có thể thu thập kho báu hiếm ở nhiều khu vực khác nhau trong trò chơi.
 * <mark style="color:red;">**Số lượng vật phẩm rơi ra được gấp ba lần**</mark><mark style="color:red;">,</mark> <mark style="color:red;">**trừ thẻ và đá quý**</mark><mark style="color:red;">.</mark>
 * Thêm vào đó, <mark style="color:red;">**một số vật phẩm độc quyền nhất định được cung cấp cho hệ thống chế tạo trang bị**</mark>, tạo thêm một lớp phức tạp cho trò chơi.
 

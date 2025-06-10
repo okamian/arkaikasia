@@ -19,7 +19,9 @@ description: >-
 
 <figure><img src="../.gitbook/assets/gffe.png" alt=""><figcaption></figcaption></figure>
 
-## **Cách Truy Cập Địa Điểm**\* Đi đến <mark style="color:red;">**Kafra**</mark> gần nhất trong thành phố của bạn, nhấp vào tùy chọn **"**<mark style="color:red;">**Teleport**</mark>**"** và chọn thành phố.
+## **Cách Truy Cập Địa Điểm**
+
+## Đi đến <mark style="color:red;">**Kafra**</mark> gần nhất trong thành phố của bạn, nhấp vào tùy chọn **"**<mark style="color:red;">**Teleport**</mark>**"** và chọn thành phố.
 
 * <mark style="color:red;">**Đi đến GEFFEN**</mark>**.**
 
@@ -67,6 +69,7 @@ description: >-
 ## Phần Thưởng
 
 * Sau khi hoàn thành instance, bạn sẽ nhận được **"**<mark style="color:red;">**Mảnh Tối Tăm**</mark>**"**, có thể được đổi với NPC **"**<mark style="color:red;">**Nhà Tiên Tri Thiên Văn**</mark>**"**.
-* <mark style="background-color:green;">**Cấp độ khó càng cao, phần thưởng càng tốt**</mark>**.**
+*   <mark style="background-color:green;">**Cấp độ khó càng cao, phần thưởng càng tốt**</mark>**.**\
 
-<figure><img src="../.gitbook/assets/gffe23232.png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>

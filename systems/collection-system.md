@@ -4,15 +4,16 @@ description: >-
   hạnh phúc khi có được!
 ---
 
-# 📚 Collection System
+# 📚 Hệ Thống Thu Thập
 
 ## **Về Các Bộ Sưu Tập**
 
 * Bất kỳ lúc nào, hãy mở **màn hình sưu tập của bạn (ALT + C)** để xem những món đồ bạn cần thu thập trên bản đồ này để kích hoạt một phần thưởng đặc biệt mà **có lợi vĩnh viễn cho nhân vật của bạn**.
 * Mỗi khi bạn thu thập được một trong những món đồ, **nó sẽ được thông báo trong trò chơi của bạn**.
-* <mark style="color:red;">**Tiến độ sưu tập được chia sẻ giữa tất cả các nhân vật của bạn**</mark>, vậy tại sao không khám phá các bản đồ khác với nhân vật tiếp theo của bạn và hoàn thành toàn bộ bộ sưu tập?
+*   <mark style="color:red;">**Tiến độ sưu tập được chia sẻ giữa tất cả các nhân vật của bạn**</mark>, vậy tại sao không khám phá các bản đồ khác với nhân vật tiếp theo của bạn và hoàn thành toàn bộ bộ sưu tập?\
 
-<figure><img src="../.gitbook/assets/Cole2 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Nhấn ALT+C để mở màn hình Sưu Tập</strong></mark></p></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (576).png" alt=""><figcaption></figcaption></figure>
 
 ## **Phần Thưởng Tích Lũy Tổng Thể Từ Các Bộ Sưu Tập**
 

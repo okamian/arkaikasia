@@ -4,7 +4,7 @@ description: >-
   Khai Thác là con đường dành cho bạn!
 ---
 
-# ⛏️ Mining System
+# ⛏️ Hệ Thống Khai Thác
 
 ## **Hệ Thống Khai Thác**
 
@@ -28,7 +28,8 @@ description: >-
 ## **Biến Thể Mỏ**
 
 * Mỗi mỏ **rơi ra các vật phẩm cụ thể**, có một lượng **HP** nhất định, và xuất hiện với **số lượng khác nhau** tùy thuộc vào bản đồ.
-* Ngoài các **quặng rơi cụ thể**, **tất cả các mỏ** đều có một **danh sách vật phẩm chung** có thể thu được ở **mỗi lần đánh**.\* Mỗi vật phẩm có **tỷ lệ rơi riêng**, và **tất cả các vật phẩm đều được xác định riêng biệt** cho mỗi cú đánh, có nghĩa là bạn có thể **nhận được nhiều vật phẩm trong một cú đánh (nếu may mắn).**
+* Ngoài các **quặng rơi cụ thể**, **tất cả các mỏ** đều có một **danh sách vật phẩm chung** có thể thu được ở **mỗi lần đánh**.
+* &#x20;Mỗi vật phẩm có **tỷ lệ rơi riêng**, và **tất cả các vật phẩm đều được xác định riêng biệt** cho mỗi cú đánh, có nghĩa là bạn có thể **nhận được nhiều vật phẩm trong một cú đánh (nếu may mắn).**
 
 ***
 

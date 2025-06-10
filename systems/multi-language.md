@@ -5,7 +5,7 @@ description: >-
   thứ **được dịch hoàn toàn** sang nhiều ngôn ngữ
 ---
 
-# 🌎 Multi-Language
+# 🌎 Đa Ngôn Ngữ
 
 ## **Về Hệ Thống Đa Ngôn Ngữ**
 
@@ -20,9 +20,10 @@ description: >-
 
 * <mark style="color:red;">**Mở**</mark> <mark style="color:red;">**Trình Khởi Động Arkaik**</mark>.
 * Đi đến <mark style="color:red;">**Cài Đặt**</mark>.
-*   Điều hướng đến **"Âm Thanh & Ngôn Ngữ"** và **chọn ngôn ngữ ưa thích** của bạn.
+*   Điều hướng đến **"Âm Thanh & Ngôn Ngữ"** và **chọn ngôn ngữ ưa thích** của bạn.\
 
-    <figure><img src="../.gitbook/assets/098.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử Dụng Hệ Thống Đa Ngôn Ngữ Trong Trình Khởi Động</strong></mark></p></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2FrBDTM73m2rnkm8HK8CK5%2F44434.gif" alt=""><figcaption></figcaption></figure>
 
 ## **Giao Diện Trong Game Như Thế Nào**
 
@@ -31,14 +32,14 @@ description: >-
 
 {% tabs %}
 {% tab title="Tiếng Anh" %}
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p><mark style="color:red;"><strong>Toàn Bộ Giao Diện Game của Arkaik bằng "TIẾNG ANH"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (540).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "ENGLISH"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Thái Lan" %}
-<mark style="color:red;">**(GIF MỚI THÁI LAN)**</mark>
+<figure><img src="../.gitbook/assets/image (541).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Thailand"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Việt Nam" %}
-<mark style="color:red;">**(GIF MỚI VIỆT NAM)**</mark>
+<figure><img src="../.gitbook/assets/image (542).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Vietnam"</strong></mark></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

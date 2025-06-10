@@ -5,11 +5,9 @@ description: >-
   thiết kế tinh xảo và đầy thử thách.
 ---
 
-# 📜 Relic System
+# 📜 Hệ Thống Di Tích
 
-<figure><img src="../.gitbook/assets/Reliquias.png" alt=""><figcaption></figcaption></figure>
-
-## **Cách Nhận Di Vật**
+**Cách Nhận Di Vật**
 
 * Hành trình tìm kiếm Di Vật bắt đầu tại **Zero**<mark style="color:red;">**Rừng Phía Bắc**</mark>, tại <mark style="color:red;">**Đài Quan Sát**</mark>.
 * **(**_**Bạn phải CẤP 90 để bắt đầu nhiệm vụ.**_**)**
@@ -33,20 +31,30 @@ description: >-
 <figure><img src="../.gitbook/assets/Sacerreli.gif" alt=""><figcaption><p><br><mark style="color:red;"><strong>Minh họa về cách Di vật sẽ xuất hiện trên nhân vật của bạn</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/s11.png" alt=""><figcaption></figcaption></figure>
+{% tab title="CẤP 1" %}
+<figure><img src="../.gitbook/assets/image (545).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/s2.png" alt=""><figcaption></figcaption></figure>
+{% tab title="CẤP 2" %}
+<figure><img src="../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Thợ săn" %}
+
+
 <figure><img src="../.gitbook/assets/Caçareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Minh họa về cách mà di vật sẽ xuất hiện trên nhân vật của bạn</strong></mark></p></figcaption></figure>
+{% endtab %}
 
-<figure><img src="../.gitbook/assets/c1.png" alt=""><figcaption></figcaption></figure>
+{% tab title="CẤP 1" %}
+<figure><img src="../.gitbook/assets/image (547).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
-<figure><img src="../.gitbook/assets/c2.png" alt=""><figcaption></figcaption></figure>
+{% tab title="CẤP 2" %}
+<figure><img src="../.gitbook/assets/image (548).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 {% tabs %}
 {% tab title="Nhạc Công" %}
@@ -54,11 +62,11 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP 1" %}
-<figure><img src="../.gitbook/assets/c3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (549).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="CẤP 2" %}
-<figure><img src="../.gitbook/assets/c4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (550).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -68,11 +76,11 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP 1" %}
-<figure><img src="../.gitbook/assets/c5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (553).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="CẤP 2" %}
-<figure><img src="../.gitbook/assets/c6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (551).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -82,11 +90,11 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP 1" %}
-<figure><img src="../.gitbook/assets/c7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 2" %}
-<figure><img src="../.gitbook/assets/c8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (555).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -96,11 +104,11 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 1" %}
-<figure><img src="../.gitbook/assets/c9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 2" %}
-<figure><img src="../.gitbook/assets/c10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -110,16 +118,16 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 1" %}
-<figure><img src="../.gitbook/assets/c11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (558).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 2" %}
-<figure><img src="../.gitbook/assets/c12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (559).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Lén Lút" %}
+{% tab title="Rogue" %}
 <figure><img src="../.gitbook/assets/Arrureli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Minh họa về cách mà di vật sẽ xuất hiện trên nhân vật của bạn</strong></mark></p></figcaption></figure>
 {% endtab %}
 
@@ -128,7 +136,7 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 2" %}
-<figure><img src="../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (562).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -137,12 +145,12 @@ description: >-
 <figure><img src="../.gitbook/assets/Templareli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Minh họa về cách mà Di vật sẽ xuất hiện trên nhân vật của bạn</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
+{% tab title="CẤP 1" %}
+<figure><img src="../.gitbook/assets/image (561).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
+{% tab title="CẤP 2" %}
+<figure><img src="../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -151,12 +159,12 @@ description: >-
 <figure><img src="../.gitbook/assets/Sabioreli.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Minh họa về cách mà Di vật sẽ xuất hiện trên nhân vật của bạn</strong></mark></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="TIER 1" %}
-<figure><img src="../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
+{% tab title="CẤP 1" %}
+<figure><img src="../.gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="TIER 2" %}
-<figure><img src="../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
+{% tab title="CẤP 2" %}
+<figure><img src="../.gitbook/assets/image (565).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -166,11 +174,11 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP 1" %}
-<figure><img src="../.gitbook/assets/c21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="CẤP 2" %}
-<figure><img src="../.gitbook/assets/c22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -180,11 +188,11 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP 1" %}
-<figure><img src="../.gitbook/assets/c19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 2" %}
-<figure><img src="../.gitbook/assets/c20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (568).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -194,11 +202,11 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 1" %}
-<figure><img src="../.gitbook/assets/c23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (570).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 2" %}
-<figure><img src="../.gitbook/assets/c24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -212,14 +220,12 @@ description: >-
 {% endtab %}
 
 {% tab title="CẤP ĐỘ 2" %}
-<figure><img src="../.gitbook/assets/c26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (573).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-## **Vị trí của NPC cho các nhiệm vụ Di vật**
 
 * Chi tiết về **vị trí NPC** cho mỗi lớp nhân vật để bắt đầu nhiệm vụ **Di vật**.
 * Những vị trí này rất quan trọng để người chơi có thể bắt đầu hành trình tìm kiếm Di vật.
 * **Mỗi NPC** cung cấp một <mark style="color:red;">**nhiệm vụ độc đáo cho mỗi lớp nhân vật**</mark>.
 
-\| Lớp nhân vật | NPC | Vị trí | | ---------------------------------------------- | ------------------ | --------------------- || ![](<../.gitbook/assets/x1 (1).png>)**Thầy Tu** | Nữ Tu | prt\_church (83, 122) | | ![](../.gitbook/assets/x2.png)**Thợ Săn** | Thợ Săn Nữ | hu\_in01 (386, 373) | | ![](../.gitbook/assets/x3.png)**Nhạc Công** | Nhạc Công Lang Thang | payon (161, 178) | | ![](../.gitbook/assets/x4.png)**Vũ Công** | Người Tìm Tài Năng | comodo (189, 163) | | ![](../.gitbook/assets/x6.png)**Alchemist** | Fay | ein\_in01 (257, 26) | | ![](../.gitbook/assets/x7.png)**Sát Thủ** | Lars | in\_moc\_16 (19, 33) | | ![](../.gitbook/assets/x8.png)**Kỵ Sĩ** | Saibah | iz\_ac01 (99, 150) | | ![](../.gitbook/assets/x9.png)**Lén Lút** | Kel | in\_rogue (363, 122) | | ![](../.gitbook/assets/x10.png)**Thập Tự** | Thập Tự | prt\_church (115, 122) | | ![](../.gitbook/assets/x11.png)**Thông Thái** | Oberin | yuno\_in02 (93, 203) | | ![](../.gitbook/assets/x12.png)**Phù Thủy** | Nhân Viên Tiếp Nhận | gef\_tower (111, 37) | | ![](../.gitbook/assets/x13.png)**Đạo Sĩ** | Đạo Sĩ Cuối Cùng | prt\_monk (246, 79) | | ![](../.gitbook/assets/x14.png)**Thợ Rèn** | Claus | ein\_in01 (22, 151) || ![](../.gitbook/assets/c15.png)**Taekwon** | Leonor | louyang (151, 59) |
+\| Lớp nhân vật | NPC | Vị trí | | ---------------------------------------------- | ------------------ | --------------------- || ![](<../.gitbook/assets/x1 (1).png>)**Thầy Tu** | Nữ Tu | prt\_church (83, 122) | | ![](../.gitbook/assets/x2.png)**Thợ Săn** | Thợ Săn Nữ | hu\_in01 (386, 373) | | ![](../.gitbook/assets/x3.png)**Nhạc Công** | Nhạc Công Lang Thang | payon (161, 178) | | ![](../.gitbook/assets/x4.png)**Vũ Công** | Người Tìm Tài Năng | comodo (189, 163) | | ![](../.gitbook/assets/x6.png)**Alchemist** | Fay | ein\_in01 (257, 26) | | ![](../.gitbook/assets/x7.png)**Sát Thủ** | Lars | in\_moc\_16 (19, 33) | | ![](../.gitbook/assets/x8.png)**Kỵ Sĩ** | Saibah | iz\_ac01 (99, 150) | | ![](../.gitbook/assets/x9.png)Rogue | Kel | in\_rogue (363, 122) | | ![](../.gitbook/assets/x10.png)Crusader | Thập Tự | prt\_church (115, 122) | | ![](../.gitbook/assets/x11.png)Sage | Oberin | yuno\_in02 (93, 203) | | ![](../.gitbook/assets/x12.png)**Phù Thủy** | Nhân Viên Tiếp Nhận | gef\_tower (111, 37) | | ![](../.gitbook/assets/x13.png)**Đạo Sĩ** | Đạo Sĩ Cuối Cùng | prt\_monk (246, 79) | | ![](../.gitbook/assets/x14.png)**Thợ Rèn** | Claus | ein\_in01 (22, 151) || ![](../.gitbook/assets/c15.png)**Taekwon** | Leonor | louyang (151, 59) |
