@@ -196,3 +196,27 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 {% embed url="https://www.youtube.com/watch?v=8pDiiHR3d3M" %}
 
+## GDI LIMIT PROBLEM
+
+📌 How to Increase the GDI Object Limit in Windows
+
+▫️ To avoid issues with the display of windows, menus, and alerts in Windows, you can increase the GDI object limit by editing the system registry.
+
+<figure><img src="../../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
+
+🛠️ Step by Step:
+
+1️⃣ Open the Registry Editor (regedit). \
+2️⃣ Go to the registry key:
+
+Copy\
+HKEY\_LOCAL\_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\Windows\GDIProcessHandleQuota
+
+3️⃣ Increase the value of GDIProcessHandleQuota. (Set it to 15000)\
+4️⃣ Restart the computer to apply the changes.
+
+📝 Important Details:\
+💡 The GDIProcessHandleQuota value can be set in decimal (256 to 65,536) or hexadecimal (100 to 15000).\
+⚠️ If the limit is reached, new windows may not open, menus may disappear, and alert boxes may fail to appear!\
+\
+🔄 GDI+ is the API that succeeded GDI (Windows Graphics Device Interface).
