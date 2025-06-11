@@ -202,6 +202,8 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ▫️ To avoid issues with the display of windows, menus, and alerts in Windows, you can increase the GDI object limit by editing the system registry.
 
+{% embed url="https://www.youtube.com/watch?v=VNnqB5EAgas" %}
+
 <figure><img src="../../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
 
 🛠️ Step by Step:
