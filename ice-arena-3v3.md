@@ -14,7 +14,6 @@ description: >-
 ## Cash Reward
 
 * The Top 3 players will split the cash reward, with <mark style="color:red;">**40% to the top 1 and 30% each to top 2 and top 3**</mark>. Players can participate in the tournament for free, but to win the cash prize, it's necessary to have the tournament “**entry**”, which costs <mark style="color:red;">**10k CP**</mark>.
-* <mark style="color:red;">**The 10k**</mark>[ <mark style="color:blue;">**RMT**</mark>](broken-reference) <mark style="color:red;">**fee will be fully (100%) allocated to the tournament prize pool, as well as the tournament entry fee.**</mark>
 * If a player without an entry wins in the Top 3, the amount will be split among the other 2 winners.
 
 ## **Arena Opening Hours**
