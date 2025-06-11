@@ -216,7 +216,7 @@ HKEY\_LOCAL\_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\Windows\GDIProc
 4️⃣ Restart the computer to apply the changes.
 
 📝 Important Details:\
-💡 The GDIProcessHandleQuota value can be set in decimal (256 to 65,536) or hexadecimal (100 to 15000).\
+💡 The GDIProcessHandleQuota value can be set in decimal (15000)\
 ⚠️ If the limit is reached, new windows may not open, menus may disappear, and alert boxes may fail to appear!\
 \
 🔄 GDI+ is the API that succeeded GDI (Windows Graphics Device Interface).
