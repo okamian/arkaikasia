@@ -206,6 +206,8 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 🛠️ Step by Step:
 
+(Only Windows 10+)
+
 1️⃣ Open the Registry Editor (regedit). \
 2️⃣ Go to the registry key:
 
