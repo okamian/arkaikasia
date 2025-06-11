@@ -31,40 +31,25 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 | ![](../.gitbook/assets/7433.png) Blank Scroll        | 10       |
 | ![](../.gitbook/assets/547.png) Compact White Potion | 10       |
 | ![](../.gitbook/assets/578.png) Strawberry           | 10       |
-| ![](../.gitbook/assets/605.png) Painkiller           | 2        |
+| ![](../.gitbook/assets/605.png) Anodyne              | 2        |
 | ![](../.gitbook/assets/12216.png) Repair Scroll      | 1        |
 
 ### <mark style="background-color:purple;">Uncommon</mark>
 
-| Item                                             | Quantity |
-| ------------------------------------------------ | -------- |
-| ![](../.gitbook/assets/610.png) Yggdrasil Leaf   | 2        |
-| ![](../.gitbook/assets/525.png) Panacea          | 2        |
-| ![](../.gitbook/assets/608.png) Yggdrasil Seed   | 2        |
-| ![](../.gitbook/assets/607.png) Yggdrasil Fruit  | 2        |
-| ![](../.gitbook/assets/12030.png) Resentment Box | 1        |
-| ![](../.gitbook/assets/12031.png) Drowsiness Box | 1        |
-| ![](../.gitbook/assets/12028.png) Thunder Box    | 1        |
+| Item                                                 | Quantity |
+| ---------------------------------------------------- | -------- |
+| ![](../.gitbook/assets/610.png) Yggdrasil Leaf       | 2        |
+| ![](../.gitbook/assets/525.png) Panacea              | 2        |
+| ![](../.gitbook/assets/608.png) Yggdrasil Seed       | 2        |
+| ![](../.gitbook/assets/607.png) Yggdrasil Fruit      | 2        |
+| ![](../.gitbook/assets/12030.png) Box of Resentment  | 1        |
+| ![](../.gitbook/assets/12031.png) Box of Drowsiness  | 1        |
+| ![](../.gitbook/assets/12028.png) Box of Thunder     | 1        |
 
 ### <mark style="background-color:orange;">Rare</mark>
 
-| Item                                                       | Quantity |
-| ---------------------------------------------------------- | -------- |
-| ![](../.gitbook/assets/7621.png) Ziegfried's Amulet        | 10       |
-| ![](<../.gitbook/assets/547 (1).png>) Compact White Potion | 50       |
-| ![](../.gitbook/assets/657.png) Berserk Potion             | 5        |
-| ![](<../.gitbook/assets/12216 (1).png>) Agility Scroll     | 10       |
-| ![](../.gitbook/assets/606.png) Aloe Vera                  | 2        |
-| ![](../.gitbook/assets/7620.png) Enriched Oridecon         | 1        |
-| ![](../.gitbook/assets/12213.png) Neuralizer               | 1        |
-| ![](../.gitbook/assets/6320.png) Reset Stone               | 8        |
-| ![](../.gitbook/assets/671.png) Royal Coin                 | 1        |
-| ![](../.gitbook/assets/31178.png) Burning Scarf            | 1        |
-| ![](../.gitbook/assets/20561.png) Purple Electric Aura     | 1        |
-| ![](../.gitbook/assets/5031.png) Miner's Hat               | 1        |
+<table><thead><tr><th width="225.11114501953125">Item</th><th>Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/7621.png" alt=""> Token of Siegfried</td><td>10</td></tr><tr><td><img src="../.gitbook/assets/547 (1).png" alt=""> Condensed White Potion</td><td>50</td></tr><tr><td><img src="../.gitbook/assets/657.png" alt=""> Berserk Potion</td><td>5</td></tr><tr><td><img src="../.gitbook/assets/12216 (1).png" alt=""> Scroll to increase Agility</td><td>10</td></tr><tr><td><img src="../.gitbook/assets/606.png" alt=""> Aloe Vera</td><td>5</td></tr><tr><td><img src="../.gitbook/assets/7620.png" alt=""> Enriched Oridecon</td><td>2</td></tr><tr><td><img src="../.gitbook/assets/12213.png" alt=""> Neuralizer</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/6320.png" alt=""> Reset Stone</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/671.png" alt=""> Coin of the royalty</td><td>8</td></tr><tr><td><img src="../.gitbook/assets/e3.gif" alt="">Gambler`s Spirit</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/e1.gif" alt="">Sword of Brave Warrior</td><td>1</td></tr><tr><td><img src="../.gitbook/assets/e2.gif" alt="">Archer's Essense</td><td>1</td></tr></tbody></table>
 
 ### <mark style="background-color:red;">Lengendary</mark>
 
-| Item                                           | Quantity |
-| ---------------------------------------------- | -------- |
-| ![](../.gitbook/assets/20491.png) Sniper Tiara | 1        |
+<table><thead><tr><th width="226.22222900390625">Item</th><th>Quantity</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/e4.gif" alt=""></p><p>Zero Warrior's Backpack</p></td><td>1</td></tr><tr><td><img src="../.gitbook/assets/e5.gif" alt="">Sinister Observer</td><td>1</td></tr></tbody></table>
