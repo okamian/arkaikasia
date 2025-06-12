@@ -4,6 +4,8 @@ description: Chọn huy hiệu của bạn, vì nó xác định con đường b
 
 # 🛡️ Hệ Thống Huy Hiệu
 
+<figure><img src="../.gitbook/assets/image (577).png" alt="" width="375"><figcaption></figcaption></figure>
+
 #### **Về Huy Hiệu**
 
 * Sau khi tốt nghiệp từ **Học Viện Bảo Vệ**, bạn phải chọn huy hiệu mà nhân vật của bạn sẽ có bằng cách nói chuyện với <mark style="color:red;">**Giám Đốc Roosevelt**</mark><mark style="color:orange;">.</mark>

@@ -4,10 +4,133 @@ description: >-
   thành một viên tinh thể nhỏ, chứa đựng sức mạnh đặc biệt.
 ---
 
-# ⚛️ Gem System
+# ⚛️ Hệ Thống Đá Quý
 
-* **Tất cả các viên ngọc đã được cập nhật** <mark style="color:red;">(</mark><mark style="color:red;">**27/02/25**</mark><mark style="color:red;">)</mark>.
-* **Vị trí Ngọc Mới:** <mark style="color:purple;">(</mark><mark style="color:purple;">**Eldoria, Hồ Vực Sâu**</mark><mark style="color:purple;">).</mark>
+<figure><img src="../.gitbook/assets/image (581).png" alt=""><figcaption></figcaption></figure>
+
+**Tất cả các viên ngọc đã được cập nhật** <mark style="color:red;">(</mark><mark style="color:red;">**06/06/25**</mark><mark style="color:red;">)</mark>.
+
+{% tabs %}
+{% tab title="Mới" %}
+* **Tất cả các viên ngọc đã được cập nhật** <mark style="color:red;">(</mark><mark style="color:red;">**06/06/25**</mark><mark style="color:red;">)</mark>.
+* **Vị trí Ngọc Mới:** <mark style="color:purple;">(</mark><mark style="color:purple;">**Lutie EP**</mark><mark style="color:purple;">).</mark>
+{% endtab %}
+
+{% tab title="Danh sách đá mới" %}
+
+
+### List: 06/06/25
+
+* Christmas Cookie Gem
+* Cookie Gem
+* Tin Soldier Gem
+* Gift Gem
+* Chepet Gem
+* Sasquatch Gem
+* Hatii Pup Gem
+* Hatii Gem (MVP)
+* Stormy Knight Gem (MVP)
+{% endtab %}
+{% endtabs %}
+
+
+
+* Đây là danh sách đầy đủ tất cả các loại Đá quý cho đến thời điểm hiện tại trong "Arkaik: Tales of Sarina".
+*   Bạn có thể "Điều hướng" qua các tab bên dưới để tìm những gì bạn cần, ví dụ ảnh GIF bên dưới.
+
+    <figure><img src="../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2FLh7glDof6sLEP23Xp1qs%2F5555.webp" alt=""><figcaption></figcaption></figure>
+
+{% tabs %}
+{% tab title="First Tab" %}
+#### **Characteristics** <a href="#characteristics" id="characteristics"></a>
+
+* **The stronger the monster, the harder it is to obtain its gem.** The chance of obtaining a monster's gem can range from **0.01% to 100%**.
+* **Gems do not stack their effects.** For example, if you have a dagger with a **Poring Gem** and boots with another **Poring Gem**, the effect is **applied only once**.
+* **While equipped with a monster gem**, if you engage in combat with that same monster, you receive **-10% damage taken and +5% damage dealt** to it. Additionally, **you heal 1% of your HP/SP when defeating it**.
+* **Unlike Cards, Gems can be attached to any equipment** that has an **available gem slot**, regardless of type.
+* **Gems can be removed** using the skill **"Never Had Luck"**.
+
+#### **Types of Gems** <a href="#types-of-gems" id="types-of-gems"></a>
+
+* There are currently **3 types of Gems** on the server.
+
+|                                                                                                                                                                                              |                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-09f565e67435b854f24dae44b35fc029f89c3421%2FBase_MVP.png?alt=media)​      | MVP Gems are gold-colored.       |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-5f6afe821e8c573e482319c7a1489dbccbab72a0%2FBase_miniboss.png?alt=media)​ | Mini-Boss Gems are blue-colored. |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-5f99319ef4df081aec86d83c8b2fd3e644de8ccc%2FBase_comum.png?alt=media)​    | Common Gems are purple-colored.  |
+
+#### **Attaching a Gem** <a href="#attaching-a-gem" id="attaching-a-gem"></a>
+
+* **Left-click** on the gem in your inventory.
+* The following screen will appear.
+
+<figure><img src="../.gitbook/assets/image (582).png" alt=""><figcaption><p><mark style="color:red;"><strong>Right-Clicking to Inspect the Gem</strong></mark></p></figcaption></figure>
+
+**How to Attach a Gem**
+
+1. **Click on an item**, then press the **"Add"** button.
+2. A **confirmation message** will appear in your chat.
+3. **Left-click on the item** to check the attached gem.
+
+<figure><img src="../.gitbook/assets/image (583).png" alt=""><figcaption><p><mark style="color:red;"><strong>Gem Linked to the Equipment</strong></mark></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Second Tab" %}
+#### Atrributes <a href="#atrributes" id="atrributes"></a>
+
+CommentShare feedback on the editor
+
+|                         |                                                 |
+| ----------------------- | ----------------------------------------------- |
+| Orc Skeleton Gem        | Max HP -500. STR +5.                            |
+| Orc Zombie Gem          | Max HP -700. STR +5.                            |
+| Rybio Gem               | If the user has **99 or more DEX**: **STR +5**. |
+| Flying Exterminator Gem | +STR +2                                         |
+| Orc Warrior Gem         | STR +2                                          |
+| Minorous Gem            | STR +3                                          |
+| Deniro Gem              | SSTR +2                                         |
+
+CommentShare feedback on the editor
+
+#### **Attack Gems** <a href="#attack-gems" id="attack-gems"></a>
+
+CommentShare feedback on the editor
+
+|               |                  |
+| ------------- | ---------------- |
+| Crab Gem      | ATK +2.          |
+| Porcellio Gem | ATK +10.         |
+| Skeleton Gem  | ATK +4.          |
+| Matyr Gem     | +3 basic attack. |
+
+CommentShare feedback on the editor
+
+#### **Close-Range Damage** <a href="#close-range-damage" id="close-range-damage"></a>
+
+CommentShare feedback on the editor
+
+|              |                                                 |
+| ------------ | ----------------------------------------------- |
+| Dullahan Gem | Increases **close-range attack damage by +5%**. |
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### Danh sách: 27/02/25
 
