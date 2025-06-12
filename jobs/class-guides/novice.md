@@ -6,7 +6,7 @@ description: >-
 
 # \[Novice]
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * In the Protectors' Academy, the apprentice will learn to master these skills to survive the challenges ahead.
 * Additionally, after completing the training, the player can choose from various Badges, which will guide them to the hall where they will select their first class and begin their new adventure in the world of Midgard.
