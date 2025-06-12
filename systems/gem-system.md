@@ -125,7 +125,7 @@ description: >-
 | Drone Gem  | **+5% movement speed**.  |
 | Yoyo Gem   | **+10% movement speed**. |
 | Verit Gem  | **+3% movement speed**.  |
-| Wolf Gem   | **+10% movement speed**. |
+| Wolf Gem   | **+5% movement speed**.  |
 
 ### **Perfect Dodge and Dodge**
 
