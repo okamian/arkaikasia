@@ -73,6 +73,14 @@ description: >-
 
 ## **About the Mines**
 
+### **Base Drops from All Mines**
+
+* When mining in any of the available mines on the server, players can obtain a variety of common ores and resources.&#x20;
+* These drops represent the basic items that can be found regardless of the selected mine, serving as the foundation of the mining system.&#x20;
+* Rarer or more specific items may vary depending on the mine accessed, but all players will have a chance to acquire the following materials during regular mining activities.
+
+<table><thead><tr><th width="141.77783203125">Ores</th><th align="center">Quantity</th></tr></thead><tbody><tr><td><div><figure><img src="../.gitbook/assets/image (658).png" alt=""><figcaption><p><strong>Stone Fragment</strong></p></figcaption></figure></div></td><td align="center">3</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (659).png" alt=""><figcaption><p><strong>Stone</strong></p></figcaption></figure></div></td><td align="center">5</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (660).png" alt=""><figcaption><p><strong>Unlucky Emerald</strong></p></figcaption></figure></div></td><td align="center">5</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (661).png" alt=""><figcaption><p><strong>Stone Arrow</strong></p></figcaption></figure></div></td><td align="center">20</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (662).png" alt=""><figcaption><p><strong>Emveretarcon</strong></p></figcaption></figure></div></td><td align="center">3</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (663).png" alt=""><figcaption><p><strong>Coal</strong></p></figcaption></figure></div></td><td align="center">2</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (664).png" alt=""><figcaption><p><strong>Steel</strong></p></figcaption></figure></div></td><td align="center">1</td></tr></tbody></table>
+
 ### <mark style="color:blue;">**Mineral Mine**</mark>
 
 <table><thead><tr><th width="183">Information	</th><th>Description</th></tr></thead><tbody><tr><td>Mine Type</td><td>Mineral mine</td></tr><tr><td>Experience</td><td>1</td></tr><tr><td>Mineral HP</td><td>15 ~ 30</td></tr><tr><td>Damage Applied</td><td>1 ~ 3</td></tr><tr><td>(ID) Local Drops</td><td>6077, 1003, 1002, 1010, 7300, 6051</td></tr><tr><td>Ores</td><td><img src="../.gitbook/assets/Ferro (2).png" alt="">Raw Mineral<img src="../.gitbook/assets/Carvao (1) (1).png" alt="">Coal<img src="../.gitbook/assets/Ferro (2).png" alt="">Iron Ore <img src="../.gitbook/assets/7300 (1).png" alt=""> Precious Stones <img src="../.gitbook/assets/6051 (1).png" alt="">Gray Mineral</td></tr></tbody></table>
