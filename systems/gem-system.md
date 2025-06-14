@@ -175,287 +175,6 @@ description: >-
 
 ## Sinh lực (Đá tăng HP)
 
-|                 |                                                    |
-| --------------- | -------------------------------------------------- |
-| Apocalypse Gem  | **+1000 Max HP**.                                  |
-| Mars Gem        | **+470 Max HP**.                                   |
-| Soldier Gem     | Stops **natural HP regeneration**. **+3% Max HP**. |
-| Martin Gem      | **+200 Max HP**.                                   |
-| Majoruros Gem   | **+700 Max HP**.                                   |
-| Fabre Gem       | **+10 Max HP**.                                    |
-| Ambernite Gem   | **-30% movement speed**, **+5% Max HP**.           |
-| Marionette Gem  | **-5 Agility**, **+300 Max HP**.                   |
-| Ant Egg Gem     | **+50 Max HP**.                                    |
-| Green Ferus Gem | **+380 Max HP, +2 Vitality, -100 Max SP**.         |
-
-#### **HP Recovery** <a href="#hp-recovery" id="hp-recovery"></a>
-
-|                     |                                                                                                     |
-| ------------------- | --------------------------------------------------------------------------------------------------- |
-| Prisoner Zombie Gem | Recovers **300 HP every 5 seconds**. Unequipping an item with this gem **reduces user HP by 1000**. |
-| Nereid Gem          | +10% natural HP recovery.                                                                           |
-| Marin Gem           | +10% natural HP recovery.                                                                           |
-
-#### HP Recovery by Attacks <a href="#hp-recovery-by-attacks" id="hp-recovery-by-attacks"></a>
-
-|             |                                                                          |
-| ----------- | ------------------------------------------------------------------------ |
-| Obeaune Gem | Recovers **50 HP** when landing basic attacks on **fish-type monsters**. |
-| Strouf Gem  | Recovers **50 SP** when landing basic attacks on **fish-type monsters**. |
-
-#### **Physical Defense** <a href="#physical-defense" id="physical-defense"></a>
-
-|                |                                    |
-| -------------- | ---------------------------------- |
-| Encouraged Gem | **+3% Vital Defense**.             |
-| Raydric Gem    | **+4% Physical Defense**.          |
-| Cornutus Gem   | **DEF +2**.                        |
-| Mineral Gem    | **+7% Defense based on Vitality**. |
-| Munak Gem      | **DEF +3**.                        |
-| Golem Gem      | **DEF +6**.                        |
-| Andre Gem      | **DEF +2**.                        |
-| Skeleton Gem   | **Reduces DEF by 2%**.             |
-
-#### Damage Reduction (Physical & Magical) <a href="#damage-reduction-physical-and-magical" id="damage-reduction-physical-and-magical"></a>
-
-|                   |                                                                         |
-| ----------------- | ----------------------------------------------------------------------- |
-| Archdam Gem       | RedReduces **physical damage received by 3%**.                          |
-| Cursed Frame Gem  | **+5% defense against magical attacks**.                                |
-| Owl Baron Gem     | Reduces **magical damage received by 3%**.                              |
-| Hornet Beetle Gem | **+3% resistance to ranged attacks**.                                   |
-| Zombie Gem        | Stops **natural HP recovery**. **Reduces melee damage taken by 2%**.    |
-| Ghoul Gem         | IStops **natural SP recovery**. **Reduces melee damage taken by 2%**.   |
-| Mechatree Gem     | **Reduces damage received from large monsters by 7%**. **+170 Max HP**. |
-
-#### **Magical Defense** <a href="#magical-defense" id="magical-defense"></a>
-
-|                                                                            |                          |
-| -------------------------------------------------------------------------- | ------------------------ |
-| Obsidian Gem                                                               | **+7% magical defense**. |
-| ​[G](https://arkaikonline.com/database/items?search=9954)Thief Bug Egg Gem | **MDEF +4**.             |
-
-### Elemental Resistance and Effects <a href="#elemental-resistance-and-effects" id="elemental-resistance-and-effects"></a>
-
-|                     |                                                                                     |
-| ------------------- | ----------------------------------------------------------------------------------- |
-| Freezer Gem         | **+5% resistance to freezing**.                                                     |
-| Gaze Perceval Gem   | **Grants 4% resistance to Silence**.                                                |
-| Tower Keeper Gem    | **5% resistance to freezing**.                                                      |
-| Lava Labyrinth Gem  | **20% resistance to burning**.                                                      |
-| Diabolic Gem        | **-5% damage received from the Shadow element**.                                    |
-| Boom Gem            | -**5% damage received from the Fire element**.                                      |
-| Thara Frog Gem      | **5% poison damage reduction**.                                                     |
-| Stalactic Golem Gem | **+7% resistance to Stun**.                                                         |
-| Caramelo Gem        | **+3% resistance to physical damage from the Earth element**.                       |
-| Rockoso Gem         | **+10% resistance to Sleep**.                                                       |
-| Marduk Gem          | +**4% resistance to Silence**.                                                      |
-| Tormented Soul Gem  | **+3% resistance to Curse**.                                                        |
-| Scorpion Gem        | **+2% resistance to Poison**.                                                       |
-| Anaconda Gem        | **+2% resistance to Poison**.                                                       |
-| Rattlesnake Gem     | **+2% resistance to Poison**.                                                       |
-| Jibóia Gem          | **+2% resistance to Poison element damage**.                                        |
-| Spore Gem           | **+1% resistance to Poison element damage**.                                        |
-| Leib Olmai Gem      | **+20% resistance to \[Stun]**.                                                     |
-| Green Maiden Gem    | **+1% Critical Resistance**. **+1% per equipment refinement level (Max +10)**.      |
-| Mao Guai Gem        | **+20% resistance to Ghost property. -30 Flee**.                                    |
-| Zhu Po Long Gem     | **+3% resistance to all elements**.                                                 |
-| Mi Gao Gem          | **-5% damage taken from ranged (physical/magical) attacks during War of Emperium**. |
-| Giant Drone Gem     | **-5% damage received from Wind**.                                                  |
-| Sasquatch Gem       | **-5% Water element damage received.**                                              |
-
-#### **Healing Bonus** <a href="#healing-bonus" id="healing-bonus"></a>
-
-|                    |                                                                                          |
-| ------------------ | ---------------------------------------------------------------------------------------- |
-| Worm Tail Gem      | **Increases healing received from active skills by 7%**.                                 |
-| Pingu Gem          | **Increases healing effectiveness of all active skills on you by 10%**. **-5 Vitality**. |
-| Bigfoot Gem        | **Increases HP healing effectiveness of Honey item by 300%**.                            |
-| Steel Chonchon Gem | A**Increases effectiveness of all heals by 1%**.                                         |
-| Peco Peco Egg Gem  | **Increases healing effectiveness from skills by 2%**.                                   |
-| Thief Bug Egg Gem  | **Increases healing effectiveness from skills by 1%**.                                   |
-| Cramp Gem          | A**Increases the efficiency of healing items by 5%**.                                    |
-
-#### **Defense and Equipment Effects** <a href="#defense-and-equipment-effects" id="defense-and-equipment-effects"></a>
-
-|                      |                                                                                                                |
-| -------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Wootan Fighter Gem   | **Reflects 1% of ranged physical damage received**.                                                            |
-| Leaf Cat Gem         | **Reduces weapon break chance by 7%**.                                                                         |
-| Starfish Gem         | **-40% Max HP. User is immune to knockback**.                                                                  |
-| Creamy Gem           | **Reflects 1% of long-range damage**.                                                                          |
-| Savage Gem           | **Reduces weapon break chance by 2%**.                                                                         |
-| Anubis Gem           | **Weapon cannot be removed by skills. Reduces Max HP by 10%**.                                                 |
-| Sea Horse Gem        | T**Makes shoes indestructible**.                                                                               |
-| Poporing Gem         | **Reduces equipment break chance by 1%**.                                                                      |
-| Mimic Gem            | **Reduces reflected damage by 1%**.                                                                            |
-| Arclouse Gem         | **0.1% chance to reduce the target's HP by 1% with basic attacks (applies up to 5 times on the same target)**. |
-| Tarou Gem            | **1% chance to cast Increase Agility Lv.1 when hit by physical attacks**.                                      |
-| Female Thief Bug Gem | **1% chance to cast Increase Agility Lv.1 when hit by physical attacks**.                                      |
-| Jing Guzi Gem        | **When dealing physical attacks, 40% chance to remove \[Chaos] from the attacker**.                            |
-
-#### **Mixed Defense** <a href="#mixed-defense" id="mixed-defense"></a>
-
-|               |                                  |
-| ------------- | -------------------------------- |
-| Metalling Gem | +3 physical and magical defense. |
-
-#### **HP Effects** <a href="#hp-effects" id="hp-effects"></a>
-
-|                     |                                                                                                                            |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Plague Gem          | **0.1% chance to subtract 2% of the target's max HP when using basic attacks (applies up to 5 times on the same target)**. |
-| Hunter Fly Gem      | **0.5% chance to convert 7% of physical damage dealt into HP**.                                                            |
-| Familiar Gem        | **Recovers 3 HP when executing a normal attack**.                                                                          |
-| Desert Wolf Pup Gem | **Recovers 30 HP when killing a target with a melee attack**.                                                              |
-| Scarlet Ferus Gem   | **When defeating monsters with any magical attack, restores 100 HP. Max SP -100**.                                         |
-{% endtab %}
-
-{% tab title="Untitled" %}
-
-{% endtab %}
-
-{% tab title="Untitled" %}
-
-{% endtab %}
-{% endtabs %}
-
-### Danh sách: 27/02/25
-
-* **Ngọc Detardeurus** _(MVP)_
-* **Ngọc Vesper** _(MVP)_
-* **Ngọc Motaro** _(MVP)_
-* **Ngọc Ainz Ooal** _(MVP)_
-* **Ngọc Atroce** _(MVP)_
-* **Ngọc Momón** _(Mini Boss)_
-* **Ngọc Hydrobalancer** _(Mini Boss)_
-* **Ngọc Ferus Scarlet**
-* **Ngọc Ferus Green**
-* **Ngọc Ancient Mimic**
-* **Ngọc Dragon Egg**
-* **Ngọc Blue Acidus**
-* **Ngọc Golden Acidus**
-* **Ngọc Dark Elf**
-* **Ngọc Elf Shaman**
-* **Ngọc Elfkid**
-* **Ngọc Mechatree**
-* **Ngọc Chôco**
-* **Ngọc Drone Khổng Lồ**
-* Đây là **danh sách đầy đủ** của tất cả các Ngọc tính đến thời điểm hiện tại trong _"Arkaik: Tales of Sarina"_.
-* Bạn có thể **"**<mark style="color:red;">**Duyệt**</mark>**"** qua các tab bên dưới để tìm những gì bạn cần, **ví dụ GIF bên dưới**.
-
-<figure><img src="../.gitbook/assets/4441111.gif" alt=""><figcaption></figcaption></figure>
-
-### **Đặc điểm**
-
-* **Quái vật càng mạnh, việc thu thập ngọc của nó càng khó.** Cơ hội thu được ngọc của một quái vật có thể dao động từ <mark style="color:red;">**0.01% đến 100%**</mark><mark style="color:red;">.</mark>
-* **Ngọc không tích lũy hiệu ứng.** Ví dụ, nếu bạn có một con dao với **Ngọc Poring** và một đôi giày với một **Ngọc Poring** khác, hiệu ứng sẽ **được áp dụng chỉ một lần**.\* **Khi trang bị một viên ngọc quái vật**, nếu bạn tham gia chiến đấu với cùng một loại quái vật đó, bạn sẽ nhận được **-10% sát thương nhận vào và +5% sát thương gây ra** cho nó. Thêm vào đó, **bạn hồi phục 1% HP/SP khi đánh bại nó**.
-* **Khác với Thẻ, Ngọc có thể được gắn vào bất kỳ trang bị nào** có **khoảng trống ngọc**, bất kể loại nào.
-* **Ngọc có thể được gỡ bỏ** bằng cách sử dụng kỹ năng **"**<mark style="color:red;">**Chưa Bao Giờ May Mắn**</mark>**"**.
-
-### **Các loại Ngọc**
-
-*   Hiện tại có **3 loại Ngọc** trên máy chủ.
-
-    <table><thead><tr><th width="110">Hình ảnh</th><th>Mô tả</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Base_MVP.png" alt=""></td><td>Ngọc MVP có màu <mark style="color:yellow;">vàng</mark>.</td></tr><tr><td><img src="../.gitbook/assets/Base_miniboss.png" alt=""></td><td>Ngọc Mini-Boss có màu <mark style="color:blue;">xanh dương</mark>.</td></tr><tr><td><img src="../.gitbook/assets/Base_comum.png" alt=""></td><td>Ngọc Thông Thường có màu <mark style="color:purple;">tím</mark>.</td></tr></tbody></table>
-
-### **Gắn Ngọc**
-
-* **Nhấp chuột trái** vào ngọc trong kho của bạn.
-* Màn hình sau sẽ xuất hiện.
-
-<figure><img src="../.gitbook/assets/212.png" alt=""><figcaption><p><mark style="color:red;"><strong>Nhấp chuột phải để kiểm tra ngọc</strong></mark></p></figcaption></figure>
-
-### **Cách Gắn Ngọc**
-
-1. **Nhấp vào một vật phẩm**, sau đó nhấn nút **"**<mark style="color:red;">**Thêm**</mark>**"**.2. Một <mark style="color:red;">**thông báo xác nhận**</mark> sẽ xuất hiện trong trò chuyện của bạn.
-2. **Nhấp chuột trái vào vật phẩm** để kiểm tra viên ngọc đính kèm.
-
-<figure><img src="../.gitbook/assets/3332.png" alt=""><figcaption><p><mark style="color:red;"><strong>Ngọc Liên Kết với Trang Bị</strong></mark></p></figcaption></figure>
-
-### Thuộc Tính
-
-| Quái Vật            | Hiệu Ứng                                             |
-| ------------------- | ---------------------------------------------------- |
-| Ngọc Xương Orc      | Max HP -500. STR +5.                                 |
-| Ngọc Zombie Orc     | Max HP -700. STR +5.                                 |
-| Ngọc Rybio          | Nếu người sử dụng có **99 DEX trở lên**: **STR +5**. |
-| Ngọc Tiêu Diệt Bay  | +STR +2                                              |
-| Ngọc Chiến Binh Orc | STR +2                                               |
-| Ngọc Minorous       | STR +3                                               |
-
-### **Đá Tấn Công**
-
-| Quái vật     | Hiệu ứng            |
-| ------------ | ------------------- |
-| Đá Cua       | ATK +2.             |
-| Đá Porcellio | ATK +10.            |
-| Đá Xương     | ATK +4.             |
-| Đá Matyr     | +3 tấn công cơ bản. |
-
-### **Sát Thương Gần**
-
-| Quái vật    | Hiệu ứng                              |
-| ----------- | ------------------------------------- |
-| Đá Dullahan | Tăng **sát thương tấn công gần +5%**. |
-
-### Thuộc Tính
-
-| Quái vật   | Hiệu ứng |
-| ---------- | -------- |
-| Đá Giặt    | AGI +2.  |
-| Đá Kukre   | AGI +1.  |
-| Đá Hoa Dại | AGI +2.  |
-| Đá Cá Kiếm | AGI +3.  |
-
-### **Tốc Độ Tấn Công**
-
-| Quái vật           | Hiệu ứng                                  |
-| ------------------ | ----------------------------------------- |
-| Đá Xương Công Nhân | Giảm HP tối đa -500. +2% tốc độ tấn công. |
-| Ngọc Chimera       | **+3 tốc độ tấn công**.                   |
-
-### **Tốc Độ Di Chuyển**
-
-| Quái Vật      | Hiệu Ứng                   |
-| ------------- | -------------------------- |
-| Ngọc Thỏ      | **+10% tốc độ di chuyển**. |
-| Ngọc Báo Động | **+10% tốc độ di chuyển**. |
-| Ngọc Đồng Hồ  | **+10% tốc độ di chuyển**. |
-| Ngọc Harpy    | **+5% tốc độ di chuyển**.  |
-| Ngọc Gió      | **+10% tốc độ di chuyển**. |
-| Ngọc Drone    | **+5% tốc độ di chuyển**.  |
-| Ngọc YoYo     | **+10% tốc độ di chuyển**. |
-| Ngọc Verit    | **+3% tốc độ di chuyển**.  |
-| Ngọc Sói      | **+10% tốc độ di chuyển**. |
-
-### **Tránh Đòn Hoàn Hảo và Tránh Đòn**
-
-| Quái Vật       | Hiệu Ứng                                             |
-| -------------- | ---------------------------------------------------- |
-| Ngọc Sương Mù  | Miễn dịch với độc bản đồ. **Tránh Đòn Hoàn Hảo +1**. |
-| Ngọc Argiope   | **Tránh Đòn Hoàn Hảo +2%**.                          |
-| Ngọc Zenorc    | **Tránh Đòn +3**.                                    |
-| Ngọc Banshee   | **Tránh né hoàn hảo +2**.                            |
-| Ngọc Whisper   | **Tránh né +5**.                                     |
-| Ngọc Dust      | **Tránh né +2%**.                                    |
-| Ngọc Orc Baby  | **Tránh né +4**.                                     |
-| Ngọc Jack      | **Tránh né +1**.                                     |
-| Ngọc Hode      | **Tránh né +4**.                                     |
-| Ngọc Thief Bug | **Tránh né +2**.                                     |
-| Ngọc Chôco     | **Tránh né hoàn hảo +5. CRIT +5**.                   |
-
-### Thuộc tính
-
-| Quái vật           | Hiệu ứng                                                        |
-| ------------------ | --------------------------------------------------------------- |
-| Ngọc Marine Sphere | Nếu cấp độ cơ bản là **60 hoặc cao hơn**, tăng **+3 Sinh lực**. |
-| Ngọc Battering     | Phòng thủ dựa trên **Sinh lực +6**.                             |
-
-\| Ngọc Lava Golem | **+5 Sức sống**. | | Ngọc Evil Druid | +**+4% Máu tối đa**. | | Ngọc Chín Đuôi | Tăng **+1 Sức sống mỗi 10 cấp**. | | Ngọc Requiem | **+1 Sức sống**. | | Ngọc Picky | **+1 Sức sống**. | | Ngọc Piere | **+3 Sức sống**. | | Ngọc Poring | **+1 Sức sống**. |
-
-## Cuộc sống (Ngọc Tăng HP)
-
 | Quái vật        | Hiệu ứng                                           |
 | --------------- | -------------------------------------------------- |
 | Ngọc Apocalypse | **+1000 Máu tối đa**.                              |
@@ -468,21 +187,21 @@ description: >-
 | Ant Egg Gem     | **+50 HP tối đa**.                                 |
 | Green Ferus Gem | **+380 HP tối đa, +2 Vitality, -100 HP tối đa**.   |
 
-## **Hồi phục HP**
+## Phục hồi HP
 
 | Quái vật            | Hiệu ứng                                                                                             |
 | ------------------- | ---------------------------------------------------------------------------------------------------- |
 | Prisoner Zombie Gem | Hồi phục **300 HP mỗi 5 giây**. Việc tháo trang bị có gem này **giảm HP của người dùng xuống 1000**. |
 | Marin Gem           | +10% hồi phục HP tự nhiên.                                                                           |
 
-## Hồi Phục HP qua Tấn Công
+## Phục hồi HP theo các cuộc tấn công
 
 | Quái vật    | Hiệu ứng                                                         |
 | ----------- | ---------------------------------------------------------------- |
 | Obeaune Gem | Hồi phục **50 HP** khi tấn công cơ bản vào **quái vật loại cá**. |
 | Strouf Gem  | Hồi phục **50 SP** khi tấn công cơ bản vào **quái vật loại cá**. |
 
-## **Phòng Thủ Vật Lý**
+## Phòng thủ vật lý
 
 | Quái vật       | Hiệu ứng                  |
 | -------------- | ------------------------- |
@@ -494,7 +213,7 @@ description: >-
 | Andre Gem      | **PH +2**.                |
 | Skeleton Gem   | **Giảm PH 2%**.           |
 
-## Giảm Thiểu Thiệt Hại (Vật Lý & Ma Pháp)
+## Giảm sát thương (Vật lý và phép thuật)
 
 | Quái Vật          | Hiệu Ứng                                                                        |
 | ----------------- | ------------------------------------------------------------------------------- |
@@ -505,14 +224,14 @@ description: >-
 | Zombie Gem        | Ngăn chặn **khôi phục HP tự nhiên**. **Giảm thiệt hại cận chiến nhận được 2%**. |
 | Ngọc Mechatree    | **Giảm 7% sát thương nhận từ quái vật lớn**. **+170 HP tối đa**.                |
 
-## **Phòng Thủ Ma Thuật**
+## Phòng thủ phép thuật
 
-| Quái Vật                                                                   | Hiệu Ứng                    |
-| -------------------------------------------------------------------------- | --------------------------- |
-| Ngọc Obsidian                                                              | **+7% phòng thủ ma thuật**. |
-| [G](https://arkaikonline.com/database/items?search=9954)Ngọc Trứng Kẻ Trộm | **MDEF +4**.                |
+| Quái Vật           | Hiệu Ứng                    |
+| ------------------ | --------------------------- |
+| Ngọc Obsidian      | **+7% phòng thủ ma thuật**. |
+| Ngọc Trứng Kẻ Trộm | **MDEF +4**.                |
 
-## Kháng Elemental và Hiệu Ứng
+## Kháng nguyên tố và hiệu ứng
 
 | Quái Vật             | Hiệu Ứng                                                                                             |
 | -------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -537,123 +256,173 @@ description: >-
 | Đá Mi Gao            | **-5% sát thương nhận từ các cuộc tấn công tầm xa (vật lý/ma thuật) trong Cuộc Chiến của Hoàng Đế**. |
 | Đá Giant Drone       | **-5% sát thương nhận từ Gió**.                                                                      |
 
-## **Thưởng Hồi Phục**
+## Phần thưởng chữa bệnh
 
-| Quái vật            | Hiệu ứng                                                                                      |
-| ------------------- | --------------------------------------------------------------------------------------------- |
-| Đá Worm Tail        | **Tăng lượng hồi phục nhận từ các kỹ năng chủ động lên 7%**.                                  |
-| Đá Pingu            | **Tăng hiệu quả hồi phục của tất cả các kỹ năng chủ động lên 10% trên bạn.** **-5 Sinh Lực**. |
-| Ngọc Steel Chonchon | **Tăng hiệu quả của tất cả các phép hồi phục lên 1%**.                                        |
-| Ngọc Peco Peco Egg  | **Tăng hiệu quả hồi phục từ kỹ năng lên 2%**.                                                 |
-| Ngọc Thief Bug Egg  | **Tăng hiệu quả hồi phục từ kỹ năng lên 1%**.                                                 |
-| Ngọc Cramp          | **Tăng hiệu quả của vật phẩm hồi phục lên 5%**.                                               |
+|                    |                                                                                          |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| Worm Tail Gem      | Tăng lượng máu hồi phục từ kỹ năng chủ động thêm 7%.                                     |
+| Pingu Gem          | Tăng hiệu quả hồi phục của tất cả kỹ năng chủ động trên người bạn thêm 10%. -5 Sức sống. |
+| Bigfoot Gem        | Tăng hiệu quả hồi phục HP của vật phẩm Mật ong lên 300%.                                 |
+| Steel Chonchon Gem | Tăng hiệu quả của tất cả các phép chữa lành thêm 1%.                                     |
+| Peco Peco Egg Gem  | Tăng hiệu quả chữa lành từ kỹ năng thêm 2%.                                              |
+| Thief Bug Egg Gem  | Tăng hiệu quả chữa lành từ kỹ năng thêm 1%.                                              |
+| Cramp Gem          | Tăng hiệu quả của vật phẩm hồi máu lên 5%.                                               |
 
-## **Hiệu ứng Phòng thủ và Trang bị**
+## Hiệu ứng phòng thủ và trang bị
 
-\| Quái vật | Hiệu ứng | | -------------------- | ------------------------------------------------------------------------------------------------------------ || Ngọc Chiến Binh Wootan | **Phản xạ 1% sát thương vật lý tầm xa nhận được**. | | Ngọc Mèo Lá | **Giảm 7% cơ hội vỡ vũ khí**. | | Ngọc Sao Biển | **-40% HP tối đa. Người sử dụng miễn nhiễm với đẩy lùi**. | | Ngọc Kem | **Phản xạ 1% sát thương tầm xa**. | | Ngọc Hoang Dã | **Giảm 2% cơ hội vỡ vũ khí**. | | Ngọc Anubis | **Vũ khí không thể bị loại bỏ bởi kỹ năng. Giảm 10% HP tối đa**. | | Ngọc Ngựa Biển | **Làm cho giày không thể phá hủy**. || Ngọc Poporing | **Giảm tỷ lệ hỏng thiết bị xuống 1%**. | | Ngọc Mimic | **Giảm sát thương phản hồi xuống 1%**. | | Ngọc Arclouse | **0.1% cơ hội giảm HP của mục tiêu xuống 1% với các đòn tấn công cơ bản (áp dụng tối đa 5 lần trên cùng một mục tiêu)**. | | Ngọc Tarou | **1% cơ hội kích hoạt Tăng Tốc Lv.1 khi bị tấn công vật lý**. | | Ngọc Nữ Trộm Bug | **1% cơ hội kích hoạt Tăng Tốc Lv.1 khi bị tấn công vật lý**. | | Ngọc Jing Guzi | **Khi thực hiện các đòn tấn công vật lý, có 40% cơ hội loại bỏ \[Chaos] khỏi kẻ tấn công**. |
+| Wootan Fighter Gem   | Phản lại 1% sát thương vật lý tầm xa phải chịu.                                                          |
+| -------------------- | -------------------------------------------------------------------------------------------------------- |
+| Leaf Cat Gem         | Giảm 7% khả năng vũ khí bị hỏng.                                                                         |
+| Starfish Gem         | -40% HP tối đa. Người dùng miễn nhiễm với lực đẩy lùi.                                                   |
+| Creamy Gem           | Phản lại 1% sát thương tầm xa.                                                                           |
+| Savage Gem           | Giảm 2% khả năng vũ khí bị hỏng.                                                                         |
+| Anubis Gem           | Không thể loại bỏ vũ khí bằng kỹ năng. Giảm HP tối đa 10%.                                               |
+| Sea Horse Gem        | Làm cho giày không thể bị phá hủy.                                                                       |
+| Poporing Gem         | Giảm 1% nguy cơ hỏng thiết bị.                                                                           |
+| Mimic Gem            | Giảm 1% sát thương phản lại.                                                                             |
+| Arclouse Gem         | Có 0,1% cơ hội giảm 1% HP của mục tiêu khi tấn công cơ bản (áp dụng tối đa 5 lần lên cùng một mục tiêu). |
+| Tarou Gem            | 1% cơ hội tăng tốc độ lên cấp 1 khi trúng đòn tấn công vật lý.                                           |
+| Female Thief Bug Gem | 1% cơ hội tăng tốc độ lên cấp 1 khi trúng đòn tấn công vật lý.                                           |
+| Jing Guzi Gem        | Khi tấn công vật lý, có 40% cơ hội loại bỏ \[Hỗn loạn] khỏi kẻ tấn công.                                 |
 
-## **Phòng Thủ Hỗn Hợp**
+## Phòng thủ hỗn hợp
 
-\| Quái Vật | Hiệu Ứng | | -------------- | ---------------------------------- || Ngọc Metalling | +3 phòng thủ vật lý và phép thuật. |
+|               |                                    |
+| ------------- | ---------------------------------- |
+| Metalling Gem | +3 phòng thủ vật lý và phép thuật. |
 
-## **Hiệu ứng HP**
+## Hiệu ứng HP
 
-| Quái vật             | Hiệu ứng                                                                                                                                   |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Ngọc Plague          | **Có 0.1% cơ hội trừ 2% HP tối đa của mục tiêu khi sử dụng các đòn tấn công cơ bản (có thể áp dụng tối đa 5 lần trên cùng một mục tiêu)**. |
-| Ngọc Hunter Fly      | **Có 0.5% cơ hội chuyển đổi 7% sát thương vật lý gây ra thành HP**.                                                                        |
-| Ngọc Familiar        | **Khôi phục 3 HP khi thực hiện một đòn tấn công bình thường**.                                                                             |
-| Ngọc Desert Wolf Pup | **Khôi phục 30 HP khi tiêu diệt một mục tiêu bằng đòn tấn công cận chiến**.                                                                |
+|                     |                                                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Plague Gem          | Có 0,1% cơ hội trừ 2% HP tối đa của mục tiêu khi sử dụng đòn tấn công cơ bản (áp dụng tối đa 5 lần lên cùng một mục tiêu). |
+| Hunter Fly Gem      | Có 0,5% cơ hội chuyển đổi 7% sát thương vật lý gây ra thành HP.                                                            |
+| Familiar Gem        | Phục hồi 3 HP khi thực hiện đòn tấn công thông thường.                                                                     |
+| Desert Wolf Pup Gem | Phục hồi 30 HP khi tiêu diệt mục tiêu bằng đòn tấn công cận chiến.                                                         |
+| Scarlet Ferus Gem   | Khi đánh bại quái vật bằng bất kỳ đòn tấn công ma thuật nào, phục hồi 100 HP. SP tối đa -100.                              |
+{% endtab %}
 
-### Thuộc tính
+{% tab title="INT" %}
+## **Thuộc tính**
 
-| Quái vật            | Hiệu ứng    |
-| ------------------- | ----------- |
-| Ngọc Cổ Xưa         | **+3 INT**. |
-| Ngọc Giun Khôn      | **+3 INT**. |
-| Ngọc Xác Ướp Cổ Xưa | **+3 INT**. |
-| Ngọc Vitata         | **+3 INT**. |
+|                   |             |
+| ----------------- | ----------- |
+| Ancient Gem       | **+3 INT**. |
+| Wise Worm Gem     | **+3 INT**. |
+| Ancient Mummy Gem | **+3 INT**. |
+| Vitata Gem        | **+3 INT**. |
 
-### **Đòn Tấn Công Ma Thuật**
+## Tấn Cống Phép Thuật <a href="#magic-attack" id="magic-attack"></a>
 
-| Quái vật         | Hiệu ứng                                                                    |
-| ---------------- | --------------------------------------------------------------------------- |
-| Ngọc Isis        | **+3 Đòn Tấn Công Ma Thuật**.                                               |
-| Ngọc Tiên Tối    | **MATK +30. Việc triệu hồi không thể bị gián đoạn**.                        |
-| Ngọc Shaman Tiên | **MATK +30. Khi sử dụng gậy hai tay: +10% kháng với thuộc tính Trung Lập**. |
+|                |                                                                              |
+| -------------- | ---------------------------------------------------------------------------- |
+| Isis Gem       | +3 Tấn công phép thuật.                                                      |
+| Dark Elf Gem   | AMATK +30. Không thể ngắt quãng quá trình thi triển.                         |
+| Elf Shaman Gem | MARK +30. Khi sử dụng gậy hai tay: +10% khả năng kháng thuộc tính Trung lập. |
+| Hatii Pup Gem  | Cung cấp +\[IntStats/10]% sát thương phép.                                   |
 
-### SP (Tăng Giới Hạn SP)| Quái vật | Hiệu ứng |
+## SP (Tăng SP tối đa)
 
-\| ------------------ | ------------------------------------------------ | | Ngọc Medusa | **+290 SP tối đa**. | | Ngọc Sohee | **+4% SP tối đa**. | | Ngọc Ếch Rodda | **+10 SP tối đa**. | | Ngọc Novus Vàng | **+250 SP tối đa. +10% hồi phục SP tự nhiên**. |
+|                  |                                                |
+| ---------------- | ---------------------------------------------- |
+| Medusa Gem       | **+290 Max SP**.                               |
+| Sohee Gem        | **+4% Max SP**.                                |
+| Rodda Frog Gem   | **+10 Max SP**.                                |
+| Golden Novus Gem | **+250 Max SP. +10% natural SP regeneration**. |
 
-### **Hồi phục SP**
+## Phục hồi SP
 
-| Quái vật    | Hiệu ứng                              |
-| ----------- | ------------------------------------- |
-| Ngọc Marina | **Hồi phục 1% SP tối đa mỗi 5 giây**. |
+|            |                                       |
+| ---------- | ------------------------------------- |
+| Marina Gem | Phục hồi 1% SP tối đa sau mỗi 5 giây. |
 
-### **Tấn công Ma Thuật & Hiệu ứng SP**
+## Tấn công phép thuật và hiệu ứng SP
 
-| Quái vật           | Hiệu ứng                                                                                          |
-| ------------------ | ------------------------------------------------------------------------------------------------- |
-| Ngọc Anolian       | **Rút 3 SP từ mục tiêu với mỗi đòn tấn công cơ bản**.                                             |
-| Ngọc Drainliar     | **Khôi phục 2 SP khi tấn công**.                                                                  |
-| Ngọc Ancient Mimic | **Khi tiêu diệt quái vật bằng bất kỳ đòn tấn công vật lý nào, khôi phục 10 SP. Giảm 100 Max HP**. |
+|                   |                                                                                            |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| Anolian Gem       | Hút 3 SP từ mục tiêu với mỗi đòn tấn công cơ bản.                                          |
+| Mummy Gem         | Phục hồi 7 HP khi tiêu diệt quái vật bằng đòn tấn công phép thuật.                         |
+| Drainliar Gem     | Phục hồi 2 SP khi tấn công.                                                                |
+| Ancient Mimic Gem | Khi đánh bại quái vật bằng bất kỳ đòn tấn công vật lý nào, phục hồi 10 SP. HP tối đa -100. |
 
-### **Hiệu ứng hỗn hợp**
+## Hiệu ứng hỗn hợp
 
-| Quái vật         | Hiệu ứng                              |
-| ---------------- | ------------------------------------- |
-| Ngọc Blue Acidus | **+180 Max SP. +2 INT. -100 Max HP**. |
+|                 |                                         |
+| --------------- | --------------------------------------- |
+| Blue Acidus Gem | +180 SP tối đa. +2 INT. -100 HP tối đa. |
+{% endtab %}
 
-### Thuộc tính
+{% tab title="DEX" %}
+## Thuộc tính
 
-| Quái vật             | Hiệu ứng                                       |
-| -------------------- | ---------------------------------------------- |
-| Ngọc Mineros         | **+2 Dexterity**.                              |
-| Ngọc Forest Guardian | **Nếu được sử dụng bởi Xạ Thủ: +4 Dexterity**. |
-| Đá Zerom             | **+1 Dexterity**.                              |
+|                     |                                                                          |
+| ------------------- | ------------------------------------------------------------------------ |
+| Mineros Gem         | +2 Khéo léo.                                                             |
+| Forest Guardian Gem | Nếu được sử dụng bởi Cung thủ: +4 Khéo léo.                              |
+| Rocker Gem          | +1 Khéo léo. Nếu được Bard hoặc Odalisques sử dụng, sẽ tăng +5 Khéo léo. |
+| Zerom Gem           | +1 Khéo léo.                                                             |
 
-### Thời gian niệm phép
+## Đúc
 
-| Quái vật   | Hiệu ứng                                                                         |
-| ---------- | -------------------------------------------------------------------------------- |
-| Đá Fen     | **Giảm 3% thời gian niệm phép**.                                                 |
-| Đá Bathory | **Giảm thời gian niệm phép biến đổi của tất cả kỹ năng xuống 300ms. -10% Mana**. |
+|             |                                                                  |
+| ----------- | ---------------------------------------------------------------- |
+| Fen Gem     | -3% Thời gian thi triển.                                         |
+| Bathory Gem | Giảm thời gian thi triển của tất cả kỹ năng đi 300ms. -10% Mana. |
 
-### **Hiệu ứng chống né tránh**
+## Hiệu ứng chống né tránh
 
-| Quái vật  | Hiệu ứng                                               |
-| --------- | ------------------------------------------------------ |
-| Đá Hornet | **Bỏ qua 5% khả năng né tránh hoàn hảo của mục tiêu**. |
+|            |                                                    |
+| ---------- | -------------------------------------------------- |
+| Hornet Gem | Bỏ qua 5% khả năng né tránh hoàn hảo của mục tiêu. |
 
-### **Thưởng Đánh & Độ Chính Xác**
+## Tiền thưởng trúng đích và độ chính xác
 
-\| Quái vật | Hiệu ứng | | ----------------------- | --------------------------------------- || Ngọc Tù Nhân Xương | **-7% Tốc Độ Di Chuyển. +5% Xác Suất Trúng**. | | Ngọc Tiêu Diệt Đất | **+2% Xác Suất Trúng**. | | Ngọc Coco | **+4% Xác Suất Trúng**. | | Ngọc Yao Jun | **+30 Trúng**. | | Ngọc Lính Thiếc | **+15 Trúng. +10 Trúng Hoàn Hảo**. | | Ngọc Elfkid | **+15 Trúng Hoàn Hảo. -15 Bạo Kích**. |
+|                         |                                              |
+| ----------------------- | -------------------------------------------- |
+| Prisoner Skeleton Gem   | -7% Tốc độ di chuyển. +5% Cơ hội trúng đích. |
+| Ground Exterminator Gem | +2% Cơ hội trúng đích.                       |
+| Coco Gem                | +4% Cơ hội trúng đích.                       |
+| Yao Jun Gem             | +30 Đòn đánh.                                |
+| Tin Soldier Gem         | +15 Trúng đích. +10 Đòn đánh hoàn hảo.       |
+| Elfkid Gem              | +15 Đòn đánh hoàn hảo. -15 Chí mạng.         |
+| Tin Soldier Gem         | +15 Trúng đích và +10 Đòn đánh hoàn hảo.     |
 
-### **Sát Thương Tầm Xa**
+## Sát thương tầm xa
 
-| Quái Vật              | Hiệu Ứng                                         |
-| --------------------- | ------------------------------------------------ |
-| Ngọc Cung Thủ Raydric | **+4% sát thương với các đòn tấn công tầm xa**.  |
-| Ngọc Cung Thủ Xương   | **+2% sát thương vật lý tầm xa**.                |
-| Ngọc Cung Thủ Goblin  | **+3% sát thương từ các đòn tấn công tầm xa**.   |
-| Ngọc Cung Thủ Kobold  | **+2% sát thương từ các đòn tấn công tầm xa**.   |
-| Ngọc Người Bắn Đá     | **Cung cấp +(Dexterity/10)% sát thương tầm xa**. |
+|                     |                                         |
+| ------------------- | --------------------------------------- |
+| Raydric Archer Gem  | +4% sát thương với đòn tấn công tầm xa. |
+| Archer Skeleton Gem | +2% sát thương vật lý tầm xa.           |
+| Goblin Archer Gem   | +3% sát thương từ đòn tấn công tầm xa.  |
+| Kobold Archer Gem   | +2% sát thương từ đòn tấn công tầm xa.  |
+| Stone Shooter Gem   | Tăng +(Khéo léo/10)% sát thương tầm xa. |
+{% endtab %}
 
-### **Thuộc Tính**| Quái vật | Hiệu ứng |
+{% tab title="LUK" %}
+## Thuộc tính
 
-\| ------------------ | ------------------------------------------------- | | Ngọc Mastering | **Nếu Luck lớn hơn 40, tăng +3 Luck**. | | Ngọc Raggler | **+1 Luck**. | | Ngọc Holden | **+2 Luck**. | | Ngọc Poison Spore | **Miễn dịch với không khí độc. +1 Luck**. | | Ngọc Plankton | **-2 Sức mạnh / +2 Luck**. | | Ngọc Lunatic | **+1 Luck**. | | Ngọc Condor | **+1 Luck**. |
+|                  |                                               |
+| ---------------- | --------------------------------------------- |
+| Mastering Gem    | Nếu Luck lớn hơn 40, nó sẽ tăng Luck thêm +3. |
+| Raggler Gem      | **+1 Luck**.                                  |
+| Holden Gem       | **+2 Luck**.                                  |
+| Poison Spore Gem | Miễn nhiễm với không khí độc hại. +1 May mắn. |
+| Plankton Gem     | -2 Sức mạnh / +2 May mắn.                     |
+| Lunatic Gem      | **+1 Luck**.                                  |
+| Condor Gem       | **+1 Luck**.                                  |
 
-### Critical
+## Phê bình
 
-| Quái vật             | Hiệu ứng                                                   |
-| -------------------- | ---------------------------------------------------------- |
-| Ngọc Punk            | **+2 Critical**.                                           |
-| Ngọc Orc Archer      | **+5 Critical khi sử dụng các đòn tấn công cơ bản từ xa**. |
-| Ngọc Goblin Hơi Nước | **Gây thêm 3% sát thương với các đòn tấn công chí mạng**.  |
-| Ngọc Sói Sa Mạc      | **+2% Chí mạng**.                                          |
+|                      |                                                     |
+| -------------------- | --------------------------------------------------- |
+| Punk Gem             | +2 Chí mạng.                                        |
+| Orc Archer Gem       | +5 Chí mạng khi sử dụng đòn tấn công cơ bản tầm xa. |
+| Soldier Skeleton Gem | +2 Tỷ lệ chí mạng.                                  |
+| Steam Goblin Gem     | Gây thêm 3% sát thương với Đòn tấn công chí mạng.   |
+| Desert Wolf Gem      | +2% chí mạng.                                       |
+{% endtab %}
 
+{% tab title="EXTRA" %}
 ### Sát Thương Nguyên Tố
 
 | Quái Vật           | Hiệu Ứng                                                             |
@@ -682,13 +451,48 @@ description: >-
 | Đá Ancient Willow  | **+4% Sát thương Vật lý & Phép thuật đối với thuộc tính Lửa**.       |
 | Đá Willow          | **+4% Sát thương Vật lý & Phép thuật đối với thuộc tính Đất**.       |
 
-### Kỹ Năng
+## Kỹ Năng
 
-\| Quái Vật | Hiệu ứng || --------------------- | ----------------------------------------------------------------------------------------- | | Ngọc Masquerade | **Giảm thời gian hồi chiêu của \[Stealth] xuống 1 giây**. | | Ngọc Serial Killer | **Khi thi triển \[Destroyer Blades], có 3% cơ hội tự động thi triển \[Fatal Blow]**. | | Ngọc Quve | **Tăng tỷ lệ thành công của \[Steal] lên 0.02%**. | | Ngọc Gấu Bông | **Giảm sát thương nhận được từ \[Destroyer Blades] xuống 10%**. | | Ngọc Aggressor | **Tăng sát thương của \[Magnus Exorcismus] lên 10%**. | | Ngọc Heater | **Giảm thời gian hồi chiêu của \[Fire Lance] xuống 0.2 giây**. | | Ngọc Wootan Shooter | **Giảm thời gian hồi chiêu của \[Thor’s Wrath] xuống 2 giây**. || Jirtas Gem | **+4% sát thương với \[Piercing Stab] và \[Melodic Arrow]**. | | Wanderer Gem | **Cho phép sử dụng \[Recover] ở cấp độ 7**. | | Wronged Gem | **+15% sát thương với \[Destroyer Blades]**. | | Carrot Gem | **Cho phép sử dụng \[Provoke] ở cấp độ 8**. | | Alice Gem | **+10% sát thương với \[Fatal Blow]**. | | Arenoso Gem | **Thêm 0.1% cơ hội tự động kích hoạt \[Arcane Protection] khi nhận sát thương vật lý**. | | Crocodile Gem | **+4% sát thương với \[Stone Column]**. | | Seal Gem | **Giảm 10% sát thương nhận được từ \[Water Balls]**. || Đá Hải Cẩu | **Giảm 7% sát thương nhận từ \[Bão Tuyết]**. | | Đá Thực Vật Ăn Thịt | **Cho phép sử dụng \[Cướp HP] ở cấp độ 3**. | | Đá Rừng | **Giảm 40% chi phí SP của \[Hồi Phục]**. | | Đá Scarlet Novus | **Có một cơ hội nhỏ gây \[Hỗn Loạn] lên mục tiêu khi thực hiện các đòn tấn công vật lý**. | | Đá Dokebi | **Giảm 5% sát thương nhận từ \[Ngọn Lửa]**. | | Đá Em Bé Hoang Dã | **Thêm 0.1% cơ hội gây Stun lên mục tiêu với mỗi đòn tấn công**. | | Đá Khói | **-50% HP tối đa. Cho phép người dùng nhìn thấy đối thủ vô hình**. | | Đá Kobold | **Giảm 5% sát thương nhận từ \[Bão Mũi Tên]**. || Ngọc Kobold | **Giảm 3% sát thương nhận từ \[Mưa Tên]**. | | Ngọc Grand Orc | **Cho phép sử dụng \[Chịu Đựng] ở cấp độ 1**. | | Ngọc Orc Lady | **Thêm 0.01% cơ hội gây chảy máu cho mục tiêu với bất kỳ đòn tấn công nào**. | | Ngọc Pasana | **+4% sát thương với \[Lưỡi Hủy Diệt]**. | | Ngọc Muka | **Giảm 5% sát thương nhận từ \[Ngọn Giáo Lửa]**. | | Ngọc Frilldora | **0.1% cơ hội tự động kích hoạt \[Lén Lút] cấp 10 khi bị tấn công**. | | Ngọc Horong | **Cho phép sử dụng \[Siêu Tân Tinh] ở cấp độ 1**. |
+| Masquerade Gem        | Giảm thời gian hồi chiêu của \[Tàng hình] đi 1 giây.                                 |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| Serial Killer Gem     | Khi thi triển \[Lưỡi kiếm hủy diệt], có 3% cơ hội tự động thi triển \[Đòn chí mạng]. |
+| Quve Gem              | Tăng tỷ lệ thành công của \[Trộm cắp] thêm 0,02%.                                    |
+| Teddy Bear Gem        | Giảm 10% sát thương nhận được từ \[Lưỡi kiếm hủy diệt].                              |
+| Aggressor Gem         | Tăng sát thương của \[Magnus Exorcismus] thêm 10%.                                   |
+| Heater Gem            | Giảm thời gian hồi chiêu của \[Fire Lance] đi 0,2 giây.                              |
+| Wootan Shooter Gem    | Giảm thời gian hồi chiêu của \[Thor’s Wrath] đi 2 giây.                              |
+| Jirtas Gem            | **+4% damage with \[Piercing Stab] and \[Melodic Arrow]**.                           |
+| Wanderer Gem          | +4% sát thương với \[Đâm xuyên] và \[Mũi tên giai điệu].                             |
+| Wronged Gem           | +15% sát thương với \[Lưỡi kiếm hủy diệt].                                           |
+| Carrot Gem            | Cho phép sử dụng \[Khiêu khích] ở cấp độ 8.                                          |
+| Alice Gem             | +10% sát thương với \[Đòn chí mạng].                                                 |
+| Arenoso Gem           | Thêm 0,1% cơ hội tự động thi triển \[Bảo vệ bí ẩn] khi nhận đòn tấn công vật lý.     |
+| Crocodile Gem         | +4% sát thương với \[Cột đá].                                                        |
+| Seal Gem              | Giảm 10% sát thương nhận được từ \[Bóng nước].                                       |
+| Otter Gem             | Giảm 7% sát thương nhận được từ \[Bão tuyết].                                        |
+| Carnivorous Plant Gem | Cho phép sử dụng \[Hút HP] ở cấp độ 3.                                               |
+| Grove Gem             | Giảm 40% chi phí SP của \[Phục hồi].                                                 |
+| Scarlet Novus Gem     | Có cơ hội nhỏ gây \[Hỗn loạn] lên mục tiêu khi tấn công vật lý.                      |
+| Dokebi Gem            | Giảm 5% sát thương nhận được từ \[Fire Lance].                                       |
+| Wild Baby Gem         | Thêm 0,1% cơ hội gây choáng cho mục tiêu với mỗi đòn tấn công.                       |
+| Smokey Gem            | -50% HP tối đa. Cho phép người dùng nhìn thấy đối thủ vô hình.                       |
+| Kobold Gem            | Giảm 5% sát thương nhận được từ \[Bão mũi tên].                                      |
+| Kobold Gem            | Giảm 3% sát thương nhận được từ \[Bão mũi tên].                                      |
+| Grand Orc Gem         | Cho phép sử dụng \[Chịu đựng] ở cấp độ 1.                                            |
+| Orc Lady Gem          | Thêm 0,01% khả năng gây chảy máu cho mục tiêu với bất kỳ đòn tấn công nào.           |
+| Pasana Gem            | +4% sát thương với \[Lưỡi kiếm hủy diệt].                                            |
+| Muka Gem              | Giảm 5% sát thương nhận được từ \[Fire Lance].                                       |
+| Frilldora Gem         | 00,1% cơ hội tự động thi triển \[Tàng hình] cấp 10 khi bị tấn công.                  |
+| Horong Gem            | Cho phép sử dụng \[Siêu tân tinh] ở cấp độ 1.                                        |
+| Christmas Cookie Gem  | -0,2 giây kể từ thời gian hồi chiêu của kỹ năng \[Frost Lance].                      |
 
-### **Sát Thương Dựa Trên Kích Thước**
+## Sát thương dựa trên kích thước
 
-\| Quái Vật | Hiệu Ứng || ----------------- | ---------------------------------------------------------------- | | Đá Lò Cổ | **+10% sát thương phép thuật đối với quái vật cỡ nhỏ**. | | Đá Dryad | **+5% sát thương phép thuật đối với quái vật cỡ nhỏ**. | | Đá Flora | **+2% sát thương vật lý đối với quái vật cỡ nhỏ**. | | Đá Golden Acidus | **+7% sát thương vật lý & phép thuật đối với đối thủ cỡ lớn**. |
+| Old Furnace Gem   | +10% sát thương phép lên quái vật cỡ nhỏ.                          |
+| ----------------- | ------------------------------------------------------------------ |
+| Dryad Gem         | +5% sát thương phép lên quái vật cỡ nhỏ.                           |
+| Flora Gem         | +2% sát thương vật lý lên quái vật cỡ nhỏ.                         |
+| Golden Acidus Gem | +7% sát thương vật lý và phép thuật lên đối thủ có kích thước lớn. |
 
 ### Các Loài & Hiệu Ứng Nguyên Tố
 
@@ -742,8 +546,99 @@ description: >-
 | ---------------- | --------------------------------- |
 | Ngọc Khalitzburg | **+1 cho tất cả các thuộc tính**. |
 
-### **Các Thuộc Tính Kết Hợp**| Quái vật | Hiệu ứng |
+## **Mixed Attributes** <a href="#mixed-attributes" id="mixed-attributes"></a>
 
-\| ----------------------- | ------------------------------------------------------------------------------- | | Ngọc Thầy Tu Bị Nguyền | **+2 Trí Tuệ, +1 Khéo Léo**. | | Ngọc Peco Peco | **+2 Linh Hoạt. Nếu được sử dụng bởi Kiếm Sĩ và các tiến hóa của họ, sẽ tăng +3 Sinh Lực**. |
+|                   |                                                                                               |
+| ----------------- | --------------------------------------------------------------------------------------------- |
+| Cursed Priest Gem | +2 Trí tuệ, +1 Khéo léo.                                                                      |
+| Peco Peco Gem     | +2 Nhanh nhẹn. Nếu được sử dụng bởi Kiếm sĩ và các dạng tiến hóa của họ, sẽ tăng +3 Sức sống. |
+{% endtab %}
+
+{% tab title="BOSS" %}
+## MVPS <a href="#mvps" id="mvps"></a>
+
+
+
+| <p><br></p>                                                                                                                                                                                 |                      |                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-19c27afc7169d68de03b2ee44d9f0ce0e1382476%2F1059%20\(1\).png?alt=media)​ | Queen Bee Gem        | +35 Sát thương vật lý và phép thuật lên tộc côn trùng. Cho phép sử dụng \[Dịch chuyển giải cứu] ở cấp độ 1.                                                |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-6a3b4f7742838f677c9bfe1f9894dc301e0fdbd3%2F1511%20\(1\).png?alt=media)​ | Amon Ra Gem          | Phát hiện kẻ địch sẽ tự động niệm \[Giảm nhanh nhẹn] cấp độ 10. Có thời gian hồi chiêu là 10 phút trước khi có thể tác động lên cùng một mục tiêu lần nữa. |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-9b9aeb6ffd17c6148233650989f0a735c5ad1b7b%2F1039%20\(1\).png?alt=media)​ | Baphomet Gem         | +35% Sát thương vật lý và phép thuật lên Demon Race. Nếu sử dụng cùng với Baphomet Jr. Gem: ATK & MATK +15, Chí mạng -5.                                   |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-9596f4cc5026168e82c5dfaa85b3908ad1a804b3%2F1086%20\(1\).png?alt=media)​ | Golden Thief Bug Gem | Có 90% cơ hội bỏ qua tác dụng của \[Thẻ côn trùng trộm vàng] lên mục tiêu.                                                                                 |
+
+| <p><br>​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-f1fc22bb8c601c310ecf8954c8d83002cbf881c3%2F1046%20(1).png?alt=media" alt="">​</p> | Doppelganger Gem | Kích hoạt Cấp độ chặn 3. Có 5% cơ hội phản lại bất kỳ kỹ năng đơn mục tiêu nào về người thi triển.                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-85cf157e0f3c39ea7457097d175f01dc66e3bf4e%2F1389%20\(1\).png?alt=media)​                        | Dracula Gem      | -20% HP tối đa và +90% sát thương Nguyên tố Lửa phải chịu. Đổi chủng tộc của bạn thành Undead.                                           |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-34559d5f75378d2149de9aa7f678948a006cf782%2F1112%20\(1\).png?alt=media)​                        | Drake Gem        | Kích hoạt Bộ khuếch đại công suất (Gỡ bỏ viên ngọc sẽ vô hiệu hóa hiệu ứng này). Tăng Sát thương phép lên thuộc tính Bóng tối thêm +15%. |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-e62eb9b9be8b548b33b9d987fc95c214eb9a12b3%2F1115%20\(1\).png?alt=media)​                        | Eddga Gem        | +70% sát thương lên mục tiêu bị choáng.                                                                                                  |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-f0317fa141092c9726a43058a19231b92c6b2769%2F1157%20\(1\).png?alt=media)​                        | Pharaoh Gem      | Hiệu ứng tăng cường tích cực vẫn tồn tại sau khi chết. +7% Sát thương phép trên tất cả thuộc tính.                                       |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-7f10c88b97b0e895e31e1a0af0cc4e0af64e6f62%2F1150%20\(1\).png?alt=media)​                        | Lunar Flower Gem | Quái vật không thể tấn công trực tiếp vào bạn nhưng sẽ trả đũa.                                                                          |
+|                                                                                                                                                                                                                    |                  |                                                                                                                                          |
+
+#### &#x20;<a href="#mini-boss" id="mini-boss"></a>
+
+| <p><br>​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-2e52086deeee6949029b0755b12b7c747371ecd7%2F1159%20(1).png?alt=media" alt="">​</p> | Freeoni Gem           | +50 Đòn đánh hoàn hảo.                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-74ae66ed75c5b82fe1bf980712fdbd2fca373f55%2F1312%20\(1\).png?alt=media)​                        | General Tartaruga Gem | Giảm 30% sát thương chí mạng phải nhận. Thêm 7% cơ hội né tránh đòn tấn công chí mạng sắp tới.                                          |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-cb041887a7c15a86f8afc4d482fbfaff4f065f6c%2F2202%20\(1\).png?alt=media)​                        | Kraken Gem            | +12% HP tối đa. Thay đổi kích thước của bạn thành Lớn.                                                                                  |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-2bcc515775ddeb6684a05d1f7a3cb6470101814e%2F1688%20\(1\).png?alt=media)​                        | Lady Tanee Gem        | +5 Vitality. Các vật phẩm hồi HP cũng phục hồi SP với số lượng bằng nhau. Nếu không trang bị, SP giảm dần sẽ được đặt thành 1 mỗi giây. |
+
+
+
+| <p><br>​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-9eac8443510623d80732d95c66b6888e965accae%2F1147%20(1).png?alt=media" alt="">​</p> | Maya Gem          | Giảm 10% sát thương phép của một mục tiêu đơn lẻ phải chịu.                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-086353de3c2fe2a34416ab49e368bfb643ac1264%2F1087.png?alt=media)​                                | Orc Hero Gem      | Nếu Sức mạnh của bạn cao hơn mục tiêu, gây +15% Sát thương.                                                                                          |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-2a1f3ae72cc09afcf69af9a73ff8cc9548ca871c%2F1038%20\(1\).png?alt=media)​                        | Osiris Gem        | +3 cho Tất cả chỉ số. Tăng 10% sát thương gây ra cho người chơi có huy hiệu khác với bạn. Gây thêm sát thương cho Người bảo vệ có huy hiệu Dũng khí. |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-daab55067ea6208721e6e4ccea1b7b1a44a4f73e%2F2194%20\(1\).png?alt=media)​                        | Giant Octopus Gem | Tăng sát thương vật lý và phép thuật thêm 35% khi đứng trong ô Nước. (Có tác dụng với \[Deluge]).                                                    |
+
+\
+
+
+| <p><br>​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-3c3843338bea7055e6338c863d9f2a3a0e52519f%2F1623%20(1).png?alt=media" alt="">​</p> | RSX 0806 Gem | +10% HP tối đa. Nếu được sử dụng bởi Người bảo vệ có huy hiệu Hy vọng: Trang bị không thể bị phá vỡ hoặc loại bỏ bằng kỹ năng khi nhắm vào kẻ địch. |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+|                                                                                                                                                                                             |                      |                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-8fc152ab4a2684ea933ebffa29b52bec9f1b7537%2F1373%20\(1\).png?alt=media)​ | Lord of the Dead Gem | Gây +30% sát thương lên chủng tộc Undead. Có 5% cơ hội bỏ qua hoàn toàn sát thương nhận được khi HP dưới 15%.                    |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-23d6188bdbf9f7a057a37f3f2ea03165c2e1257c%2F1190.png?alt=media)​         | Orc Lord Gem         | +3 Sức mạnh. Nếu được sử dụng bởi Người bảo vệ có huy hiệu Tình bạn: Miễn nhiễm với Đóng băng.                                   |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-89819945a9f9eb067ddd6f9e8764018a12868d40%2F1583%20\(1\).png?alt=media)​ | Tao Gunka Gem        | +50 DEF và +25 MDEF. Nếu người dùng cũng có thẻ Tao Gunka, sát thương nhận được sẽ tăng gấp đôi.                                 |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-4813639523846869b2cada326a36c2191db87df6%2F1916.png?alt=media)​         | Morroc Emperor Gem   | Không có thông tin nào về loại đá quý này. Nó cực kỳ hiếm.                                                                       |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-776264a895fd186a98d2869003d8407c85cc5d48%2F10309.png?alt=media)​        | Atroce Gem           | +35% Sát thương vật lý và phép thuật lên chủng tộc Brute. Phần thưởng bộ với Wolf Gem: ATK và MATK +15, AGI -5.                  |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-fe024de59083fc425e343c0810fe701039e0fead%2F10299.png?alt=media)​        | Detardeurus Gem      | +35% Sát thương vật lý và phép thuật lên tộc Rồng. Bộ tiền thưởng với Đá quý Hydrolancer: ATK và MATK +15, STR -5.               |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-bd36f2044d32b32f76c369db779adec72b7ce7c1%2F10300.png?alt=media)​        | Vesper Gem           | +35% Sát thương vật lý và phép thuật lên chủng tộc Formless. Phần thưởng bộ với Apocalypse Gem: ATK và MATK +15, HP tối đa -500. |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-ff34593331653d0c783c219df1b34607c911bfc3%2F10301.png?alt=media)​        | Motaro Gem           | HP tối đa +3000, SP tối đa -15%.                                                                                                 |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-1134b440562950ee783fe033afec66479f82597f%2F10302.png?alt=media)​        | Ainz Ooal Gown Gem   | Bỏ qua 70% DEF của quái vật và người chơi thông thường.                                                                          |
+| <div><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>                                                                                        | Hatii Gem            | +10% cơ hội tự động thi triển \[Storm Gust] cấp độ 5 (hoặc cấp độ hiện tại nếu học được kỹ năng) khi nhận đòn tấn công vật lý.   |
+| <div><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>                                                                                    | Stormy Knight Gem    | Giảm 100% sát thương phải nhận của nguyên tố Gió. +50% sát thương phải nhận của nguyên tố Đất.                                   |
+
+#### MINI-BOSS <a href="#mini-boss" id="mini-boss"></a>
+
+|                                                                                                                                                                                             |                     |                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-5460d831316a271fc309b9dbc6f0d0efc9992978%2F1091%20\(1\).png?alt=media)​ | Dragonfly Gem       | Perfect Dodge +10.                                                                                                               |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-bbdd35765b153676aaef92b9bc9ee27fb368fdd5%2F1092%20\(1\).png?alt=media)​ | Wandering Wolf Gem  | STR +10.                                                                                                                         |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-c403250b1a5338ff5b7eabdd1fc1ab75913331ba%2F1093%20\(1\).png?alt=media)​ | Eclipse Gem         | VIT +10.                                                                                                                         |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-181a232d9cafc90bb9483a08426922a633fa7a3b%2F1090.png?alt=media)​         | Mastering Gem       | LUK +3. Increases drop rate by +6%.                                                                                              |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-13b9c98ac36b35f407b6076b502959439da3600d%2F1096%20\(1\).png?alt=media)​ | Angeling Gem        | Unlocks Resurrection Lv.1. Increases Physical & Magical Damage against Holy property enemies by 10%.                             |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-a089f1eb9f4c3aeb575ef6831ad3026bc611b50c%2F1120%20\(1\).png?alt=media)​ | Ghostring Gem       | Increases Physical Damage against Shadow property enemies by +15%.                                                               |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-ee38a727c282896b71aea587a288b9c00a96c700%2F1203.png?alt=media)​         | Mysteltainn Gem     | Increases Physical Damage against Small-sized enemies by +12%..                                                                  |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-51c0ac7f7b2f77d8e1ec279e056f57d157e38c42%2F1204%20\(1\).png?alt=media)​ | Tirfing Gem         | Increases Physical Damage against Medium-sized enemies by +12%.                                                                  |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-a8b2cbcc65bb3fe05c82904e0c7988a6a2d0670e%2F1205%20\(1\).png?alt=media)​ | Executor Gem        | Increases Physical Damage against Large-sized enemies by +12%.                                                                   |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-7a55dd81e978b6b301777c926dce1c3627123f65%2F1259%20\(1\).png?alt=media)​ | Griffon Gem         | When performing physical attacks, 5% chance to auto-cast \[Tyr's Impact] Lv. 5.                                                  |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-57ba0e87ef0fc4aa9f0871c8e27cb10e53e2b4cc%2F1262%20\(1\).png?alt=media)​ | Mutant Dragon Gem   | ATK +40.                                                                                                                         |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-04f2139996f48a410d5de4ab014a6a0808493879%2F1289%20\(1\).png?alt=media)​ | Maya Macho Gem      | Aproximar-se de um alvo Approaching an enemy will automatically cast \[Stone Column] Lv. 1, revealing hidden or cloaked enemies. |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-c30a1b9ec5a4efc2e2219e63db2f93a2ce5035b7%2F1302%20\(1\).png?alt=media)​ | Dark Illusion Gem   | Variable cast time -30%. Max HP/SP +10%.                                                                                         |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-f4e7cde4b66a563403dc1b65a62a72234dc3a580%2F1307%20\(1\).png?alt=media)​ | Nine-Tailed Cat Gem | INT +15                                                                                                                          |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-712928a3ae1d5fff2d707c30aa482d33945ae64f%2F1388%20\(1\).png?alt=media)​ | ArchAngeling Gem    | Recovers 500 HP every 5 seconds. Grants +5% Max HP.                                                                              |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-271b2d28e022c354cdec2a5657709a964c6d5b09%2F1582.png?alt=media)​         | Deviling Gem        | Resistance to all elements +10%.                                                                                                 |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-48c78f095c22d09700e55804167d406a25a428e7%2F1089.png?alt=media)​         | Sapo Cururu Gem     | Perfect Dodge +10.                                                                                                               |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-64de129e8313f01a4d20b8e91e6b481397917bdf%2F10297.png?alt=media)​        | Hydrolancer Gem     | Magic damage of Wind and Earth +8%. -4% damage received from Wind and Earth.                                                     |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-c70248303bbccae314c8b4c45b49a9887cb79a83%2F10298.png?alt=media)​        | Momon Gem           | Critical Damage +10%. Accuracy -150.                                                                                             |
+{% endtab %}
+{% endtabs %}
+
+###
+
+
 
 ### MVPS## MINI-BOSS
