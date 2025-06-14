@@ -467,7 +467,7 @@ description: >-
 | Carrot Gem            | **Enables use of \[Provoke] at level 8**.                                                 |
 | Alice Gem             | **+10% damage with \[Fatal Blow]**.                                                       |
 | Arenoso Gem           | **Adds a 0.1% chance to auto-cast \[Arcane Protection] when receiving physical attacks**. |
-| Crocodile Gem         | **+4% damage with \[Stone Column]**.                                                      |
+| Aligator Gem          | **+4% damage with \[Earth Spike]**.                                                       |
 | Seal Gem              | **Reduces damage received from \[Water Balls] by 10%**.                                   |
 | Otter Gem             | **Reduces damage received from \[Blizzard] by 7%**.                                       |
 | Carnivorous Plant Gem | **Enables use of \[Steal HP] at level 3**.                                                |
