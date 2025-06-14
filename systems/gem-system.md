@@ -455,15 +455,15 @@ description: >-
 | Monster               | Effect                                                                                    |
 | --------------------- | ----------------------------------------------------------------------------------------- |
 | Masquerade Gem        | **Reduces cooldown time of \[Stealth] by 1 second**.                                      |
-| Serial Killer Gem     | **When casting \[Destroyer Blades], has a 3% chance to auto-cast \[Fatal Blow]**.         |
+| Serial Killer Gem     | **When casting \[Sonic Blow], has a 3% chance to auto-cast \[Fatal Blow]**.               |
 | Quve Gem              | **Increases success rate of \[Steal] by 0.02%**.                                          |
-| Teddy Bear Gem        | **Reduces damage received from \[Destroyer Blades] by 10%**.                              |
+| Teddy Bear Gem        | **Reduces damage received from \[Sonic Blow] by 10%**.                                    |
 | Aggressor Gem         | **Increases damage of \[Magnus Exorcismus] by 10%**.                                      |
 | Heater Gem            | **Reduces cooldown of \[Fire Lance] by 0.2 seconds**.                                     |
 | Wootan Shooter Gem    | **Reduces cooldown of \[Thor’s Wrath] by 2 seconds**.                                     |
 | Jirtas Gem            | **+4% damage with \[Piercing Stab] and \[Melodic Arrow]**.                                |
 | Wanderer Gem          | **Enables use of \[Recover] at level 7**.                                                 |
-| Wronged Gem           | **+15% damage with \[Destroyer Blades]**.                                                 |
+| Injustice Gem         | **+15% damage with \[Sonic Blow]**.                                                       |
 | Carrot Gem            | **Enables use of \[Provoke] at level 8**.                                                 |
 | Alice Gem             | **+10% damage with \[Fatal Blow]**.                                                       |
 | Arenoso Gem           | **Adds a 0.1% chance to auto-cast \[Arcane Protection] when receiving physical attacks**. |
@@ -480,7 +480,7 @@ description: >-
 | Kobold Gem            | **Reduces damage received from \[Arrow Storm] by 3%**.                                    |
 | Grand Orc Gem         | **Enables use of \[Endure] at level 1**.                                                  |
 | Orc Lady Gem          | **Adds a 0.01% chance to inflict Bleeding on the target with any attack**.                |
-| Pasana Gem            | **+4% damage with \[Destroyer Blades]**.                                                  |
+| Pasana Gem            | **+4% damage with \[Sonic Blow]**.                                                        |
 | Muka Gem              | **Reduces damage received from \[Fire Lance] by 5%**.                                     |
 | Frilldora Gem         | 0**0.1% chance to auto-cast \[Stealth] level 10 when hit**.                               |
 | Horong Gem            | **Enables use of \[Supernova] at level 1**.                                               |
