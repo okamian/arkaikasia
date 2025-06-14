@@ -460,7 +460,7 @@ description: >-
 | Teddy Bear Gem        | **Reduces damage received from \[Sonic Blow] by 10%**.                                    |
 | Aggressor Gem         | **Increases damage of \[Magnus Exorcismus] by 10%**.                                      |
 | Heater Gem            | **Reduces cooldown of \[Fire Lance] by 0.2 seconds**.                                     |
-| Wootan Shooter Gem    | **Reduces cooldown of \[Thor’s Wrath] by 2 seconds**.                                     |
+| Wootan Shooter Gem    | **Reduces cooldown of \[Lord of Vermilion] by 2 seconds**.                                |
 | Jirtas Gem            | **+4% damage with \[Piercing Stab] and \[Melodic Arrow]**.                                |
 | Wanderer Gem          | **Enables use of \[Recover] at level 7**.                                                 |
 | Injustice Gem         | **+15% damage with \[Sonic Blow]**.                                                       |
@@ -476,8 +476,8 @@ description: >-
 | Dokebi Gem            | **Reduces damage received from \[Fire Lance] by 5%**.                                     |
 | Wild Baby Gem         | **Adds 0.1% chance to inflict Stun on the target with each attack**.                      |
 | Smokey Gem            | **-50% Max HP. Allows the user to see invisible opponents**.                              |
-| Kobold Gem            | **Reduces damage received from \[Arrow Storm] by 5%**.                                    |
-| Kobold Gem            | **Reduces damage received from \[Arrow Storm] by 3%**.                                    |
+| Kobold Gem            | **Reduces damage received from \[Double Strafe] by 5%**.                                  |
+| Kobold Gem            | **Reduces damage received from \[Double Strafe] by 3%**.                                  |
 | Grand Orc Gem         | **Enables use of \[Endure] at level 1**.                                                  |
 | Orc Lady Gem          | **Adds a 0.01% chance to inflict Bleeding on the target with any attack**.                |
 | Pasana Gem            | **+4% damage with \[Sonic Blow]**.                                                        |
