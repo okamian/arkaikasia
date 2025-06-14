@@ -164,16 +164,16 @@ description: >-
 |                   |                                                         |
 | ----------------- | ------------------------------------------------------- |
 | Marine Sphere Gem | Nếu cấp độ cơ bản là 60 hoặc cao hơn, tăng +3 Sức sống. |
-| Battering Gem     | Defense based on **Vitality +6**.                       |
-| Lava Golem Gem    | **+5 Vitality**.                                        |
-| Evil Druid Gem    | +**+4% Max HP**.                                        |
-| Nine-Tails Gem    | Gains **+1 Vitality per 10 levels**.                    |
-| Requiem Gem       | **+1 Vitality**.                                        |
-| Picky Gem         | **+1 Vitality**.                                        |
-| Piere Gem         | **+3 Vitality**.                                        |
-| Poring Gem        | **+1 Vitality**.                                        |
+| Battering Gem     | Phòng thủ dựa trên Sức sống +6.                         |
+| Lava Golem Gem    | +5 Sức sống.                                            |
+| Evil Druid Gem    | ++4% HP tối đa.                                         |
+| Nine-Tails Gem    | Tăng +1 Sức sống sau mỗi 10 cấp.                        |
+| Requiem Gem       | +1 Sức sống.                                            |
+| Picky Gem         | +1 Sức sống.                                            |
+| Piere Gem         | +3 Sức sống.                                            |
+| Poring Gem        | +1 Sức sống.                                            |
 
-#### Life (HP Boosting Gems) <a href="#life-hp-boosting-gems" id="life-hp-boosting-gems"></a>
+## Sinh lực (Đá tăng HP)
 
 |                 |                                                    |
 | --------------- | -------------------------------------------------- |
