@@ -41,86 +41,274 @@ description: >-
     <figure><img src="../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2FLh7glDof6sLEP23Xp1qs%2F5555.webp" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
-{% tab title="First Tab" %}
-#### **Characteristics** <a href="#characteristics" id="characteristics"></a>
+{% tab title="Giới thiệu" %}
+## Tính năng
 
-* **The stronger the monster, the harder it is to obtain its gem.** The chance of obtaining a monster's gem can range from **0.01% to 100%**.
-* **Gems do not stack their effects.** For example, if you have a dagger with a **Poring Gem** and boots with another **Poring Gem**, the effect is **applied only once**.
-* **While equipped with a monster gem**, if you engage in combat with that same monster, you receive **-10% damage taken and +5% damage dealt** to it. Additionally, **you heal 1% of your HP/SP when defeating it**.
-* **Unlike Cards, Gems can be attached to any equipment** that has an **available gem slot**, regardless of type.
-* **Gems can be removed** using the skill **"Never Had Luck"**.
+* Quái vật càng mạnh thì càng khó để có được Monster Gem. Cơ hội để có được Monster Gem có thể dao động từ 0,01% đến 100%.
+* Gem không cộng dồn hiệu ứng của chúng. Ví dụ, nếu bạn có một con dao găm có Porous Gem và giày có Porous Gem khác, hiệu ứng sẽ chỉ được áp dụng một lần.
+* Khi trang bị Monster Gem, nếu bạn tham gia chiến đấu với cùng một quái vật, bạn sẽ nhận được -10% sát thương phải chịu và +5% sát thương gây ra cho quái vật đó. Ngoài ra, bạn sẽ hồi 1% HP/SP khi đánh bại quái vật đó.
+* Không giống như Thẻ, Gem có thể được gắn vào bất kỳ thiết bị nào có ô gem khả dụng, bất kể loại nào.
+* Gem có thể được loại bỏ bằng kỹ năng "Never Lucky".
 
-#### **Types of Gems** <a href="#types-of-gems" id="types-of-gems"></a>
+## Các loại đá quý
 
-* There are currently **3 types of Gems** on the server.
+* Hiện tại có 3 loại Đá quý trên máy chủ.
 
-|                                                                                                                                                                                              |                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-09f565e67435b854f24dae44b35fc029f89c3421%2FBase_MVP.png?alt=media)​      | MVP Gems are gold-colored.       |
-| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-5f6afe821e8c573e482319c7a1489dbccbab72a0%2FBase_miniboss.png?alt=media)​ | Mini-Boss Gems are blue-colored. |
-| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-5f99319ef4df081aec86d83c8b2fd3e644de8ccc%2FBase_comum.png?alt=media)​    | Common Gems are purple-colored.  |
+|                                                                                                                                                                                              |                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-09f565e67435b854f24dae44b35fc029f89c3421%2FBase_MVP.png?alt=media)​      | Đá quý MVP có <mark style="color:yellow;">**màu vàng.**</mark>                                          |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-5f6afe821e8c573e482319c7a1489dbccbab72a0%2FBase_miniboss.png?alt=media)​ | Đá quý Mini-Boss có màu <mark style="color:blue;">**xanh lam**</mark><mark style="color:blue;">.</mark> |
+| ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-5f99319ef4df081aec86d83c8b2fd3e644de8ccc%2FBase_comum.png?alt=media)​    | Đá quý thông thường có <mark style="color:purple;">**màu tím.**</mark>                                  |
 
-#### **Attaching a Gem** <a href="#attaching-a-gem" id="attaching-a-gem"></a>
+## Đính kèm một viên ngọc
 
-* **Left-click** on the gem in your inventory.
-* The following screen will appear.
+* Nhấp chuột trái vào viên ngọc trong kho đồ của bạn.
+* Màn hình sau sẽ xuất hiện.
 
-<figure><img src="../.gitbook/assets/image (582).png" alt=""><figcaption><p><mark style="color:red;"><strong>Right-Clicking to Inspect the Gem</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (582).png" alt=""><figcaption><p><mark style="color:red;">Nhấp chuột phải để kiểm tra viên ngọc</mark></p></figcaption></figure>
 
-**How to Attach a Gem**
+## Cách gắn đá quý
 
-1. **Click on an item**, then press the **"Add"** button.
-2. A **confirmation message** will appear in your chat.
-3. **Left-click on the item** to check the attached gem.
+1. Nhấp vào một mục, sau đó nhấn nút "Thêm".
+2. Một thông báo xác nhận sẽ xuất hiện trong cuộc trò chuyện của bạn.
+3. Nhấp chuột trái vào mục để kiểm tra viên ngọc đính kèm.
 
-<figure><img src="../.gitbook/assets/image (583).png" alt=""><figcaption><p><mark style="color:red;"><strong>Gem Linked to the Equipment</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (583).png" alt=""><figcaption><p>Đá quý liên kết với trang bị</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Second Tab" %}
-#### Atrributes <a href="#atrributes" id="atrributes"></a>
+{% tab title="STR" %}
+## Thuộc tính
 
-CommentShare feedback on the editor
+|                         |                                           |
+| ----------------------- | ----------------------------------------- |
+| Orc Skeleton Gem        | HP tối đa -500. SỨC MẠNH +5.              |
+| Orc Zombie Gem          | HP tối đa -700. SỨC MẠNH +5.              |
+| Rybio Gem               | Nếu người dùng có DEX 99 trở lên: STR +5. |
+| Flying Exterminator Gem | +SỨC MẠNH +2                              |
+| Orc Warrior Gem         | +SỨC MẠNH +2                              |
+| Minorous Gem            | +SỨC MẠNH +3                              |
+| Deniro Gem              | +SỨC MẠNH +2                              |
 
-|                         |                                                 |
-| ----------------------- | ----------------------------------------------- |
-| Orc Skeleton Gem        | Max HP -500. STR +5.                            |
-| Orc Zombie Gem          | Max HP -700. STR +5.                            |
-| Rybio Gem               | If the user has **99 or more DEX**: **STR +5**. |
-| Flying Exterminator Gem | +STR +2                                         |
-| Orc Warrior Gem         | STR +2                                          |
-| Minorous Gem            | STR +3                                          |
-| Deniro Gem              | SSTR +2                                         |
+## Đá Tấn công <a href="#attack-gems" id="attack-gems"></a>
 
-CommentShare feedback on the editor
+|               |                         |
+| ------------- | ----------------------- |
+| Crab Gem      | ATK +2.                 |
+| Porcellio Gem | ATK +10.                |
+| Skeleton Gem  | ATK +4.                 |
+| Matyr Gem     | +3 đòn tấn công cơ bản. |
 
-#### **Attack Gems** <a href="#attack-gems" id="attack-gems"></a>
+## **Close-Range Damage** <a href="#close-range-damage" id="close-range-damage"></a>
 
-CommentShare feedback on the editor
-
-|               |                  |
-| ------------- | ---------------- |
-| Crab Gem      | ATK +2.          |
-| Porcellio Gem | ATK +10.         |
-| Skeleton Gem  | ATK +4.          |
-| Matyr Gem     | +3 basic attack. |
-
-CommentShare feedback on the editor
-
-#### **Close-Range Damage** <a href="#close-range-damage" id="close-range-damage"></a>
-
-CommentShare feedback on the editor
-
-|              |                                                 |
-| ------------ | ----------------------------------------------- |
-| Dullahan Gem | Increases **close-range attack damage by +5%**. |
+|              |                                            |
+| ------------ | ------------------------------------------ |
+| Dullahan Gem | Tăng sát thương tấn công tầm gần thêm +5%. |
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="AGI" %}
+## Thuộc tính
+
+|               |         |
+| ------------- | ------- |
+| Laundress Gem | AGI +2. |
+| Kukre Gem     | AGI +1. |
+| Wild Rose Gem | AGI +2. |
+| Swordfish Gem | AGI +3. |
+
+## Tốc độ tấn công
+
+|                     |                                  |
+| ------------------- | -------------------------------- |
+| Worker Skeleton Gem | VidMax HP -500. +2% tốc độ đánh. |
+| Dark Nightmare Gem  | +2% tốc độ tấn công.             |
+| Chimera Gem         | +3 tốc độ tấn công.              |
+
+## Tốc độ di chuyển
+
+|            |                          |
+| ---------- | ------------------------ |
+| Rabbit Gem | **+10% movement speed**. |
+| Alarm Gem  | **+10% movement speed**. |
+| Clock Gem  | **+10% movement speed**. |
+| Harpy Gem  | **+5% movement speed**.  |
+| Breeze Gem | **+10% movement speed**. |
+| Drone Gem  | **+5% movement speed**.  |
+| Yoyo Gem   | **+10% movement speed**. |
+| Verit Gem  | **+3% movement speed**.  |
+| Wolf Gem   | **+5% movement speed**.  |
+
+## Hoàn hảo né tránh và né tránh
+
+|               |                                                     |
+| ------------- | --------------------------------------------------- |
+| Mist Gem      | Miễn nhiễm với độc tố bản đồ. Né tránh hoàn hảo +1. |
+| Argiope Gem   | Né tránh hoàn hảo +2%.                              |
+| Zenorc Gem    | Né tránh +3.                                        |
+| Anopheles Gem | Né tránh +2%                                        |
+| Banshee Gem   | Né tránh hoàn hảo +2.                               |
+| Whisper Gem   | Né tránh +5.                                        |
+| Dust Gem      | Né tránh +2%.                                       |
+| Orc Baby Gem  | Né tránh +4.                                        |
+| Jack Gem      | Né tránh +1.                                        |
+| Hode Gem      | Né tránh +4.                                        |
+| Thief Bug Gem | Né tránh +2.                                        |
+| Chôco Gem     | Né tránh hoàn hảo +5. CHÍNH XÁC +5.                 |
+
+\
 
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="VIT" %}
+## Thuộc tính
 
+|                   |                                                         |
+| ----------------- | ------------------------------------------------------- |
+| Marine Sphere Gem | Nếu cấp độ cơ bản là 60 hoặc cao hơn, tăng +3 Sức sống. |
+| Battering Gem     | Defense based on **Vitality +6**.                       |
+| Lava Golem Gem    | **+5 Vitality**.                                        |
+| Evil Druid Gem    | +**+4% Max HP**.                                        |
+| Nine-Tails Gem    | Gains **+1 Vitality per 10 levels**.                    |
+| Requiem Gem       | **+1 Vitality**.                                        |
+| Picky Gem         | **+1 Vitality**.                                        |
+| Piere Gem         | **+3 Vitality**.                                        |
+| Poring Gem        | **+1 Vitality**.                                        |
+
+#### Life (HP Boosting Gems) <a href="#life-hp-boosting-gems" id="life-hp-boosting-gems"></a>
+
+|                 |                                                    |
+| --------------- | -------------------------------------------------- |
+| Apocalypse Gem  | **+1000 Max HP**.                                  |
+| Mars Gem        | **+470 Max HP**.                                   |
+| Soldier Gem     | Stops **natural HP regeneration**. **+3% Max HP**. |
+| Martin Gem      | **+200 Max HP**.                                   |
+| Majoruros Gem   | **+700 Max HP**.                                   |
+| Fabre Gem       | **+10 Max HP**.                                    |
+| Ambernite Gem   | **-30% movement speed**, **+5% Max HP**.           |
+| Marionette Gem  | **-5 Agility**, **+300 Max HP**.                   |
+| Ant Egg Gem     | **+50 Max HP**.                                    |
+| Green Ferus Gem | **+380 Max HP, +2 Vitality, -100 Max SP**.         |
+
+#### **HP Recovery** <a href="#hp-recovery" id="hp-recovery"></a>
+
+|                     |                                                                                                     |
+| ------------------- | --------------------------------------------------------------------------------------------------- |
+| Prisoner Zombie Gem | Recovers **300 HP every 5 seconds**. Unequipping an item with this gem **reduces user HP by 1000**. |
+| Nereid Gem          | +10% natural HP recovery.                                                                           |
+| Marin Gem           | +10% natural HP recovery.                                                                           |
+
+#### HP Recovery by Attacks <a href="#hp-recovery-by-attacks" id="hp-recovery-by-attacks"></a>
+
+|             |                                                                          |
+| ----------- | ------------------------------------------------------------------------ |
+| Obeaune Gem | Recovers **50 HP** when landing basic attacks on **fish-type monsters**. |
+| Strouf Gem  | Recovers **50 SP** when landing basic attacks on **fish-type monsters**. |
+
+#### **Physical Defense** <a href="#physical-defense" id="physical-defense"></a>
+
+|                |                                    |
+| -------------- | ---------------------------------- |
+| Encouraged Gem | **+3% Vital Defense**.             |
+| Raydric Gem    | **+4% Physical Defense**.          |
+| Cornutus Gem   | **DEF +2**.                        |
+| Mineral Gem    | **+7% Defense based on Vitality**. |
+| Munak Gem      | **DEF +3**.                        |
+| Golem Gem      | **DEF +6**.                        |
+| Andre Gem      | **DEF +2**.                        |
+| Skeleton Gem   | **Reduces DEF by 2%**.             |
+
+#### Damage Reduction (Physical & Magical) <a href="#damage-reduction-physical-and-magical" id="damage-reduction-physical-and-magical"></a>
+
+|                   |                                                                         |
+| ----------------- | ----------------------------------------------------------------------- |
+| Archdam Gem       | RedReduces **physical damage received by 3%**.                          |
+| Cursed Frame Gem  | **+5% defense against magical attacks**.                                |
+| Owl Baron Gem     | Reduces **magical damage received by 3%**.                              |
+| Hornet Beetle Gem | **+3% resistance to ranged attacks**.                                   |
+| Zombie Gem        | Stops **natural HP recovery**. **Reduces melee damage taken by 2%**.    |
+| Ghoul Gem         | IStops **natural SP recovery**. **Reduces melee damage taken by 2%**.   |
+| Mechatree Gem     | **Reduces damage received from large monsters by 7%**. **+170 Max HP**. |
+
+#### **Magical Defense** <a href="#magical-defense" id="magical-defense"></a>
+
+|                                                                            |                          |
+| -------------------------------------------------------------------------- | ------------------------ |
+| Obsidian Gem                                                               | **+7% magical defense**. |
+| ​[G](https://arkaikonline.com/database/items?search=9954)Thief Bug Egg Gem | **MDEF +4**.             |
+
+### Elemental Resistance and Effects <a href="#elemental-resistance-and-effects" id="elemental-resistance-and-effects"></a>
+
+|                     |                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------- |
+| Freezer Gem         | **+5% resistance to freezing**.                                                     |
+| Gaze Perceval Gem   | **Grants 4% resistance to Silence**.                                                |
+| Tower Keeper Gem    | **5% resistance to freezing**.                                                      |
+| Lava Labyrinth Gem  | **20% resistance to burning**.                                                      |
+| Diabolic Gem        | **-5% damage received from the Shadow element**.                                    |
+| Boom Gem            | -**5% damage received from the Fire element**.                                      |
+| Thara Frog Gem      | **5% poison damage reduction**.                                                     |
+| Stalactic Golem Gem | **+7% resistance to Stun**.                                                         |
+| Caramelo Gem        | **+3% resistance to physical damage from the Earth element**.                       |
+| Rockoso Gem         | **+10% resistance to Sleep**.                                                       |
+| Marduk Gem          | +**4% resistance to Silence**.                                                      |
+| Tormented Soul Gem  | **+3% resistance to Curse**.                                                        |
+| Scorpion Gem        | **+2% resistance to Poison**.                                                       |
+| Anaconda Gem        | **+2% resistance to Poison**.                                                       |
+| Rattlesnake Gem     | **+2% resistance to Poison**.                                                       |
+| Jibóia Gem          | **+2% resistance to Poison element damage**.                                        |
+| Spore Gem           | **+1% resistance to Poison element damage**.                                        |
+| Leib Olmai Gem      | **+20% resistance to \[Stun]**.                                                     |
+| Green Maiden Gem    | **+1% Critical Resistance**. **+1% per equipment refinement level (Max +10)**.      |
+| Mao Guai Gem        | **+20% resistance to Ghost property. -30 Flee**.                                    |
+| Zhu Po Long Gem     | **+3% resistance to all elements**.                                                 |
+| Mi Gao Gem          | **-5% damage taken from ranged (physical/magical) attacks during War of Emperium**. |
+| Giant Drone Gem     | **-5% damage received from Wind**.                                                  |
+| Sasquatch Gem       | **-5% Water element damage received.**                                              |
+
+#### **Healing Bonus** <a href="#healing-bonus" id="healing-bonus"></a>
+
+|                    |                                                                                          |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| Worm Tail Gem      | **Increases healing received from active skills by 7%**.                                 |
+| Pingu Gem          | **Increases healing effectiveness of all active skills on you by 10%**. **-5 Vitality**. |
+| Bigfoot Gem        | **Increases HP healing effectiveness of Honey item by 300%**.                            |
+| Steel Chonchon Gem | A**Increases effectiveness of all heals by 1%**.                                         |
+| Peco Peco Egg Gem  | **Increases healing effectiveness from skills by 2%**.                                   |
+| Thief Bug Egg Gem  | **Increases healing effectiveness from skills by 1%**.                                   |
+| Cramp Gem          | A**Increases the efficiency of healing items by 5%**.                                    |
+
+#### **Defense and Equipment Effects** <a href="#defense-and-equipment-effects" id="defense-and-equipment-effects"></a>
+
+|                      |                                                                                                                |
+| -------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Wootan Fighter Gem   | **Reflects 1% of ranged physical damage received**.                                                            |
+| Leaf Cat Gem         | **Reduces weapon break chance by 7%**.                                                                         |
+| Starfish Gem         | **-40% Max HP. User is immune to knockback**.                                                                  |
+| Creamy Gem           | **Reflects 1% of long-range damage**.                                                                          |
+| Savage Gem           | **Reduces weapon break chance by 2%**.                                                                         |
+| Anubis Gem           | **Weapon cannot be removed by skills. Reduces Max HP by 10%**.                                                 |
+| Sea Horse Gem        | T**Makes shoes indestructible**.                                                                               |
+| Poporing Gem         | **Reduces equipment break chance by 1%**.                                                                      |
+| Mimic Gem            | **Reduces reflected damage by 1%**.                                                                            |
+| Arclouse Gem         | **0.1% chance to reduce the target's HP by 1% with basic attacks (applies up to 5 times on the same target)**. |
+| Tarou Gem            | **1% chance to cast Increase Agility Lv.1 when hit by physical attacks**.                                      |
+| Female Thief Bug Gem | **1% chance to cast Increase Agility Lv.1 when hit by physical attacks**.                                      |
+| Jing Guzi Gem        | **When dealing physical attacks, 40% chance to remove \[Chaos] from the attacker**.                            |
+
+#### **Mixed Defense** <a href="#mixed-defense" id="mixed-defense"></a>
+
+|               |                                  |
+| ------------- | -------------------------------- |
+| Metalling Gem | +3 physical and magical defense. |
+
+#### **HP Effects** <a href="#hp-effects" id="hp-effects"></a>
+
+|                     |                                                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Plague Gem          | **0.1% chance to subtract 2% of the target's max HP when using basic attacks (applies up to 5 times on the same target)**. |
+| Hunter Fly Gem      | **0.5% chance to convert 7% of physical damage dealt into HP**.                                                            |
+| Familiar Gem        | **Recovers 3 HP when executing a normal attack**.                                                                          |
+| Desert Wolf Pup Gem | **Recovers 30 HP when killing a target with a melee attack**.                                                              |
+| Scarlet Ferus Gem   | **When defeating monsters with any magical attack, restores 100 HP. Max SP -100**.                                         |
 {% endtab %}
 
 {% tab title="Untitled" %}
