@@ -55,7 +55,9 @@ description: >-
 * **Left-click** on the gem in your inventory.
 * The following screen will appear.
 
-<figure><img src="../.gitbook/assets/212.png" alt=""><figcaption><p><mark style="color:red;"><strong>Right-Clicking to Inspect the Gem</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (665).png" alt=""><figcaption><p><mark style="color:red;"><strong>Right-Clicking to Inspect the Gem</strong></mark></p></figcaption></figure>
+
+
 
 ### **How to Attach a Gem**
 
@@ -63,7 +65,7 @@ description: >-
 2. A <mark style="color:red;">**confirmation message**</mark> will appear in your chat.
 3. **Left-click on the item** to check the attached gem.
 
-<figure><img src="../.gitbook/assets/3332.png" alt=""><figcaption><p><mark style="color:red;"><strong>Gem Linked to the Equipment</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (666).png" alt=""><figcaption><p><mark style="color:red;"><strong>Gem Linked to the Equipment</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="STR" %}
