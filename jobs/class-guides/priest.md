@@ -9,7 +9,7 @@ description: Absolute faith and unwavering support for their allies.
 * Thanks to their great faith and dedication to Odin, **Priests** possess great divine powers, capable of performing miracles and uplifting the spirits of adventurers from all warrior classes.
 * Their mission is to purify the world by eliminating demons and undead that cross their path.
 
-{% embed url="https://youtu.be/T3S7bxIEJ54" %}
+{% embed url="https://drive.google.com/file/d/1tu0wSC2fTaczEHg6Obmh_4JrYYEZjFXx/view?usp=drive_link" %}
 <mark style="color:red;">**Video Quest Priest (English)**</mark>
 {% endembed %}
 

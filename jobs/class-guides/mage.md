@@ -12,7 +12,7 @@ description: >-
 * They cannot wear heavy armor, so they always apply well-crafted strategies and quick reactions in battle to maximize the weaknesses of their opponents.
 * Upon reaching class level 40, they can evolve into **Wizards** or **Sages**.
 
-{% embed url="https://youtu.be/AmM_gz9bx1E" %}
+{% embed url="https://drive.google.com/file/d/1bqJjn0mIzsxW5lQxZnNYaljDD-sPUFjL/view?usp=drive_link" %}
 <mark style="color:red;">**Video Quest Mage (English)**</mark>
 {% endembed %}
 

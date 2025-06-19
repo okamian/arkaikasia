@@ -12,7 +12,7 @@ description: >-
 * They are capable of wielding both spears and swords, whether one-handed or two-handed, and are always ready to defend the weak and strike back with great strength using their incredible battle skills.
 * Upon reaching **job level 40**, they can evolve into **Knights** or **Crusaders**.
 
-{% embed url="https://youtu.be/6GEaVhVhc5g" %}
+{% embed url="https://drive.google.com/file/d/18sS7AdcAoHFgaOSJdNUKiMJEQXFTeEmO/view?usp=drive_link" %}
 <mark style="color:red;">**Video Quest Swordman (English)**</mark>
 {% endembed %}
 

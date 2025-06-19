@@ -11,7 +11,7 @@ description: >-
 * Because of this, **Taekwons** cannot equip any type of weapon.
 * When they evolve, a special angel uses **Blessing** and **Increase Agility** with a duration of **10 minutes**.
 
-{% embed url="https://youtu.be/9n2TTV0kbSE" %}
+{% embed url="https://drive.google.com/file/d/1CTezFMf1-0h0kvgjoZVMmR4Kxzy_IKmV/view?usp=drive_link" %}
 <mark style="color:red;">**Video Quest Taekwon (English)**</mark>
 {% endembed %}
 

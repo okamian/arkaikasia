@@ -11,7 +11,7 @@ description: >-
 * With the power of their music, both beautiful and deadly, the **Bard** is a great choice if you want an excellent storyteller and a skilled singer.
 * As a support class, the Bard focuses on singing to inspire party members in battle against enemies. However, they also possess the skills of an archer and can fight as well.
 
-{% embed url="https://youtu.be/jOpQPgciWIc" %}
+{% embed url="https://drive.google.com/file/d/1sKQQDOrqbh9xJUrMegat0W-p93F7I0Xf/view?usp=drive_link" %}
 <mark style="color:red;">**Video Quest Bard (English)**</mark>
 {% endembed %}
 

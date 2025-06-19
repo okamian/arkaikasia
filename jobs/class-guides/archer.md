@@ -12,7 +12,7 @@ description: >-
 * Upon reaching class level 40, they can advance to Hunters.
 * They can also become Bards if male or Dancers if female.
 
-{% embed url="https://youtu.be/CNGTmMvRI84" %}
+{% embed url="https://drive.google.com/file/d/1WyAsbWWzi_pJa9hV90Z3ycvBL7hfaBsq/view?usp=drive_link" %}
 <mark style="color:red;">**Video Quest Archer (English)**</mark>
 {% endembed %}
 

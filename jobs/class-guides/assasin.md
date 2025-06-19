@@ -10,7 +10,9 @@ description: >-
 
 * Capable of wielding both katars, which enhance critical attacks and ignore defense, and daggers, which take advantage of dual attack (as well as one-handed axes and swords), they can deal unparalleled damage in just a few strikes.
 
-{% embed url="https://youtu.be/ebw1rR5WrnU" %}
+{% embed url="https://drive.google.com/file/d/11loJHbjUNC3pKc3HFUSLVFec21LqQtPd/view?usp=drive_link" %}
+<mark style="color:red;">**Video Quest Assasin (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

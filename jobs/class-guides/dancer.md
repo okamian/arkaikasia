@@ -11,7 +11,7 @@ description: >-
 * It is said that some of their movements can even enhance a person’s strength to the point where they can literally move mountains.
 * But the truth is, when a Dancer begins to perform, those who watch her become hypnotized and fall under her control.
 
-{% embed url="https://youtu.be/l8eAdokWkyY" %}
+{% embed url="https://drive.google.com/file/d/1LFbHDIA5HkCrLJtF7lFQOeMSyhK_X0rT/view?usp=drive_link" %}
 <mark style="color:red;">**Video Quest Dancer (English)**</mark>
 {% endembed %}
 
