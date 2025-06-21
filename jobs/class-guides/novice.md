@@ -11,7 +11,7 @@ description: >-
 * Tại Học Viện Bảo Vệ, tân binh sẽ học cách thành thạo những kỹ năng này để sống sót qua những thử thách phía trước.
 * Thêm vào đó, sau khi hoàn thành khóa đào tạo, người chơi có thể chọn từ nhiều Huy Hiệu khác nhau, sẽ dẫn họ đến hội trường nơi họ sẽ chọn lớp đầu tiên và bắt đầu cuộc phiêu lưu mới trong thế giới Midgard.
 
-{% embed url="https://www.youtube.com/watch?v=nk8nludE98E" %}
+{% embed url="https://youtu.be/h8uvlv2cHK0" %}
 
 ## **Kỹ Năng**
 

@@ -79,6 +79,8 @@ description: >-
 <table><thead><tr><th width="272">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (54).png" alt="" data-size="original"> Lô Hội</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (55).png" alt="" data-size="original"> Khí Độc</td><td>400</td></tr></tbody></table>
 
 #### Mũi Tên Choáng
+
+<table><thead><tr><th width="275">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (586).png" alt="" data-size="original"> Mảnh đá</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (587).png" alt="" data-size="original"> Đá bọt</td><td>400</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Người giúp lễ" %}
