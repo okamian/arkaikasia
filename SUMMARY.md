@@ -92,11 +92,6 @@
       * [🟩 (Middle/Vision) | June](cashshop/shop/cosmetics/june-or-2025/middle-vision-or-june.md)
       * [🟩 (Bottom/Mouth) | June](cashshop/shop/cosmetics/june-or-2025/bottom-mouth-or-june.md)
       * [🟩 (Garmet) | June](cashshop/shop/cosmetics/june-or-2025/garmet-or-june.md)
-      * [🔮 June | 2025 / 09\~23](cashshop/shop/cosmetics/june-or-2025/june-or-2025-09-23/README.md)
-        * [🟩 (Top/Head) | June](cashshop/shop/cosmetics/june-or-2025/june-or-2025-09-23/top-head-or-june.md)
-        * [🟩 (Middle/Vision) | June](cashshop/shop/cosmetics/june-or-2025/june-or-2025-09-23/middle-vision-or-june.md)
-        * [🟩 (Bottom/Mouth) | June](cashshop/shop/cosmetics/june-or-2025/june-or-2025-09-23/bottom-mouth-or-june.md)
-        * [🟩 (Garmet) | June](cashshop/shop/cosmetics/june-or-2025/june-or-2025-09-23/garmet-or-june.md)
 
 ## NEW EPISODES
 
