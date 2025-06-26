@@ -8,7 +8,7 @@ description: >-
 
 ## Arkaik.exe opens, but when clicking "Play," nothing happens, and it closes
 
-{% embed url="https://youtu.be/alrPDAo3cx0" %}
+{% embed url="https://youtu.be/3jGdfFOkVAk" %}
 
 **Cause:**
 
@@ -26,7 +26,7 @@ Type `Client.exe` and enable all processes. (Check all selection boxes; some may
 
 ## **Arkaik.exe does not open, is not in the task manager, and no error appears**
 
-{% embed url="https://youtu.be/7MElYRZ4p8w" %}
+{% embed url="https://youtu.be/AyZUGlMmyHU" %}
 
 **Cause:**
 
@@ -41,7 +41,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 ## **Error: Cannot find File with special characters "????"**
 
-{% embed url="https://youtu.be/2HYe4efWQus" %}
+{% embed url="https://youtu.be/ebeS8nkxbJ4" %}
 
 **Problem:**
 
@@ -62,7 +62,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 ## **Error in Client.exe: "Cannot init d3d OR grf file has problem" or White Screen**
 
-{% embed url="https://youtu.be/Spq8HxAYCW0" %}
+{% embed url="https://youtu.be/AeA22FhgCbw" %}
 
 <figure><img src="../../.gitbook/assets/Cannot_init_d3d_or_grf_file_has_problem.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -124,7 +124,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ## **Error Loading Arkaik.exe Modules Before the Login Screen (Date & Time)**
 
-{% embed url="https://youtu.be/_AesF-DFHbs" %}
+{% embed url="https://youtu.be/t0i9rR8bqtk" %}
 
 **Problem:**
 
@@ -161,7 +161,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ## **Error: Failed to get updates URL (when opening arkaik.exe)**
 
-{% embed url="https://youtu.be/zMdliegZya8" %}
+{% embed url="https://youtu.be/nf5Ymm6j2f8" %}
 
 **Problem:** When running **arkaik.exe**, an update error appears: **"Failed to get updates URL"**, meaning the update server rejected the connection.
 
@@ -171,7 +171,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ## **Colored Squares Screen When Running Client.exe**
 
-{% embed url="https://youtu.be/b4LLXuUrKoc" %}
+{% embed url="https://youtu.be/pYoTVVBAYwI" %}
 
 <figure><img src="../../.gitbook/assets/800px-Tela_com_quadrados_coloridos_arkaik_online.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -194,7 +194,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 * How to resolve problem stream arkaik OBS STUDIO.
 * If you are "<mark style="color:red;">**Streamer**</mark>" this season it's for you.
 
-{% embed url="https://www.youtube.com/watch?v=8pDiiHR3d3M" %}
+{% embed url="https://youtu.be/tA-GdWPIpog" %}
 
 ## GDI LIMIT PROBLEM
 
@@ -202,7 +202,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ▫️ To avoid issues with the display of windows, menus, and alerts in Windows, you can increase the GDI object limit by editing the system registry.
 
-{% embed url="https://www.youtube.com/watch?v=VNnqB5EAgas" %}
+{% embed url="https://youtu.be/1RRFVaNFad0" %}
 
 <figure><img src="../../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
 
