@@ -50,6 +50,10 @@
 * [🎰 Prize Wheel](systems/prize-wheel.md)
 * [⚛️ Gem System](systems/gem-system.md)
 
+***
+
+* [🏹 Mastery Hunt](mastery-hunt.md)
+
 ## JOBS
 
 * [📗 Class Guides](jobs/class-guides/README.md)
