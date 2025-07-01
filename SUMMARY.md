@@ -91,16 +91,11 @@
 * [🎫 Battle Pass](cashshop/battle-pass.md)
 * [🛍️ Shop](cua-hang-cashshop/shop/README.md)
   * [🎁 Mỹ phẩm](cua-hang-cashshop/shop/my-pham/README.md)
-    * [🔮 Tháng 6 | 2025](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/README.md)
-      * [🟩 (Top/Head) | June](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/top-head-or-june.md)
-      * [🟩 (Middle/Vision) | June](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/middle-vision-or-june.md)
-      * [🟩 (Bottom/Mouth) | June](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/bottom-mouth-or-june.md)
-      * [🟩 (Garmet) | June](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/garmet-or-june.md)
-      * [🔮 Tháng 6 | 2025 / 09\~23](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/thang-6-or-2025-09-23/README.md)
-        * [🟩 (Top/Head) | June](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/thang-6-or-2025-09-23/top-head-or-june.md)
-        * [🟩 (Middle/Vision) | June](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/thang-6-or-2025-09-23/middle-vision-or-june.md)
-        * [🟩 (Bottom/Mouth) | June](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/thang-6-or-2025-09-23/bottom-mouth-or-june.md)
-        * [🟩 (Garmet) | June](cua-hang-cashshop/shop/my-pham/thang-6-or-2025/thang-6-or-2025-09-23/garmet-or-june.md)
+    * [🔮 July | 2025](cua-hang-cashshop/shop/my-pham/july-or-2025/README.md)
+      * [🟩 (Top/Head) | July](cua-hang-cashshop/shop/my-pham/july-or-2025/top-head-or-july.md)
+      * [🟩 (Middle/Vision) | July](cua-hang-cashshop/shop/my-pham/july-or-2025/middle-vision-or-july.md)
+      * [🟩 (Bottom/Mouth) | July](cua-hang-cashshop/shop/my-pham/july-or-2025/bottom-mouth-or-july.md)
+      * [🟩 (Garmet) | July](cua-hang-cashshop/shop/my-pham/july-or-2025/garmet-or-july.md)
 
 ## &#x20;NEW
 

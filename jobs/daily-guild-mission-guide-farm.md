@@ -12,7 +12,7 @@ description: Một địa điểm được thiết kế cho các nhiệm vụ h�
 
 *   Dưới đây là danh sách các nhiệm vụ tương ứng với mỗi cấp độ và số lượng cần thiết.
 
-    <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p><mark style="color:red;"><strong>Nhiệm vụ hàng ngày có thể nhận được từ "Bảng" trong thành phố, bên cạnh NPC "Nhiệm vụ hàng ngày"</strong></mark>.</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Nhiệm vụ hàng ngày có thể nhận được từ "Bảng" trong thành phố, bên cạnh NPC "Nhiệm vụ hàng ngày"</strong></mark>.</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Cấp: 1~40" %}

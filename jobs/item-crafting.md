@@ -18,65 +18,65 @@ description: >-
 * **Cung thủ** có thể tạo ra nhiều loại **mũi tên**, mỗi loại có các thuộc tính **nguyên tố** và hiệu ứng trạng thái khác nhau.
 * Để chế tạo mũi tên, chỉ cần mở **ALT+S** và chọn kỹ năng **"Làm Mũi Tên"**.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về một "Cung Thủ"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về một "Cung Thủ"</strong></mark></p></figcaption></figure>
 
 #### Mũi Tên### **Mũi Tên Sắt**
 
-<table><thead><tr><th width="213">Vật phẩm</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Móng Vuốt Sói</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Đèn Lồng</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt="" data-size="original"> Quặng Sắt</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt="" data-size="original"> Sắt</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="213">Vật phẩm</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Móng Vuốt Sói</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Đèn Lồng</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt="" data-size="original"> Quặng Sắt</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="original"> Sắt</td><td>500</td></tr></tbody></table>
 
 #### **Mũi Tên Gió**
 
 #### Mũi Tên Oridecon
 
-<table><thead><tr><th width="305">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1) (1) (1).png" alt="" data-size="original"> Quặng Oridecon</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1) (1) (1).png" alt="" data-size="original"> Chìa Khóa Tháp Đồng Hồ</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1) (1) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="305">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt="" data-size="original"> Quặng Oridecon</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt="" data-size="original"> Chìa Khóa Tháp Đồng Hồ</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
 
 #### Mũi Tên Thép
 
 #### Mũi tên pha lê
 
-<table><thead><tr><th width="257">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1).png" alt="" data-size="original"> Gill</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (21) (1).png" alt="" data-size="original"> Pha lê xanh</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (22) (1).png" alt="" data-size="original"> Băng huyền bí</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="257">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (20) (1) (1).png" alt="" data-size="original"> Gill</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (21) (1) (1).png" alt="" data-size="original"> Pha lê xanh</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (22) (1) (1).png" alt="" data-size="original"> Băng huyền bí</td><td>1500</td></tr></tbody></table>
 
 #### Mũi tên gỉ
 
 #### Mũi Tên Lửa
 
-<table><thead><tr><th width="256">Mục</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (26).png" alt="" data-size="original"> Trái Tim B burning</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (27).png" alt="" data-size="original"> Máu Đỏ Thẫm</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (28).png" alt="" data-size="original"> Trái Tim CoraFlame</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="256">Mục</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (26) (1).png" alt="" data-size="original"> Trái Tim B burning</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (27) (1).png" alt="" data-size="original"> Máu Đỏ Thẫm</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="original"> Trái Tim CoraFlame</td><td>1500</td></tr></tbody></table>
 
 #### Mũi Tên Vô Hình
 
 #### Mũi Tên Đá
 
-<table><thead><tr><th width="261">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (32).png" alt="" data-size="original"> Sừng Dê</td><td>450</td></tr><tr><td><img src="../.gitbook/assets/image (33).png" alt="" data-size="original"> Lá Xanh</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (34).png" alt="" data-size="original"> Thiên Nhiên Vĩ Đại</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="261">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (32) (1).png" alt="" data-size="original"> Sừng Dê</td><td>450</td></tr><tr><td><img src="../.gitbook/assets/image (33) (1).png" alt="" data-size="original"> Lá Xanh</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (34) (1).png" alt="" data-size="original"> Thiên Nhiên Vĩ Đại</td><td>1500</td></tr></tbody></table>
 
 #### Mũi Tên Bạc
 
 #### Mũi Tên Thánh
 
-<table><thead><tr><th width="260">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (37).png" alt="" data-size="original"> Hạt Giống Kinh</td><td>300</td></tr><tr><td><img src="../.gitbook/assets/image (38).png" alt="" data-size="original"> Trái Yggdrasil</td><td>900</td></tr></tbody></table>
+<table><thead><tr><th width="260">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (37) (1).png" alt="" data-size="original"> Hạt Giống Kinh</td><td>300</td></tr><tr><td><img src="../.gitbook/assets/image (38) (1).png" alt="" data-size="original"> Trái Yggdrasil</td><td>900</td></tr></tbody></table>
 
 #### Mũi Tên Bóng Tối
 
 #### Mũi Tên Sắc Nhọn
 
-<table><thead><tr><th width="269">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (42).png" alt="" data-size="original"> Lá Sắc Nhọn</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (43).png" alt="" data-size="original"> Chân Côn Trùng</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="269">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (42) (1).png" alt="" data-size="original"> Lá Sắc Nhọn</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (43) (1).png" alt="" data-size="original"> Chân Côn Trùng</td><td>500</td></tr></tbody></table>
 
 #### Mũi Tên Bị Nguyền Rủa
 
 #### Mũi tên phát sáng
 
-<table><thead><tr><th width="268">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (46).png" alt="" data-size="original"> Khí gas cay</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (47).png" alt="" data-size="original"> Sự ngu ngốc của người mù</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="268">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (46) (1).png" alt="" data-size="original"> Khí gas cay</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (47) (1).png" alt="" data-size="original"> Sự ngu ngốc của người mù</td><td>1500</td></tr></tbody></table>
 
 #### Mũi tên đóng băng
 
 #### Mũi tên im lặng
 
-<table><thead><tr><th width="269">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (50).png" alt="" data-size="original"> Trái tim đá</td><td>75</td></tr><tr><td><img src="../.gitbook/assets/image (51).png" alt="" data-size="original"> Mảnh pha lê</td><td>450</td></tr></tbody></table>
+<table><thead><tr><th width="269">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (50) (1).png" alt="" data-size="original"> Trái tim đá</td><td>75</td></tr><tr><td><img src="../.gitbook/assets/image (51) (1).png" alt="" data-size="original"> Mảnh pha lê</td><td>450</td></tr></tbody></table>
 
 #### Mũi tên độc
 
 #### Mũi Tên Ngủ
 
-<table><thead><tr><th width="272">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (54).png" alt="" data-size="original"> Lô Hội</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (55).png" alt="" data-size="original"> Khí Độc</td><td>400</td></tr></tbody></table>
+<table><thead><tr><th width="272">Món đồ</th><th>Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (54) (1).png" alt="" data-size="original"> Lô Hội</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (55) (1).png" alt="" data-size="original"> Khí Độc</td><td>400</td></tr></tbody></table>
 
 #### Mũi Tên Choáng
 
@@ -101,18 +101,18 @@ description: >-
 * Họ có thể chế tạo **cuộn sửa chữa**.
 * Họ có thể chế tạo **đá cơ bản**.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về "Thợ Rèn"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về "Thợ Rèn"</strong></mark></p></figcaption></figure>
 
 ### **Cuộn Tinh Chỉnh**
 
 * Để sử dụng các **cuộn** đã tạo, chỉ cần nhấp vào chúng.
 *   Chọn vũ khí phù hợp với **cấp độ** của bạn, sau đó nhấp để **tinh chỉnh**.\* Luôn theo dõi **"Tiềm năng"** của bạn—nếu nó đạt **0**, vật phẩm sẽ <mark style="color:red;">**bị hỏng**</mark>.
 
-    <table><thead><tr><th>Vật phẩm</th><th width="257" align="center">Cuộn giấy</th><th align="center">Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (59).png" alt="" data-size="original"> Fracon</td><td align="center">Tinh chế vũ khí Lv 1</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (60).png" alt="" data-size="original"> Emveretarcon</td><td align="center">Tinh chế vũ khí Lv 2</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (61).png" alt="" data-size="original"> Oridecon</td><td align="center">Tinh chế vũ khí Lv 3</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (62).png" alt="" data-size="original"> Thanh vàng</td><td align="center">Tinh chế vũ khí Lv 4</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (63).png" alt="" data-size="original"> Elunium</td><td align="center">Tinh chế trang bị</td><td align="center">1</td></tr></tbody></table>
+    <table><thead><tr><th>Vật phẩm</th><th width="257" align="center">Cuộn giấy</th><th align="center">Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (59) (1).png" alt="" data-size="original"> Fracon</td><td align="center">Tinh chế vũ khí Lv 1</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (60) (1).png" alt="" data-size="original"> Emveretarcon</td><td align="center">Tinh chế vũ khí Lv 2</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (61) (1).png" alt="" data-size="original"> Oridecon</td><td align="center">Tinh chế vũ khí Lv 3</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (62) (1).png" alt="" data-size="original"> Thanh vàng</td><td align="center">Tinh chế vũ khí Lv 4</td><td align="center">1</td></tr><tr><td><img src="../.gitbook/assets/image (63) (1).png" alt="" data-size="original"> Elunium</td><td align="center">Tinh chế trang bị</td><td align="center">1</td></tr></tbody></table>
 
     \## **Cuộn Sửa Chữa**
 
-<table><thead><tr><th width="269">Món đồ</th><th align="center">Cuộn</th><th align="center">Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (64).png" alt="" data-size="original">Cuộn Bị Hỏng</td><td align="center">Cuộn Sửa Chữa</td><td align="center">1</td></tr></tbody></table>
+<table><thead><tr><th width="269">Món đồ</th><th align="center">Cuộn</th><th align="center">Số lượng sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (64) (1).png" alt="" data-size="original">Cuộn Bị Hỏng</td><td align="center">Cuộn Sửa Chữa</td><td align="center">1</td></tr></tbody></table>
 
 ### Đá Cơ Bản
 {% endtab %}
@@ -121,11 +121,11 @@ description: >-
 * **Alchemist** có thể tạo ra nhiều loại **thuốc** khác nhau.
 * Bạn có thể tạo thuốc bằng cách mở **ALT+S** và sử dụng kỹ năng **"Dược Phẩm"**.
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về "Thương Gia"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Hình minh họa về "Thương Gia"</strong></mark></p></figcaption></figure>
 
 ### Thuốc HP/SP## Thuốc HP Compact## **Đồ Phủ**
 
-<table><thead><tr><th width="271">Vật phẩm yêu cầu</th><th width="180">Số lượng</th><th>Vật phẩm sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (87).png" alt="" data-size="original"> Chai Rỗng<br><img src="../.gitbook/assets/image (88).png" alt=""> Trái Tim Bất Tử<br><img src="../.gitbook/assets/image (89).png" alt=""> Răng Zenorc<br><img src="../.gitbook/assets/image (90).png" alt=""> Rượu</td><td>1</td><td><a href="https://ragnaplace.com/pt/bro/item/7139/frasco-de-revestimento"><img src="https://game.ragnaplace.com/ro/bro/item/7139.webp" alt="Chai Phủ"></a> Chai Phủ</td></tr></tbody></table>
+<table><thead><tr><th width="271">Vật phẩm yêu cầu</th><th width="180">Số lượng</th><th>Vật phẩm sản xuất</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (87) (1).png" alt="" data-size="original"> Chai Rỗng<br><img src="../.gitbook/assets/image (88) (1).png" alt=""> Trái Tim Bất Tử<br><img src="../.gitbook/assets/image (89) (1).png" alt=""> Răng Zenorc<br><img src="../.gitbook/assets/image (90) (1).png" alt=""> Rượu</td><td>1</td><td><a href="https://ragnaplace.com/pt/bro/item/7139/frasco-de-revestimento"><img src="https://game.ragnaplace.com/ro/bro/item/7139.webp" alt="Chai Phủ"></a> Chai Phủ</td></tr></tbody></table>
 
 ### **Đồ Hỗ Trợ**## Thuốc Kháng
 
