@@ -87,11 +87,11 @@
 * [🎫 Battle Pass](cashshop/battle-pass.md)
 * [🛍️ Shop](cashshop/shop/README.md)
   * [🎁 Cosmetics](cashshop/shop/cosmetics/README.md)
-    * [🔮 June | 2025](cashshop/shop/cosmetics/june-or-2025/README.md)
-      * [🟩 (Top/Head) | June](cashshop/shop/cosmetics/june-or-2025/top-head-or-june.md)
-      * [🟩 (Middle/Vision) | June](cashshop/shop/cosmetics/june-or-2025/middle-vision-or-june.md)
-      * [🟩 (Bottom/Mouth) | June](cashshop/shop/cosmetics/june-or-2025/bottom-mouth-or-june.md)
-      * [🟩 (Garmet) | June](cashshop/shop/cosmetics/june-or-2025/garmet-or-june.md)
+    * [🔮 July | 2025](cashshop/shop/cosmetics/july-or-2025/README.md)
+      * [🟩 (Top/Head) | July](cashshop/shop/cosmetics/july-or-2025/top-head-or-july.md)
+      * [🟩 (Middle/Vision) | July](cashshop/shop/cosmetics/july-or-2025/middle-vision-or-july.md)
+      * [🟩 (Bottom/Mouth) | July](cashshop/shop/cosmetics/july-or-2025/bottom-mouth-or-july.md)
+      * [🟩 (Garmet) | July](cashshop/shop/cosmetics/july-or-2025/garmet-or-july.md)
 
 ## NEW EPISODES
 
