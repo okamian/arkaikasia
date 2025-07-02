@@ -52,7 +52,7 @@
 
 ***
 
-* [💹 Thị Trường Toàn Cầu](thi-truong-toan-cau.md)
+* [🏹 Săn Lùng Thành Thạo](san-lung-thanh-thao.md)
 
 ## NGHỀ NGHIỆP
 
