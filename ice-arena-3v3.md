@@ -11,11 +11,6 @@ description: >-
 * Our tournament aims to bring fun with a PvP mechanic different from the usual, which is usually more intense with little strategy.
 * With our mechanics of damage reduction, cooldown on skill and potion heals, and central buffs with 100% HP/SP heal, PvP becomes less “all in” and more about positioning and strategy.
 
-## Cash Reward
-
-* The Top 3 players will split the cash reward, with <mark style="color:red;">**40% to the top 1 and 30% each to top 2 and top 3**</mark>. Players can participate in the tournament for free, but to win the cash prize, it's necessary to have the tournament “**entry**”, which costs <mark style="color:red;">**10k CP**</mark>.
-* If a player without an entry wins in the Top 3, the amount will be split among the other 2 winners.
-
 ## **Arena Opening Hours**
 
 The Arena will be open in friendly mode **(no scoring)** every day from <mark style="color:red;">**8:00 AM to 9:59 AM**</mark>, from <mark style="color:red;">**3:00 PM to 4:59 PM**</mark>, and from <mark style="color:red;">**7:00 PM to 8:59 PM**</mark>.
