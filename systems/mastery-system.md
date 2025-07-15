@@ -48,6 +48,16 @@ description: >-
 
 <figure><img src="../.gitbook/assets/009.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Using the @maestria command to check if you received your points.</strong></mark></p></figcaption></figure>
 
+## **📌 Important Note on Deleting Characters with Mastery Points**
+
+If your character has **accumulated mastery points** , **you won't be able to delete it** directly. When you try to delete the character, a warning message will be displayed and the process will be blocked.
+
+This limitation is automatically applied to prevent data loss related to the collection system, especially when the character is part of a group or guild. The warning follows the standard used for other protected systems, such as mastery or guilds.
+
+💡 _If necessary, free up mastery points before attempting to delete the character._
+
+
+
 ## **About Point Cost**
 
 * **The first time** you talk to the NPC with any character, they will **give you 7 free points** to help you understand how the mastery system works.
