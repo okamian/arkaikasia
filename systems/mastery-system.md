@@ -49,8 +49,18 @@ description: >-
 
 <figure><img src="../.gitbook/assets/cca643.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Sử dụng lệnh @mastery để kiểm tra và nhận điểm của bạn.</strong></mark></p></figcaption></figure>
 
-## **Về Chi Phí Điểm**\* **Lần đầu tiên** bạn nói chuyện với NPC bằng bất kỳ nhân vật nào, họ sẽ **cho bạn 7 điểm miễn phí** để giúp bạn hiểu cách hoạt động của hệ thống thành thạo.
+## 📌 Lưu ý quan trọng về việc xóa nhân vật có điểm thành thạo
 
+Nếu nhân vật của bạn đã tích lũy điểm thành thạo, bạn sẽ không thể xóa trực tiếp. Khi bạn cố gắng xóa nhân vật, một thông báo cảnh báo sẽ hiển thị và quá trình xóa sẽ bị chặn.
+
+Giới hạn này được tự động áp dụng để ngăn ngừa mất dữ liệu liên quan đến hệ thống thu thập, đặc biệt khi nhân vật là thành viên của một nhóm hoặc bang hội. Cảnh báo tuân theo tiêu chuẩn được sử dụng cho các hệ thống được bảo vệ khác, chẳng hạn như điểm thành thạo hoặc bang hội.
+
+\
+💡 Nếu cần, hãy giải phóng điểm thành thạo trước khi xóa nhân vật.
+
+## **Về Chi Phí Điểm**
+
+* &#x20;**Lần đầu tiên** bạn nói chuyện với NPC bằng bất kỳ nhân vật nào, họ sẽ **cho bạn 7 điểm miễn phí** để giúp bạn hiểu cách hoạt động của hệ thống thành thạo.
 * Từ cuộc trò chuyện thứ hai trở đi, bạn có thể <mark style="color:red;">**mua điểm thành thạo**</mark>, nhưng **đối với mỗi điểm đã mua, chi phí Zeny sẽ tăng thêm 25 Zeny**.
 
 ### **Ví dụ:**
