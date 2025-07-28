@@ -6,7 +6,7 @@ description: >-
 
 # ✨ Aura System
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * It allows players to customize the appearance and abilities of their characters through special auras, which not only provide unique visual effects but can also impact attributes and game mechanics.
 * This system is designed to offer dynamic benefits in combat and social interactions, as well as highlight the player's individuality in the game world.
@@ -17,7 +17,7 @@ description: >-
 
 {% tabs %}
 {% tab title="NPC" %}
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Aura Master</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Aura Master</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Location" %}
@@ -36,7 +36,7 @@ description: >-
 {% tab title="STR" %}
 ## About the STR Aura
 
-<table><thead><tr><th width="199">Imagem</th><th width="98">Attribute</th><th>Bonus</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><strong>STR</strong></td><td><strong>[STR / @aurastr]</strong> = +1 / +2 / +3 / +4 / +5</td></tr></tbody></table>
+<table><thead><tr><th width="199">Imagem</th><th width="98">Attribute</th><th>Bonus</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" data-size="original"></td><td><strong>STR</strong></td><td><strong>[STR / @aurastr]</strong> = +1 / +2 / +3 / +4 / +5</td></tr></tbody></table>
 
 ## **Aura Level Quest**
 

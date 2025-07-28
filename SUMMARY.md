@@ -23,6 +23,7 @@
 * [♾️ 100% Infinite Tower](instances/100-infinite-tower.md)
 * [🐲 Boss Arena](instances/boss-arena.md)
 * [😈 MVP Battle](instances/mvp-battle.md)
+* [🔶 War of Emperiumntitled](instances/war-of-emperiumntitled.md)
 
 ***
 
