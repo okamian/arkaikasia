@@ -79,6 +79,7 @@
   * [\[Monk\]](jobs/class-guides/monk.md)
   * [\[Blacksmith\]](jobs/class-guides/blacksmith.md)
   * [\[Alchemist\]](jobs/class-guides/alchemist.md)
+  * [\[Ninja\]](jobs/class-guides/ninja.md)
 * [📊 Attributes & Stats](jobs/attributes-and-stats.md)
 * [🔥 Element Guide](jobs/element-guide.md)
 * [💰 Daily/Guild Quest Guide \[Farm\]](jobs/daily-guild-mission-guide-farm.md)

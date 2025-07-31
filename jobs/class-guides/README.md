@@ -111,6 +111,6 @@ description: Find information about all classes in Arkaik Online right here!
 {% tab title="Expanded " %}
 #### <mark style="color:yellow;">Job 1-1</mark>
 
-<table><thead><tr><th width="150">Illustration</th><th data-type="content-ref">Description</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/100px-Taekwonssprite.png" alt=""></td><td><a href="taekwon.md">taekwon.md</a></td></tr></tbody></table>
+<table><thead><tr><th width="150">Illustration</th><th>Description</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/100px-Taekwonssprite.png" alt=""></td><td>[Taekwon]</td></tr><tr><td><div><figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure></div></td><td>[Ninja]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
