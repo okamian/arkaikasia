@@ -104,3 +104,4 @@
 * [🌄 EP. Louyang](new-episodes/ep.-louyang.md)
 * [🌃 EP. Lutie](new-episodes/ep.-lutie.md)
 * [🏞️ EP. Eldoria](new-episodes/ep.-eldoria.md)
+* [🎑 EP. Amatsuage](new-episodes/ep.-amatsuage.md)
