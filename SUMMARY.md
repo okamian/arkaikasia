@@ -26,6 +26,7 @@
 
 ***
 
+* [🔶 War of Emperium](war-of-emperium.md)
 * [❄️ Ice Arena 3v3](ice-arena-3v3.md)
 
 ## HỆ THỐNG
@@ -78,6 +79,7 @@
   * [\[Monk\]](jobs/class-guides/monk.md)
   * [\[Blacksmith\]](jobs/class-guides/blacksmith.md)
   * [\[Alchemist\]](jobs/class-guides/alchemist.md)
+  * [\[Ninja\]](nghe-nghiep/class-guides/ninja.md)
 * [📊 Thuộc Tính & Thống Kê](jobs/attributes-and-stats.md)
 * [🔥 Bảng Nguyên Tố](jobs/element-guide.md)
 * [💰 Hướng Dẫn Nhiệm Vụ Hàng Ngày/Bang Hội \[Nông trại\]](jobs/daily-guild-mission-guide-farm.md)
@@ -96,6 +98,11 @@
       * [🟩 (Middle/Vision) | July](cua-hang-cashshop/shop/my-pham/july-or-2025/middle-vision-or-july.md)
       * [🟩 (Bottom/Mouth) | July](cua-hang-cashshop/shop/my-pham/july-or-2025/bottom-mouth-or-july.md)
       * [🟩 (Garmet) | July](cua-hang-cashshop/shop/my-pham/july-or-2025/garmet-or-july.md)
+    * [🔮 August | 2025](cua-hang-cashshop/shop/my-pham/august-or-2025/README.md)
+      * [🟩 (Top/Head) | August](cua-hang-cashshop/shop/my-pham/august-or-2025/top-head-or-august.md)
+      * [🟩 (Middle/Vision) | August](cua-hang-cashshop/shop/my-pham/august-or-2025/middle-vision-or-august.md)
+      * [🟩 (Bottom/Mouth) | August](cua-hang-cashshop/shop/my-pham/august-or-2025/bottom-mouth-or-august.md)
+      * [🟩 (Garmet) | August](cua-hang-cashshop/shop/my-pham/august-or-2025/garmet-or-august.md)
 
 ## &#x20;NEW
 

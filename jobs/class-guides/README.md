@@ -2,7 +2,7 @@
 description: Tìm thông tin về tất cả các lớp trong Arkaik Online ngay tại đây!
 ---
 
-# 📗 Class Guides
+# 📗 Về Các Lớp
 
 ## **Nghề Nghiệp và Tiến Hóa Lớp Nhân Vật**
 
@@ -102,7 +102,10 @@ description: Tìm thông tin về tất cả các lớp trong Arkaik Online ngay
 <table><thead><tr><th width="147">Hình minh họa</th><th data-type="content-ref">Mô tả</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/100px-Alquimistassprite.png" alt=""></td><td><a href="alchemist.md">alchemist.md</a></td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Mở rộng " %}
-#### <mark style="color:yellow;">Nghề 1-1</mark>
+{% tab title="Untitled" %}
+<mark style="color:yellow;">**Nghề 1-1**</mark>
+
+<table><thead><tr><th width="150">Minh họa</th><th>Mô tả</th></tr></thead><tbody><tr><td><img src="https://719346718-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2Fgit-blob-57a8e05013a1d1c17df7bf252f2bcbab44a84624%2F100px-Taekwonssprite.png?alt=media" alt=""></td><td>[Taekwon]</td></tr><tr><td><div><figure><img src="https://719346718-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dw75qmKGvVS4vVNTE1B%2Fuploads%2FJsGeCSMChmBrKbTbpvly%2Fimage.png?alt=media&#x26;token=2089bff5-8bc7-457e-ad23-21d541c70b39" alt=""><figcaption></figcaption></figure></div></td><td>[Ninja]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
+

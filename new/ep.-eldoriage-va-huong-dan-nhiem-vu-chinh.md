@@ -472,15 +472,15 @@ description: >-
     **4.6 \[Tiêu diệt Golem dung nham]**
 *   Rei Zell II yêu cầu bạn đánh bại 150x Lava Golem.
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>lối vào hang Magma.Lava Golem ở đây</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>lối vào hang Magma.Lava Golem ở đây</p></figcaption></figure>
 *   Sau đó, Rei Zell II yêu cầu bạn đánh bại 200x Apocalypse.\
 
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>lối vào Ruins of Juperas.Apocalyse ở đây</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>lối vào Ruins of Juperas.Apocalyse ở đây</p></figcaption></figure>
 *   Sau đó, Rei Zell II yêu cầu bạn đánh bại 200x Anubis.\
 
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>lối vào Sphinx.Anubit ở đây</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>lối vào Sphinx.Anubit ở đây</p></figcaption></figure>
 * Sau khi đánh bại tất cả Lava Golem, hãy quay lại Rei Zell II.
 * Sau khi đánh bại tất cả Apocalypse, hãy quay lại Rei Zell II.
 * Sau khi đánh bại tất cả Anubis, hãy quay lại Rei Zell II.
@@ -518,14 +518,14 @@ description: >-
 8. Sau khi dịch chuyển, bạn sẽ được đưa đến bản đồ "Monte Mjolnir", với một cổng thông tin ở phía trước.\
 
 
-| Những thách thức từ lá thư của Sarina                                        | Địa điểm thử thách                                                                                                                                      |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Thử thách đầu tiên                                                           | <div><figure><img src="../.gitbook/assets/image (471).png" alt=""><figcaption><p>Đền thờ Payon.</p></figcaption></figure></div>                         |
-| Thử thách thứ hai                                                            | <div><figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption><p>Cây Prontera.</p></figcaption></figure></div>                          |
-| Thử thách thứ ba                                                             | <div><figure><img src="../.gitbook/assets/image (473).png" alt=""><figcaption><p>Well in the Orc Dungeon (A1).</p></figcaption></figure></div>          |
-| Thử thách thứ tư                                                             | <div><figure><img src="../.gitbook/assets/image (474).png" alt=""><figcaption><p>Giếng trong Ngục tối Orc (A1).</p></figcaption></figure></div>         |
-| Thử thách thứ năm![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>) | <div><figure><img src="../.gitbook/assets/image (475).png" alt=""><figcaption><p>Đầu lâu trong Tổ kiến ​​địa ngục (T1).</p></figcaption></figure></div> |
-| Thử thách thứ sáu                                                            | <div><figure><img src="../.gitbook/assets/image (476).png" alt=""><figcaption><p>Kim đồng hồ ở Tháp Đồng hồ (A1).</p></figcaption></figure></div>       |
+| Những thách thức từ lá thư của Sarina                                            | Địa điểm thử thách                                                                                                                                      |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Thử thách đầu tiên                                                               | <div><figure><img src="../.gitbook/assets/image (471).png" alt=""><figcaption><p>Đền thờ Payon.</p></figcaption></figure></div>                         |
+| Thử thách thứ hai                                                                | <div><figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption><p>Cây Prontera.</p></figcaption></figure></div>                          |
+| Thử thách thứ ba                                                                 | <div><figure><img src="../.gitbook/assets/image (473).png" alt=""><figcaption><p>Well in the Orc Dungeon (A1).</p></figcaption></figure></div>          |
+| Thử thách thứ tư                                                                 | <div><figure><img src="../.gitbook/assets/image (474).png" alt=""><figcaption><p>Giếng trong Ngục tối Orc (A1).</p></figcaption></figure></div>         |
+| Thử thách thứ năm![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png>) | <div><figure><img src="../.gitbook/assets/image (475).png" alt=""><figcaption><p>Đầu lâu trong Tổ kiến ​​địa ngục (T1).</p></figcaption></figure></div> |
+| Thử thách thứ sáu                                                                | <div><figure><img src="../.gitbook/assets/image (476).png" alt=""><figcaption><p>Kim đồng hồ ở Tháp Đồng hồ (A1).</p></figcaption></figure></div>       |
 
 \
 **4.8 \[ Thử thách cuối cùng - Đường đến Eldoria ]**
