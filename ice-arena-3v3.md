@@ -11,12 +11,6 @@ description: >-
 * Giải đấu của chúng tôi hướng đến mục tiêu mang lại niềm vui với cơ chế PvP khác với thông thường, thường dữ dội hơn với ít chiến lược.
 *  Với cơ chế giảm sát thương, thời gian hồi chiêu của kỹ năng và thuốc hồi máu, và các buff trung tâm với 100% HP/SP hồi máu, PvP trở nên ít "tất tay" hơn và thiên về vị trí và chiến lược hơn.
 
-**Phần thưởng tiền mặt**
-
-* 3 người chơi đứng đầu sẽ chia nhau phần thưởng tiền mặt, <mark style="color:red;">với 40% cho người đứng đầu 1 và 30% cho mỗi người đứng đầu 2 và 3</mark>. Người chơi có thể tham gia giải đấu miễn phí, nhưng để giành được giải thưởng tiền mặt, cần phải có "vé tham gia" giải đấu, có giá là <mark style="color:red;">10k CP.</mark>
-* <mark style="color:red;">Phí 10.000 RMT sẽ được phân bổ toàn bộ (100%) vào quỹ giải thưởng của giải đấu, cũng như lệ phí tham gia giải đấu.</mark>
-* Nếu một người chơi không có mục nhập nào giành chiến thắng trong Top 3, số tiền sẽ được chia cho 2 người chiến thắng còn lại.
-
 **Giờ mở cửa của đấu trường**
 
 Đấu trường sẽ mở cửa ở chế độ giao hữu (không tính điểm) vào mỗi ngày từ <mark style="color:red;">8:00 sáng đến 9:59 sáng</mark>, từ <mark style="color:red;">3:00 chiều đến 4:59</mark> chiều và từ <mark style="color:red;">7:00 tối đến 8:59 tối</mark>.
