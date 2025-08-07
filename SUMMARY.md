@@ -23,7 +23,7 @@
 * [♾️ 100% Infinite Tower](instances/100-infinite-tower.md)
 * [🐲 Boss Arena](instances/boss-arena.md)
 * [😈 MVP Battle](instances/mvp-battle.md)
-* [🔶 War of Emperiumntitled](instances/war-of-emperiumntitled.md)
+* [🔶 War of Emperium](instances/war-of-emperium.md)
 
 ***
 
@@ -104,4 +104,4 @@
 * [🌄 EP. Louyang](new-episodes/ep.-louyang.md)
 * [🌃 EP. Lutie](new-episodes/ep.-lutie.md)
 * [🏞️ EP. Eldoria](new-episodes/ep.-eldoria.md)
-* [🎑 EP. Amatsuage](new-episodes/ep.-amatsuage.md)
+* [🎑 EP. Amatsu](new-episodes/ep.-amatsu.md)
