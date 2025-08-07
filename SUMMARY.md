@@ -109,4 +109,4 @@
 * [🌄 EP. Louyang](new/ep.-louyang.md)
 * [🌃EP. Lutie](new/ep.-lutie.md)
 * [🏞️ EP. Eldoriage và HƯỚNG DẪN NHIỆM VỤ CHÍNH](new/ep.-eldoriage-va-huong-dan-nhiem-vu-chinh.md)
-* [🎑 EP. Amatsuage](new/ep.-amatsuage.md)
+* [🎑 EP. Amatsu](new/ep.-amatsu.md)
