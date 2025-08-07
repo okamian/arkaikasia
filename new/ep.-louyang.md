@@ -3,6 +3,26 @@ description: >-
   Với những ngọn núi cao chót vót, cánh đồng rộng lớn, và lâu đài Rồng huy hoàng
   có thể nhìn thấy từ khắp nơi trong khu vực, không mất nhiều thời gian để những
   nhà phiêu lưu nước ngoài bị cuốn hút bởi b
+cover: >-
+  https://arkaik.gitbook.io/wiki/~gitbook/image?url=https%3A%2F%2F374823256-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FulCJpraFdDcxhS0sdugO%252Fuploads%252FK4FL9AiBvi240P1ufacQ%252F34.png%3Falt%3Dmedia%26token%3D4786015e-b42f-420c-8e0a-e0ecaf4d9dc8&width=1248&dpr=4&quality=100&sign=f2621230&sv=2
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🌄 EP. Louyang
