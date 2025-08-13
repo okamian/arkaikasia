@@ -49,10 +49,10 @@
 * [🛡️ Hệ Thống Huy Hiệu](systems/coat-of-arms-system.md)
 * [💪 Hệ Thống Tiềm Năng](systems/potential-system.md)
 * [🎰 Vòng Quay Giải Thưởng](systems/prize-wheel.md)
-* [⚛️ Hệ Thống Đá Quý](systems/gem-system.md)
 
 ***
 
+* [⚛️ Hệ Thống Ngọc (Gem System)](he-thong-ngoc-gem-system.md)
 * [🏹 Săn Lùng Thành Thạo](san-lung-thanh-thao.md)
 
 ## NGHỀ NGHIỆP
