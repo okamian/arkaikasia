@@ -34,7 +34,7 @@ description: >-
 <figure><img src="https://content.gitbook.com/content/cRMWNBzOKVfDmKU3tkwa/blobs/NMddi7anZ2DOy0OgX4dT/5555.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Tất cả danh mục</strong></mark></p></figcaption></figure>
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Giới thiệu" %}
 #### **Đặc điểm**
 
 * **Quái vật càng mạnh, càng khó nhận được ngọc của chúng.** Tỉ lệ rơi ngọc của quái có thể từ <mark style="color:red;">**0.01% đến 100%**</mark>.
@@ -72,7 +72,7 @@ description: >-
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="STR" %}
 #### Thuộc Tính
 
 | Quái Vật            | Hiệu Ứng              |
@@ -103,7 +103,7 @@ description: >-
 
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="AGI" %}
 #### Thuộc Tính
 
 | Quái Vật           | Hiệu Ứng |
@@ -155,7 +155,7 @@ description: >-
 
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="VIT" %}
 #### Thuộc Tính
 
 | Quái Vật             | Hiệu Ứng                                   |
@@ -308,7 +308,7 @@ description: >-
 | Gem of Scarlet Ferus    | Khi tiêu diệt quái bằng bất kỳ đòn phép nào, hồi 100 HP. Giảm 100 SP tối đa.                       |
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="INT" %}
 ### Thuộc Tính (Attributes)
 
 | Ngọc                 | Hiệu Ứng                               |
@@ -329,8 +329,247 @@ description: >-
 
 ### SP (Tăng SP Tối Đa)
 
-| Ngọc | Hiệu Ứng |
-| ---- | -------- |
-|      |          |
+| Ngọc              | Hiệu Ứng                                     |
+| ----------------- | -------------------------------------------- |
+| Gem of Medusa     | +290 SP tối đa.                              |
+| Gem of Sohee      | +4% SP tối đa.                               |
+| Gem of Rodda Frog | +10 SP tối đa.                               |
+| Gem of Gold Novus | +250 SP tối đa, +10% tốc độ hồi SP tự nhiên. |
+
+### Hồi SP (SP Recovery)
+
+| Ngọc          | Hiệu Ứng                     |
+| ------------- | ---------------------------- |
+| Gem of Marina | Hồi 1% SP tối đa mỗi 5 giây. |
+
+### Tấn Công Phép & Hiệu Ứng SP
+
+| Ngọc                 | Hiệu Ứng                                                                |
+| -------------------- | ----------------------------------------------------------------------- |
+| Gem of Anolian       | Hút 3 SP từ mục tiêu mỗi đòn đánh thường.                               |
+| Gem of Mummy         | Hồi 7 HP khi tiêu diệt quái bằng tấn công phép.                         |
+| Gem of Drainliar     | Hồi 2 SP khi tấn công.                                                  |
+| Gem of Ancient Mimic | Khi tiêu diệt quái bằng tấn công vật lý, hồi 10 SP. Giảm 100 HP tối đa. |
+
+### Hiệu Ứng Hỗn Hợp (Mixed Effects)
+
+| Ngọc               | Hiệu Ứng                                |
+| ------------------ | --------------------------------------- |
+| Gem of Blue Acidus | +180 SP tối đa, +2 INT, -100 HP tối đa. |
+{% endtab %}
+
+{% tab title="DEX" %}
+### Thuộc Tính (Attribute)
+
+| Ngọc                    | Hiệu Ứng                                           |
+| ----------------------- | -------------------------------------------------- |
+| Gem of Pitman           | +2 DEX (Nhanh Nhẹn).                               |
+| Gem of Greatest General | Nếu dùng bởi Cung Thủ (Archer): +4 DEX.            |
+| Gem of Rocker           | +1 DEX. Nếu dùng bởi Bard hoặc Odalisques: +5 DEX. |
+| Gem of Zerom            | +1 DEX.                                            |
+
+### Giảm Thời Gian Niệm (Casting)
+
+| Ngọc           | Hiệu Ứng                                                          |
+| -------------- | ----------------------------------------------------------------- |
+| Gem of Phen    | -3% thời gian niệm phép.                                          |
+| Gem of Bathory | Giảm 300ms thời gian niệm biến đổi của tất cả kỹ năng. -10% Mana. |
+
+### Hiệu Ứng Chống Né (Effects Against Dodge)
+
+| Ngọc       | Hiệu Ứng                                                  |
+| ---------- | --------------------------------------------------------- |
+| Gem of Gig | Bỏ qua 5% né tránh hoàn hảo (Perfect Dodge) của mục tiêu. |
+
+### Chỉ Số Đánh & Độ Chính Xác (Hit & Accuracy Bonus)
+
+| Ngọc                     | Hiệu Ứng                                                 |
+| ------------------------ | -------------------------------------------------------- |
+| Gem of Prisoner Skeleton | -7% tốc độ di chuyển. +5% tỷ lệ đánh trúng (Hit Chance). |
+| Gem of Earth Deleter     | +2% tỷ lệ đánh trúng (Hit Rate Chance).                  |
+| Gem of Coco              | +4% tỷ lệ đánh trúng (Hit Chance).                       |
+| Gem of Yao Jun           | +30 Hit.                                                 |
+| Gem of Cruiser           | +15 Hit, +10 Perfect Hit.                                |
+| Gem of Elfkid            | +15 Perfect Hit, -15 Chí Mạng (Critical).                |
+| Gem of Antique Firelock  | +12 Perfect Hit, -6% HP và SP tối đa.                    |
+
+### Sát Thương Tầm Xa (Ranged Damage)
+
+| Ngọc                   | Hiệu Ứng                                   |
+| ---------------------- | ------------------------------------------ |
+| Gem of Raydric Archer  | +4% sát thương tấn công tầm xa.            |
+| Gem of Archer Skeleton | +2% sát thương vật lý tầm xa.              |
+| Gem of Goblin Archer   | +3% sát thương tầm xa.                     |
+| Gem of Kobold Archer   | +2% sát thương tầm xa.                     |
+| Gem of Stone Shooter   | Tăng sát thương tầm xa bằng **(DEX/10)%**. |
+{% endtab %}
+
+{% tab title="LUK" %}
+### Thuộc Tính (Attributes - Luck)
+
+| Ngọc                | Hiệu Ứng                          |
+| ------------------- | --------------------------------- |
+| Gem of Mastering    | Nếu LUK > 40, +3 LUK.             |
+| Gem of Raggler      | +1 LUK.                           |
+| Gem of Holden       | +2 LUK.                           |
+| Gem of Poison Spore | Miễn nhiễm không khí độc. +1 LUK. |
+| Gem of Plankton     | -2 STR, +2 LUK.                   |
+| Gem of Lunatic      | +1 LUK.                           |
+| Gem of Condor       | +1 LUK.                           |
+
+### Chí Mạng (Critical)
+
+| Ngọc                    | Hiệu Ứng                                     |
+| ----------------------- | -------------------------------------------- |
+| Gem of Punk             | +2 Chí Mạng (Critical).                      |
+| Gem of Orc Archer       | +5 Chí Mạng khi dùng đòn đánh thường tầm xa. |
+| Gem of Soldier Skeleton | +2% Tỷ Lệ Chí Mạng (Critical Rate).          |
+| Steam Goblin Steamrider | Gây thêm 3% sát thương khi đánh Chí Mạng.    |
+| Gem of Desert Wolf      | +2% Chí Mạng (Critical).                     |
+{% endtab %}
+
+{% tab title="EXTRA" %}
+### Sát Thương Nguyên Tố (Elemental Damage)
+
+| Ngọc                  | Hiệu Ứng                                                            |
+| --------------------- | ------------------------------------------------------------------- |
+| Gem of Wooden Golem   | +7% sát thương Vật Lý & Phép với nguyên tố Đất.                     |
+| Gem of Gibbet         | +4% sát thương Vật Lý & Phép với nguyên tố Đất.                     |
+| Gem of Loli Ruri      | +7% sát thương Vật Lý & Phép với nguyên tố Nước.                    |
+| Gem of Lude           | +20% sát thương phép nguyên tố Hồn Ma (Ghost).                      |
+| Gem of Heirozoist     | +20% sát thương phép nguyên tố Hồn Ma (Ghost).                      |
+| Gem of Dimik          | +4% sát thương Vật Lý với quái thuộc nguyên tố Trung Lập (Neutral). |
+| Gem of Dimik (Wind)   | +4% sát thương Vật Lý với quái nguyên tố Gió.                       |
+| Gem of Dimik (Water)  | +4% sát thương Vật Lý với quái nguyên tố Nước.                      |
+| Gem of Dimik (Earth)  | +4% sát thương Vật Lý với quái nguyên tố Đất.                       |
+| Gem of Dimik (Fire)   | +4% sát thương Vật Lý với quái nguyên tố Lửa.                       |
+| Gem of Venatu         | +4% sát thương phép với quái nguyên tố Trung Lập (Neutral).         |
+| Gem of Venatu (Fire)  | +4% sát thương phép với quái nguyên tố Lửa.                         |
+| Gem of Venatu (Wind)  | +4% sát thương phép với quái nguyên tố Gió.                         |
+| Gem of Venatu (Earth) | +4% sát thương phép với quái nguyên tố Đất.                         |
+| Gem of Venatu (Water) | +4% sát thương phép với quái nguyên tố Nước.                        |
+| Gem of Vadon          | +5% sát thương Vật Lý với nguyên tố Lửa.                            |
+| Gem of Kaho           | +4% sát thương Vật Lý & Phép với nguyên tố Đất.                     |
+| Gem of Rideword       | +3% sát thương với mọi nguyên tố trừ Bóng Tối (Shadow).             |
+| Gem of Merman         | +7% sát thương Vật Lý & Phép với nguyên tố Lửa.                     |
+| Gem of Shelfish       | +4% sát thương Vật Lý & Phép với nguyên tố Nước.                    |
+| Gem of Wind Ghost     | +3% sát thương kỹ năng nguyên tố Gió.                               |
+| Gem of Nightmare      | +3% sát thương kỹ năng nguyên tố Lửa.                               |
+| Gem of Elder Willow   | +4% sát thương Vật Lý & Phép với nguyên tố Lửa.                     |
+| Gem of Willow         | +4% sát thương Vật Lý & Phép với nguyên tố Đất.                     |
+| Gem of Cookie         | +4% sát thương nguyên tố Nước & +4% sát thương nguyên tố Trung Lập. |
+| Gem of Chepet         | +15% sát thương phép nguyên tố Lửa & Thánh.                         |
+
+### Kỹ Năng (Skills)
+
+| Ngọc                   | Hiệu Ứng                                                              |
+| ---------------------- | --------------------------------------------------------------------- |
+| Gem of Disguise        | Giảm hồi chiêu \[Stealth] 1 giây.                                     |
+| Gem of Bloody Murderer | Khi dùng \[Sonic Blow], 3% cơ hội tự thi triển \[Fatal Blow].         |
+| Gem of Quve            | +0.02% tỉ lệ thành công kỹ năng \[Steal].                             |
+| Gem of Teddy Bear      | -10% sát thương nhận từ \[Sonic Blow].                                |
+| Gem of Assaulter       | +10% sát thương \[Magnus Exorcismus].                                 |
+| Gem of Heater          | Giảm 0.2 giây hồi chiêu \[Fire Lance].                                |
+| Gem of Wootan Shooter  | Giảm 2 giây hồi chiêu \[Lord of Vermilion].                           |
+| Gem of Jirtas          | +4% sát thương \[Piercing Stab] & \[Melodic Arrow].                   |
+| Gem of Wanderer        | Cho phép dùng \[Black Slide] Lv.7.                                    |
+| Gem of Injustice       | +15% sát thương \[Sonic Blow].                                        |
+| Gem of Carat           | Cho phép dùng \[Provoke] Lv.8.                                        |
+| Gem of Alice           | +10% sát thương \[Fatal Blow].                                        |
+| Gem of Sandman         | 0.1% cơ hội tự thi triển \[Energy Coat] khi nhận đòn tấn công vật lý. |
+| Gem of Alligator       | +4% sát thương \[Earth Spike].                                        |
+| Gem of Seal            | -10% sát thương nhận từ \[Water Ball].                                |
+| Gem of Otter           | -7% sát thương nhận từ \[Storm Gust].                                 |
+| Gem of Geographer      | Cho phép dùng \[Steal HP] Lv.3.                                       |
+| Gem of Grove           | -40% tiêu hao SP kỹ năng \[Back Slide].                               |
+| Gem of Scarlet Novus   | Có cơ hội gây \[Chaos] khi đánh thường.                               |
+| Gem of Dokebi          | -5% sát thương nhận từ \[Fire Lance].                                 |
+| Gem of Savage Babe     | 0.1% cơ hội gây Choáng (Stun) khi tấn công.                           |
+| Gem of Smokie          | -50% HP tối đa, có thể thấy mục tiêu tàng hình.                       |
+| Gem of Kobold          | -5% sát thương nhận từ \[Double Strafe].                              |
+| Gem of Kobold          | -3% sát thương nhận từ \[Double Strafe].                              |
+| Gem of Grand Orc       | Cho phép dùng \[Endure] Lv.1.                                         |
+| Gem of Orc Lady        | 0.01% cơ hội gây Chảy Máu (Bleeding) khi tấn công.                    |
+| Gem of Pasana          | +4% sát thương \[Sonic Blow].                                         |
+| Gem of Muka            | -5% sát thương nhận từ \[Fire Lance].                                 |
+| Gem of Frilldora       | 0.01% cơ hội tự dùng \[Stealth] Lv.10 khi bị đánh.                    |
+| Gem of Horong          | Cho phép dùng \[Supernova] Lv.1.                                      |
+| Gem of Cookie (Red)    | Giảm 0.2 giây hồi chiêu \[Frost Lance].                               |
+
+### Sát Thương Theo Kích Thước (Size-Based Damage)
+
+| Ngọc               | Hiệu Ứng                                      |
+| ------------------ | --------------------------------------------- |
+| Gem of Old Stove   | +10% sát thương phép lên quái cỡ nhỏ.         |
+| Gem of Dryad       | +5% sát thương phép lên quái cỡ nhỏ.          |
+| Gem of Flora       | +2% sát thương vật lý lên quái cỡ nhỏ.        |
+| Gem of Gold Acidus | +7% sát thương Vật Lý & Phép lên quái cỡ lớn. |
+
+### Chủng Tộc & Nguyên Tố (Races & Elemental Effects)
+
+| Ngọc                  | Hiệu Ứng                                                       |
+| --------------------- | -------------------------------------------------------------- |
+| Gem of Ungoliant      | +20% sát thương với quái côn trùng & thực vật.                 |
+| Gem of Noxious        | Miễn nhiễm khí độc, +6% sát thương với mục tiêu nguyên tố Độc. |
+| Gem of Venomous Cloud | Miễn nhiễm khí độc, +6% sát thương với mục tiêu nguyên tố Độc. |
+| Gem of Rafflesia      | -5% sát thương nhận từ quái hệ Cá.                             |
+| Gem of Grand Peco     | +50% sát thương Vật Lý & Phép với quái Peco Peco.              |
+| Gem of Parasite       | 0.1% cơ hội gây Chảy Máu khi đánh quái hệ Thú.                 |
+| Gem of Argos          | +5% sát thương với quái côn trùng.                             |
+| Gem of Baphomet Jr.   | +50% sát thương Vật Lý & +25% sát thương Phép với Baphomet.    |
+| Gem of Penomena       | +3% sát thương với quái hình người & người chơi.               |
+| Gem of Phendark       | +4% sát thương với quái hình người & người chơi.               |
+| Gem of Sting          | +7% EXP từ quái hệ Vô Định Hình.                               |
+| Gem of Abysmal Knight | +4% sát thương Vật Lý & Phép với Boss.                         |
+| Gem of Megalith       | +20% phòng thủ Vật Lý & Phép trước Tao Gunka.                  |
+| Gem of Goat           | +40% sát thương với quái Goat.                                 |
+| Gem of Demon Pungus   | Bỏ qua 5% phòng thủ quái hệ Quỷ.                               |
+| Gem of Driller        | +5% sát thương Vật Lý & Phép với quái hệ Thú.                  |
+| Gem of Bongun         | Nhận -200% sát thương từ Munak.                                |
+| Gem of Hydra          | +5% sát thương Vật Lý với quái hình người & người chơi.        |
+| Gem of Goblin         | +1% sát thương Vật Lý với quái hình người & người chơi.        |
+| Gem of Goblin         | +2% sát thương Vật Lý với quái hình người & người chơi.        |
+| Gem of Goblin         | +3% sát thương Vật Lý với quái hình người & người chơi.        |
+| Gem of Goblin         | +4% sát thương Vật Lý với quái hình người & người chơi.        |
+| Gem of Goblin         | +5% sát thương Vật Lý với quái hình người & người chơi.        |
+| Gem of Mantis         | Bỏ qua 10% phòng thủ quái côn trùng.                           |
+| Gem of Giearth        | Bỏ qua 3% phòng thủ quái côn trùng.                            |
+
+### Kinh Nghiệm & Rơi Zeny (XP Bonus & Zeny Drop)
+
+| Ngọc                   | Hiệu Ứng                                      |
+| ---------------------- | --------------------------------------------- |
+| Gem of Device          | +30% EXP từ quái thực vật.                    |
+| Gem of Pirate Skeleton | 1% cơ hội nhận tối đa 500 Zeny khi giết quái. |
+| Gem of Owl Duke        | +30% EXP khi tiêu diệt quái ở Glast Heim.     |
+| Gem of Petite          | +5% EXP khi giết quái hệ Rồng.                |
+| Gem of Mandragora      | +7% EXP khi giết quái thực vật.               |
+| Gem of Drops           | +1% tỉ lệ rơi vật phẩm.                       |
+| Gem of Dragon Egg      | +10% EXP từ quái cỡ lớn, -20% HP tối đa.      |
+| Gem of Mystcase        | 5% cơ hội nhận tối đa 500 Zeny khi giết quái. |
+
+### Tăng Sức Chứa (Weight Capacity)
+
+| Ngọc            | Hiệu Ứng                  |
+| --------------- | ------------------------- |
+| Gem of Grizzly  | +1000 trọng lượng tối đa. |
+| Gem of Magnolia | +1000 trọng lượng tối đa. |
+
+### Tất Cả Thuộc Tính (All Attributes)
+
+| Ngọc               | Hiệu Ứng          |
+| ------------------ | ----------------- |
+| Gem of Khalitzburg | +1 tất cả chỉ số. |
+
+### Thuộc Tính Hỗn Hợp (Mixed Attributes)
+
+| Ngọc               | Hiệu Ứng                                                            |
+| ------------------ | ------------------------------------------------------------------- |
+| Gem of Dark Priest | +2 INT, +1 DEX.                                                     |
+| Gem of Peco Peco   | +2 AGI. Nếu dùng bởi Kiếm Sĩ (Swordsman) hoặc các tiến hóa, +3 VIT. |
+{% endtab %}
+
+{% tab title="BOSS" %}
+
 {% endtab %}
 {% endtabs %}
