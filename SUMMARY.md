@@ -49,7 +49,7 @@
 * [🛡️ Coat of Arms System](systems/coat-of-arms-system.md)
 * [💪 Potential System](systems/potential-system.md)
 * [🎰 Prize Wheel](systems/prize-wheel.md)
-* [⚛️ Gem System](systems/gem-system.md)
+* [⚛️Gem System](systems/gem-system.md)
 
 ***
 
