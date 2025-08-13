@@ -472,7 +472,7 @@ description: >-
     **4.6 \[Tiêu diệt Golem dung nham]**
 *   Rei Zell II yêu cầu bạn đánh bại 150x Lava Golem.
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>lối vào hang Magma.Lava Golem ở đây</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>lối vào hang Magma.Lava Golem ở đây</p></figcaption></figure>
 *   Sau đó, Rei Zell II yêu cầu bạn đánh bại 200x Apocalypse.\
 
 
