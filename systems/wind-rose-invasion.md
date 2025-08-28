@@ -2,6 +2,8 @@
 description: >-
   The cities of Arkaik are being taken over by the Wild Roses… will you be able
   to complete all the collections?
+cover: ../.gitbook/assets/image_2025-08-28_083605973.png
+coverY: 0
 ---
 
 # 🌹Wind Rose Invasion
