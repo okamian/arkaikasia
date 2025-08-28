@@ -2,6 +2,8 @@
 description: >-
   Thành phố Arkaik đang bị Wild Roses chiếm đóng… liệu bạn có thể hoàn thành tất
   cả các bộ sưu tập không?
+cover: .gitbook/assets/image_2025-08-28_083705857.png
+coverY: 0
 ---
 
 # 🌹Cuộc Xâm Lăng Hoa Hồng Hoang Dại (Wind Rose Invasion)
