@@ -21,7 +21,7 @@
 * [⚔️ Prontera Dungeon](instances/prontera-dungeon.md)
 * [🏹 Geffen Defense](instances/geffen-defense.md)
 * [♾️ 100% Infinite Tower](instances/100-infinite-tower.md)
-* [🐲 Boss Arena](instances/boss-arena.md)
+* [🐲 Boss Arena](th-thach/boss-arena.md)
 * [😈 MVP Battle](instances/mvp-battle.md)
 
 ***
