@@ -15,6 +15,7 @@
 ## EVENTS
 
 * [🏇 Race to 99](events/waiting-event-asian.md)
+* [☃️ Lutie Event](events/lutie-event.md)
 
 ## INSTANCES
 

@@ -162,7 +162,7 @@ layout:
 
 Hutari Shioko: Amatsu (269,221)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                               <mark style="color:red;">**Location of NPC Hutari Shioko, speak with her.**</mark>\
 \
@@ -171,7 +171,7 @@ Hutari Shioko: Amatsu (269,221)
 Theater Instructor: Amatsu (243,202)\
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                          <mark style="color:red;">**Location of NPC Theater Instructor, speak with her.**</mark>
 
@@ -180,7 +180,7 @@ Theater Instructor: Amatsu (243,202)\
 Bonubonu: Amatsu (283,203)\
 
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                               <mark style="color:red;">**Location of NPC Bonubonu, speak with him.**</mark>
 
@@ -188,7 +188,7 @@ Bonubonu: Amatsu (283,203)\
 
 Veterinarian: Amatsu (274,178)
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                        <mark style="color:red;">**Location of the NPC Veterinarian, speak with her.**</mark>
 
@@ -200,7 +200,7 @@ Veterinarian: Amatsu (274,178)
 * When speaking to him, he will unlock access to the new maps.
 * To unlock the new maps, you must pay a fee of **5,000,000 Zeny**.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                       **(Access)** <mark style="color:red;">**Location of the Hereditary Flame**</mark>**&#x20;NPC.**
 {% endtab %}
@@ -215,14 +215,14 @@ Veterinarian: Amatsu (274,178)
 
 {% tabs %}
 {% tab title="NPC Location" %}
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                       <mark style="color:red;">**Location of the NPC for crafting Shadow Weapons.**</mark>\
 
 
 ## **About the Craftsman**
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                     <mark style="color:red;">**Craftsman Ryuuunosuke**</mark>\
 \
