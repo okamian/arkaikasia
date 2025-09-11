@@ -15,6 +15,7 @@
 ## SỰ KIỆN
 
 * [🏇 Cuộc đua đến 99](events/waiting-event-asian.md)
+* [☃️ Sự Kiện Lutie](su-kien/su-kien-lutie.md)
 
 ## THỬ THÁCH
 
