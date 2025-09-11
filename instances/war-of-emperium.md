@@ -1,4 +1,4 @@
-# 🔶 War of Emperiumntitled
+# 🔶 War of Emperium
 
 The War of Emperium is a PvP event in which guilds compete for control of castles scattered across **Arkaik Online**. During the event, group strategies, organization, and teamwork are essential to invade, defend, and dominate the castles. Victorious guilds receive exclusive rewards and control of certain locations.\
 
@@ -132,7 +132,7 @@ Mission 2: Kill 10 players
 *   Divine items are divided into 2 categories (**Normal** and **Eternal**). Besides attribute differences, crafting an **eternal** divine item will **require the normal version** of that item in addition to other requirements.\
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     &#x20;                                                      <mark style="color:red;">**Mural of items that can be crafted in WoE.**</mark>\
 

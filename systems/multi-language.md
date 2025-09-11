@@ -33,14 +33,14 @@ description: >-
 
 {% tabs %}
 {% tab title="English" %}
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "ENGLISH"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "ENGLISH"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Thailand" %}
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Thailand"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Thailand"</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Vietnam" %}
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Vietnam"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Entire Game Interface of Arkaik in "Vietnam"</strong></mark></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

@@ -28,7 +28,7 @@ description: >-
 *   Talk to the NPC to start the quest.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     &#x20;                                         <mark style="color:red;">**Talk to Kagemetsu and say "I want to become a Ninja**</mark>
 
@@ -38,7 +38,7 @@ description: >-
 *   Be careful with the Shinobis along the way. If they see you, you’ll have to start all over again.\
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     <mark style="color:red;">**Follow the coordinates and talk to the castle NPC. He will expel you, and you’ll need to talk to Kagemetsu again.**</mark>
 
@@ -47,7 +47,7 @@ description: >-
 *   After speaking with Haruno, he will congratulate you for your success and take you back to Kagemetsu.\
 
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     &#x20;                                                     <mark style="color:red;">**Talk to Haruno after the infiltration.**</mark>\
     \
@@ -55,7 +55,7 @@ description: >-
 
 ## 4 - Reporting to Kagemetsu
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Report how the infiltration went, and he will congratulate you — and you will officially become a Ninja.**</mark>
 {% endtab %}

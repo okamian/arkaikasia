@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# 🎑 EP. Amatsuage
+# 🎑 EP. Amatsu
 
 ## **How to Access Amatsu**
 
@@ -162,7 +162,7 @@ layout:
 
 Hutari Shioko: Amatsu (269,221)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                               <mark style="color:red;">**Location of NPC Hutari Shioko, speak with her.**</mark>\
 \
@@ -171,7 +171,7 @@ Hutari Shioko: Amatsu (269,221)
 Theater Instructor: Amatsu (243,202)\
 
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                          <mark style="color:red;">**Location of NPC Theater Instructor, speak with her.**</mark>
 
@@ -180,7 +180,7 @@ Theater Instructor: Amatsu (243,202)\
 Bonubonu: Amatsu (283,203)\
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                               <mark style="color:red;">**Location of NPC Bonubonu, speak with him.**</mark>
 
@@ -188,7 +188,7 @@ Bonubonu: Amatsu (283,203)\
 
 Veterinarian: Amatsu (274,178)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                        <mark style="color:red;">**Location of the NPC Veterinarian, speak with her.**</mark>
 
