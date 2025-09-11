@@ -28,6 +28,7 @@
 
 * [🔶 War of Emperium](war-of-emperium.md)
 * [❄️ Ice Arena 3v3](ice-arena-3v3.md)
+* [🏰 Tháp Rồng](thap-rong.md)
 
 ## HỆ THỐNG
 
