@@ -4,7 +4,7 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 
 # 🎰 Prize Wheel
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **About the Prize Roulette**
 
@@ -38,7 +38,7 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 
 | Item                                                                                  | Quantity |
 | ------------------------------------------------------------------------------------- | -------- |
-| <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">Bubble Gum        | 1        |
+| <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">Bubble Gum    | 1        |
 | ![](../.gitbook/assets/608.png) Yggdrasil Seed                                        | 2        |
 | ![](../.gitbook/assets/607.png) Yggdrasil Fruit                                       | 2        |
 | ![](../.gitbook/assets/12030.png) Box of Resentment                                   | 15       |

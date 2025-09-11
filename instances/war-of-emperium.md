@@ -15,9 +15,9 @@ The War of Emperium is a PvP event in which guilds compete for control of castle
 * The castle order <mark style="color:red;">**will follow a random rotation**</mark>, and once completed, the cycle will restart.\
 
 
-|                                                    Location                                                   |                                                                                                                Castles                                                                                                               |
-| :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <div><figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure></div> | <p><strong>1 - Kriemhild</strong> <br><strong>2</strong> <strong>- Hrist</strong> <br><strong>3 </strong><em><strong>-</strong></em><strong> Brynhildr</strong> <br><strong>4 - Skoegul</strong> <br><strong>5 - Gondul</strong></p> |
+|                                                      Location                                                     |                                                                                                                Castles                                                                                                               |
+| :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <div><figure><img src="../.gitbook/assets/image (37) (1) (1).png" alt=""><figcaption></figcaption></figure></div> | <p><strong>1 - Kriemhild</strong> <br><strong>2</strong> <strong>- Hrist</strong> <br><strong>3 </strong><em><strong>-</strong></em><strong> Brynhildr</strong> <br><strong>4 - Skoegul</strong> <br><strong>5 - Gondul</strong></p> |
 
 ## War Rewards
 
@@ -132,7 +132,7 @@ Mission 2: Kill 10 players
 *   Divine items are divided into 2 categories (**Normal** and **Eternal**). Besides attribute differences, crafting an **eternal** divine item will **require the normal version** of that item in addition to other requirements.\
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     &#x20;                                                      <mark style="color:red;">**Mural of items that can be crafted in WoE.**</mark>\
 

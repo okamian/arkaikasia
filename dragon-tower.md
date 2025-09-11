@@ -10,7 +10,7 @@ description: >-
 
 * The NPC "**Rune Guardian**" is located in the city of "**Aldebaran**" near the clock tower.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ⚔️ Game Modes\
 The instance has three difficulty levels:
@@ -39,4 +39,4 @@ The instance has three difficulty levels:
 * The obtained items are used in the **Enchantment System**.
 * Accumulate coins to strengthen your items.
 
-<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
