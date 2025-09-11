@@ -50,7 +50,7 @@
 * [✨ Hệ Thống Aura](systems/aura-system.md)
 * [🛡️ Hệ Thống Huy Hiệu](systems/coat-of-arms-system.md)
 * [💪 Hệ Thống Tiềm Năng](systems/potential-system.md)
-* [Page](he-thong/page.md)
+* [🎰Vòng Quay May Mắn (Prize Wheel)](he-thong/vong-quay-may-man-prize-wheel.md)
 
 ***
 
