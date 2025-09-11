@@ -23,7 +23,7 @@ description: A new event for Christmas
 
 * In **LUTIE**, talk to the **Christmas Event** NPC to start your mission.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;&#xNAN;_&#x4E;PC "Christmas Event," located in Lutie_
 
@@ -31,15 +31,15 @@ description: A new event for Christmas
 * Defeat some **Santa Poring** and bring **30 Christmas Cake**.
 * You can find them in: Zaro, Payon, Morocc, Geffen, Prontera, Alberta, Aldebaran (Santa Poring, Christmas Orc, Christmas Goblin).
 
-| Monster                                                  | Item                                                       | QTY    |
-| -------------------------------------------------------- | ---------------------------------------------------------- | ------ |
-|  ![](<../.gitbook/assets/image (1).png>)**Santa Poring** |  ![](<../.gitbook/assets/image (2).png>)**Christmas Cake** | **30** |
+| Monster                                                      | Item                                                           | QTY    |
+| ------------------------------------------------------------ | -------------------------------------------------------------- | ------ |
+|  ![](<../.gitbook/assets/image (1) (1).png>)**Santa Poring** |  ![](<../.gitbook/assets/image (2) (1).png>)**Christmas Cake** | **30** |
 
 * After collecting "30 **Christmas Cake**" go back to the "**Christmas Event**" NPC, who will give you "Asinhas do Inverno" as a reward.
 
-| Reward                                                   | Illustration                                                                                        |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-|  ![](<../.gitbook/assets/image (3).png>)**Winter Wings** | <div><figure><img src="../.gitbook/assets/4431.gif" alt=""><figcaption></figcaption></figure></div> |
+| Reward                                                       | Illustration                                                                                        |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+|  ![](<../.gitbook/assets/image (3) (1).png>)**Winter Wings** | <div><figure><img src="../.gitbook/assets/4431.gif" alt=""><figcaption></figcaption></figure></div> |
 
 ***
 
@@ -47,7 +47,7 @@ description: A new event for Christmas
 
 * After completing the first mission, start the second one at the **Little Scarf** NPC.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;&#xNAN;_&#x4E;PC Little Scarf in Lutie_
 
@@ -55,15 +55,15 @@ description: A new event for Christmas
 * Defeat some **Christmas Goblin** and bring **40 Gift Ribbons**.
 * You can find them in: Zaro, Payon, Morocc, Geffen, Prontera, Alberta, Aldebaran (Santa Poring, Christmas Orc, Christmas Goblin).
 
-| Monster                                                      | Item                                                  | QTY    |
-| ------------------------------------------------------------ | ----------------------------------------------------- | ------ |
-|  ![](<../.gitbook/assets/image (6).png>)**Christmas Goblin** |  ![](<../.gitbook/assets/image (7).png>)**Gift Loop** | **40** |
+| Monster                                                          | Item                                                      | QTY    |
+| ---------------------------------------------------------------- | --------------------------------------------------------- | ------ |
+|  ![](<../.gitbook/assets/image (6) (1).png>)**Christmas Goblin** |  ![](<../.gitbook/assets/image (7) (1).png>)**Gift Loop** | **40** |
 
 * After collecting 20 **Gift Loop**, return to **Cachecolina** NPC,who will give you "Scarf with Ribbon" as a reward.
 
-| Reward                                                     | Illustration                                                                                        |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![](<../.gitbook/assets/image (8).png>) **Scarf With Bow** | <div><figure><img src="../.gitbook/assets/4123.gif" alt=""><figcaption></figcaption></figure></div> |
+| Reward                                                         | Illustration                                                                                        |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![](<../.gitbook/assets/image (8) (1).png>) **Scarf With Bow** | <div><figure><img src="../.gitbook/assets/4123.gif" alt=""><figcaption></figcaption></figure></div> |
 
 ***
 
@@ -71,26 +71,26 @@ description: A new event for Christmas
 
 * After completing the second mission, continue at the **Sweetooth** NPC.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;&#xNAN;_&#x4E;PC Sweetooth in Lutie_
 
 * Collect **20 Sweet Potato** (buy from NPC seller).
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 &#xNAN;_&#x53;eller of Fruits NPC_
 
-| Item                                                      | QTY    |
-| --------------------------------------------------------- | ------ |
-|  ![](<../.gitbook/assets/image (11).png>)**Sweet Potato** | **20** |
+| Item                                                          | QTY    |
+| ------------------------------------------------------------- | ------ |
+|  ![](<../.gitbook/assets/image (11) (1).png>)**Sweet Potato** | **20** |
 
 * After collecting 20 Sweet Potato + 20 Candy Cane, return to **Sweetooth** NPC,who will give you "Christmas Cat Hat" as a reward.
 
-| Reward                                                         | Illustration                                                                                        |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-|  ![](<../.gitbook/assets/image (12).png>)**Christmas Cat Hat** | <div><figure><img src="../.gitbook/assets/4412.gif" alt=""><figcaption></figcaption></figure></div> |
+| Reward                                                             | Illustration                                                                                        |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+|  ![](<../.gitbook/assets/image (12) (1).png>)**Christmas Cat Hat** | <div><figure><img src="../.gitbook/assets/4412.gif" alt=""><figcaption></figcaption></figure></div> |
 
 ***
 
@@ -100,7 +100,7 @@ description: A new event for Christmas
 
 * Continue talking to **True Santa** NPC.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;&#xNAN;_&#x4E;PC True Santa in Lutie_
 
@@ -111,9 +111,9 @@ description: A new event for Christmas
 * Christmas/Santa monsters = 1% drop chance
 * After finishing, go back to the "**True Santa**" NPC and hand over the "**Christmas Hat**" to proceed.
 
-| Monster                                              | Item                                                       | QTY   |
-| ---------------------------------------------------- | ---------------------------------------------------------- | ----- |
-|  ![](<../.gitbook/assets/image (14).png>)**Antonio** |  ![](<../.gitbook/assets/image (15).png>)**Christmas Hat** | **1** |
+| Monster                                                  | Item                                                       | QTY   |
+| -------------------------------------------------------- | ---------------------------------------------------------- | ----- |
+|  ![](<../.gitbook/assets/image (14) (1).png>)**Antonio** |  ![](<../.gitbook/assets/image (15).png>)**Christmas Hat** | **1** |
 
 ***
 

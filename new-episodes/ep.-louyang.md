@@ -14,7 +14,7 @@ description: >-
 *   You need to access the npc in alberta for the first time.\
 
 
-    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1234.gif" alt=""><figcaption></figcaption></figure>
 

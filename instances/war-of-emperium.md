@@ -132,7 +132,7 @@ Mission 2: Kill 10 players
 *   Divine items are divided into 2 categories (**Normal** and **Eternal**). Besides attribute differences, crafting an **eternal** divine item will **require the normal version** of that item in addition to other requirements.\
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     &#x20;                                                      <mark style="color:red;">**Mural of items that can be crafted in WoE.**</mark>\
 

@@ -17,7 +17,7 @@ description: More powerful than ever, yet sealed—would you dare to break this 
 * As long as the MVPs are **not revived**, they will appear as **petrified statues**.
 * To **release them**, simply call a <mark style="color:red;">**Priest**</mark>, who can break the seal and **set them free**.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **MVP Locations List**
 

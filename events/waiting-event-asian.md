@@ -6,7 +6,7 @@ description: >-
 
 # 🏇 Race to 99
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Modalities and Rules
 
