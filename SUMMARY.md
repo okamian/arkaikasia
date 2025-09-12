@@ -106,6 +106,9 @@
       * [🟩 (Middle/Vision) | August](cua-hang-cashshop/shop/my-pham/august-or-2025/middle-vision-or-august.md)
       * [🟩 (Bottom/Mouth) | August](cua-hang-cashshop/shop/my-pham/august-or-2025/bottom-mouth-or-august.md)
       * [🟩 (Garmet) | August](cua-hang-cashshop/shop/my-pham/august-or-2025/garmet-or-august.md)
+    * [🛍️September | 2025](cua-hang-cashshop/shop/my-pham/september-or-2025/README.md)
+      * [🟩 Head](cua-hang-cashshop/shop/my-pham/september-or-2025/head.md)
+      * [🟩 Vision](cua-hang-cashshop/shop/my-pham/september-or-2025/vision.md)
 
 ## &#x20;NEW
 
