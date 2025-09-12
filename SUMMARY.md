@@ -53,6 +53,7 @@
 * [🎰 Prize Wheel](systems/prize-wheel.md)
 * [⚛️Gem System](systems/gem-system.md)
 * [🌹Wind Rose Invasion](systems/wind-rose-invasion.md)
+* [🧙‍♂️ Enchant System](systems/enchant-system.md)
 
 ***
 
