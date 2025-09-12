@@ -56,6 +56,7 @@
 
 * [⚛️ Hệ Thống Ngọc (Gem System)](he-thong-ngoc-gem-system.md)
 * [🌹Cuộc Xâm Lăng Hoa Hồng Hoang Dại (Wind Rose Invasion)](cuoc-xam-lang-hoa-hong-hoang-dai-wind-rose-invasion.md)
+* [🧙‍♂️ Hệ thống phù phép (Enchant System)](he-thong-phu-phep-enchant-system.md)
 * [🏹 Săn Lùng Thành Thạo](san-lung-thanh-thao.md)
 
 ## NGHỀ NGHIỆP
