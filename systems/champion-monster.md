@@ -4,7 +4,7 @@ description: >-
   một số điều kiện nhất định được đáp ứng.
 ---
 
-# 🏆 Quái Vật Champion
+# 🏆 Quái Vật Vô Địch
 
 <figure><img src="../.gitbook/assets/mmmm.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Quái Vật Champion Đang Hành Động</strong></mark></p></figcaption></figure>
 
@@ -34,8 +34,18 @@ Nếu việc triệu hồi không xảy ra, cơ hội tiếp theo sẽ tăng lê
 
 ***
 
-## **Các Loại Champion*** Loại Champion được triệu hồi là ngẫu nhiên. Bảng dưới đây hiển thị các đặc điểm của từng quái vật.
+## **Các Loại Champion**
 
-<table><thead><tr><th width="102">Loại</th><th width="92">Sát thương</th><th width="151">Sức khỏe</th><th width="147">Kháng</th><th>Tính năng</th></tr></thead><tbody><tr><td><mark style="background-color:green;">Ventus</mark></td><td>+7%</td><td>30</td><td>Gió = 90%</td><td>Nome</td></tr><tr><td><mark style="background-color:yellow;">Solid</mark></td><td>+7%</td><td>700</td><td>Đất = 90%</td><td>Có 1% cơ hội làm gãy vũ khí</td></tr><tr><td><mark style="background-color:purple;">Necro</mark></td><td>+7%</td><td>1500</td><td>Undead = 90%</td><td>Khôi phục 3% HP của mob</td></tr><tr><td><mark style="background-color:orange;">Fairer</mark></td><td>+7%</td><td>Không bị gián đoạn</td><td>Fire = 90%</td><td>Có [Endure] đang hoạt động</td></tr><tr><td><mark style="background-color:blue;">Elusive</mark></td><td>+7%</td><td>Không bị gián đoạn</td><td>Nome</td><td>Không nhận sát thương vật lý</td></tr></tbody></table>## **Thông số hệ thống**
+* Loại Champion được triệu hồi là ngẫu nhiên. Bảng dưới đây hiển thị các đặc điểm của từng quái vật.
+
+| Loại    | Sát thương | Máu   | Di chuyển      | Kháng        | Đặc điểm                     |
+| ------- | ---------- | ----- | -------------- | ------------ | ---------------------------- |
+| Ventus  | +700%      | +900% | 30             | Gió = 90%    | Nome                         |
+| Solid   | +700%      | +900% | 700            | Đất = 90%    | 1% cơ hội phá vũ khí         |
+| Necro   | +700%      | +900% | 1500           | Undead = 90% | Hồi phục 3% HP của quái      |
+| Fairer  | +700%      | +900% | Không thể ngắt | Lửa = 90%    | Luôn có \[Endure]            |
+| Elusive | +700%      | +900% | Không thể ngắt | Nome         | Miễn nhiễm sát thương vật lý |
+
+\## \*\*Thông số hệ thống\*\*
 
 <table><thead><tr><th width="169">Thông số</th><th>Loại</th></tr></thead><tbody><tr><td>Liên kết</td><td>Không có</td></tr><tr><td>Hạn chế</td><td>Không hoạt động với <strong>quái vật huyền thoại</strong>, và chỉ một <strong>Quái vật Champion</strong> được triệu hồi tại một thời điểm trong khi một quái vật khác vẫn còn sống trên cùng một bản đồ.</td></tr></tbody></table>
