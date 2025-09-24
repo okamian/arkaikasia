@@ -34,11 +34,11 @@ If the summoning does not occur, the next chance will increase to **2.50%**, and
 
 ***
 
-## **Champion Types**
+### **Champion Types**
 
 * The type of Champion summoned is random. The table below shows the characteristics of each monster.
 
-<table><thead><tr><th width="84.22222900390625">Type</th><th width="76.4444580078125">Damage</th><th width="74.6666259765625">Health</th><th width="131">Movement</th><th width="139.2222900390625">Resist</th><th>Feature</th></tr></thead><tbody><tr><td><mark style="background-color:green;">Ventus</mark></td><td>+7%</td><td>+7%</td><td>30</td><td>Wind = 90%</td><td>Nome</td></tr><tr><td><mark style="background-color:yellow;">Solid</mark></td><td>+7%</td><td>+17%</td><td>700</td><td>Earth = 90%</td><td>1% chance to break weapon</td></tr><tr><td><mark style="background-color:purple;">Necro</mark></td><td>+7%</td><td>+9%</td><td>1500</td><td>Undead = 90%</td><td>Recovers 3% of mob's HP</td></tr><tr><td><mark style="background-color:orange;">Fairer</mark></td><td>+7%</td><td>+11%</td><td>Uninterruptible</td><td>Fire = 90%</td><td>Has [Endure] active</td></tr><tr><td><mark style="background-color:blue;">Elusive</mark></td><td>+7%</td><td>+9%</td><td>Uninterruptible</td><td>Nome</td><td>Takes no physical damage</td></tr></tbody></table>
+<table><thead><tr><th width="84.22222900390625">Type</th><th width="112.6944580078125">Damage</th><th width="99.6666259765625">Health</th><th width="131">Movement</th><th width="139.2222900390625">Resist</th><th>Feature</th></tr></thead><tbody><tr><td>Ventus</td><td>+700%</td><td>+900%</td><td>30</td><td>Wind = 90%</td><td>Nome</td></tr><tr><td>Solid</td><td>+700%</td><td>+900%</td><td>700</td><td>Earth = 90%</td><td>1% chance to break weapon</td></tr><tr><td>Necro</td><td>+700%</td><td>+900%</td><td>1500</td><td>Undead = 90%</td><td>Recovers 3% of mob's HP</td></tr><tr><td>Fairer</td><td>+700%</td><td>+900%</td><td>Uninterruptible</td><td>Fire = 90%</td><td>Has [Endure] active</td></tr><tr><td>Elusive</td><td>+700%</td><td>+900%</td><td>Uninterruptible</td><td>Nome</td><td>Takes no physical damage</td></tr></tbody></table>
 
 ## **System Specifications**
 
