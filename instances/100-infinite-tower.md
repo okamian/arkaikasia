@@ -40,7 +40,7 @@ description: >-
 **2. Cấu Trúc Tháp**
 
 * Tháp bao gồm <mark style="color:red;">**100 tầng**</mark>, mỗi tầng đều khó khăn hơn tầng trước.
-* <mark style="color:red;">**Sau khi hoàn thành tất cả 100 tầng, nó sẽ TỰ ĐỘNG ĐẶT LẠI**</mark> về **tầng 1**. Tuy nhiên, tất cả **quái vật sẽ mạnh hơn, với HP tăng và tỷ lệ LOOT cao hơn**.
+* <mark style="color:red;">**Sau khi hoàn thành tất cả 100 tầng, nó sẽ TỰ ĐỘNG ĐẶT LẠI**</mark> về **tầng 1**. Tuy nhiên, tất cả **quái vật sẽ mạnh hơn, với HP tăng**.
 * **Tầng thường:**
   * Bạn sẽ đối mặt với các đợt quái vật thông thường.
 * **Tầng kiểm tra (mỗi 5-10 tầng):**
