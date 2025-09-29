@@ -40,7 +40,7 @@ description: >-
 **2. Tower Structure**
 
 * The tower consists of <mark style="color:red;">**100 floors**</mark>, each more challenging than the previous one.
-* <mark style="color:red;">**After completing all 100 floors, it will RESET**</mark> back to **level 1** automatically. However, all **monsters will become stronger, with increased HP and higher LOOT rates**.
+* <mark style="color:red;">**After completing all 100 floors, it will RESET**</mark> back to **level 1** automatically. However, all **monsters will become stronger, with increased HP.**
 * **Regular floors:**
   * You will face waves of common monsters.
 * **Checkpoint floors (every 5-10 floors):**
