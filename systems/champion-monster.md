@@ -12,6 +12,8 @@ description: >-
 
 * Khi một **Champion** xuất hiện, nó sẽ được thông báo đến tất cả người chơi trên bản đồ.
 * **Champions mang lại 30 lần kinh nghiệm hơn và có tỷ lệ rơi đồ gấp 10 lần.**
+* Giờ đây, vật phẩm Đồng Tiền Hoàng Gia có thể rơi ra từ bất kỳ quái vật vô địch nào.
+* Tỷ lệ rơi bắt đầu từ 0,1% từ quái vật vô địch cấp 1, cho đến 5% từ quái vật vô địch cấp 99 trở lên.
 
 ***
 
