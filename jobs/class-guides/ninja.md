@@ -105,5 +105,10 @@ description: >-
 | <div><figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure></div> |        <p>My Ninja Way</p><p><br></p>       |             <p>At max mastery level, the skills {Wind Blade}, {Freezing Spear}, and {Flaming Petals} can deal critical damage. Critical damage is reduced by -10% when autocast, and is reduced by -20% when manually cast.</p><p><br></p>            |          300          |
 | <div><figure><img src="../../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure></div> | <p>Master Minato's Teachings</p><p><br></p> |                                              <p>At max mastery level, when using the skill {Throw Shuriken}, you automatically teleport to the thrown Kunai, standing on top of the enemy.</p><p><br></p>                                             |           80          |
 | <div><figure><img src="../../.gitbook/assets/image (34) (1) (1).png" alt=""><figcaption></figcaption></figure></div> |     <p>Ancestral Ninjutsu</p><p><br></p>    |                                                                   <p>At max mastery level, after using the skill {Deadly Attack}, it allows the user to have 10% HP.</p><p><br></p>                                                                   |          120          |
+
+| <div><figure><img src="../../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure></div> | Flaming Petals | At maximum mastery level, {Flaming Petals} gains +2 hits. | 100 |
+| ------------------------------------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------- | --- |
+| <div><figure><img src="../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure></div> | Freezing Spear | At maximum mastery level, {Freezing Spear} gains +2 hits. | 100 |
+| <div><figure><img src="../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure></div> | Wind Blade     | At maximum mastery level, {Wind Blade} gains +2 hits.     | 100 |
 {% endtab %}
 {% endtabs %}
