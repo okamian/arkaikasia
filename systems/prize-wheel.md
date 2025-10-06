@@ -36,16 +36,16 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 
 ### <mark style="background-color:purple;">Uncommon - 23%</mark>
 
-| Item                                                                                  | Quantity |
-| ------------------------------------------------------------------------------------- | -------- |
-| <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">Bubble Gum    | 1        |
-| ![](../.gitbook/assets/608.png) Yggdrasil Seed                                        | 2        |
-| ![](../.gitbook/assets/607.png) Yggdrasil Fruit                                       | 2        |
-| ![](../.gitbook/assets/12030.png) Box of Resentment                                   | 15       |
-| ![](../.gitbook/assets/12031.png) Box of Drowsiness                                   | 15       |
-| ![](../.gitbook/assets/12028.png) Box of Thunder                                      | 15       |
-| <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">Old Gem Album | 1        |
-| ![](<../.gitbook/assets/image (4).png>)Mysterious Pet Egg                             | 1        |
+| Item                                                                                   | Quantity |
+| -------------------------------------------------------------------------------------- | -------- |
+| <img src="../.gitbook/assets/image (1) (1) (2).png" alt="" data-size="line">Bubble Gum | 1        |
+| ![](../.gitbook/assets/608.png) Yggdrasil Seed                                         | 2        |
+| ![](../.gitbook/assets/607.png) Yggdrasil Fruit                                        | 2        |
+| ![](../.gitbook/assets/12030.png) Box of Resentment                                    | 15       |
+| ![](../.gitbook/assets/12031.png) Box of Drowsiness                                    | 15       |
+| ![](../.gitbook/assets/12028.png) Box of Thunder                                       | 15       |
+| <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">Old Gem Album  | 1        |
+| ![](<../.gitbook/assets/image (4).png>)Mysterious Pet Egg                              | 1        |
 
 ### <mark style="background-color:orange;">Rare - 6%</mark>
 

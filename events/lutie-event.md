@@ -31,9 +31,9 @@ description: A new event for Christmas
 * Defeat some **Santa Poring** and bring **30 Christmas Cake**.
 * You can find them in: Zaro, Payon, Morocc, Geffen, Prontera, Alberta, Aldebaran (Santa Poring, Christmas Orc, Christmas Goblin).
 
-| Monster                                                          | Item                                                               | QTY    |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------ | ------ |
-|  ![](<../.gitbook/assets/image (1) (1) (2).png>)**Santa Poring** |  ![](<../.gitbook/assets/image (2) (1) (2).png>)**Christmas Cake** | **30** |
+| Monster                                                              | Item                                                               | QTY    |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------ | ------ |
+|  ![](<../.gitbook/assets/image (1) (1) (2) (1).png>)**Santa Poring** |  ![](<../.gitbook/assets/image (2) (1) (2).png>)**Christmas Cake** | **30** |
 
 * After collecting "30 **Christmas Cake**" go back to the "**Christmas Event**" NPC, who will give you "Asinhas do Inverno" as a reward.
 
