@@ -11,8 +11,7 @@ description: >-
 
 * To access the city of **"**<mark style="color:red;">**Louyang**</mark>**"**, simply head to the Kafra in any city, go to **"**<mark style="color:red;">**Teleportar**</mark>**"**, and select the city.
 * **Note:** Access will be available in Kafra after saving at least once in Louyang City. (defalut acess)
-*   You need to access the npc in alberta for the first time.\
-
+*   You need to access the npc in alberta for the first time.<br>
 
     <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

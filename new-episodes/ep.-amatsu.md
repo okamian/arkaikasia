@@ -4,23 +4,6 @@ description: >-
   "Amatsu-Mikaboshi" and refers to a malevolent  god.
 cover: ../.gitbook/assets/image (910).png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🎑 EP. Amatsu
@@ -87,8 +70,7 @@ layout:
 <figure><img src="../.gitbook/assets/image (917).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                           <mark style="color:red;">**Map Amatsu Field Map (**</mark><mark style="color:red;">**`ama_fild01`**</mark><mark style="color:red;">**)**</mark>\
-\
-
+<br>
 
 |                                                      Monsters                                                     |    Race    |  Size	 |  Element  |
 | :---------------------------------------------------------------------------------------------------------------: | :--------: | :----: | :-------: |
@@ -134,8 +116,7 @@ layout:
 <figure><img src="../.gitbook/assets/image (937).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                    <mark style="color:red;">**Map Underground Shrine Map**</mark> <mark style="color:red;"></mark><mark style="color:red;">(</mark><mark style="color:red;">`ama_dun03`</mark><mark style="color:red;">)</mark>\
-\
-
+<br>
 
 | Monsters                                                                                                                                                                                                                                                                                                                                                                          |  Race                        | Size   | Element   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------ | --------- |
@@ -168,8 +149,7 @@ Hutari Shioko: Amatsu (269,221)
 \
 **Second NPC**
 
-Theater Instructor: Amatsu (243,202)\
-
+Theater Instructor: Amatsu (243,202)<br>
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -177,8 +157,7 @@ Theater Instructor: Amatsu (243,202)\
 
 ### **Third NPC** <a href="#third-npc" id="third-npc"></a>
 
-Bonubonu: Amatsu (283,203)\
-
+Bonubonu: Amatsu (283,203)<br>
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -217,16 +196,14 @@ Veterinarian: Amatsu (274,178)
 {% tab title="NPC Location" %}
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;                                       <mark style="color:red;">**Location of the NPC for crafting Shadow Weapons.**</mark>\
-
+&#x20;                                       <mark style="color:red;">**Location of the NPC for crafting Shadow Weapons.**</mark><br>
 
 ## **About the Craftsman**
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                     <mark style="color:red;">**Craftsman Ryuuunosuke**</mark>\
-\
-
+<br>
 
 * He is responsible for crafting **“Shadow Equipment”**.
 * There is a large list of new items that can be crafted.

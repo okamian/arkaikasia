@@ -8,8 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Ninjas can vary in attributes and skills depending on their build.\
-
+* Ninjas can vary in attributes and skills depending on their build.<br>
 
 {% tabs %}
 {% tab title="Class Change" %}
@@ -25,8 +24,7 @@ description: >-
 
 ## **1 - Talking to Kagemetsu**
 
-*   Talk to the NPC to start the quest.\
-
+*   Talk to the NPC to start the quest.<br>
 
     <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -35,8 +33,7 @@ description: >-
 ## **2 - Infiltrating the Castle**
 
 * You must follow the arrows on the ground that will lead you to the target NPC.
-*   Be careful with the Shinobis along the way. If they see you, you’ll have to start all over again.\
-
+*   Be careful with the Shinobis along the way. If they see you, you’ll have to start all over again.<br>
 
     <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,14 +41,12 @@ description: >-
 
 ## **3 - Talking to Haruno**
 
-*   After speaking with Haruno, he will congratulate you for your success and take you back to Kagemetsu.\
-
+*   After speaking with Haruno, he will congratulate you for your success and take you back to Kagemetsu.<br>
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     &#x20;                                                     <mark style="color:red;">**Talk to Haruno after the infiltration.**</mark>\
-    \
-
+    <br>
 
 ## 4 - Reporting to Kagemetsu
 

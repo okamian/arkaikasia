@@ -45,7 +45,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Acquired Items" %}
-<table><thead><tr><th width="155">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01GE (1).png" alt=""><strong>Memory Gem</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="broken-reference">Prontera Dungeon</a>]</td></tr></tbody></table>
+<table><thead><tr><th width="155">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01GE (1).png" alt=""><strong>Memory Gem</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="/broken/pages/jb0rXFI6u78mz817Y9u5">Prontera Dungeon</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -70,7 +70,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Acquired Items" %}
-<table><thead><tr><th width="149">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01bw (1).png" alt=""><strong>Black Wing</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="broken-reference">Prontera Dungeon</a>]</td></tr></tbody></table>
+<table><thead><tr><th width="149">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01bw (1).png" alt=""><strong>Black Wing</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="/broken/pages/jb0rXFI6u78mz817Y9u5">Prontera Dungeon</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -98,7 +98,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Acquired Items" %}
-<table><thead><tr><th width="158">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01C (1).png" alt=""><strong>Ancient Skull</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="broken-reference">Prontera Dungeon</a>]</td></tr></tbody></table>
+<table><thead><tr><th width="158">Item</th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-01C (1).png" alt=""><strong>Ancient Skull</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="/broken/pages/jb0rXFI6u78mz817Y9u5">Prontera Dungeon</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -127,6 +127,6 @@ description: >-
 {% endtab %}
 
 {% tab title="Acquired Items" %}
-<table><thead><tr><th width="182">Item </th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-MG (1).png" alt=""><strong>Flaming Agate</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="broken-reference">Prontera Dungeon</a>]</td></tr></tbody></table>
+<table><thead><tr><th width="182">Item </th><th>Information</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/100px-MG (1).png" alt=""><strong>Flaming Agate</strong></td><td>Item used for crafting equipment at the CRAFTS NPC in [<a href="/broken/pages/jb0rXFI6u78mz817Y9u5">Prontera Dungeon</a>]</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

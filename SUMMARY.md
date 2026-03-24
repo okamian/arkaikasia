@@ -3,7 +3,7 @@
 ## BASICS
 
 * [🖥️ Server Information](README.md)
-* [📘 Arkaik Introduction Guide](basics/arkaik-introduction-guide.md)
+* [📘 Introduction Guide](basics/introduction-guide.md)
 * [👑 VIP (PREMIUM) System](basics/vip-premium-system.md)
 * [🖱️ HUD & Interface](basics/hud-and-interface.md)
 * [📜 In-Game Rules](basics/in-game-rules.md)

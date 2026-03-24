@@ -11,7 +11,7 @@ description: >-
 
 ## **About the HUD**
 
-* Upon entering **Arkaik**, you will notice various pieces of information. We will list some of them to guide you.
+* Upon entering **Tales of Loki Valorian**, you will notice various pieces of information. We will list some of them to guide you.
 
 <figure><img src="../.gitbook/assets/1300px-Infosark2.png" alt=""><figcaption><p><mark style="color:red;"><strong>General Overview of the HUD</strong></mark></p></figcaption></figure>
 
@@ -72,7 +72,7 @@ description: >-
 
 ## Details of the
 
-* #### **Summary of the "Quests" Screen**
+* **Summary of the "Quests" Screen**
 
 <figure><img src="../.gitbook/assets/1231.png" alt=""><figcaption><p><mark style="color:red;"><strong>When you click on a quest, a window will appear containing some information.</strong></mark></p></figcaption></figure>
 
@@ -82,7 +82,7 @@ description: >-
 
 * Each quest flag has a visual representation to indicate its type.
 
-<table><thead><tr><th width="102" data-type="files">Ícone</th><th width="129">Tipo</th><th>Descrição</th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:red;">Event</mark></td><td>These quests are obtained during specific times of the year or thematic events. Whether they are repeatable or not depends on the event itself.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:yellow;">Main</mark></td><td>These quests are part of the episode and are mandatory if you want to unlock the next episodes. They can only be completed once.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:blue;">Side</mark></td><td>These quests are optional and do not interfere with unlocking new episodes. They can only be completed once.</td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><mark style="color:green;">Repeatable</mark></td><td>These quests are optional and do not interfere with unlocking new episodes. They can be done multiple times, as long as the player meets the required conditions.</td></tr></tbody></table>
+<table><thead><tr><th width="102" data-type="files">Ícone</th><th width="129">Tipo</th><th>Descrição</th></tr></thead><tbody><tr><td></td><td><mark style="color:red;">Event</mark></td><td>These quests are obtained during specific times of the year or thematic events. Whether they are repeatable or not depends on the event itself.</td></tr><tr><td></td><td><mark style="color:yellow;">Main</mark></td><td>These quests are part of the episode and are mandatory if you want to unlock the next episodes. They can only be completed once.</td></tr><tr><td></td><td><mark style="color:blue;">Side</mark></td><td>These quests are optional and do not interfere with unlocking new episodes. They can only be completed once.</td></tr><tr><td></td><td><mark style="color:green;">Repeatable</mark></td><td>These quests are optional and do not interfere with unlocking new episodes. They can be done multiple times, as long as the player meets the required conditions.</td></tr></tbody></table>
 
 ## Bestiary Screen (ALT + B) B)
 
