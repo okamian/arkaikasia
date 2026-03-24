@@ -4,7 +4,7 @@ description: >-
   game.**
 ---
 
-# 📘 Arkaik Introduction Guide
+# 📘 Introduction Guide
 
 ## **Introduction Guide**
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Arkaik: Tales of Sarina features an interface inspired by other games, thanks
+  Tales of Loki Valorian features an interface inspired by other games, thanks
   to the technology provided by Hemera. So, if you're a veteran Ragnarok player,
   you might feel a bit lost at first.
 ---
@@ -32,7 +32,7 @@ description: >-
 
 ## **Inventory Screen (ALT + Q)**
 
-* In **Arkaik: Tales of Sarina**, the equipment and item screens are combined into a single interface to make things easier for everyone. Equip, unequip, and search for items from this screen.
+* In **Tales of Loki: Valorian**, the equipment and item screens are combined into a single interface to make things easier for everyone. Equip, unequip, and search for items from this screen.
 
 <figure><img src="../.gitbook/assets/Stats2.gif" alt="" width="343"><figcaption><p><mark style="color:red;"><strong>Inventory Table</strong></mark></p></figcaption></figure>
 
@@ -62,13 +62,13 @@ description: >-
 
 ## Quest's Screen (ALT + E
 
-* "Arkaik: Tales of Sarina" features various quests divided into episodes. With each new game expansion, a new set of.
+* "Tales of Loki: Valorian" features various quests divided into episodes. With each new game expansion, a new set of.
 
 <figure><img src="../.gitbook/assets/disc2239.gif" alt="" width="414"><figcaption><p><mark style="color:red;"><strong>ALT+E ( Missions tab )</strong></mark></p></figcaption></figure>
 
 * In this table, you can see what each
 
-<table><thead><tr><th width="157">Tab Name</th><th>Description</th></tr></thead><tbody><tr><td>Episode</td><td>View all the episodes and quests you have completed or are</td></tr><tr><td>List</td><td>View the list of all quests. Here you can filter quests by type or</td></tr><tr><td>Complete</td><td>In this list, you can see all your completed quests grouped</td></tr><tr><td>History</td><td>Follow the story of Arkaik: Tales of Sarina on</td></tr></tbody></table>
+<table><thead><tr><th width="157">Tab Name</th><th>Description</th></tr></thead><tbody><tr><td>Episode</td><td>View all the episodes and quests you have completed or are</td></tr><tr><td>List</td><td>View the list of all quests. Here you can filter quests by type or</td></tr><tr><td>Complete</td><td>In this list, you can see all your completed quests grouped</td></tr><tr><td>History</td><td>Follow the story of Tales of Loki: Valorian on</td></tr></tbody></table>
 
 ## Details of the
 
