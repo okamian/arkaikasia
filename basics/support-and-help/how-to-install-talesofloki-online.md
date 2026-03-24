@@ -1,13 +1,13 @@
 ---
 description: >-
-  Arkaik: Tales of Sarina is a private Ragnarok Online server, offering a unique
+  Tales of Loki Valorian is a private Online server, offering a unique
   experience. This guide outlines the process of downloading, installing, and
   configuring the game.
 ---
 
 # 🚧 How to Install Tales of Loki Online
 
-<figure><img src="../../.gitbook/assets/Sarina-1250x300.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/talesoflokibg.png" alt=""><figcaption></figcaption></figure>
 
 * #### [**System Requirements**](how-to-install-talesofloki-online.md#system-requirements-1)
 * #### [**Account Registration**](how-to-install-talesofloki-online.md#account-registration-1)
@@ -34,7 +34,7 @@ description: >-
 
 To play, you need an account. Follow the steps below:
 
-1. Access the official website of **Arkaik Tales of Sarina**. <mark style="color:red;">**(ASIAN)**</mark>
+1. Access the official website of **Tales of Loki Valorian**. <mark style="color:red;">**(ASIAN)**</mark>
 2. Click on **"Register"**.
 3. Fill in the required fields (username, email, password).
 4. Confirm your email by clicking on the verification link sent.
@@ -54,7 +54,7 @@ To play, you need an account. Follow the steps below:
 
 ### **Game Installation**
 
-1. After extraction, locate the **"Arkaik.exe"** or **"Setup.exe"** file in the folder.
+1. After extraction, locate the **"talesofloki.exe"** or **"Setup.exe"** file in the folder.
 2. Double-click to start the installation.
 3. Follow the on-screen instructions to choose the installation directory.
 4. Wait for the installation to complete.
@@ -73,7 +73,7 @@ To play, you need an account. Follow the steps below:
 
 ### **Starting the Game**
 
-1. Open **Arkaik.exe**.
+1. Open **talesofloki.exe**.
 2. Enter your **login credentials** (username and password).
 3. Select the **Beta Server**.
 4. In the **launcher**, click **Play**.
@@ -102,7 +102,7 @@ To play, you need an account. Follow the steps below:
 
 ### **.NET 8 Installation**
 
-Many **Arkaik: Tales of Sarina** players report that, during the update process, a message appears requesting the installation of **.NET 8** (either **x86** or **x64** version). While this is a simple process, some players may be confused or think it's an error.
+Many Tales of Loki players report that, during the update process, a message appears requesting the installation of **.NET 8** (either **x86** or **x64** version). While this is a simple process, some players may be confused or think it's an error.
 
 **What is .NET 8?**
 
@@ -122,7 +122,7 @@ If you receive the message (or encounter the error listed below), follow these s
 
 1. Click the link provided in the message or visit the official Microsoft website to download **DIRECT LINK** or **.NET8 LINK**.
 2. Download and install it **directly on your computer** (**IMPORTANT**).
-3. Run the **Arkaik: Tales of Sarina** launcher again and check if the issue is resolved.
+3. Run the **Tales of Loki** launcher again and check if the issue is resolved.
 
 ***
 
