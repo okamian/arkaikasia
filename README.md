@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here you will find direct information about the Arkaik server, its mechanics,
-  and configurations.
+  Here you will find direct information about the Tales of Loki Valorian server,
+  its mechanics, and configurations.
 ---
 
 # 🖥️ Server Information
