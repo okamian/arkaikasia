@@ -6,7 +6,7 @@ description: >-
 
 # 🪛 Common Issues (Client)
 
-## Arkaik.exe opens, but when clicking "Play," nothing happens, and it closes
+## talesofloki.exe opens, but when clicking "Play," nothing happens, and it closes
 
 {% embed url="https://youtu.be/3jGdfFOkVAk" %}
 
@@ -24,18 +24,18 @@ Type `Client.exe` and enable all processes. (Check all selection boxes; some may
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="410"><figcaption></figcaption></figure>
 
-## **Arkaik.exe does not open, is not in the task manager, and no error appears**
+## **talesofloki.exe does not open, is not in the task manager, and no error appears**
 
 {% embed url="https://youtu.be/AyZUGlMmyHU" %}
 
 **Cause:**
 
-* Your **antivirus** or **exploit protection** might be blocking the `exe` file of **Arkaik**.
+* Your **antivirus** or **exploit protection** might be blocking the `exe` file of **Tales of Loki**.
 
 **Solution:**\
 ➡ **Windows Security** > **App & Browser Control** > **Exploit Protection Settings** > **Program Settings (Top Tab)** > **(+) Add a Program to Customize**
 
-Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
+Type **talesofloki.exe** and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
 
 📌 **Image:** Same procedure as above!
 
@@ -74,7 +74,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 **Problem 2:**
 
-* When clicking **Play** through **Arkaik.exe** or **Client.exe**, the error message **"Cannot init d3d OR grf file has problem"** appears (this is the most common case).
+* When clicking **Play** through **talesofloki.exe** or **Client.exe**, the error message **"Cannot init d3d OR grf file has problem"** appears (this is the most common case).
 
 ***
 
@@ -122,13 +122,13 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## **Error Loading Arkaik.exe Modules Before the Login Screen (Date & Time)**
+## **Error Loading talesofloki.exe Modules Before the Login Screen (Date & Time)**
 
 {% embed url="https://youtu.be/t0i9rR8bqtk" %}
 
 **Problem:**
 
-* When opening **Arkaik.exe**, during the module loading process, a **red error** appears stating:\
+* When opening **talesofloki.exe**, during the module loading process, a **red error** appears stating:\
   &#xNAN;**"Server failed to authenticate the request"**.
 
 <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -159,11 +159,11 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## **Error: Failed to get updates URL (when opening arkaik.exe)**
+## **Error: Failed to get updates URL (when opening talesofloki.exe)**
 
 {% embed url="https://youtu.be/nf5Ymm6j2f8" %}
 
-**Problem:** When running **arkaik.exe**, an update error appears: **"Failed to get updates URL"**, meaning the update server rejected the connection.
+**Problem:** When running **talesofloki.exe**, an update error appears: **"Failed to get updates URL"**, meaning the update server rejected the connection.
 
 **Solution:** Download **https://1.1.1.1**. If the issue persists, **Cloudflare** can optimize the best route for your internet.
 
@@ -182,16 +182,16 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 **Solution:**
 
 1. Go to the folder where you installed the game:
-   * **ArkaikOnline/RO/OpenSetup.exe**
-   * Or open **arkaik.exe** > **Settings** > **External ROSETUP**
+   * **TalesOfLokiOnline/RO/OpenSetup.exe**
+   * Or open **talesofloki.exe** > **Settings** > **External ROSETUP**
 2. Look for a checkbox labeled **"Enable hardware accelerator"**, **disable it**, save, and restart the game.
 3. If the issue persists, return to the same location and:
    * **Add a graphics card**
    * **Set a resolution lower than 1366x768**
 
-## **STREAM MODE ARKAIK**
+## **STREAM MODE TALES OF LOKI**
 
-* How to resolve problem stream arkaik OBS STUDIO.
+* How to resolve problem stream tales of loki OBS STUDIO.
 * If you are "<mark style="color:red;">**Streamer**</mark>" this season it's for you.
 
 {% embed url="https://youtu.be/tA-GdWPIpog" %}

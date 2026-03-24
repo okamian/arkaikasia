@@ -5,19 +5,19 @@ description: >-
   configuring the game.
 ---
 
-# 🚧 How to Install Arkaik Online
+# 🚧 How to Install Tales of Loki Online
 
 <figure><img src="../../.gitbook/assets/Sarina-1250x300.png" alt=""><figcaption></figcaption></figure>
 
-* #### [**System Requirements**](how-to-install-arkaik-online.md#system-requirements-1)
-* #### [**Account Registration**](how-to-install-arkaik-online.md#account-registration-1)
-* #### [**Client Download**](how-to-install-arkaik-online.md#client-download-1)
-* #### [**Client Extraction**](how-to-install-arkaik-online.md#client-extraction-1)
-* #### [**Game Installation**](how-to-install-arkaik-online.md#game-installation-1)
-* #### [**Client Update**](how-to-install-arkaik-online.md#client-update-1)
-* #### [**Graphics and Sound Configuration**](how-to-install-arkaik-online.md#graphics-and-sound-configuration-1)
-* #### [**Starting the Game**](how-to-install-arkaik-online.md#starting-the-game-1)
-* #### [**Common Problem Solutions**](how-to-install-arkaik-online.md#common-problem-solutions-1)
+* #### [**System Requirements**](how-to-install-talesofloki-online.md#system-requirements-1)
+* #### [**Account Registration**](how-to-install-talesofloki-online.md#account-registration-1)
+* #### [**Client Download**](how-to-install-talesofloki-online.md#client-download-1)
+* #### [**Client Extraction**](how-to-install-talesofloki-online.md#client-extraction-1)
+* #### [**Game Installation**](how-to-install-talesofloki-online.md#game-installation-1)
+* #### [**Client Update**](how-to-install-talesofloki-online.md#client-update-1)
+* #### [**Graphics and Sound Configuration**](how-to-install-talesofloki-online.md#graphics-and-sound-configuration-1)
+* #### [**Starting the Game**](how-to-install-talesofloki-online.md#starting-the-game-1)
+* #### [**Common Problem Solutions**](how-to-install-talesofloki-online.md#common-problem-solutions-1)
 
 ### **System Requirements**
 

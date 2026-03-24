@@ -15,6 +15,6 @@ description: >-
 [various-issues.md](various-issues.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-install-arkaik-online.md" %}
-[how-to-install-arkaik-online.md](how-to-install-arkaik-online.md)
+{% content-ref url="how-to-install-talesofloki-online.md" %}
+[how-to-install-talesofloki-online.md](how-to-install-talesofloki-online.md)
 {% endcontent-ref %}
