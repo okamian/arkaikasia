@@ -11,7 +11,7 @@ description: >-
 
 ## **Inn System**
 
-* Some cities in **Arkaik** have inns, and among them, they will provide you with certain buffs.\
+* Some cities in **Tales of Loki Valorian** have inns, and among them, they will provide you with certain buffs.\
   Each city has its own **exclusive buff**.
 
 <table><thead><tr><th width="187">Information</th><th>Description</th></tr></thead><tbody><tr><td>Inn</td><td>When you go to an inn in the cities, enter through the portal and talk to the <strong>receptionist</strong>.</td></tr><tr><td>Price</td><td><p>The rest fee is <strong>400 Zeny</strong> for regular players.</p><p></p><p><mark style="color:red;"><strong>The rest fee is only 200 Zeny for VIP players.</strong></mark></p></td></tr><tr><td>Buffs</td><td>When sleeping, you will receive various buffs depending on the city, as each city has its own special buff.</td></tr><tr><td>Waiting Time</td><td><strong>5s</strong> animation for regular players, <mark style="color:red;"><strong>2s for VIPs</strong></mark>.</td></tr></tbody></table>

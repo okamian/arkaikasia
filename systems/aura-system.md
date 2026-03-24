@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Aura System in Arkaik: Tales of Sarina is an innovative mechanic that adds
+  The Aura System in Tales of Loki Valorian is an innovative mechanic that adds
   both strategic depth and aesthetic enhancements to the gameplay.
 ---
 

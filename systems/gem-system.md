@@ -28,7 +28,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-* This is the **complete list** of all Gems up to the present moment in _"Arkaik: Tales of Sarina"_.
+* This is the **complete list** of all Gems up to the present moment in _"Tales of Loki Valorian"_.
 * You can **"**<mark style="color:red;">**Navigate**</mark>**"** through the tabs below to find what you need, **example GIF below**.
 
 <figure><img src="https://content.gitbook.com/content/cRMWNBzOKVfDmKU3tkwa/blobs/NMddi7anZ2DOy0OgX4dT/5555.gif" alt=""><figcaption><p><mark style="color:red;"><strong>All categories</strong></mark></p></figcaption></figure>

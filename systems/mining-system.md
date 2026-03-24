@@ -10,7 +10,7 @@ description: >-
 
 ## **Mining System**
 
-* The **mining system** in **Arkaik** involves extracting **specific ores** that can be **refined** or used to **craft equipment and items**.
+* The **mining system** in **Tales of Loki Valorian** involves extracting **specific ores** that can be **refined** or used to **craft equipment and items**.
 * Players must use **appropriate tools** and explore **designated areas** to find various **resources**.
 * It is an **integrated system** that supports **commerce and character development**, encouraging **exploration and economy**.
 

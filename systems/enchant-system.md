@@ -6,7 +6,7 @@ description: Strengthen your equipment with the new buffs.
 
 ## 📘 Enchantment Guide
 
-In Arkaik, it is possible to strengthen your equipment with Enchantments! They grant additional and unique bonuses, varying according to the type of item you are enchanting. This guide explains how the system works and lists all possible bonuses you can obtain.
+In Tales of Loki Valorian, it is possible to strengthen your equipment with Enchantments! They grant additional and unique bonuses, varying according to the type of item you are enchanting. This guide explains how the system works and lists all possible bonuses you can obtain.
 
 ## NPC Location
 

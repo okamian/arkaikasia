@@ -6,7 +6,7 @@ description: >-
 
 # 📊 Attributes & Stats
 
-* Arkaik works with the <mark style="color:red;">**status distribution system**</mark>.
+* Tales of Loki Valorian works with the <mark style="color:red;">**status distribution system**</mark>.
 * Each level you gain grants you some points to distribute.
 * Every point allocated in the attribute list provides you with some bonuses.
 

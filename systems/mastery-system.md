@@ -10,7 +10,7 @@ description: >-
 
 ## **Mastery System**
 
-* In **Arkaik: Tales of Sarina**, you can improve or modify skill behavior by evolving their **masteries**.
+* In **Tales of Loki Valorian**, you can improve or modify skill behavior by evolving their **masteries**.
 * These masteries can be accessed through your **skill window&#x20;**<mark style="color:red;">**(ALT + S)**</mark>.
 * You can enable or disable masteries at any time via the skill window or by dragging them to the skill bar.
 

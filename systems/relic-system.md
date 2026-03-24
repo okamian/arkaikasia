@@ -1,7 +1,8 @@
 ---
 description: >-
-  Relics in Arkaik represent items of great value and power. These relics can be
-  obtained through a series of well-crafted and challenging quests.
+  Relics in Tales of Loki Valorian represent items of great value and power.
+  These relics can be obtained through a series of well-crafted and challenging
+  quests.
 ---
 
 # 📜 Relic System

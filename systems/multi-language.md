@@ -11,7 +11,7 @@ description: >-
 
 ## **About the Multi-Language System**
 
-* In **Arkaik: Tales of Sarina**, the **multi-language system** was introduced to solve an existing issue.
+* In **Tales of Loki Valorian**, the **multi-language system** was introduced to solve an existing issue.
 * It allows players to **choose their preferred language** for gameplay.
 * Changing the language **completely alters** your in-game experience.
 * Great for playing with friends who speak or are accustomed to **different languages**.
@@ -20,7 +20,7 @@ description: >-
 
 ## **How to Use**
 
-* <mark style="color:red;">**Open**</mark> <mark style="color:red;"></mark><mark style="color:red;">your</mark> <mark style="color:red;"></mark><mark style="color:red;">**Arkaik Launcher**</mark>.
+* <mark style="color:red;">**Open**</mark> <mark style="color:red;"></mark><mark style="color:red;">your</mark> <mark style="color:red;"></mark><mark style="color:red;">**Tales of Loki Valorian Launcher**</mark>.
 * Go to <mark style="color:red;">**Settings**</mark>.
 * Navigate to **"Sound & Language"** and **choose your preferred language**.
 

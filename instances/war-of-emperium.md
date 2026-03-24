@@ -1,6 +1,6 @@
 # 🔶 War of Emperium
 
-The War of Emperium is a PvP event in which guilds compete for control of castles scattered across **Arkaik Online**. During the event, group strategies, organization, and teamwork are essential to invade, defend, and dominate the castles. Victorious guilds receive exclusive rewards and control of certain locations.<br>
+The War of Emperium is a PvP event in which guilds compete for control of castles scattered across **Tales of Loki Valorian Online**. During the event, group strategies, organization, and teamwork are essential to invade, defend, and dominate the castles. Victorious guilds receive exclusive rewards and control of certain locations.<br>
 
 ## Schedule
 

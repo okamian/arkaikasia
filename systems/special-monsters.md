@@ -17,7 +17,7 @@ description: >-
 
 ## **Rare Treasures**
 
-* In addition to **Unique Monsters**, adventurers in **Arkaik** can obtain **rare treasures** across different parts of the game.
+* In addition to **Unique Monsters**, adventurers in **Tales of Loki Valorian** can obtain **rare treasures** across different parts of the game.
 * <mark style="color:red;">**Drops are tripled**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**except for cards and gems**</mark><mark style="color:red;">.</mark>
 * Additionally, <mark style="color:red;">**certain exclusive items are provided for the equipment crafting system**</mark>, adding an extra layer of complexity to the game.
 

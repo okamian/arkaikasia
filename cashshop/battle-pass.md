@@ -8,13 +8,13 @@ description: Battle Progression System Earn rewards by completing missions.
 
 ## **Where to Purchase the Premium Pass?**
 
-You can purchase it by accessing the **store** and buying a package labeled **Battle Pass 30 Days**, or acquire it within Arkaik by following these steps:
+You can purchase it by accessing the **store** and buying a package labeled **Battle Pass 30 Days**, or acquire it within Tales of Loki Valorian by following these steps:
 
 1. Press the **Battle Pass** button.
 
 <figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-**2. Now click on Buy and confirm** _(18,000 CubePoints will be required in the account)._&#x20;
+**2. Now click on Buy and confirm** _(18,000 CubePoints will be required in the account)._
 
 <mark style="color:red;">**Value may be changed (ASIA)**</mark>
 

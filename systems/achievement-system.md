@@ -1,7 +1,5 @@
 ---
-description: >-
-  In Arkaik: Tales of Sarina, every achievement is celebrated with a grand
-  title!
+description: In Tales of Loki Valorian, every achievement is celebrated with a grand title!
 ---
 
 # 🥇 Achievement System

@@ -8,7 +8,7 @@ description: >-
 
 ## **About the Location**
 
-Prepare for an **epic challenge** in _Arkaik: Tales of Sarina_! The <mark style="color:red;">**MVP Battle**</mark> pits players in **groups** inside an instance filled with intense battles.
+Prepare for an **epic challenge** in _Tales of Loki valorian_! The <mark style="color:red;">**MVP Battle**</mark> pits players in **groups** inside an instance filled with intense battles.
 
 ***
 

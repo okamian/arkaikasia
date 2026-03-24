@@ -1,7 +1,8 @@
 ---
 description: >-
-  In Arkaik, each shop has its own equipment categories, and to make access to
-  information easier, below is a list of all locations and their equipment.
+  In Tales of Loki Valorian, each shop has its own equipment categories, and to
+  make access to information easier, below is a list of all locations and their
+  equipment.
 ---
 
 # 🛒 Shops and NPCs
@@ -10,7 +11,7 @@ description: >-
 
 ## **About "Equipment Shops"**
 
-* **About the Shops:** In each map of **Arkaik Tales of Sarina**, there are shops for "Weapons" and "Equipment".
+* **About the Shops:** In each map of **Tales of Loki Valorian**, there are shops for "Weapons" and "Equipment".
 * **Weapons:** Each city has specific weapons for each class, ranging from **Daggers, Swords, Spears, Axes, Maces, Knuckles, Rods, Bows, Guitars, Whips**, etc.
 * **Equipment:** All cities have their equipment shops, which generally include **Helmets, Cloaks, Boots, Armors, Rings**.
 

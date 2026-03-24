@@ -1,5 +1,7 @@
 ---
-description: Find information about all classes in Arkaik Online right here!
+description: >-
+  Find information about all classes in Tales of Loki Valorian Online right
+  here!
 ---
 
 # 📗 Class Guides
@@ -7,7 +9,7 @@ description: Find information about all classes in Arkaik Online right here!
 ## **Professions and Class Evolution**
 
 * Professions—or **classes**—function as an evolution path that you choose to strengthen your character with exclusive skills.
-* All players in **Arkaik: Tales of Sarina** start as **Novices** and can decide their path from **class level 10** onward.
+* All players in Tales of Loki Valorian start as **Novices** and can decide their path from **class level 10** onward.
 * Carefully observe the requirements for changing professions: **base level** or **class level**.
 * Remember that each class has different **roles and characteristics**, so choose your path wisely—**there’s no turning back!**
 

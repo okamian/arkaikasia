@@ -1,6 +1,6 @@
 ---
 description: >-
-  In Arkaik: Tales of Sarina, even those useless items make you happy when
+  In Tales of Loki Valorian even those useless items make you happy when
   obtained!
 ---
 
