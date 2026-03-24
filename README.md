@@ -6,7 +6,7 @@ description: >-
 
 # 🖥️ Server Information
 
-<figure><img src=".gitbook/assets/image (32) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/talesoflokibg.png" alt=""><figcaption></figcaption></figure>
 
 ## **Server Settings**
 
