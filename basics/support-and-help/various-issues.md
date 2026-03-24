@@ -1,18 +1,18 @@
 ---
 description: >-
   This section will help you solve issues that are not directly related to the
-  **Arkaik Client**, but rather to the **Arkaik Installer** and other
-  game-related problems.
+  **Tales of Loki Client**, but rather to the **Tales of Loki Installer** and
+  other game-related problems.
 icon: stethoscope
 ---
 
 # Various Issues
 
-## **Clicking Download Does Not Download Arkaik**
+## **Clicking Download Does Not Download Tales of Loki**
 
 **Problem:**
 
-* Whether using the installer or the ZIP file, **Arkaik does not download at all**.
+* Whether using the installer or the ZIP file, **Tales of Loki does not download at all**.
 
 **Solution:**
 
