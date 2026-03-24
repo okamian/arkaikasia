@@ -1,8 +1,8 @@
 ---
 description: >-
-  Are You Ready to Face the Ultimate Challenge? The Endless Tower in Arkaik is
-  truly endless! It seems that a new mystery has been discovered within the
-  tower, making its ascent infinite.
+  Are You Ready to Face the Ultimate Challenge? The Endless Tower is truly
+  endless! It seems that a new mystery has been discovered within the tower,
+  making its ascent infinite.
 ---
 
 # ♾️ 100% Infinite Tower

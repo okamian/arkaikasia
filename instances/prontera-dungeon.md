@@ -12,7 +12,7 @@ description: >-
 
 ## **What is the Prontera Dungeon?**
 
-* The **Prontera Dungeon** is one of the **completely innovative** and unique **instances** in **Arkaik**, featuring its own mechanics and exclusive items.
+* The **Prontera Dungeon** is one of the **completely innovative** and unique **instances** in **Tales of Loki Valorian**, featuring its own mechanics and exclusive items.
 
 ## Where to Find It on the Map
 
