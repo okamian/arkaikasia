@@ -13,7 +13,7 @@ description: >-
 * When a **Champion** appears, it is announced to all players on the map.
 * **Champions grant 30 times more experience and have 10 times the item drop rate.**
 * Now item **Coin of the Royalty** can be dropped from any champion monster.
-* Drop rate starts at 0.1% from champion monster level 1, until 5% from champion monster level 99+
+* The drop chance is based on the monster's level, starting at level 1 with a 0.01% chance of dropping the coin and going up to level 99 giving a 5% chance of dropping the coin.
 
 ***
 
