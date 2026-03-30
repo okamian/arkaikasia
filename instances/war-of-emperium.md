@@ -11,7 +11,8 @@ The War of Emperium is a PvP event in which guilds compete for control of castle
 
 * Initially, there will be <mark style="color:red;">**only 1 castle available for WoE**</mark>, which may increase depending on the server’s needs.
 * Wars will take place in a <mark style="color:red;">**rotating**</mark> manner among the 5 castles of Prontera.
-* The castle order <mark style="color:red;">**will follow a random rotation**</mark>, and once completed, the cycle will restart.<br>
+* The castle order <mark style="color:red;">**will follow a random rotation**</mark>, and once completed, the cycle will restart.
+* Movespeed gems don't work in WoE.<br>
 
 |                                                      Location                                                     |                                                                                                                Castles                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
