@@ -26,7 +26,7 @@ description: >-
 
 *   Talk to the NPC to start the quest.<br>
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     &#x20;                                         <mark style="color:red;">**Talk to Kagemetsu and say "I want to become a Ninja**</mark>
 

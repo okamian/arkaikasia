@@ -6,7 +6,7 @@ description: >-
 
 # 🏆 Mastery System
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Mastery Academic NPC</strong> – Responsible for purchasing new points.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Mastery Academic NPC</strong> – Responsible for purchasing new points.</mark></p></figcaption></figure>
 
 ## **Mastery System**
 

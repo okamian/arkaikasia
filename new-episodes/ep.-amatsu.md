@@ -143,7 +143,7 @@ coverY: 0
 
 Hutari Shioko: Amatsu (269,221)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                               <mark style="color:red;">**Location of NPC Hutari Shioko, speak with her.**</mark>\
 \
@@ -151,7 +151,7 @@ Hutari Shioko: Amatsu (269,221)
 
 Theater Instructor: Amatsu (243,202)<br>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                          <mark style="color:red;">**Location of NPC Theater Instructor, speak with her.**</mark>
 
